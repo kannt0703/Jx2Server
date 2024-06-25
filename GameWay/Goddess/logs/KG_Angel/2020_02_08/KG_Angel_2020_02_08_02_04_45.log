@@ -1,8 +1,0 @@
-ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
-20200208-020445<INFO :0xf7385700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
-20200208-020445<INFO :0xf7385700>: Data OK! Current max Service ID is: 2318756
-20200208-021429<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData thu.thieulam dwCRC=5F51D8B5/5F51D8B5 nResult=1
-20200208-021520<INFO :0xf5cffb40>: [PlayerCreator] Created role quyenaaa, ServerID=2318756
-20200208-021531<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData thu1.quyenaaa dwCRC=8C808471/8C808471 nResult=1
-20200208-021539<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData thu1.quyenaaa dwCRC=C8750681/C8750681 nResult=1
-20200208-021737<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData thu1.quyenaaa dwCRC=AAC30395/AAC30395 nResult=1

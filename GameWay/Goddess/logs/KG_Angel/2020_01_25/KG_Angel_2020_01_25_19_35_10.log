@@ -1,6 +1,0 @@
-ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
-20200125-193510<INFO :0xf73f0700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
-20200125-193510<INFO :0xf73f0700>: Data OK! Current max Service ID is: 2318756
-20200125-195121<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=6CD776F0/6CD776F0 nResult=1
-20200125-200621<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=91FED250/91FED250 nResult=1
-20200125-200856<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=1831342E/1831342E nResult=1

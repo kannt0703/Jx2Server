@@ -1,7 +1,0 @@
-ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
-20200105-231633<INFO :0xf7470700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
-20200105-231633<INFO :0xf7470700>: Data OK! Current max Service ID is: 2318756
-20200105-232003<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong.DemoDemo dwCRC=11EB9C96/11EB9C96 nResult=1
-20200105-232041<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tinykidpro.demooooooooo dwCRC=B8CDC166/B8CDC166 nResult=1
-20200105-232330<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong.DemoDemo dwCRC=7C3D2B0A/7C3D2B0A nResult=1
-20200105-232333<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tinykidpro.demooooooooo dwCRC=5A7C7385/5A7C7385 nResult=1
