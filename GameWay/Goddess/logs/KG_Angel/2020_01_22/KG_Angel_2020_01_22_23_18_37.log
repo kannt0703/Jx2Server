@@ -1,7 +1,0 @@
-ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
-20200122-231837<INFO :0xf7470700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
-20200122-231837<INFO :0xf7470700>: Data OK! Current max Service ID is: 2318756
-20200122-232009<INFO :0xf5dffb40>: [PlayerCreator] Created role ioNaruto, ServerID=2318756
-20200122-232048<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=D91595B9/D91595B9 nResult=1
-20200122-233554<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=97EB9A42/97EB9A42 nResult=1
-20200122-235054<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=8D63D38F/8D63D38F nResult=1
