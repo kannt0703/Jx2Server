@@ -1,0 +1,12 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=120/65536 LastTime=2020-1-22 23:18:43
+20200123-000343<INFO :0xf741b700>: set runtime statistic result path is [runtime_stat_result/2020_01_22/stat_result_ksg_2020_01_22_@SONGLONG_GW.txt]
+20200123-000343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_22/stat_result_ksg_2020_01_22_@SONGLONG_GW.txt Count=370
+20200123-000343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_22/stat_result_vng_2020-01-22_@SONGLONG_GW.txt Count=1
+20200123-000343<INFO :0xf741b700>: set runtime statistic result path is [runtime_stat_result/2020_01_23/stat_result_ksg_2020_01_23_@SONGLONG_GW.txt]
+20200123-000343<INFO :0xf741b700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20200123-000343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_ksg_2020_01_23_@SONGLONG_GW.txt Count=363
+20200123-000343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_vng_2020-01-23_@SONGLONG_GW.txt Count=1
+20200123-002343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_ksg_2020_01_23_@SONGLONG_GW.txt Count=364
+20200123-002343<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_vng_2020-01-23_@SONGLONG_GW.txt Count=1
+20200123-004843<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_ksg_2020_01_23_@SONGLONG_GW.txt Count=365
+20200123-004843<WARN :0xf741b700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_23/stat_result_vng_2020-01-23_@SONGLONG_GW.txt Count=1

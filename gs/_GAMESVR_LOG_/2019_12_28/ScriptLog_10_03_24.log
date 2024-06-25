@@ -1,0 +1,69 @@
+20191228-100324	INFO	COMMON	reges of Observer:
+20191228-100324	INFO	COMMON	reges of event 1[SYSEVENT_GAMESERVER_START]:
+20191228-100324	INFO	COMMON	reges of event 2[SYSEVENT_PLAYER_LOGIN]:
+20191228-100324	INFO	COMMON	add_tifyzhiyin of 2[SYSEVENT_PLAYER_LOGIN]: "#FUNCTION"
+20191228-100324	INFO	COMMON	reges of event 3[SYSEVENT_PLAYER_LOGOUT]:
+20191228-100324	INFO	COMMON	reges of event 4[SYSEVENT_DAILY_CLEAR]:
+20191228-100324	INFO	COMMON	reges of event 101[SYSEVENT_LIANGSHAN_STAGE_FINISH]:
+20191228-100324	INFO	COMMON	reges of event 102[SYSEVENT_LIANGSHAN_TASK_AWARD]:
+20191228-100324	INFO	COMMON	reges of event 301[SYSEVENT_WANJIANZHONG_STAGE_FINISH]:
+20191228-100324	INFO	COMMON	reges of event 302[SYSEVENT_WANJIANZHONG_TASK_AWARD]:
+20191228-100324	INFO	COMMON	reges of event 10001[SYSEVENT_GLOBAL_COST_IB]:
+20191228-100324	INFO	COMMON	_on_cost_ib_item of 10001[SYSEVENT_GLOBAL_COST_IB]: "#FUNCTION"
+20191228-100324	INFO	COMMON	reges of event 501[SYSEVENT_TAIYI_NOR_STAGE_FINISH]:
+20191228-100324	INFO	COMMON	reges of event 502[SYSEVENT_TAIYI_HARD_STAGE_FINISH]:
+20191228-100324	INFO	COMMON	reges of event 601[SYSEVENT_TAIXU_STAGE_FINISH]:
+20191228-100324	INFO	COMMON	reges of event 5[SYSEVENT_WEEKLY_CLEAR]:
+20191228-100324	INFO	COMMON	reges of event 6[SYSEVENT_MONTHLY_CLEAR]:
+20191228-100324	INFO	COMMON	reges of event 401[SYSEVENT_CANGJIAN_STAGE_FINISH]:
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,2) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,3) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,5) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,6) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,7) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,8) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,9) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,10) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,11) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,12) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,13) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100452	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,14) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100511	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	jiqinghk	JiaXQing	0	0
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,2) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,3) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,5) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,6) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,7) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,8) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,9) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,10) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,11) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,12) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,13) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100542	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,14) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100553	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	jiqinghk	JiaXQing	0	0
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,2) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,3) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,5) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,6) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,7) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,8) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,9) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,10) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,11) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,12) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,13) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100637	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,14) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100648	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	jiqinghk	JiaXQing	0	0
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,2) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,3) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,5) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,6) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,7) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,8) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,9) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,10) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,11) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,12) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,13) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1
+20191228-100903	INFO	COMMON	[kuafu share data(KF_JiaXQing,0,14) not exist]	jiqinghk	JiaXQing										5	90	0	0		192.168.136.1

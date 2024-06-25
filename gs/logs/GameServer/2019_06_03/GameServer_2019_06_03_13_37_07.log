@@ -1,0 +1,250 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65535 LastTime=1900-1-0 0:0:0
+20190603-133707<INFO :0xf7c9a700>: [GameSvr][Version:Nov 14 2014 15:55:00] begin start up...
+20190603-133707<INFO :0xf7c9a700>: Succeeded in loading version.ini. Lower Version:341 Upper Version:345
+20190603-133707<INFO :0xf7c9a700>: [verify_up2date]...
+20190603-133707<INFO :0xf7c9a700>: >Current lang is [gb18030]
+20190603-133707<INFO :0xf7c9a700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20190603-133707<INFO :0xf7c9a700>: >Time duration: 9.563091ms 
+20190603-133707<INFO :0xf7c9a700>: >
+20190603-133707<INFO :0xf7c9a700>: >Finish, my exit code is: 0
+20190603-133707<INFO :0xf7c9a700>: |shell cmd result is 0
+20190603-133707<INFO :0xf7c9a700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/xmission/gs" ] ret=0
+20190603-133707<INFO :0xf7c9a700>: [verify_up2date] ok
+20190603-133707<INFO :0xf7c9a700>: This ServerIP : 127.0.0.1 : 171.244.18.15
+20190603-133707<INFO :0xf7c9a700>: [GameServer Type] RealmType=0, IsMatchRealm=0
+20190603-133707<INFO :0xf7c9a700>: IS_KINGSOFT_INNER_VERSION=0|0
+20190603-133707<INFO :0xf7c9a700>: IS_EXP_SVR=0|0
+20190603-133707<ERROR:0xf7c9a700>: SetSpecialSwitch(Index=3,bOpen=1,AccessCode=1024232298) ok, result=1
+20190603-133707<INFO :0xf7c9a700>: [GameServer] ServerCount=1, ServerIndex=1
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarDefaultCriticalHitRate=5
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMinCriticalHitRate=0
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMaxCriticalHitRate=50
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarDefaultCriticalHitDamageAddPct=10
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMinCriticalHitDamageAddPct=0
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMaxCriticalHitDamageAddPct=300
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarPlayerDogeParaA=5
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarPlayerDogeParaB=5
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMinHitRatePlayer=75
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMaxHitRatePlayer=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarNpcDogeParaA=10
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarNpcDogeParaB=10
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMinHitRateNpc=50
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarMaxHitRateNpc=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarTransLife2DogePara=10000
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarLevel2DogePara=1000
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarStrength2DogePara=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarDesterity2DogePara=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarEnergy2DogePara=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarVitality2DogePara=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarObserve2DogePara=100
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarTransLife2HitPara=8500
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarLevel2HitPara=850
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarStrength2HitPara=85
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarDesterity2HitPara=85
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarEnergy2HitPara=85
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarVitality2HitPara=85
+20190603-133707<INFO :0xf7c9a700>: [GlovalVariable] gblvarObserve2HitPara=85
+20190603-133707<INFO :0xf7c9a700>: [CustomAward] 45 lines loaded from [\settings\item\custom_award\custom_award_group.txt]
+20190603-133707<INFO :0xf7c9a700>: [CustomAward] 469 lines loaded from \settings\item\custom_award\custom_award_list.txt
+20190603-133707<INFO :0xf7c9a700>: [CustomAward] 5 lines loaded from \settings\item\custom_award\custom_consume_list.txt
+20190603-133707<INFO :0xf7c9a700>: [CustomAward] total AwardId=469/474/65534
+20190603-133707<INFO :0xf7c9a700>: [CustomAward] RandSeed = 3332461380
+20190603-133708<ERROR:0xf7c9a700>: Skill	Unexpected Skill ID 1261 at row SkillSet22, section SkillStateMutex of file \settings\skill\skill_mutex.ini!
+20190603-133708<ERROR:0xf7c9a700>: Skill	Unexpected Skill ID 1202 at row SkillSet20, section SkillCDShare of file \settings\skill\skill_mutex.ini!
+20190603-133708<INFO :0xf7c9a700>: Loading All Scripts....................
+20190603-133708<INFO :0xf7c9a700>: All Scripts Have Been Loaded! ScriptCount = 5614
+20190603-133714<ERROR:0xf7c9a700>: [LoadRandomNpc] [\maps\世界地图\琅琊洞府.ini] open failed!!!
+20190603-133714<INFO :0xf7c9a700>: 192/400 map(s) has been loaded.
+20190603-133714<ERROR:0xf7c9a700>: SetSpecialSwitch(Index=1,bOpen=0,AccessCode=1157247768) ok, result=0
+20190603-133714<ERROR:0xf7c9a700>: SetSpecialSwitch(Index=2,bOpen=0,AccessCode=3238223681) ok, result=0
+20190603-133715<WARN :0xf7c9a700>: [Load] Invalid template: template ID=472328933l,
+20190603-133715<WARN :0xf7c9a700>: load  npc template [0] fail
+20190603-133715<INFO :0xf7c9a700>: [SystimeTask] load 96/96 systemtimetasks from {\settings\systemtimetask.txt}
+20190603-133716<INFO :0xf7c9a700>: start to connect Database, IP: 192.168.18.15 - Port: 5001 ... ok!
+20190603-133716<INFO :0xf7c9a700>: start to connect RelayHost, IP: 192.168.18.15 - Port: 5003 ... ok!
+20190603-133716<INFO :0xf7c9a700>: start to connect RelayChat, IP: 192.168.18.15 - Port: 5004 ... ok!
+20190603-133716<INFO :0xf7c9a700>: start to connect RelayTong, IP: 192.168.18.15 - Port: 5005 ... ok!
+20190603-133716<INFO :0xf7c9a700>: start to connect Gateway, IP: 192.168.18.15 - Port: 5633 ... ok!
+20190603-133716<INFO :0xf7c9a700>: [verify_up2date] send Goddess|Relay|Router version request...
+20190603-133716<INFO :0xf7c9a700>: [GameSvr] start up OK----------.
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=0 send=1/39|1 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame -1] total process 0/0=0 trans message
+20190603-133716<INFO :0xf7c9a700>: Start init log database.
+20190603-133716<INFO :0xf7c9a700>: Init log database end.
+20190603-133716<INFO :0xf7c9a700>: Recv Bishop time sync(2019-6-3 13:37:16)
+20190603-133716<INFO :0xf7c9a700>: [verify_up2date] send Bishop version request...
+20190603-133716<INFO :0xf7c9a700>: [verify_up2date] VerifyUp2dateVersion: Server=Goddess code=8DA68FCD need=8DA68FCD result=1
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=1 send=1/38|2 avg=0 
+20190603-133716<INFO :0xf7c9a700>: [SOSever::Breathe] MsgLoop:-776 ,MainLoop:2, TotalMsgLoop:-763, Elapse:2 CurBreathCost:4294966522 BreathCount:2
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=2 send=1/37|3 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=3 send=1/36|4 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 0] total process 298/2=99 trans message
+20190603-133716<INFO :0xf7c9a700>: [verify_up2date] VerifyUp2dateVersion: Server=Relay code=8DA68FCD need=8DA68FCD result=1
+20190603-133716<DEBUG:0xf7c9a700>: [NormalSmallPackPorcess] Received packet MAP_INDEX_INFO from relay
+20190603-133716<INFO :0xf7c9a700>: Received map index notification from relay (192 maps)
+20190603-133716<INFO :0xf7c9a700>: [verify_up2date] VerifyUp2dateVersion: Server=Bishop code=DCA253A9 need=DCA253A9 result=1
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=4 send=1/35|5 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=5 send=1/34|6 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 3] total process 1703/8=340 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=6 send=1/33|7 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=7 send=1/32|8 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 5] total process 1823/10=260 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=8 send=1/31|9 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 7] total process 1943/12=242 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=9 send=1/30|10 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=10 send=1/29|11 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 8] total process 2003/13=200 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=11 send=1/28|12 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 10] total process 2063/14=187 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=12 send=1/27|13 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 11] total process 2123/15=176 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=13 send=1/26|14 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=14 send=1/25|15 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 12] total process 2243/17=160 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=15 send=1/24|16 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 14] total process 2303/18=153 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=16 send=1/23|17 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 15] total process 2363/19=147 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=17 send=1/22|18 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 16] total process 2483/21=146 trans message
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=18 send=1/21|19 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=19 send=1/20|20 avg=0 
+20190603-133716<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 17] total process 2543/22=133 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=20 send=1/19|21 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 19] total process 2673/23=133 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=21 send=1/18|22 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 20] total process 2793/25=133 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=22 send=1/17|23 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=23 send=1/16|24 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 21] total process 2913/27=126 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=24 send=1/15|25 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 23] total process 2973/28=123 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=25 send=1/14|26 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 24] total process 3033/29=121 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=26 send=1/13|27 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 25] total process 3153/31=121 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=27 send=1/12|28 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=28 send=1/11|29 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 26] total process 3213/32=114 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=29 send=1/10|30 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 28] total process 3273/33=112 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=30 send=1/9|31 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 29] total process 3333/34=111 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=31 send=1/8|32 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=32 send=1/7|33 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 30] total process 3453/36=107 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=33 send=1/6|34 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 32] total process 3513/37=106 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=34 send=1/5|35 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 33] total process 3574/38=105 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=35 send=1/4|36 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=36 send=1/3|37 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 34] total process 3696/40=102 trans message
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=37 send=1/2|38 avg=0 
+20190603-133717<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 36] total process 3757/41=101 trans message
+20190603-133718<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=38 send=1/1|39 avg=0 
+20190603-133718<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 37] total process 3887/42=102 trans message
+20190603-133718<DEBUG:0xf7c9a700>: [net dbg] [SendNetMsgToTransfer] frame=39 send=1/0|40 avg=0 
+20190603-133718<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 38] total process 4009/44=102 trans message
+20190603-133718<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 39] total process 4070/45=75 trans message
+20190603-133719<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 54] total process 4200/46=58 trans message
+20190603-133720<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 72] total process 4330/47=48 trans message
+20190603-133721<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 90] total process 4460/48=41 trans message
+20190603-133722<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 108] total process 4590/49=36 trans message
+20190603-133723<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 126] total process 4720/50=32 trans message
+20190603-133724<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 144] total process 4850/51=29 trans message
+20190603-133724<INFO :0xf7c9a700>: [Gateway Kick] Can't find account test000
+20190603-133725<DEBUG:0xf7c9a700>: [net dbg] [TransferMessageProcess] [frame 162] total process 4980/52=27 trans message
+20190603-133744<WARN :0xf7c9a700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20190603-133744<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[523] LastFrame[162] NewFrame[523]
+20190603-133745<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5308428.
+20190603-133746<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[556] LastFrame[15] NewFrame[556]
+20190603-133746<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5310180
+20190603-133759<INFO :0xf7c9a700>: [LOGIN/OUT] G2B_ROLE_LOGIN_PERMIT permit acc:test000 role:jx2vltk.
+20190603-133800<INFO :0xf7c9a700>: [LOGIN/OUT] connection created ln:0 from 171.244.76.27.
+20190603-133800<INFO :0xf7c9a700>: Found player[1] test000(jx2vltk) is logging in system!Ip:171.244.76.27 mac:9C2A-70DA-E3DF
+20190603-133800<INFO :0xf7c9a700>: [CheckCRC] LoadPlayerBaseInfo(test000, jx2vltk) dwCRC=451D2BB1 len=725
+20190603-133800<INFO :0xf7c9a700>: [PlayerItem] acc=test000, @svr=0/300000
+20190603-133800<INFO :0xf7c9a700>: [PlayerItem] load=1/1 acc=test000 @svr=1/300000
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=2913, SaveVerion=0, CurVersion=6 RecycleVersion=5) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3069, SaveVerion=0, CurVersion=6 RecycleVersion=2) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3098, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3099, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3100, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3101, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3102, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3103, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3104, SaveVerion=0, CurVersion=6 RecycleVersion=6) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3135, SaveVerion=0, CurVersion=6 RecycleVersion=4) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3136, SaveVerion=0, CurVersion=6 RecycleVersion=4) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: KPlayerTask::_DoRecycleTask(Account=test000, Role=jx2vltk, Task=3138, SaveVerion=0, CurVersion=6 RecycleVersion=4) normal RecycleValue=0
+20190603-133800<INFO :0xf7c9a700>: [LOGIN/OUT] C2G_ROLE_LOGIN success, idx:1, ln:0, acc:test000, role:jx2vltk lv:1
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 33	Skill Level: 11
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 34	Skill Level: 11
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 35	Skill Level: 8
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 36	Skill Level: 8
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 37	Skill Level: 7
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 38	Skill Level: 10
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 39	Skill Level: 10
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 40	Skill Level: 7
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 41	Skill Level: 8
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 42	Skill Level: 10
+20190603-133810<ERROR:0xf7c9a700>: Skill	Failed to modify skill level	Skill ID: 43	Skill Level: 8
+20190603-133820<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[1161] LastFrame[800] NewFrame[1161]
+20190603-133820<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5343866.
+20190603-133823<INFO :0xf7c9a700>: [New IB]Buy Request to Relay::(acc:test000 role:jx2vltk) apply use gold for item(G:0,D:200,P:40),level:1, price:200, expmp:0, jjmp:0
+20190603-133823<INFO :0xf7c9a700>: [New IB]Buy Request to Bishop::(acc:test000 role:jx2vltk) attemp to buy item(G:0 D:200 P:40) price 200
+20190603-133823<INFO :0xf7c9a700>: [New IB]Result to Relay::(acc:test000) buy item(itemid:13107240 guid:32397213191641088 buyidx:1 goodsidx:1562135902) result:1
+20190603-133823<INFO :0xf7c9a700>: [New IB]Add Item to player::(acc:test000 role:jx2vltk) get A IB Item(G:0 D:200 P:40 GenTime:1559543903 Seed:683585973 Sock:0,0,0 SockInfo:0,0,0) succeed
+20190603-133823<WARN :0xf7c9a700>: g_GetScript find unpreloaded file [\script\misc\autocleaner\autocleaner_head.lua]
+20190603-133823<INFO :0xf7c9a700>: [New IB]Player Save:(acc:test000 role:jx2vltk) save, buyidx=1
+20190603-133823<INFO :0xf7c9a700>: PlayerName = jx2vltk, KItemLockMgr::SaveData, 0, 0, 0
+20190603-133823<INFO :0xf7c9a700>: [CheckCRC] UpdateDBPlayerInfo(test000, jx2vltk) dwCRC=ADEE9CB1 dwDataLen=2813
+20190603-133823<INFO :0xf7c9a700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:test000, role:jx2vltk
+20190603-133843<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[1571] LastFrame[1210] NewFrame[1571]
+20190603-133843<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5366591.
+20190603-133853<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[1757] LastFrame[1216] NewFrame[1757]
+20190603-133853<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5376904
+20190603-133903<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[1932] LastFrame[1571] NewFrame[1932]
+20190603-133903<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5386713.
+20190603-133909<WARN :0xf7c9a700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20190603-133923<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[2293] LastFrame[1932] NewFrame[2293]
+20190603-133923<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5406736.
+20190603-133923<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[2298] LastFrame[1757] NewFrame[2298]
+20190603-133923<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5406966
+20190603-133943<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[2654] LastFrame[2293] NewFrame[2654]
+20190603-133943<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5426759.
+20190603-133952<WARN :0xf7c9a700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20190603-133953<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[2839] LastFrame[2298] NewFrame[2839]
+20190603-133953<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5437024
+20190603-134003<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[3015] LastFrame[2654] NewFrame[3015]
+20190603-134003<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5446881.
+20190603-134015<INFO :0xf7c9a700>: [Frame debug] Frame 3240
+20190603-134023<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[3376] LastFrame[3015] NewFrame[3376]
+20190603-134023<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5466903.
+20190603-134023<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[3380] LastFrame[2839] NewFrame[3380]
+20190603-134023<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5467073
+20190603-134043<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[3737] LastFrame[3376] NewFrame[3737]
+20190603-134043<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5486925.
+20190603-134053<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[3921] LastFrame[3380] NewFrame[3921]
+20190603-134053<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5497128
+20190603-134103<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[4098] LastFrame[3737] NewFrame[4098]
+20190603-134103<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5507048.
+20190603-134123<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[4459] LastFrame[4098] NewFrame[4459]
+20190603-134123<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5527068.
+20190603-134123<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[4462] LastFrame[3921] NewFrame[4462]
+20190603-134123<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5527180
+20190603-134143<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[4820] LastFrame[4459] NewFrame[4820]
+20190603-134143<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5547089.
+20190603-134153<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[5003] LastFrame[4462] NewFrame[5003]
+20190603-134153<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5557244
+20190603-134203<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[5181] LastFrame[4820] NewFrame[5181]
+20190603-134203<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5567211.
+20190603-134223<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[5542] LastFrame[5181] NewFrame[5542]
+20190603-134223<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5587234.
+20190603-134223<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[5544] LastFrame[5003] NewFrame[5544]
+20190603-134223<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5587293
+20190603-134243<ERROR:0xf7c9a700>: gs ping bishop[result=1], CurFrame[5903] LastFrame[5542] NewFrame[5903]
+20190603-134243<INFO :0xf7c9a700>: [BiShopPing] Ping return at 5607259.
+20190603-134253<INFO :0xf7c9a700>: gs ping goddess[result=1], CurFrame[6085] LastFrame[5544] NewFrame[6085]
+20190603-134253<INFO :0xf7c9a700>: receieve goddess ping reply, goddess time = 5617357

@@ -1,0 +1,364 @@
+_remark	LineId	MainName	SubName	MainId	SubId
+	1	DiXuanGong	MissionOpenCount	1	1
+	2	DiXuanGong	JoinPlayerCount	1	2
+	3	DiXuanGong	AllPassPlayerCount	1	3
+	4	DiXuanGong	Level80-89PlayerCount	1	4
+	5	DiXuanGong	Level90-99PlayerCount	1	5
+	6	DiXuanGong	RebornPlayerCount	1	6
+	7	DiXuanGong	BackDoorTotalCount	1	7
+	8	DiXuanGong	Forward3TotalCount	1	8
+	9	DiXuanGong	AllPassTotalCount	1	9
+	10	DiXuanGong	EnergyBoxOpenCount	1	10
+	11	DiXuanGong	TyHalidomOpenCount	1	11
+	12	DiXuanGong	FindblackHandsCount	1	12
+	13	DiXuanGong	TianJiaoLing-UseCount	1	13
+	14	DiXuanGong	TMGL-OutputCount	1	14
+	15	DiXuanGong	PlayerRouteCount	1	15
+	16	DiXuanGong	Item3L-OutputCount	1	16
+	17	DiXuanGong	Item3X-OutputCount	1	17
+	18	DiXuanGong	ItemMYZ-OutputCount	1	18
+	19	DiXuanGong	ItemMYC-OutputCount	1	19
+Sè lÇn hoµn thµnh s¬ th¸m §Þa HuyÒn Cung	20	DiXuanGong	TaskChuTanFinishCount	1	20
+Sè lÇn hoµn thµnh ®¹i ph¸ §Þa HuyÒn Cung	21	DiXuanGong	TaskDaPoFinishCount	1	21
+Sè lÇn hoµn thµnh truy hung §Þa HuyÒn Cung	22	DiXuanGong	TaskZhuiXiongFinishCount	1	22
+	23	ItemBingJingShi	C2ItemXCount	2	1
+	24	ItemBingJingShi	C3ItemXCount	2	2
+	25	ItemBingJingShi	C2ItemLCount	2	3
+	26	ItemBingJingShi	C3ItemLCount	2	4
+TÈy T©m Th¹ch cÊp 4	27	ItemBingJingShi	C4XiXinShiCount	2	5
+LuyÖn L« ThiÕt cÊp 4	28	ItemBingJingShi	C3LianTieLuCount	2	6
+	29	LingShan	OpenCount	3	1
+	30	LingShan	OpenPlayerCount	3	2
+	31	LingShan	AllPassPlayerCount	3	3
+	32	LingShan	OpenLevel80-89PlayerCount	3	4
+	33	LingShan	OpenLevel90-99PlayerCount	3	5
+	34	LingShan	OpenRebornPlayerCount	3	6
+	35	LingShan	BackDoorTotalCount	3	7
+	36	LingShan	First4StagePassCount	3	8
+	37	LingShan	AllPassTotalCount	3	9
+	38	LingShan	TianJiaoLingConsumeNum	3	10
+	39	LingShan	UseJuYiLingForBuffCount	3	11
+	40	LingShan	TianGangLingProduceNum	3	12
+	41	LingShan	OpenRoutePlayerCount	3	13
+	42	LingShan	PassRoutePlayerCount	3	14
+Sè lÇn hoµn thµnh s¬ diÔn L­¬ng S¬n	43	LingShan	TaskChuYanFinishCount	3	15
+Sè lÇn hoµn thµnh trung dòng L­¬ng S¬n	44	LingShan	TaskZhongYongFinishCount	3	16
+Sè lÇn hoµn thµnh ®o¹t qu©n L­¬ng S¬n	45	LingShan	TaskDuoJunFinishCount	3	17
+	46	WanJianZhong	OpenCount	4	1
+	47	WanJianZhong	AllPassTotalCount	4	2
+	48	WanJianZhong	OpenPlayerCount	4	3
+	49	WanJianZhong	AllPassPlayerCount	4	4
+	50	WanJianZhong	OpenLevel80-89PlayerCount	4	5
+	51	WanJianZhong	OpenLevel90-99PlayerCount	4	6
+	52	WanJianZhong	OpenRebornPlayerCount	4	7
+	53	WanJianZhong	FreeCardCount	4	8
+	54	WanJianZhong	IBCardCount	4	9
+	55	WanJianZhong	TianJiaoLingConsumeNum	4	10
+	56	WanJianZhong	GuLingYuProduceNum	4	11
+	57	WanJianZhong	SuperBookProduceNum	4	12
+	58	WanJianZhong	OpenRoutePlayerCount	4	13
+	59	WanJianZhong	PassRoutePlayerCount	4	14
+Sè lÇn th«ng quan V¹n KiÕm Tròng	60	WanJianZhong	TaskTongGuan1FishCount	4	15
+Sè lÇn hoµn thµnh 1 lÇn lËt bµi V¹n KiÕm Tròng	61	WanJianZhong	TaskTongGuan7FishCount	4	16
+Sè lÇn hoµn thµnh th«ng ¶i 7 lÇn V¹n KiÕm Tròng	62	WanJianZhong	TaskFanPai1FishCount	4	17
+Sè lÇn hoµn thµnh mçi tuÇn th«ng ¶i 15 lÇn V¹n KiÕm Tròng	63	WanJianZhong	TaskFanPai15FishCount	4	18
+	64	TongTianHuanJing	OpenCount	5	1
+	65	TongTianHuanJing	StageXPassCount	5	2
+	66	TongTianHuanJing	AllPassTotalCount	5	3
+	67	TongTianHuanJing	OpenPlayerCount	5	4
+	68	TongTianHuanJing	PassStageXPlayerCount	5	5
+	69	TongTianHuanJing	AllPassPlayerCount	5	6
+	70	TongTianHuanJing	OpenLevel80-89PlayerCount	5	7
+	71	TongTianHuanJing	OpenLevel90-99PlayerCount	5	8
+	72	TongTianHuanJing	OpenRebornPlayerCount	5	9
+	73	TongTianHuanJing	FreeCardCount	5	10
+	74	TongTianHuanJing	IBCardCount	5	11
+	75	TongTianHuanJing	TongTianLingConsumeNum	5	12
+	76	TongTianHuanJing	TianMenJinLingProduceNum	5	13
+	77	TongTianHuanJing	TianMenSuiPianProduceNum	5	14
+	78	TongTianHuanJing	OpenRoutePlayerCount	5	15
+	79	TongTianHuanJing	PassRoutePlayerCount	5	16
+	80	ItemUseCount	Level1KnifeStone	6	1
+	81	ItemUseCount	Level2KnifeStone	6	2
+	82	ItemUseCount	Level3KnifeStone	6	3
+	83	TongFeast	RaidDropCjszPig	7	1
+	84	TongFeast	RaidDropCjszWine	7	2
+	85	TongFeast	RaidDropWjzPig	7	3
+	86	TongFeast	RaidDropWjzWine	7	4
+	87	TongFeast	RaidDropLsCow	7	5
+	88	TongFeast	RaidDropLsWine	7	6
+	89	TongFeast	RaidDropDxgCow	7	7
+	90	TongFeast	RaidDropDxgWine	7	8
+	91	TongFeast	RaidDropTxSheep	7	9
+	92	TongFeast	RaidDropTxWine	7	10
+	93	TongFeast	RaidDropTtdSheep	7	11
+	94	TongFeast	RaidDropTtdWine	7	12
+	95	TongFeast	BattleDropKfBacon	7	13
+	96	TongFeast	BattleDropKfWine	7	14
+	97	TongFeast	BattleDropSlBacon	7	15
+	98	TongFeast	BattleDropSlWine	7	16
+	99	TongFeast	BattleDropTmzBacon	7	17
+	100	TongFeast	BattleDropTmzWine	7	18
+	101	TongFeast	TongCountCjsz	7	19
+	102	TongFeast	TongCountWjz	7	20
+	103	TongFeast	TongCountLs	7	21
+	104	TongFeast	TongCountDxg	7	22
+	105	TongFeast	TongCountTx	7	23
+	106	TongFeast	TongCountTtd	7	24
+	107	TongFeast	TotalCountPig	7	25
+	108	TongFeast	TotalCountCow	7	26
+	109	TongFeast	TotalCountSheep	7	27
+	110	TongFeast	TotalCountBacon	7	28
+	111	TongFeast	TotalCountTableChair	7	29
+	112	TongFeast	TotalCountCooker	7	30
+	113	TongFeast	ChefUseTimes18	7	31
+	114	TongFeast	ChefUseTimes19	7	32
+	115	TongFeast	ChefUseTimes20	7	33
+	116	TongFeast	IBShopBoxHZ	7	34
+	117	TongFeast	IBShopBoxGY	7	35
+	118	TongFeast	IBShopBoxXZ	7	36
+	119	TongFeast	IBShopGjBoxHZ	7	37
+	120	TongFeast	IBShopGjBoxGY	7	38
+	121	TongFeast	IBShopGjBoxXZ	7	39
+	122	TongFeast	IBShopBoxUpgrade	7	40
+	123	TongFeast	IBShopGjBoxUpgrade	7	41
+	124	TongFeast	IBShop3000YinJuan	7	42
+	125	TongFeast	IBShopBugaoXie	7	43
+	126	TongFeast	IBShopTongJiuZhou	7	44
+	127	TongFeast	IBShopTongYaoYang	7	45
+	128	TongFeast	IBShopTongMa	7	46
+Më mission sè lÇn	129	3V3	3V3TotalOpenTimes	8	1
+Tæng sè ®éi ngò	130	3V3	3V3PairTeamCount	8	2
+Nh©n sè mçi giai ®o¹n	131	3V3	3V3StagePlayerCount	8	3
+Sè lÇn sö dông d­îc phÈm cña m«n ph¸i nµo ®ã	132	3V3	3V3UseDrugPlayerCount	8	4
+Tæng nh©n sè tham gia thi ®Êu	133	3V3	3V3JoinPlayerCount	8	5
+Tæng nh©n sè th¾ng lîi	134	3V3	3V3WinPlayerCount	8	6
+C«ng nh©n c­êng hãa tiªu hao tæng sè vµng	135	IBConsume	XiaoBai QiangHua	9	1
+B×nh d©n c­êng hãa tiªu hao tæng sè vµng	136	IBConsume	BaiXing QiangHua	9	2
+Ng­êi lµm nghÒ tù do c­êng hãa tiªu hao tæng sè vµng	137	IBConsume	LanLing QiangHua	9	3
+Nh©n viªn v¨n phßng c­êng hãa tiªu hao tæng sè vµng	138	IBConsume	BaiLing QiangHua	9	4
+TiÓu th­¬ng c­êng hãa tiªu hao tæng sè vµng	139	IBConsume	LittleBoss QiangHua	9	5
+Trung th­¬ng c­êng hãa tiªu hao tæng sè vµng	140	IBConsume	MiddleBoss QiangHua	9	6
+§¹i th­¬ng c­êng hãa tiªu hao tæng sè vµng	141	IBConsume	BigBoss QiangHua	9	7
+C«ng nh©n söa trang bÞ tiªu hao tæng sè vµng	142	IBConsume	XiaoBai  XiuLi	9	8
+B×nh d©n söa trang bÞ tiªu hao tæng sè vµng	143	IBConsume	BaiXing XiuLi	9	9
+Ng­êi lµm nghÒ tù do söa trang bÞ tiªu hao tæng sè vµng	144	IBConsume	LanLing XiuLi	9	10
+Nh©n viªn v¨n phßng söa trang bÞ tiªu hao tæng sè vµng	145	IBConsume	BaiLing XiuLi	9	11
+TiÓu th­¬ng söa trang bÞ tiªu hao tæng sè vµng	146	IBConsume	LittleBoss XiuLi	9	12
+Trung th­¬ng söa trang bÞ tiªu hao tæng sè vµng	147	IBConsume	MiddleBoss XiuLi	9	13
+§¹i th­¬ng söa trang bÞ tiªu hao tæng sè vµng	148	IBConsume	BigBoss XiuLi	9	14
+C«ng nh©n söa trang bÞ cao cÊp tiªu hao tæng sè vµng	149	IBConsume	XiaoBai  AdvXiuLi	9	15
+B×nh d©n söa trang bÞ cao cÊp tiªu hao tæng sè vµng	150	IBConsume	BaiXing AdvXiuLi	9	16
+Ng­êi lµm nghÒ tù do söa trang bÞ cao cÊp tiªu hao tæng sè vµng	151	IBConsume	LanLing AdvXiuLi	9	17
+Nh©n viªn v¨n phßng söa trang bÞ cao cÊp tiªu hao tæng sè vµng	152	IBConsume	BaiLing AdvXiuLi	9	18
+TiÓu th­¬ng söa trang bÞ cao cÊp tiªu hao tæng sè vµng	153	IBConsume	LittleBoss AdvXiuLi	9	19
+Trung th­¬ng söa trang bÞ cao cÊp tiªu hao tæng sè vµng	154	IBConsume	MiddleBoss AdvXiuLi	9	20
+§¹i th­¬ng söa trang bÞ cao cÊp tiªu hao tæng sè vµng	155	IBConsume	BigBoss AdvXiuLi	9	21
+C«ng nh©n mua ®å tiªu hao tæng sè vµng	156	IBConsume	XiaoBai  BuyStall	9	22
+B×nh d©n mua ®å tiªu hao tæng sè vµng	157	IBConsume	BaiXing BuyStall	9	23
+Ng­êi lµm nghÒ tù do mua ®å tiªu hao tæng sè vµng	158	IBConsume	LanLing BuyStall	9	24
+Nh©n viªn v¨n phßng mua ®å tiªu hao tæng sè vµng	159	IBConsume	BaiLing BuyStall	9	25
+TiÓu th­¬ng mua ®å tiªu hao tæng sè vµng	160	IBConsume	LittleBoss BuyStall	9	26
+Trung th­¬ng mua ®å tiªu hao tæng sè vµng	161	IBConsume	MiddleBoss BuyStall	9	27
+§¹i th­¬ng mua ®å tiªu hao tæng sè vµng	162	IBConsume	BigBoss BuyStall	9	28
+C«ng nh©n b¸n hµng nhËn ®­îc tæng sè vµng	163	IBConsume	XiaoBai  SellStall	9	29
+B×nh d©n b¸n hµng nhËn ®­îc tæng sè vµng	164	IBConsume	BaiXing SellStall	9	30
+Ng­êi lµm nghÒ tù do b¸n hµng nhËn ®­îc tæng sè vµng	165	IBConsume	LanLing SellStall	9	31
+Nh©n viªn v¨n phßng b¸n hµng nhËn ®­îc tæng sè vµng	166	IBConsume	BaiLing SellStall	9	32
+TiÓu th­¬ng b¸n hµng nhËn ®­îc tæng sè vµng	167	IBConsume	LittleBoss SellStall	9	33
+Trung th­¬ng b¸n hµng nhËn ®­îc tæng sè vµng	168	IBConsume	MiddleBoss SellStall	9	34
+§¹i th­¬ng b¸n hµng nhËn ®­îc tæng sè vµng	169	IBConsume	BigBoss SellStall	9	35
+Tæng sè l­îng gi¸ c¶ giao dÞch item quan träng	170	IBConsume	Core Item Stall Total Price	9	36
+Sè l­îng giao dÞch item quan träng	170	IBConsume	Core Item Stall Num	9	37
+Sè trËn më chiÕn tr­êng	171	KFBattle	OpenCount	10	1
+Sè trËn më chiÕn ®Êu	172	KFBattle	StartCount	10	2
+Sè trËn ch­a më	173	KFBattle	NoStartCount	10	3
+Nh©n sè khi b¾t ®Çu chiÕn ®Êu	174	KFBattle	PlayerCountWhenStart	10	4
+Nh©n sè 80-89 khi b¾t ®Çu chiÕn ®Êu	175	KFBattle	80-89PlayerCountWhenStart	10	5
+Nh©n sè 90-99 khi b¾t ®Çu chiÕn ®Êu	176	KFBattle	90-99PlayerCountWhenStart	10	6
+Nh©n sè ®· chuyÓn sinh khi b¾t ®Çu chiÕn ®Êu	177	KFBattle	TransPlayerCountWhenStart	10	7
+Nh©n sè khi kÕt thóc chiÕn ®Êu	178	KFBattle	PlayerCountWhenEnd	10	8
+Sè lÇn b¸o danh c¸ nh©n	179	KFBattle	SingleSignCount	10	9
+Sè lÇn b¸o danh tæ ®éi	180	KFBattle	TeamSighCount	10	10
+Sè lÇn tö vong ng­êi ch¬i pk	181	KFBattle	PKDieCount	10	11
+Sè lÇn bªn Tèng th¾ng	182	KFBattle	SongWinCount	10	12
+Sè lÇn bªn Liªu th¾ng	183	KFBattle	LiaoWinCount	10	13
+Sè lÇn hßa	184	KFBattle	PingJuCount	10	14
+XX sè l­u ph¸i tham chiÕn	185	KFBattle	RoutePlayerJoinCount	10	15
+XX sè l­u ph¸i kÝch s¸t	186	KFBattle	RouteKillCount	10	16
+XX sè l­îng l­u ph¸i bÞ kÝch s¸t	187	KFBattle	RouteDieCount	10	17
+XX sè l­îng l­u ph¸i ®o¹t kú	188	KFBattle	RouteCapFlagCount	10	18
+§é n¨ng ®éng 0 sè lÇn ph¸t ra	189	KFBattle	AwardActive0Count	10	19
+§é n¨ng ®éng 1_9 sè lÇn ph¸t ra	190	KFBattle	AwardActive1-9Count	10	20
+§é n¨ng ®éng 10_39 sè lÇn ph¸t ra	191	KFBattle	AwardActive10-39Count	10	21
+§é n¨ng ®éng 40_199 sè lÇn ph¸t ra	192	KFBattle	AwardActive10-199Count	10	22
+§é n¨ng ®éng 200+ sè lÇn ph¸t ra	193	KFBattle	AwardActive200+Count	10	23
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng ch­¬ng	194	KFBattle	AwardByJunGongZhangCount	10	24
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng ®¹i	195	KFBattle	AwardByDaJunGongZhangCount	10	25
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng huy hoµng	196	KFBattle	AwardByHuiHuangJunGongZhangCount	10	26
+Sè trËn më chiÕn tr­êng	197	TiamMenZhen	OpenCount	11	1
+Sè trËn më chiÕn ®Êu	198	TiamMenZhen	StartCount	11	2
+Sè trËn ch­a më	199	TiamMenZhen	NoStartCount	11	3
+Nh©n sè khi b¾t ®Çu chiÕn ®Êu	200	TiamMenZhen	PlayerCountWhenStart	11	4
+Nh©n sè 80-89 khi b¾t ®Çu chiÕn ®Êu	201	TiamMenZhen	80-89PlayerCountWhenStart	11	5
+Nh©n sè 90-99 khi b¾t ®Çu chiÕn ®Êu	202	TiamMenZhen	90-99PlayerCountWhenStart	11	6
+Nh©n sè ®· chuyÓn sinh khi b¾t ®Çu chiÕn ®Êu	203	TiamMenZhen	TransPlayerCountWhenStart	11	7
+Nh©n sè khi kÕt thóc chiÕn ®Êu	204	TiamMenZhen	PlayerCountWhenEnd	11	8
+Sè lÇn b¸o danh c¸ nh©n	205	TiamMenZhen	SingleSignCount	11	9
+Sè lÇn b¸o danh tæ ®éi	206	TiamMenZhen	TeamSighCount	11	10
+Sè lÇn tö vong ng­êi ch¬i pk	207	TiamMenZhen	PKDieCount	11	11
+Sè lÇn bªn Tèng th¾ng	208	TiamMenZhen	SongWinCount	11	12
+Sè lÇn bªn Liªu th¾ng	209	TiamMenZhen	LiaoWinCount	11	13
+Sè lÇn hßa	210	TiamMenZhen	PingJuCount	11	14
+XX sè l­u ph¸i tham chiÕn	211	TiamMenZhen	RoutePlayerJoinCount	11	15
+XX sè l­u ph¸i kÝch s¸t	212	TiamMenZhen	RouteKillCount	11	16
+XX sè l­îng l­u ph¸i bÞ kÝch s¸t	213	TiamMenZhen	RouteDieCount	11	17
+XX sè l­îng l­u ph¸i ®o¹t kú	214	TiamMenZhen	RouteCapFlagCount	11	18
+Nh©n sè ®é n¨ng ®éng h¹ ®¼ng	215	TiamMenZhen	AwardActiveXiaDengCount	11	19
+Nh©n sè ®é n¨ng ®éng trung h¹ ®¼ng	216	TiamMenZhen	AwardActiveZhongXiaDengCount	11	20
+Nh©n sè ®é n¨ng ®éng trung ®¼ng	217	TiamMenZhen	AwardActiveZhongDengCount	11	21
+Nh©n sè ®é n¨ng ®éng trung th­îng ®¼ng	218	TiamMenZhen	AwardActiveZhongShangDengCount	11	22
+Nh©n sè ®é n¨ng ®éng th­îng ®¼ng	219	TiamMenZhen	AwardActiveShangDengCount	11	23
+Nh©n sè ®é n¨ng ®éng th­îng th­îng ®¼ng	220	TiamMenZhen	AwardActiveShangShangDengCount	11	24
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng ch­¬ng	221	TiamMenZhen	AwardByJunGongZhangCount	11	25
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng ®¹i	222	TiamMenZhen	AwardByDaJunGongZhangCount	11	26
+Sè lÇn nhËn th­ëng sö dông qu©n c«ng huy hoµng	223	TiamMenZhen	AwardByHuiHuangJunGongZhangCount	11	27
+Sè bang héi tham gia lo¹n chiÕn bang héi	224	TongMelee	TongMeleeTongCount	12	1
+Sè ng­êi tham gia lo¹n chiÕn bang héi	225	TongMelee	TongMeleePlayerCount	12	2
+Sè l­îng giao dÞch item quan träng	226	Trade	Core Item Trade Num	13	1
+Thiªn Cang LÖnh	227	Item Combine	TianGangLing_from_TianGangSuiPian	14	1
+Thiªn M«n Kim LÖnh	228	Item Combine	TianMenJinLing_from_TianMenSuiPian	14	2
+§¹i hång bao hoµng kim	229	Item Combine	HuangJinDaHongBao	14	3
+ nguån ra L«i Hæ tinh ph¸ch bang ph¸i ®¹i lo¹n ®Êu 	230	TongMelee	TongMeleeLHJP	12	3
+Tû lÖ th¾ng khi ®¬n ®Êu cña l­u ph¸i	231	PKStat	1V1RouteWinCnt	15	1
+Tû lÖ th¾ng khi ®¬n ®Êu cña l­u ph¸i	232	PKStat	1V1RouteVsCnt	15	2
+Tû lÖ th¾ng khi ®¬n ®Êu cña l­u ph¸i	233	PKStat	PKRouteWinCnt	15	3
+Tû lÖ th¾ng khi ®¬n ®Êu cña l­u ph¸i	234	PKStat	PKRouteVsCnt	15	4
+Sè l­îng t¨ng cña vËt phÈm	235	GoldEarn	GoldAdd	16	1
+Sè l­îng t¨ng cña vËt phÈm	237	GoldPay	GoldPay	16	2
+Sè l­îng t¨ng cña vËt phÈm	239	Item	AddCount	16	3
+Sè l­îng t¨ng cña vËt phÈm	240	Item	DelCount	16	4
+Sè ng­êi dïng TiÒn May M¾n më r­¬ng	241	LuckyBox	UseFreePlayerCount	17	1
+Sè ng­êi dïng TiÒn May M¾n më r­¬ng 8 lÇn	242	LuckyBox	UseFree8PlayerCount	17	2
+Sè ng­êi dïng Thiªn Kiªu LÖnh më r­¬ng	243	LuckyBox	UseIBPlayerCount	17	3
+Sè lÇn tiªu hao TiÒn May M¾n trong ngµy	244	LuckyBox	CostFreeCount	17	4
+Sè lÇn tiªu hao Thiªn Kiªu LÖnh trong ngµy (Më mét lÇn)	245	LuckyBox	CostIBOne	17	5
+Sè lÇn tiªu hao Thiªn Kiªu LÖnh trong ngµy (Më nhiÒu lÇn)	246	LuckyBox	CostIBTwo	17	6
+Sè l­îng nhËn ®­îc Thiªn Cang LÖnh trong ngµy (MiÔn phÝ)	247	LuckyBox	GetFreeTGL	17	7
+Sè l­îng nhËn ®­îc Thiªn M«n Kim LÖnh trong ngµy (MiÔn phÝ)	248	LuckyBox	GetFreeTMJL	17	8
+Sè l­îng nhËn ®­îc L«i Hæ Tinh Ph¸ch trong ngµy (MiÔn phÝ)	249	LuckyBox	GetFreeLHJP	17	9
+Sè l­îng nhËn ®­îc Thiªn Cang LÖnh trong ngµy (Thu phÝ)	250	LuckyBox	GetIBTGL	17	10
+Sè l­îng nhËn ®­îc Thiªn M«n Kim LÖnh trong ngµy (Thu phÝ)	251	LuckyBox	GetIBTMJL	17	11
+Sè l­îng nhËn ®­îc L«i Hæ Tinh Ph¸ch trong ngµy (Thu phÝ)	252	LuckyBox	GetIBLHJP	17	12
+Tæng sè lÇn më PhÇn Thiªn L©m	253	TYT	TotalOpenCount	18	1
+Sè lÇn sö dông tinh lùc vµo PhÇn Thiªn L©m	254	TYT	UseEneryJoinTYT	18	2
+Sè lÇn sö dông Thiªn Kiªu vµo PhÇn Thiªn L©m	255	TYT	UseIBJoinTYT	18	3
+Sè lÇn 8 l­u ph¸i kh¸c nhau vµo PhÇn Thiªn L©m	256	TYT	Route8JoinTYT	18	4
+Sè l­îng Thiªn Kiªu LÖnh do PhÇn Thiªn L©m tiªu hao	257	TYT	StaticCostIB_Nor|YX	18	5
+Sè lÇn lo¹i trang bÞ kh¸c nhau bÞ t¸ch	258	EquipRecycle	EquipRecycleGroupID	19	1
+Sè lÇn cÊp c­êng hãa trang bÞ kh¸c nhau bÞ t¸ch	259	EquipRecycle	EquipRecycleEnhance	19	2
+Sè l­îng ph¸t phÇn th­ëng ®ñ 10 trËn h»ng tuÇn	260	1V1	Week10Award	20	1
+Sè l­îng ph¸t phÇn th­ëng xÕp h¹ng h»ng tuÇn	261	1V1	WeekRankAward	20	2
+Sè l­îng ph¸t phÇn th­ëng h¹ng x cña mïa gi¶i	262	1V1	SeasonAward	20	3
+Tæng R­¬ng §¹i Héi Tû Vâ	263	1V1	1V1BoxCnt	20	4
+R­¬ng §¹i Héi Tû Vâ ®· më	264	1V1	1V1BoxOpenCntFree|IB	20	5
+Tæng R­¬ng Phong Th­ëng S­ M«n	265	1V1	SeasonBoxCnt	20	6
+R­¬ng Phong Th­ëng S­ M«n ®· më	266	1V1	SeasonBoxOpenCntFree|IB	20	7
+Sè lÇn më CÈm Nang §¸ Quý	267	Gem	GemBoxOpenItem|NpcCnt	21	1
+Sè lÇn ghÐp ®¸ quý	268	Gem	GemComposeCntExt=	21	2
+Sè lÇn ®ôc lç|Kh¶m ®¸ quý	269	Gem	Hole|InsertCnt	21	3
+Tæng sè lÇn rót th¨m ­u ®·i h»ng ngµy	270	GemBox	GemBoxFreeCount	17	13
+Tæng sè ng­êi tham gia rót th¨m ­u ®·i h»ng ngµy	271	GemBox	GemBoxFreePlayerCount	17	14
+Tæng sè lÇn rót th¨m may m¾n h»ng ngµy	272	GemBox	GemBoxIBCount	17	15
+Tæng sè ng­êi tham gia rót th¨m may m¾n h»ng ngµy	273	GemBox	GemBoxIBPlayerCount	17	16
+Sè lÇn më ¶i 1 PhÇn Thiªn L©m-Th­êng	274	TYT	OpenPTState1	18	6
+Sè lÇn v­ît qua ¶i 1 PhÇn Thiªn L©m-Th­êng	275	TYT	CrossPTState1	18	7
+Sè lÇn më ¶i 2 PhÇn Thiªn L©m-Th­êng	276	TYT	OpenPTState2	18	8
+Sè lÇn v­ît qua ¶i 2 PhÇn Thiªn L©m-Th­êng	277	TYT	CrossPTState2	18	9
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m-Th­êng	278	TYT	OpenPTState3	18	10
+Sè lÇn v­ît qua ¶i 3 PhÇn Thiªn L©m-Th­êng	279	TYT	CrossPTState3	18	11
+Sè lÇn më ¶i 1 Th¸i NhÊt Th¸p-Th­êng	280	TYT	OpenPTState4	18	12
+Sè lÇn v­ît qua ¶i 1 Th¸i NhÊt Th¸p-Th­êng	281	TYT	CrossPTState4	18	13
+Sè lÇn më ¶i 2 Th¸i NhÊt Th¸p-Th­êng	282	TYT	OpenPTState5	18	14
+Sè lÇn v­ît qua ¶i 2 Th¸i NhÊt Th¸p-Th­êng	283	TYT	CrossPTState5	18	15
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p-Th­êng	284	TYT	OpenPTState6	18	16
+Sè lÇn v­ît qua ¶i 3 Th¸i NhÊt Th¸p-Th­êng	285	TYT	CrossPTState6	18	17
+Sè lÇn më ¶i 1 PhÇn Thiªn L©m-Anh Hïng	286	TYT	OpenYXState1	18	18
+Sè lÇn v­ît qua ¶i 1 PhÇn Thiªn L©m-Anh Hïng	287	TYT	CrossYXState1	18	19
+Sè lÇn më ¶i 2 PhÇn Thiªn L©m-Anh Hïng	288	TYT	OpenYXState2	18	20
+Sè lÇn v­ît qua ¶i 2 PhÇn Thiªn L©m-Anh Hïng	289	TYT	CrossYXState2	18	21
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m-Anh Hïng	290	TYT	OpenYXState3	18	22
+Sè lÇn v­ît qua ¶i 3 PhÇn Thiªn L©m-Anh Hïng	291	TYT	CrossYXState3	18	23
+Sè lÇn më ¶i 1 Th¸i NhÊt Th¸p-Anh Hïng	292	TYT	OpenYXState4	18	24
+Sè lÇn v­ît qua ¶i 1 Th¸i NhÊt Th¸p-Anh Hïng	293	TYT	CrossYXState4	18	25
+Sè lÇn më ¶i 2 Th¸i NhÊt Th¸p-Anh Hïng	294	TYT	OpenYXState5	18	26
+Sè lÇn v­ît qua ¶i 2 Th¸i NhÊt Th¸p-Anh Hïng	295	TYT	CrossYXState5	18	27
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p-Anh Hïng	296	TYT	OpenYXState6	18	28
+Sè lÇn v­ît qua ¶i 3 Th¸i NhÊt Th¸p-Anh Hïng	297	TYT	CrossYXState6	18	29
+Sè lÇn më ¶i 1 PhÇn Thiªn L©m (D¹ng tiªu phÝ)	298	TYT	OpenCheatModel1	18	30
+Sè lÇn më ¶i 2 PhÇn Thiªn L©m (D¹ng tiªu phÝ)	299	TYT	OpenCheatModel2	18	31
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m (D¹ng tiªu phÝ)	300	TYT	OpenCheatModel3	18	32
+Sè lÇn më ¶i 1 Th¸i NhÊt Th¸p (D¹ng tiªu phÝ)	301	TYT	OpenCheatModel4	18	33
+Sè lÇn më ¶i 2 Th¸i NhÊt Th¸p (D¹ng tiªu phÝ)	302	TYT	OpenCheatModel5	18	34
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p (D¹ng tiªu phÝ)	303	TYT	OpenCheatModel6	18	35
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m (MiÔn phÝ lËt thÎ)	304	TYT	FreeOpenCardState3	18	36
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m (Thu phÝ lËt thÎ)	305	TYT	IBOpenCardState3	18	37
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p (MiÔn phÝ lËt thÎ)	306	TYT	FreeOpenCardState6	18	38
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p (Thu phÝ lËt thÎ)	307	TYT	IBOpenCardState6	18	39
+Sè ng­êi tham gia d¹ng th­êng cña c¸c l­u ph¸i	308	TYT	RouteJoinPTCount	18	40
+Sè ng­êi v­ît qua d¹ng th­êng cña c¸c l­u ph¸i	309	TYT	RouteCrossPTCount	18	41
+Sè ng­êi tham gia d¹ng anh hïng cña c¸c l­u ph¸i	310	TYT	RouteJoinYXCount	18	42
+Sè ng­êi v­ît qua d¹ng anh hïng cña c¸c l­u ph¸i	311	TYT	RouteCrossYXCount	18	43
+Sè l­îng Viªm Linh Ti sinh ra tõ Th¸i NhÊt Th¸p	312	TYT	ItemYLSCount	18	44
+Sè l­îng Da Ma Lang sinh ra tõ Th¸i NhÊt Th¸p	313	TYT	ItemMLPCount	18	45
+Sè l­îng Da §Þa Long sinh ra tõ Th¸i NhÊt Th¸p	314	TYT	ItemDLPCount	18	46
+Sè l­îng Th¸i NhÊt LÖnh sinh ra tõ Th¸i NhÊt Th¸p	315	TYT	ItemTILCount	18	47
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m-Anh Hïng (MiÔn phÝ lËt thÎ)	316	TYT	FreeOpenCardState3-YX	18	48
+Sè lÇn më ¶i 3 PhÇn Thiªn L©m-Anh Hïng (Thu phÝ lËt thÎ)	317	TYT	IBOpenCardState3-YX	18	49
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p-Anh Hïng (MiÔn phÝ lËt thÎ)	318	TYT	FreeOpenCardState6-YX	18	50
+Sè lÇn më ¶i 3 Th¸i NhÊt Th¸p-Anh Hïng (Thu phÝ lËt thÎ)	319	TYT	IBOpenCardState6-YX	18	51
+Sè l­îng sinh ra Kim Hæ Phï	320	QHT	Qht_JWHF_ItemCount	22	1
+Sè l­îng më R­¬ng S¬ CÊp	321	QHT	Qht_Box1_OpenCount	22	2
+Sè l­îng më R­¬ng Trung CÊp	322	QHT	Qht_Box2_OpenCount	22	3
+Sè l­îng më R­¬ng Cao CÊp	323	QHT	Qht_Box3_OpenCount	22	4
+Sè l­îng qu¸i xanh t¹o míi	324	QHT	Qht_CreatePt_NpcCount	22	5
+Sè l­îng qu¸i xanh bÞ tiªu diÖt	325	QHT	Qht_KillPt_NpcCount	22	6
+Sè l­îng BOSS TiÓu t¹o míi	326	QHT	Qht_CreateSb_NpcCount	22	7
+Sè l­îng BOSS TiÓu bÞ tiªu diÖt	327	QHT	Qht_KillSb_NpcCount	22	8
+Sè l­îng BOSS Trung t¹o míi	328	QHT	Qht_CreateMb_NpcCount	22	9
+Sè l­îng BOSS Trung bÞ tiªu diÖt	329	QHT	Qht_KillMb_NpcCount	22	10
+Sè l­îng BOSS §¹i t¹o míi	330	QHT	Qht_CreateBb_NpcCount	22	11
+Sè l­îng BOSS §¹i bÞ tiªu diÖt	331	QHT	Qht_KillBb_NpcCount	22	12
+Sè l­îng BOSS Hoµng Kim t¹o míi	332	QHT	Qht_CreateGb_NpcCount	22	13
+Sè l­îng BOSS Hoµng Kim bÞ tiªu diÖt	333	QHT	Qht_KillGb_NpcCount	22	14
+Sè lÇn boss thÕ giíi bÞ tiªu diÖt	334	WorldBoss	KillBossCount	23	1
+Sè lÇn më R­¬ng Nhá	335	WorldBoss	OpenSmallBoxCount	23	2
+Sè lÇn më R­¬ng Lín	336	WorldBoss	OpenBigBoxCount	23	3
+Sè lÇn M¶nh MËt TÞch ghÐp thµnh MËt TÞch Tiªu Dao	337	MiJiCanYe	ComposeXiaoYaoCount	24	1
+Sè lÇn M¶nh MËt TÞch ghÐp thµnh L¨ng Ba Vi Bé	338	MiJiCanYe	ComposeLingBoCount	24	2
+Sè lÇn M¶nh MËt TÞch ghÐp thµnh S­ M«n Ch©n QuyÓn	339	MiJiCanYe	ComposeShiMenCount	24	3
+Sè ng­êi tham gia Tr­îng KiÕm Thiªn Nhai	340	StateChess	StateChessJoinCount	25	1
+Tæng sè vßng hoµn thµnh	341	StateChess	StateChessAllRound	25	2
+Sè ng­êi vßng ®Çu tiªn	342	StateChess	StateChessFirstRound	25	3
+Sè ng­êi hoµn thµnh 47 vßng	343	StateChess	StateChessWeeklyRound	25	4
+Sè ng­êi reset vßng lÇn ®Çu	344	StateChess	StateChessAllReset	25	5
+Tæng sè reset vßng	345	StateChess	StateChessTodayReset	25	6
+Sè lÇn xuÊt hiÖn TiÖm Thuèc	346	StateChess	StateChessYiGuan	25	7
+Sè lÇn tham gia TiÖm Thuèc	347	StateChess	StateChessJoinYiGuan	25	8
+Sè lÇn xuÊt hiÖn TiÒn Trang	348	StateChess	StateChessQianZhuang	25	9
+Sè lÇn tham gia TiÒn Trang	349	StateChess	StateChessJoinQianZhuang	25	10
+Sè lÇn xuÊt hiÖn MiÕu ThÇn Tµi	350	StateChess	StateChessShengMiao	25	11
+Sè lÇn tham gia MiÕu ThÇn Tµi	351	StateChess	StateChessJoinShengMiao	25	12
+Sè lÇn xuÊt hiÖn ®iÓm sù kiÖn ngÉu nhiªn	352	StateChess	StateChessEvent	25	13
+Sè lÇn tham gia ®iÓm sù kiÖn ngÉu nhiªn	353	StateChess	StateChessJoinEvent	25	14
+Sè ng­êi m«n ph¸i tham gia  ¢n O¸n §µi	354	eyt_battle	EytRouteJoinCount	27	1
+Sè ng­êi m«n ph¸i ®o¹t kú ¢n O¸n §µi	355	eyt_battle	EytRouteGetFlag	27	2
+Sè lÇn më chiÕn tr­êng ¢n O¸n §µi thµnh c«ng	356	eyt_battle	OpenSucessCnt	27	3
+Sè ng­êi khi kÕt thóc chiÕn tr­êng ¢n O¸n §µi	357	eyt_battle	EndPlayerCnt	27	4
+Sè lÇn më ThÝ LuyÖn Tø Linh b»ng tinh lùc	358	silling_battle	OpenCnt_JingLi|IB	26	1
+Tæng sè ng­êi tham gia ThÝ LuyÖn Tø Linh	360	silling_battle	JoinPlayerCount	26	2
+Sè lÇn v­ît qua ThÝ LuyÖn Tø Linh	361	silling_battle	PassCnt	26	3
+ThÝ LuyÖn Tø Linh tiªu hao sè l­îng Thiªn Kiªu LÖnh	362	silling_battle	IBConsume	26	4
+Sè lÇn xung kÝch Gi¸ng Linh ThuËt cÊp X	363	pet	BetJiangLingSuLvX	28	1
+Tæng sè l­îng tiªu hao Gi¸ng Linh BÝ §iÓn	364	pet	ConsumeJiangLingMiDianCnt	28	2
+Sè lÇn luyÖn yªu	365	pet	ComposeCnt_Ext=Level	28	3

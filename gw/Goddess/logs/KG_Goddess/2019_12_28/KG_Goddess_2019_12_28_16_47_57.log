@@ -1,0 +1,86 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Loading KG_Goddess.ini
+20191228-164757<INFO :0xf77c86d0>: [verify_up2date]...
+20191228-164757<INFO :0xf77c86d0>: >Current lang is [gb18030]
+20191228-164757<INFO :0xf77c86d0>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191228-164757<INFO :0xf77c86d0>: >Time duration: 21.763402ms 
+20191228-164757<INFO :0xf77c86d0>: >
+20191228-164757<INFO :0xf77c86d0>: >Finish, my exit code is: 0
+20191228-164757<INFO :0xf77c86d0>: |shell cmd result is 0
+20191228-164757<INFO :0xf77c86d0>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20191228-164757<INFO :0xf77c86d0>: [verify_up2date] ok
+20191228-164757<INFO :0xf77c86d0>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Initializing role database ...
+20191228-164757<INFO :0xf77c86d0>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-164757<DEBUG:0xf77c86d0>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-164757<DEBUG:0xf77c86d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8932f10)->_LoadTable()
+20191228-164757<DEBUG:0xf77c86d0>: [KGD] (0x0x8932f10)->_LoadTable("fightteam")
+20191228-164757<DEBUG:0xf77c86d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8932f10)->_LoadTable()
+20191228-164757<DEBUG:0xf77c86d0>: [KGD] (0x0x8932f10)->_LoadTable("playerfightteam")
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Initializing role statistic ...
+20191228-164757<INFO :0xf77c86d0>: [RoleStatistic] listen 192.168.136.146 : 6001 result=1
+20191228-164757<INFO :0xf77c86d0>: [RoleStatistic] Listening at 192.168.136.146:6001
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Initializing server manager ...
+20191228-164757<INFO :0xf77c86d0>: [ServerManager] Listening at 192.168.136.146:5001
+20191228-164757<INFO :0xf77c86d0>: [KG_Goddess] Started successful
+20191228-164801<INFO :0xf6a33b70>: [ServerManager] RemoteServer from (192.168.136.146:39201) connect ok
+20191228-164801<INFO :0xf6a33b70>: [ServerManager] Accept from (192.168.136.146:39201) SocketStream = 0xf5f00528
+20191228-164801<INFO :0xf6a33b70>: [[Group 1 Server 00]] Server 0 created ok!
+20191228-164801<INFO :0xf5effb70>: [Group 1 Server 00] Started, service for 192.168.136.146:39201
+20191228-164801<INFO :0xf5effb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-164801<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20191228-164801<DEBUG:0xf5effb70>: [KGD] (0x0xf5300470)->_LoadTable("fightteam")
+20191228-164801<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20191228-164801<DEBUG:0xf5effb70>: [KGD] (0x0xf5300470)->_LoadTable("playerfightteam")
+20191228-164801<DEBUG:0xf5effb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-164813<INFO :0xf6a33b70>: [ServerManager] RemoteServer from (127.0.0.1:41081) connect ok
+20191228-164813<INFO :0xf6a33b70>: [ServerManager] Accept from (127.0.0.1:41081) SocketStream = 0xf5f00a30
+20191228-164813<INFO :0xf6a33b70>: [[Group 1 Server 01]] Server 1 created ok!
+20191228-164813<INFO :0xf52ffb70>: [Group 1 Server 01] Started, service for 127.0.0.1:41081
+20191228-164813<INFO :0xf52ffb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-164813<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4700470)->_LoadTable()
+20191228-164813<DEBUG:0xf52ffb70>: [KGD] (0x0xf4700470)->_LoadTable("fightteam")
+20191228-164813<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4700470)->_LoadTable()
+20191228-164813<DEBUG:0xf52ffb70>: [KGD] (0x0xf4700470)->_LoadTable("playerfightteam")
+20191228-164813<DEBUG:0xf52ffb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-164813<INFO :0xf52ffb70>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191228-164813<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _query_statistic_info()
+20191228-164813<DEBUG:0xf52ffb70>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20191228-164813<DEBUG:0xf52ffb70>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20191228-164820<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1067094)
+20191228-164840<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1087114)
+20191228-164843<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1090823)
+20191228-164900<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1107134)
+20191228-164913<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1120869)
+20191228-164920<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1127137)
+20191228-164940<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1147144)
+20191228-164943<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1150908)
+20191228-165000<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1167168)
+20191228-165013<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1180942)
+20191228-165020<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1187225)
+20191228-165040<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1207230)
+20191228-165044<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1210990)
+20191228-165100<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1227256)
+20191228-165114<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1241024)
+20191228-165120<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1247288)
+20191228-165140<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1267316)
+20191228-165144<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1271068)
+20191228-165200<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1287348)
+20191228-165214<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1301113)
+20191228-165220<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1307376)
+20191228-165240<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1327398)
+20191228-165244<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1331149)
+20191228-165300<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1347444)
+20191228-165314<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1361185)
+20191228-165320<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1367488)
+20191228-165340<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1387529)
+20191228-165344<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1391231)
+20191228-165400<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1407548)
+20191228-165404<INFO :0xf5effb70>: [Group 1 Server 00] Query roles list of account "1"
+20191228-165404<DEBUG:0xf5effb70>: [Group 1 Server 00] Leave _query_role_list(1) uRoleCount=0 nResult=1
+20191228-165414<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1421272)
+20191228-165424<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1430952)
+20191228-165444<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=1450974)
+20191228-165444<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=1451308)

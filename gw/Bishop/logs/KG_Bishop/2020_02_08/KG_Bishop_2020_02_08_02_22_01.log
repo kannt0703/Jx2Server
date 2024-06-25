@@ -1,0 +1,614 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20200208-022201<INFO :0xf73c9700>: [verify_up2date]...
+20200208-022201<INFO :0xf73c9700>: >Current lang is [gb18030]
+20200208-022201<INFO :0xf73c9700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200208-022201<INFO :0xf73c9700>: >Time duration: 7.713333ms 
+20200208-022201<INFO :0xf73c9700>: >
+20200208-022201<INFO :0xf73c9700>: >Finish, my exit code is: 0
+20200208-022201<INFO :0xf73c9700>: |shell cmd result is 0
+20200208-022201<INFO :0xf73c9700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20200208-022201<INFO :0xf73c9700>: [verify_up2date] ok
+20200208-022201<INFO :0xf73c9700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20200208-022201<INFO :0xf73c9700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20200208-022201<INFO :0xf73c9700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x9f910b8
+20200208-022201<INFO :0xf73c9700>: [Local machine info] InternalMacAddress: 00-0c-29-d7-3d-ab, InternalIPAddress: 192.168.1.8
+20200208-022201<INFO :0xf73c9700>: [Local machine info] ExternalMacAddress: 00-0c-29-d7-3d-ab, ExternalIPAddress: 192.168.1.8
+20200208-022201<DEBUG:0xf73c9700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20200208-022201<DEBUG:0xf73c9700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20200208-022201<INFO :0xf73c9700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20200208-022201<INFO :0xf73c9700>: [Paysys] Login() nResult = 1
+20200208-022201<INFO :0xf73c9700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x9f913c8
+20200208-022201<INFO :0xf73c9700>: [Goddess] Login() nResult = 1
+20200208-022201<INFO :0xf73c9700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20200208-022201<INFO :0xf73c9700>: [PlayerManager] Init() Acceptor Open(192.168.1.8: 5622), nRetCode = 1
+20200208-022203<INFO :0xf5f3cb40>: [Relay] ThreadFunction() Accept from (127.0.0.1: 53083) SocketStream = 0xdb6004c8
+20200208-022203<INFO :0xf5f3cb40>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20200208-022211<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022211<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022213<INFO :0xf573bb40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 51871) SocketStream = 0xdb5004c8
+20200208-022213<INFO :0xdb3ffb40>: [GameServer 0] Connected from 127.0.0.1, internet address = 192.168.1.8, open port = 6661, protocol version (341-->345)
+20200208-022213<DEBUG:0xdb3ffb40>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20200208-022213<INFO :0xdb3ffb40>: [GameServer 0] from [127.0.0.1 : 40906] === Start ===
+20200208-022213<INFO :0xdb3ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20200208-022213<DEBUG:0xf5f3cb40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1173; Key = 1
+20200208-022220<INFO :0xf673db40>: receive goddess ping reply, goddess time = 87406
+20200208-022220<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022220<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022230<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022230<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022240<INFO :0xf673db40>: receive goddess ping reply, goddess time = 107453
+20200208-022240<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022240<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022244<DEBUG:0xf4f3ab40>: [Player 0] ThreadFunction() Accept from (192.168.1.9 : 50537) SocketStream = 0x9f9b840
+20200208-022244<DEBUG:0xf4f3ab40>: [Player 0] Account thu1 login bishop ... ... [OK]
+20200208-022244<DEBUG:0xf4f3ab40>: [InterlockedAccountStateTable] thu1, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20200208-022244<DEBUG:0xf4f3ab40>: [Player 0] Push request package into paysys module OK, package id = 1, cost time 0 ms
+20200208-022244<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 1
+20200208-022244<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 1
+20200208-022246<DEBUG:0xf4f3ab40>: [Player 0] Pop respond package from paysys module OK, package id = 1, cost time 1463 ms
+20200208-022246<DEBUG:0xf4f3ab40>: [InterlockedAccountStateTable] thu1, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20200208-022246<INFO :0xf4f3ab40>: [Player 0] Player verify to paysys, result = 1, Account thu1
+20200208-022246<INFO :0xf4f3ab40>: [Player 0] Account thu1 EndOfDayTime = 2344033758, LeftTimeOfPoint = 4294967295, TotalLeftTime = 762930391
+20200208-022246<DEBUG:0xdb3ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20200208-022247<DEBUG:0xf673db40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 1
+20200208-022247<DEBUG:0xf673db40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 1
+20200208-022248<DEBUG:0xf4f3ab40>: [Player 0] ProcessRoleList() RoleCount = 1!
+20200208-022254<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022254<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022255<DEBUG:0xf4f3ab40>: [Player 0] ReadPlayerRequest() Protocol = 33, Size = 12!
+20200208-022255<DEBUG:0xf4f3ab40>: [Player 0] Account thu1 create role aqqqqqq to goddess ... ... [OK]
+20200208-022255<DEBUG:0xf673db40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 2
+20200208-022255<DEBUG:0xf673db40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 2
+20200208-022256<DEBUG:0xf4f3ab40>: [InterlockedAccountStateTable] thu1, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20200208-022256<DEBUG:0xf4f3ab40>: [Player 0] Request enter game: ask for permission, account = thu1, role name = aqqqqqq ... ... [OK]
+20200208-022256<DEBUG:0xdb3ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 834; Key = 2
+20200208-022256<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_login_permission() , Account = thu1, Role = aqqqqqq, Permit = true
+20200208-022257<DEBUG:0xf4f3ab40>: [Player 0] Notify player login game: ip = 192.168.1.8, port = 6661, account = thu1, role = aqqqqqq
+20200208-022257<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_enter_game() AccountName = thu1
+20200208-022305<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022305<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022315<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022315<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022315<INFO :0xf673db40>: receive goddess ping reply, goddess time = 141573
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] Player change ext point: Account = thu1 , PlayerDataIndex = 0 ... ... [OK]
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_leave_game() , Account thu1 
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] _LeaveGame_Normal() AccountName = thu1
+20200208-022320<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] Unregister account thu1 in game server ... ... [OK]
+20200208-022320<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20200208-022320<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20200208-022320<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 2
+20200208-022320<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 3
+20200208-022320<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 2
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20200208-022320<DEBUG:0xdb3ffb40>: [GameServer 0] Process ext point operate result: Account = thu1, PlayerDataIndex = 0, ResultFlag = 1 ... ... [OK]
+20200208-022320<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 3
+20200208-022320<DEBUG:0xddf0cb40>: [Player 46] ThreadFunction() Accept from (192.168.1.9 : 50541) SocketStream = 0xda800858
+20200208-022320<DEBUG:0xddf0cb40>: [Player 46] Account thu1 login bishop ... ... [OK]
+20200208-022320<DEBUG:0xddf0cb40>: [InterlockedAccountStateTable] thu1, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20200208-022320<DEBUG:0xddf0cb40>: [Player 46] Push request package into paysys module OK, package id = 4, cost time 0 ms
+20200208-022320<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 4
+20200208-022321<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 4
+20200208-022321<DEBUG:0xddf0cb40>: [Player 46] Pop respond package from paysys module OK, package id = 4, cost time 962 ms
+20200208-022321<DEBUG:0xddf0cb40>: [InterlockedAccountStateTable] thu1, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20200208-022321<INFO :0xddf0cb40>: [Player 46] Player verify to paysys, result = 1, Account thu1
+20200208-022321<INFO :0xddf0cb40>: [Player 46] Account thu1 EndOfDayTime = 2344069164, LeftTimeOfPoint = 4294967295, TotalLeftTime = 762965762
+20200208-022321<DEBUG:0xdb3ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20200208-022322<DEBUG:0xf673db40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 3
+20200208-022322<DEBUG:0xf673db40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 3
+20200208-022323<DEBUG:0xddf0cb40>: [Player 46] ProcessRoleList() RoleCount = 2!
+20200208-022325<DEBUG:0xddf0cb40>: [Player 46] ReadPlayerRequest() Protocol = 35, Size = 37!
+20200208-022325<DEBUG:0xddf0cb40>: [Player 46] EnterGame_QueryRoleData() RoleName = aqqqqqq
+20200208-022326<DEBUG:0xf673db40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 4
+20200208-022326<DEBUG:0xf673db40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3011; Key = 4
+20200208-022327<DEBUG:0xddf0cb40>: [InterlockedAccountStateTable] thu1, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20200208-022327<DEBUG:0xddf0cb40>: [Player 46] Request enter game: ask for permission, account = thu1, role name = aqqqqqq ... ... [OK]
+20200208-022327<DEBUG:0xdb3ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3109; Key = 4
+20200208-022327<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_login_permission() , Account = thu1, Role = aqqqqqq, Permit = true
+20200208-022328<DEBUG:0xddf0cb40>: [Player 46] Notify player login game: ip = 192.168.1.8, port = 6661, account = thu1, role = aqqqqqq
+20200208-022328<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_enter_game() AccountName = thu1
+20200208-022330<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022330<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022340<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022340<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022346<INFO :0xf673db40>: receive goddess ping reply, goddess time = 171730
+20200208-022351<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022351<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022401<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022401<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022406<INFO :0xf673db40>: receive goddess ping reply, goddess time = 191758
+20200208-022411<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022411<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022421<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022421<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022426<INFO :0xf673db40>: receive goddess ping reply, goddess time = 211803
+20200208-022431<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022431<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022441<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022441<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022446<INFO :0xf673db40>: receive goddess ping reply, goddess time = 231847
+20200208-022451<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022451<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022501<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022501<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022506<INFO :0xf673db40>: receive goddess ping reply, goddess time = 251888
+20200208-022511<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022511<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022521<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022521<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022526<INFO :0xf673db40>: receive goddess ping reply, goddess time = 271901
+20200208-022531<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022531<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022541<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022541<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022546<INFO :0xf673db40>: receive goddess ping reply, goddess time = 291922
+20200208-022551<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022551<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022601<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022601<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022606<INFO :0xf673db40>: receive goddess ping reply, goddess time = 311943
+20200208-022611<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022611<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022621<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022621<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022626<INFO :0xf673db40>: receive goddess ping reply, goddess time = 331983
+20200208-022631<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022631<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022641<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022641<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022646<INFO :0xf673db40>: receive goddess ping reply, goddess time = 351994
+20200208-022651<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022651<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022701<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022701<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022706<INFO :0xf673db40>: receive goddess ping reply, goddess time = 372036
+20200208-022711<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022711<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022721<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022721<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022726<INFO :0xf673db40>: receive goddess ping reply, goddess time = 392070
+20200208-022731<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022731<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022741<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022741<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022746<INFO :0xf673db40>: receive goddess ping reply, goddess time = 412118
+20200208-022751<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022751<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022801<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022801<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022806<INFO :0xf673db40>: receive goddess ping reply, goddess time = 432155
+20200208-022811<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022811<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022821<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022821<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022826<INFO :0xf673db40>: receive goddess ping reply, goddess time = 452161
+20200208-022831<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022831<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022841<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022841<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022846<INFO :0xf673db40>: receive goddess ping reply, goddess time = 472205
+20200208-022851<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022851<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022901<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022901<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022906<INFO :0xf673db40>: receive goddess ping reply, goddess time = 492235
+20200208-022911<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022911<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022921<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022921<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022926<INFO :0xf673db40>: receive goddess ping reply, goddess time = 512271
+20200208-022931<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022931<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022941<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022941<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-022946<INFO :0xf673db40>: receive goddess ping reply, goddess time = 532307
+20200208-022951<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-022951<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023001<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023001<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023006<INFO :0xf673db40>: receive goddess ping reply, goddess time = 552345
+20200208-023011<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023011<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023021<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023021<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023026<INFO :0xf673db40>: receive goddess ping reply, goddess time = 572365
+20200208-023031<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023031<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023041<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023041<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023046<INFO :0xf673db40>: receive goddess ping reply, goddess time = 592400
+20200208-023052<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023052<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023102<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023102<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023106<INFO :0xf673db40>: receive goddess ping reply, goddess time = 612431
+20200208-023112<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023112<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023122<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023122<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023126<INFO :0xf673db40>: receive goddess ping reply, goddess time = 632468
+20200208-023132<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023132<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023142<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023142<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023146<INFO :0xf673db40>: receive goddess ping reply, goddess time = 652504
+20200208-023152<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023152<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023202<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023202<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023206<INFO :0xf673db40>: receive goddess ping reply, goddess time = 672537
+20200208-023212<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023212<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023222<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023222<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023227<INFO :0xf673db40>: receive goddess ping reply, goddess time = 692539
+20200208-023232<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023232<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023242<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023242<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023247<INFO :0xf673db40>: receive goddess ping reply, goddess time = 712583
+20200208-023252<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023252<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023302<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023302<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023307<INFO :0xf673db40>: receive goddess ping reply, goddess time = 732618
+20200208-023312<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023312<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023322<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023322<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023327<INFO :0xf673db40>: receive goddess ping reply, goddess time = 752659
+20200208-023332<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023332<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023342<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023342<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023347<INFO :0xf673db40>: receive goddess ping reply, goddess time = 772663
+20200208-023352<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023352<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023402<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023402<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023407<INFO :0xf673db40>: receive goddess ping reply, goddess time = 792702
+20200208-023412<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023412<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023422<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023422<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023427<INFO :0xf673db40>: receive goddess ping reply, goddess time = 812709
+20200208-023432<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023432<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023442<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023442<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023447<INFO :0xf673db40>: receive goddess ping reply, goddess time = 832752
+20200208-023452<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023452<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023502<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023502<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023507<INFO :0xf673db40>: receive goddess ping reply, goddess time = 852754
+20200208-023512<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023512<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023522<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023522<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023527<INFO :0xf673db40>: receive goddess ping reply, goddess time = 872755
+20200208-023532<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023532<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023542<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023542<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023547<INFO :0xf673db40>: receive goddess ping reply, goddess time = 892761
+20200208-023552<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023552<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023602<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023602<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023607<INFO :0xf673db40>: receive goddess ping reply, goddess time = 912806
+20200208-023612<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023612<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023622<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023622<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023627<INFO :0xf673db40>: receive goddess ping reply, goddess time = 932850
+20200208-023632<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023632<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023642<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023642<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023647<INFO :0xf673db40>: receive goddess ping reply, goddess time = 952863
+20200208-023652<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023652<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023702<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023702<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023707<INFO :0xf673db40>: receive goddess ping reply, goddess time = 972869
+20200208-023712<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023712<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023722<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023722<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023727<INFO :0xf673db40>: receive goddess ping reply, goddess time = 992911
+20200208-023732<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023732<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023742<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023742<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023747<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1012912
+20200208-023753<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023753<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023803<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023803<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023807<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1032956
+20200208-023813<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023813<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023823<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023823<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023827<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1053008
+20200208-023833<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023833<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023843<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023843<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023847<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1073050
+20200208-023853<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023853<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023903<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023903<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023907<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1093091
+20200208-023913<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023913<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023923<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023923<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023927<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1113138
+20200208-023933<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023933<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023943<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023943<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-023947<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1133168
+20200208-023953<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-023953<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024003<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024003<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024007<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1153175
+20200208-024013<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024013<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024023<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024023<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024027<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1173174
+20200208-024033<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024033<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] Player change ext point: Account = thu1 , PlayerDataIndex = 1 ... ... [OK]
+20200208-024041<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 5
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] g2b_player_leave_game() , Account thu1 
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] _LeaveGame_Normal() AccountName = thu1
+20200208-024041<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] Unregister account thu1 in game server ... ... [OK]
+20200208-024041<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20200208-024041<DEBUG:0xdb3ffb40>: [InterlockedAccountStateTable] thu1, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20200208-024041<DEBUG:0xf6f3eb40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 6
+20200208-024041<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 5
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20200208-024041<DEBUG:0xdb3ffb40>: [GameServer 0] Process ext point operate result: Account = thu1, PlayerDataIndex = 1, ResultFlag = 1 ... ... [OK]
+20200208-024041<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 6
+20200208-024047<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1193218
+20200208-024051<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024051<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024101<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024101<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024107<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1213262
+20200208-024111<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024111<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024121<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024121<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024127<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1233310
+20200208-024131<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024131<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024141<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024141<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024147<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1253360
+20200208-024151<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024151<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024201<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024201<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024207<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1273400
+20200208-024211<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024211<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024221<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024221<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024227<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1293437
+20200208-024231<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024231<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024241<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024241<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024247<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1313445
+20200208-024251<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024251<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024301<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024301<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024307<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1333483
+20200208-024312<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024312<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024321<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024321<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024328<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1353535
+20200208-024332<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024332<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024342<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024342<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024348<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1373536
+20200208-024352<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024352<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024402<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024402<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024408<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1393575
+20200208-024412<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024412<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024422<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024422<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024428<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1413580
+20200208-024432<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024432<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024442<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024442<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024448<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1433623
+20200208-024452<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024452<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024502<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024502<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024508<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1453668
+20200208-024512<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024512<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024522<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024522<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024528<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1473721
+20200208-024532<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024532<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024542<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024542<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024548<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1493764
+20200208-024552<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024552<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024602<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024602<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024608<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1513766
+20200208-024612<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024612<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024622<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024622<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024628<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1533801
+20200208-024632<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024632<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024642<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024642<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024648<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1553847
+20200208-024652<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024652<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024702<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024702<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024708<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1573882
+20200208-024712<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024712<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024722<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024722<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024728<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1593922
+20200208-024732<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024732<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024742<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024742<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024748<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1613974
+20200208-024752<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024752<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024802<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024802<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024808<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1634014
+20200208-024812<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024812<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024822<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024822<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024828<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1654056
+20200208-024832<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024832<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024842<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024842<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024848<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1674097
+20200208-024852<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024852<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024902<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024902<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024908<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1694133
+20200208-024912<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024912<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024922<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024922<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024928<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1714137
+20200208-024932<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024932<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024942<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024942<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-024948<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1734185
+20200208-024952<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-024952<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025002<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025002<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025008<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1754229
+20200208-025012<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025012<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025023<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025023<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025028<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1774232
+20200208-025033<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025033<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025043<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025043<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025048<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1794229
+20200208-025053<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025053<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025103<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025103<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025108<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1814281
+20200208-025113<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025113<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025123<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025123<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025128<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1834286
+20200208-025133<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025133<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025143<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025143<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025148<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1854286
+20200208-025153<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025153<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025203<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025203<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025208<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1874282
+20200208-025213<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025213<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025223<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025223<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025228<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1894294
+20200208-025233<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025233<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025243<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025243<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025248<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1914332
+20200208-025253<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025253<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025303<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025303<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025308<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1934341
+20200208-025313<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025313<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025323<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025323<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025328<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1954387
+20200208-025333<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025333<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025343<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025343<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025348<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1974436
+20200208-025353<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025353<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025403<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025403<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025408<INFO :0xf673db40>: receive goddess ping reply, goddess time = 1994450
+20200208-025413<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025413<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025423<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025423<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025428<INFO :0xf673db40>: receive goddess ping reply, goddess time = 2014452
+20200208-025433<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025433<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025443<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025443<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025449<INFO :0xf673db40>: receive goddess ping reply, goddess time = 2034498
+20200208-025453<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025453<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025503<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025503<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025509<INFO :0xf673db40>: receive goddess ping reply, goddess time = 2054551
+20200208-025513<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025513<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025523<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025523<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025529<INFO :0xf673db40>: receive goddess ping reply, goddess time = 2074585
+20200208-025533<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025533<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-025543<DEBUG:0xf6f3eb40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200208-025543<DEBUG:0xf6f3eb40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200208-235832<DEBUG:0xf673db40>: KGLOG_PROCESS_ERROR(nRetCode) at line 397 in ReceivePackages
+20200208-235832<INFO :0xf673db40>: [Goddess] Logout() nResult = 1
+20200208-235832<INFO :0xf673db40>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0xda800858
+20200208-235832<INFO :0xf673db40>: [Goddess] Login() nResult = 1
+20200208-235832<INFO :0xf673db40>: [Goddess] Reconnect() nResult = 1
+20200208-235836<INFO :0xf673db40>: receive goddess ping reply, goddess time = 2094593
+20200208-235837<INFO :0xdb3ffb40>: [GameServer 0] from [127.0.0.1 : 40906] === crashed ===
+20200208-235837<DEBUG:0xdb3ffb40>: KGLOG_PROCESS_ERROR(FALSE) at line 2896 in ThreadFunction
+20200208-235837<INFO :0xdb3ffb40>: [GameServer 0] from [127.0.0.1 : 40906] === End ===
+20200208-235837<INFO :0xdb3ffb40>: [GameServer 0] unlock  accounts in game server,count=0 

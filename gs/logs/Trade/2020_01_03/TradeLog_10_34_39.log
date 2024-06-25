@@ -1,0 +1,5 @@
+20200103-103439	Key	Action	Acc1	Role1	Lv1	Tong1	Num1	Map1	PosX	PosY	Acc2	Role2	Lv2	Tong2	Num2	Map2	Pos2X	Pos2Y	ItemName	ItemG	ItemD	IitemP	ItemDur	ItemSeed	GenTime	Socket1	Socket2	Socket3	EnhanceTimes	Place	X	Y
+20200103-103700	ItemAdd	IBShop	thuong	EopiThuong	1		1	100	1369	2897			0		0	0	0	0	Hﬂa Thﬁ B›ch	2	1	1001	1	-771400904	2020-01-03 10:37:00	0	0	0	0	2	1	1
+20200103-103713	ItemAdd	IBShop	thuong	EopiThuong	1		1	100	1369	2897			0		0	0	0	0	Bµn Long b›ch	2	1	1000	1	1617711187	2020-01-03 10:37:13	0	0	0	0	2	2	1
+20200103-103716	ItemConsume	ExpendIdx	thuong	EopiThuong	1		1	100	1369	2897			0		0	0	0	0	Bµn Long b›ch	2	1	1000	1	1617711187	2020-01-03 10:37:13	0	0	0	0	2	2	1
+20200103-103716	large_str	Pay[/script/item/item_billing/panlongbi.lua|open_panlongbi]			0		1758857442	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1

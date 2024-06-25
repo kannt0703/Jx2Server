@@ -1,0 +1,3 @@
+killall -9 SO2RelayD
+./SO2RelayD start --daemon
+

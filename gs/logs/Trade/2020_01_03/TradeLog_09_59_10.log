@@ -1,0 +1,9 @@
+20200103-095910	Key	Action	Acc1	Role1	Lv1	Tong1	Num1	Map1	PosX	PosY	Acc2	Role2	Lv2	Tong2	Num2	Map2	Pos2X	Pos2Y	ItemName	ItemG	ItemD	IitemP	ItemDur	ItemSeed	GenTime	Socket1	Socket2	Socket3	EnhanceTimes	Place	X	Y
+20200103-100026	large_str	AddItem[/script/global/playerloginin.lua|main]			0		2471460818	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200103-100026	ItemAdd	2471460818	thuong	EopiThuong	1		1	100	1445	2802			0		0	0	0	0	S­ §å ThiÕp	2	1	587	1	-443542757	2020-01-03 10:00:26	1073676288	1073676288	1073676288	0	-1	-1	-1
+20200103-100026	ItemAdd	2471460818	thuong	EopiThuong	1		1	100	1445	2802			0		0	0	0	0	CÈm Nang §¹i Sù KiÖn	2	1	30045	1	1030675832	2020-01-03 10:00:26	1073676288	1073676288	1073676288	0	-1	-1	-1
+20200103-100026	ItemAdd	2471460818	thuong	EopiThuong	1		1	100	1445	2802			0		0	0	0	0	NguyÖt L­îng Thè luy	2	0	1043	1	-505157099	2020-01-03 10:00:26	1073676288	1073676288	1073676288	0	-1	-1	-1
+20200103-100026	ItemAdd	2471460818	thuong	EopiThuong	1		1	100	1445	2802			0		0	0	0	0	TiÕu ng¹o giang hå l	2	1	30240	1	318357137	2020-01-03 10:00:26	1073676288	1073676288	1073676288	0	-1	-1	-1
+20200103-100026	large_str	AddItem[/script/misc/observer/observer.lua|NoFunc]			0		207423358	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200103-100026	ItemAdd	207423358	thuong	EopiThuong	1		1	100	1445	2802			0		0	0	0	0	GM Item	2	1	30644	1	-1906734717	2020-01-03 10:00:26	1073676288	1073676288	1073676288	0	-1	-1	-1
+20200103-100027	large_str	AddItem[/script/global/playerloginin.lua|_never_show_login_message]			0		1866858960	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1

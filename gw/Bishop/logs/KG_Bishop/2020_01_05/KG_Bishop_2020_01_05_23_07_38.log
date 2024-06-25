@@ -1,0 +1,216 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20200105-230738<INFO :0xf73ad700>: [verify_up2date]...
+20200105-230738<INFO :0xf73ad700>: >Current lang is [gb18030]
+20200105-230738<INFO :0xf73ad700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200105-230738<INFO :0xf73ad700>: >Time duration: 10.283993ms 
+20200105-230738<INFO :0xf73ad700>: >
+20200105-230738<INFO :0xf73ad700>: >Finish, my exit code is: 0
+20200105-230738<INFO :0xf73ad700>: |shell cmd result is 0
+20200105-230738<INFO :0xf73ad700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20200105-230738<INFO :0xf73ad700>: [verify_up2date] ok
+20200105-230738<INFO :0xf73ad700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20200105-230738<INFO :0xf73ad700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20200105-230738<INFO :0xf73ad700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x97cb030
+20200105-230738<INFO :0xf73ad700>: [Local machine info] InternalMacAddress: 00-0c-29-c0-30-ca, InternalIPAddress: 192.168.70.100
+20200105-230738<INFO :0xf73ad700>: [Local machine info] ExternalMacAddress: 00-0c-29-c0-30-ca, ExternalIPAddress: 192.168.70.100
+20200105-230738<DEBUG:0xf73ad700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20200105-230738<DEBUG:0xf73ad700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20200105-230738<INFO :0xf73ad700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20200105-230738<INFO :0xf73ad700>: [Paysys] Login() nResult = 1
+20200105-230738<INFO :0xf73ad700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x97cb340
+20200105-230738<INFO :0xf73ad700>: [Goddess] Login() nResult = 1
+20200105-230738<INFO :0xf73ad700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20200105-230738<INFO :0xf73ad700>: [PlayerManager] Init() Acceptor Open(192.168.70.100: 5622), nRetCode = 1
+20200105-230739<INFO :0xf5f20b40>: [Relay] ThreadFunction() Accept from (127.0.0.1: 49258) SocketStream = 0xdb5004c8
+20200105-230739<INFO :0xf5f20b40>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20200105-230748<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230748<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230754<INFO :0xf571fb40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 39086) SocketStream = 0xdb4004c8
+20200105-230754<INFO :0xdb2ffb40>: [GameServer 0] Connected from 127.0.0.1, internet address = 192.168.70.100, open port = 6661, protocol version (341-->345)
+20200105-230754<DEBUG:0xdb2ffb40>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20200105-230754<INFO :0xdb2ffb40>: [GameServer 0] from [127.0.0.1 : 44696] === Start ===
+20200105-230754<DEBUG:0xf5f20b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1001; Key = 1
+20200105-230754<INFO :0xdb2ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20200105-230757<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2229586
+20200105-230757<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230757<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230807<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230807<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230817<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2249592
+20200105-230817<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230817<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230827<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230827<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230837<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2269624
+20200105-230837<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230837<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230847<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230847<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230848<DEBUG:0xf0715b40>: [Player 9] ThreadFunction() Accept from (192.168.70.1 : 58222) SocketStream = 0xdb3004c8
+20200105-230848<DEBUG:0xf0715b40>: [Player 9] Account tinykidpro login bishop ... ... [OK]
+20200105-230848<DEBUG:0xf0715b40>: [InterlockedAccountStateTable] tinykidpro, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20200105-230848<DEBUG:0xf0715b40>: [Player 9] Push request package into paysys module OK, package id = 1, cost time 0 ms
+20200105-230848<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 1
+20200105-230849<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 1
+20200105-230849<DEBUG:0xf0715b40>: [Player 9] Pop respond package from paysys module OK, package id = 1, cost time 659 ms
+20200105-230849<DEBUG:0xf0715b40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20200105-230849<INFO :0xf0715b40>: [Player 9] Player verify to paysys, result = 1, Account tinykidpro
+20200105-230849<INFO :0xf0715b40>: [Player 9] Account tinykidpro EndOfDayTime = 2344061179, LeftTimeOfPoint = 4294967295, TotalLeftTime = 765820649
+20200105-230849<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20200105-230850<DEBUG:0xf6721b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 22; Key = 1
+20200105-230850<DEBUG:0xf6721b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 1
+20200105-230851<DEBUG:0xf0715b40>: [Player 9] ProcessRoleList() RoleCount = 2!
+20200105-230859<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230859<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230908<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230908<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230910<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2302181
+20200105-230919<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230919<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230927<DEBUG:0xf0715b40>: [Player 9] ReadPlayerRequest() Protocol = 35, Size = 37!
+20200105-230927<DEBUG:0xf0715b40>: [Player 9] EnterGame_QueryRoleData() RoleName = demooooooooo
+20200105-230927<DEBUG:0xf6721b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 23; Key = 2
+20200105-230927<DEBUG:0xf6721b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2296; Key = 2
+20200105-230928<DEBUG:0xf0715b40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20200105-230928<DEBUG:0xf0715b40>: [Player 9] Request enter game: ask for permission, account = tinykidpro, role name = demooooooooo ... ... [OK]
+20200105-230928<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2394; Key = 2
+20200105-230929<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_login_permission() , Account = tinykidpro, Role = demooooooooo, Permit = true
+20200105-230929<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230929<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230930<DEBUG:0xf0715b40>: [Player 9] Notify player login game: ip = 192.168.70.100, port = 6661, account = tinykidpro, role = demooooooooo
+20200105-230930<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_enter_game() AccountName = tinykidpro
+20200105-230939<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230939<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230947<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2339254
+20200105-230949<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-230949<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] Player change ext point: Account = tinykidpro , PlayerDataIndex = 0 ... ... [OK]
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 2
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_leave_game() , Account tinykidpro 
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] _LeaveGame_Normal() AccountName = tinykidpro
+20200105-230958<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] Unregister account tinykidpro in game server ... ... [OK]
+20200105-230958<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20200105-230958<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 3
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 2
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20200105-230958<DEBUG:0xdb2ffb40>: [GameServer 0] Process ext point operate result: Account = tinykidpro, PlayerDataIndex = 0, ResultFlag = 1 ... ... [OK]
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 3
+20200105-230958<DEBUG:0xdc6edb40>: [Player 49] ThreadFunction() Accept from (192.168.70.1 : 58226) SocketStream = 0xdb5005d0
+20200105-230958<DEBUG:0xdc6edb40>: [Player 49] Account tinykidpro login bishop ... ... [OK]
+20200105-230958<DEBUG:0xdc6edb40>: [InterlockedAccountStateTable] tinykidpro, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20200105-230958<DEBUG:0xdc6edb40>: [Player 49] Push request package into paysys module OK, package id = 4, cost time 0 ms
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 4
+20200105-230958<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 4
+20200105-230959<DEBUG:0xdc6edb40>: [Player 49] Pop respond package from paysys module OK, package id = 4, cost time 750 ms
+20200105-230959<DEBUG:0xdc6edb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20200105-230959<INFO :0xdc6edb40>: [Player 49] Player verify to paysys, result = 1, Account tinykidpro
+20200105-230959<INFO :0xdc6edb40>: [Player 49] Account tinykidpro EndOfDayTime = 2344130762, LeftTimeOfPoint = 4294967295, TotalLeftTime = 765890162
+20200105-230959<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20200105-231000<DEBUG:0xf6721b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 22; Key = 3
+20200105-231000<DEBUG:0xf6721b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 3
+20200105-231002<DEBUG:0xdc6edb40>: [Player 49] ProcessRoleList() RoleCount = 2!
+20200105-231008<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231008<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231018<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231018<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231020<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2372726
+20200105-231028<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231028<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231038<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231038<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231040<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2392750
+20200105-231048<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231048<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231058<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231058<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231100<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2412770
+20200105-231108<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231108<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231114<DEBUG:0xdc6edb40>: [Player 49] ReadPlayerRequest() Protocol = 35, Size = 37!
+20200105-231114<DEBUG:0xdc6edb40>: [Player 49] EnterGame_QueryRoleData() RoleName = demooooooooo
+20200105-231114<DEBUG:0xf6721b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 23; Key = 4
+20200105-231114<DEBUG:0xf6721b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2412; Key = 4
+20200105-231115<DEBUG:0xdc6edb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20200105-231115<DEBUG:0xdc6edb40>: [Player 49] Request enter game: ask for permission, account = tinykidpro, role name = demooooooooo ... ... [OK]
+20200105-231115<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2510; Key = 4
+20200105-231115<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_login_permission() , Account = tinykidpro, Role = demooooooooo, Permit = true
+20200105-231115<DEBUG:0xdc6edb40>: [Player 49] Notify player login game: ip = 192.168.70.100, port = 6661, account = tinykidpro, role = demooooooooo
+20200105-231115<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_enter_game() AccountName = tinykidpro
+20200105-231118<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231118<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231128<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231128<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231134<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2446163
+20200105-231139<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231139<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231149<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231149<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231154<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2466167
+20200105-231159<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231159<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231203<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 60; Size = 71; Key = 5
+20200105-231203<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 60; Size = 75; Key = 5
+20200105-231203<DEBUG:0xdb2ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 60; Size = 75
+20200105-231213<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231213<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231214<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2486184
+20200105-231223<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231223<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231233<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231233<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231234<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2506239
+20200105-231241<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 60; Size = 71; Key = 6
+20200105-231241<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 60; Size = 75; Key = 6
+20200105-231241<DEBUG:0xdb2ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 60; Size = 75
+20200105-231251<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231251<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231255<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2526247
+20200105-231301<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231301<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231311<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231311<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231315<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2546251
+20200105-231321<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231321<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231331<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231331<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231335<INFO :0xf6721b40>: receive goddess ping reply, goddess time = 2566286
+20200105-231341<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231341<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] Player change ext point: Account = tinykidpro , PlayerDataIndex = 1 ... ... [OK]
+20200105-231342<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 7
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_leave_game() , Account tinykidpro 
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] _LeaveGame_Normal() AccountName = tinykidpro
+20200105-231342<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] Unregister account tinykidpro in game server ... ... [OK]
+20200105-231342<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20200105-231342<DEBUG:0xdb2ffb40>: [InterlockedAccountStateTable] tinykidpro, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20200105-231342<DEBUG:0xf6f22b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 8
+20200105-231342<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 7
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20200105-231342<DEBUG:0xdb2ffb40>: [GameServer 0] Process ext point operate result: Account = tinykidpro, PlayerDataIndex = 1, ResultFlag = 1 ... ... [OK]
+20200105-231342<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 8
+20200105-231345<DEBUG:0xdb2ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20200105-231345<DEBUG:0xdb2ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20200105-231345<INFO :0xdb2ffb40>: [GameServer 0] from [127.0.0.1 : 44696] === End ===
+20200105-231345<INFO :0xdb2ffb40>: [GameServer 0] unlock  accounts in game server,count=0 
+20200105-231346<DEBUG:0xf5f20b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 275 in ReceivePackages
+20200105-231346<INFO :0xf5f20b40>: [Relay] === End ===
+20200105-231347<INFO :0xf73ad700>: [Bishop] Get quit signal!
+20200105-231348<DEBUG:0xf6721b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 397 in ReceivePackages
+20200105-231348<INFO :0xf6721b40>: [Goddess] Logout() nResult = 1
+20200105-231348<DEBUG:0xf6721b40>: KGLOG_PROCESS_ERROR(piSocketStream) at line 1328 in ConnectSecurity
+20200105-231348<INFO :0xf6721b40>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = (nil)
+20200105-231348<DEBUG:0xf6721b40>: KGLOG_PROCESS_ERROR(piSocketStream) at line 143 in Login
+20200105-231348<INFO :0xf6721b40>: [Goddess] Login() nResult = 0
+20200105-231352<DEBUG:0xf6f22b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200105-231352<DEBUG:0xf6f22b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200105-231358<DEBUG:0xf6721b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 249 in Reconnect
+20200105-231358<INFO :0xf6721b40>: [Goddess] Reconnect() nResult = 0
+20200105-231358<DEBUG:0xf6721b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 218 in ThreadFunction
+20200105-231358<INFO :0xf73ad700>: [Goddess] Logout() nResult = 1
+20200105-231358<INFO :0xf73ad700>: [Local machine info] InternalMacAddress: 00-0c-29-c0-30-ca, InternalIPAddress: 192.168.70.100
+20200105-231358<INFO :0xf73ad700>: [Local machine info] ExternalMacAddress: 00-0c-29-c0-30-ca, ExternalIPAddress: 192.168.70.100
+20200105-231400<INFO :0xf73ad700>: [Paysys] Logout() nResult = 1

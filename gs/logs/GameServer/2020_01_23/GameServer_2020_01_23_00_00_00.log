@@ -1,0 +1,1267 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=1342/65535 LastTime=2020-1-22 23:18:46
+20200123-000000<INFO :0xf741c700>: [SystimeTask] timetask [Ln2 00:00]  is time up [Frame 44272], execute script 297637250:{\script\task\weekend\weekend_timer.lua}
+20200123-000001<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000002<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[44304] LastFrame[43943] NewFrame[44304]
+20200123-000002<INFO :0xf741c700>: [BiShopPing] Ping return at 2664555.
+20200123-000022<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[44665] LastFrame[44304] NewFrame[44665]
+20200123-000022<INFO :0xf741c700>: [BiShopPing] Ping return at 2684645.
+20200123-000025<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[44728] LastFrame[44187] NewFrame[44728]
+20200123-000025<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2688108
+20200123-000042<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[45026] LastFrame[44665] NewFrame[45026]
+20200123-000042<INFO :0xf741c700>: [BiShopPing] Ping return at 2704671.
+20200123-000043<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000055<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[45269] LastFrame[44728] NewFrame[45269]
+20200123-000055<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2718160
+20200123-000100<INFO :0xf741c700>: [Frame debug] Frame 45360
+20200123-000100<INFO :0xf741c700>: [SystimeTask] timetask [Ln3 00:01]  is time up [Frame 45360], execute script 1242397090:{\script\online\viet_event\200912\5\init_yanhui.lua}
+20200123-000102<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[45387] LastFrame[45026] NewFrame[45387]
+20200123-000102<INFO :0xf741c700>: [BiShopPing] Ping return at 2724719.
+20200123-000122<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[45748] LastFrame[45387] NewFrame[45748]
+20200123-000122<INFO :0xf741c700>: [BiShopPing] Ping return at 2744806.
+20200123-000125<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[45810] LastFrame[45269] NewFrame[45810]
+20200123-000125<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2748217
+20200123-000140<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000142<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[46109] LastFrame[45748] NewFrame[46109]
+20200123-000142<INFO :0xf741c700>: [BiShopPing] Ping return at 2764836.
+20200123-000155<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[46351] LastFrame[45810] NewFrame[46351]
+20200123-000155<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2778268
+20200123-000200<INFO :0xf741c700>: [SystimeTask] timetask [Ln4 00:02]  is time up [Frame 46432], execute script 3113710872:{\script\½á»é\mate_timer.lua}
+20200123-000202<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[46470] LastFrame[46109] NewFrame[46470]
+20200123-000202<INFO :0xf741c700>: [BiShopPing] Ping return at 2784876.
+20200123-000222<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[46831] LastFrame[46470] NewFrame[46831]
+20200123-000222<INFO :0xf741c700>: [BiShopPing] Ping return at 2804959.
+20200123-000225<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[46892] LastFrame[46351] NewFrame[46892]
+20200123-000225<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2808324
+20200123-000242<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[47192] LastFrame[46831] NewFrame[47192]
+20200123-000242<INFO :0xf741c700>: [BiShopPing] Ping return at 2824993.
+20200123-000256<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[47433] LastFrame[46892] NewFrame[47433]
+20200123-000256<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2838371
+20200123-000300<INFO :0xf741c700>: [SystimeTask] timetask [Ln5 00:03]  is time up [Frame 47520], execute script 3583112118:{\script\²Ø½£É½×¯\task_script\ontimer_notify.lua}
+20200123-000302<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[47553] LastFrame[47192] NewFrame[47553]
+20200123-000302<INFO :0xf741c700>: [BiShopPing] Ping return at 2845079.
+20200123-000322<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[47914] LastFrame[47553] NewFrame[47914]
+20200123-000322<INFO :0xf741c700>: [BiShopPing] Ping return at 2865121.
+20200123-000326<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[47974] LastFrame[47433] NewFrame[47974]
+20200123-000326<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2868424
+20200123-000342<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[48275] LastFrame[47914] NewFrame[48275]
+20200123-000342<INFO :0xf741c700>: [BiShopPing] Ping return at 2885153.
+20200123-000348<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000356<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[48515] LastFrame[47974] NewFrame[48515]
+20200123-000356<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2898481
+20200123-000400<INFO :0xf741c700>: [Frame debug] Frame 48600
+20200123-000402<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[48636] LastFrame[48275] NewFrame[48636]
+20200123-000402<INFO :0xf741c700>: [BiShopPing] Ping return at 2905240.
+20200123-000422<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[48997] LastFrame[48636] NewFrame[48997]
+20200123-000422<INFO :0xf741c700>: [BiShopPing] Ping return at 2925280.
+20200123-000426<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[49056] LastFrame[48515] NewFrame[49056]
+20200123-000426<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2928529
+20200123-000431<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-000431<INFO :0xf741c700>:  100-TuyÒn Ch©u : 1
+20200123-000431<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-000431<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-000431<INFO :0xf741c700>: # TotalNpcCount in npc list : 28997.
+20200123-000431<INFO :0xf741c700>: # TotalItemCount in item list : 87.
+20200123-000442<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[49358] LastFrame[48997] NewFrame[49358]
+20200123-000442<INFO :0xf741c700>: [BiShopPing] Ping return at 2945319.
+20200123-000456<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[49597] LastFrame[49056] NewFrame[49597]
+20200123-000456<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2958589
+20200123-000459<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000503<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[49719] LastFrame[49358] NewFrame[49719]
+20200123-000503<INFO :0xf741c700>: [BiShopPing] Ping return at 2965402.
+20200123-000514<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000523<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[50080] LastFrame[49719] NewFrame[50080]
+20200123-000523<INFO :0xf741c700>: [BiShopPing] Ping return at 2985442.
+20200123-000526<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[50138] LastFrame[49597] NewFrame[50138]
+20200123-000526<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 2988635
+20200123-000542<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000543<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[50441] LastFrame[50080] NewFrame[50441]
+20200123-000543<INFO :0xf741c700>: [BiShopPing] Ping return at 3005476.
+20200123-000554<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-000554<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=7A93163C dwDataLen=5234
+20200123-000554<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-000603<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[50802] LastFrame[50441] NewFrame[50802]
+20200123-000603<INFO :0xf741c700>: [BiShopPing] Ping return at 3025563.
+20200123-000623<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[51163] LastFrame[50802] NewFrame[51163]
+20200123-000623<INFO :0xf741c700>: [BiShopPing] Ping return at 3045602.
+20200123-000624<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[51191] LastFrame[50650] NewFrame[51191]
+20200123-000624<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3047131
+20200123-000639<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000643<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[51524] LastFrame[51163] NewFrame[51524]
+20200123-000643<INFO :0xf741c700>: [BiShopPing] Ping return at 3065646.
+20200123-000654<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[51732] LastFrame[51191] NewFrame[51732]
+20200123-000654<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3077193
+20200123-000700<INFO :0xf741c700>: [Frame debug] Frame 51840
+20200123-000703<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[51885] LastFrame[51524] NewFrame[51885]
+20200123-000703<INFO :0xf741c700>: [BiShopPing] Ping return at 3085688.
+20200123-000707<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000723<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[52246] LastFrame[51885] NewFrame[52246]
+20200123-000723<INFO :0xf741c700>: [BiShopPing] Ping return at 3105773.
+20200123-000724<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[52273] LastFrame[51732] NewFrame[52273]
+20200123-000724<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3107240
+20200123-000743<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[52607] LastFrame[52246] NewFrame[52607]
+20200123-000743<INFO :0xf741c700>: [BiShopPing] Ping return at 3125800.
+20200123-000754<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[52814] LastFrame[52273] NewFrame[52814]
+20200123-000754<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3137295
+20200123-000803<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[52968] LastFrame[52607] NewFrame[52968]
+20200123-000803<INFO :0xf741c700>: [BiShopPing] Ping return at 3145891.
+20200123-000823<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[53329] LastFrame[52968] NewFrame[53329]
+20200123-000823<INFO :0xf741c700>: [BiShopPing] Ping return at 3165920.
+20200123-000825<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[53355] LastFrame[52814] NewFrame[53355]
+20200123-000825<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3167350
+20200123-000843<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[53690] LastFrame[53329] NewFrame[53690]
+20200123-000843<INFO :0xf741c700>: [BiShopPing] Ping return at 3186000.
+20200123-000847<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-000855<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[53896] LastFrame[53355] NewFrame[53896]
+20200123-000855<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3197400
+20200123-000903<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[54051] LastFrame[53690] NewFrame[54051]
+20200123-000903<INFO :0xf741c700>: [BiShopPing] Ping return at 3206034.
+20200123-000923<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[54412] LastFrame[54051] NewFrame[54412]
+20200123-000923<INFO :0xf741c700>: [BiShopPing] Ping return at 3226070.
+20200123-000925<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[54437] LastFrame[53896] NewFrame[54437]
+20200123-000925<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3227456
+20200123-000943<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[54773] LastFrame[54412] NewFrame[54773]
+20200123-000943<INFO :0xf741c700>: [BiShopPing] Ping return at 3246154.
+20200123-000955<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[54978] LastFrame[54437] NewFrame[54978]
+20200123-000955<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3257503
+20200123-000958<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001000<INFO :0xf741c700>: [Frame debug] Frame 55080
+20200123-001003<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[55134] LastFrame[54773] NewFrame[55134]
+20200123-001003<INFO :0xf741c700>: [BiShopPing] Ping return at 3266190.
+20200123-001023<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[55495] LastFrame[55134] NewFrame[55495]
+20200123-001023<INFO :0xf741c700>: [BiShopPing] Ping return at 3286233.
+20200123-001025<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[55519] LastFrame[54978] NewFrame[55519]
+20200123-001025<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3287560
+20200123-001043<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[55856] LastFrame[55495] NewFrame[55856]
+20200123-001043<INFO :0xf741c700>: [BiShopPing] Ping return at 3306277.
+20200123-001055<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[56060] LastFrame[55519] NewFrame[56060]
+20200123-001055<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3317609
+20200123-001104<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[56217] LastFrame[55856] NewFrame[56217]
+20200123-001104<INFO :0xf741c700>: [BiShopPing] Ping return at 3326357.
+20200123-001124<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[56578] LastFrame[56217] NewFrame[56578]
+20200123-001124<INFO :0xf741c700>: [BiShopPing] Ping return at 3346391.
+20200123-001125<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[56601] LastFrame[56060] NewFrame[56601]
+20200123-001125<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3347666
+20200123-001138<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001144<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[56939] LastFrame[56578] NewFrame[56939]
+20200123-001144<INFO :0xf741c700>: [BiShopPing] Ping return at 3366480.
+20200123-001155<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[57142] LastFrame[56601] NewFrame[57142]
+20200123-001155<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3377716
+20200123-001204<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[57300] LastFrame[56939] NewFrame[57300]
+20200123-001204<INFO :0xf741c700>: [BiShopPing] Ping return at 3386506.
+20200123-001224<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[57661] LastFrame[57300] NewFrame[57661]
+20200123-001224<INFO :0xf741c700>: [BiShopPing] Ping return at 3406551.
+20200123-001225<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[57683] LastFrame[57142] NewFrame[57683]
+20200123-001225<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3407771
+20200123-001244<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[58022] LastFrame[57661] NewFrame[58022]
+20200123-001244<INFO :0xf741c700>: [BiShopPing] Ping return at 3426637.
+20200123-001255<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[58224] LastFrame[57683] NewFrame[58224]
+20200123-001255<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3437821
+20200123-001300<INFO :0xf741c700>: [Frame debug] Frame 58320
+20200123-001304<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[58383] LastFrame[58022] NewFrame[58383]
+20200123-001304<INFO :0xf741c700>: [BiShopPing] Ping return at 3446674.
+20200123-001324<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[58744] LastFrame[58383] NewFrame[58744]
+20200123-001324<INFO :0xf741c700>: [BiShopPing] Ping return at 3466709.
+20200123-001325<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[58765] LastFrame[58224] NewFrame[58765]
+20200123-001325<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3467878
+20200123-001344<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[59105] LastFrame[58744] NewFrame[59105]
+20200123-001344<INFO :0xf741c700>: [BiShopPing] Ping return at 3486794.
+20200123-001346<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001355<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[59306] LastFrame[58765] NewFrame[59306]
+20200123-001355<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3497927
+20200123-001404<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[59466] LastFrame[59105] NewFrame[59466]
+20200123-001404<INFO :0xf741c700>: [BiShopPing] Ping return at 3506829.
+20200123-001424<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[59827] LastFrame[59466] NewFrame[59827]
+20200123-001424<INFO :0xf741c700>: [BiShopPing] Ping return at 3526868.
+20200123-001425<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[59847] LastFrame[59306] NewFrame[59847]
+20200123-001425<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3527977
+20200123-001428<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001444<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[60188] LastFrame[59827] NewFrame[60188]
+20200123-001444<INFO :0xf741c700>: [BiShopPing] Ping return at 3546924.
+20200123-001455<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[60388] LastFrame[59847] NewFrame[60388]
+20200123-001455<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3558036
+20200123-001457<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001504<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[60549] LastFrame[60188] NewFrame[60549]
+20200123-001504<INFO :0xf741c700>: [BiShopPing] Ping return at 3566994.
+20200123-001524<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[60910] LastFrame[60549] NewFrame[60910]
+20200123-001524<INFO :0xf741c700>: [BiShopPing] Ping return at 3587034.
+20200123-001525<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[60929] LastFrame[60388] NewFrame[60929]
+20200123-001525<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3588086
+20200123-001539<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001544<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[61271] LastFrame[60910] NewFrame[61271]
+20200123-001544<INFO :0xf741c700>: [BiShopPing] Ping return at 3607081.
+20200123-001555<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[61470] LastFrame[60929] NewFrame[61470]
+20200123-001555<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3618141
+20200123-001600<INFO :0xf741c700>: [Frame debug] Frame 61560
+20200123-001604<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[61632] LastFrame[61271] NewFrame[61632]
+20200123-001604<INFO :0xf741c700>: [BiShopPing] Ping return at 3627177.
+20200123-001624<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[61993] LastFrame[61632] NewFrame[61993]
+20200123-001624<INFO :0xf741c700>: [BiShopPing] Ping return at 3647216.
+20200123-001625<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[62011] LastFrame[61470] NewFrame[62011]
+20200123-001625<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3648196
+20200123-001636<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001644<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[62354] LastFrame[61993] NewFrame[62354]
+20200123-001644<INFO :0xf741c700>: [BiShopPing] Ping return at 3667265.
+20200123-001655<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[62552] LastFrame[62011] NewFrame[62552]
+20200123-001655<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3678245
+20200123-001705<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[62715] LastFrame[62354] NewFrame[62715]
+20200123-001705<INFO :0xf741c700>: [BiShopPing] Ping return at 3687309.
+20200123-001705<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001725<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[63076] LastFrame[62715] NewFrame[63076]
+20200123-001725<INFO :0xf741c700>: [BiShopPing] Ping return at 3707398.
+20200123-001726<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[63093] LastFrame[62552] NewFrame[63093]
+20200123-001726<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3708301
+20200123-001733<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-001745<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[63437] LastFrame[63076] NewFrame[63437]
+20200123-001745<INFO :0xf741c700>: [BiShopPing] Ping return at 3727433.
+20200123-001756<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[63634] LastFrame[63093] NewFrame[63634]
+20200123-001756<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3738353
+20200123-001805<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[63798] LastFrame[63437] NewFrame[63798]
+20200123-001805<INFO :0xf741c700>: [BiShopPing] Ping return at 3747467.
+20200123-001825<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[64159] LastFrame[63798] NewFrame[64159]
+20200123-001825<INFO :0xf741c700>: [BiShopPing] Ping return at 3767555.
+20200123-001826<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[64175] LastFrame[63634] NewFrame[64175]
+20200123-001826<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3768402
+20200123-001845<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[64520] LastFrame[64159] NewFrame[64520]
+20200123-001845<INFO :0xf741c700>: [BiShopPing] Ping return at 3787592.
+20200123-001856<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[64716] LastFrame[64175] NewFrame[64716]
+20200123-001856<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3798459
+20200123-001900<INFO :0xf741c700>: [Frame debug] Frame 64800
+20200123-001905<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[64881] LastFrame[64520] NewFrame[64881]
+20200123-001905<INFO :0xf741c700>: [BiShopPing] Ping return at 3807633.
+20200123-001924<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[65242] LastFrame[64881] NewFrame[65242]
+20200123-001924<INFO :0xf741c700>: [BiShopPing] Ping return at 3826818.
+20200123-001925<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[65257] LastFrame[64716] NewFrame[65257]
+20200123-001925<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3827627
+20200123-001940<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-001940<INFO :0xf741c700>:  100-TuyÒn Ch©u : 1
+20200123-001940<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-001940<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-001940<INFO :0xf741c700>: # TotalNpcCount in npc list : 28997.
+20200123-001940<INFO :0xf741c700>: # TotalItemCount in item list : 99.
+20200123-001944<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[65603] LastFrame[65242] NewFrame[65603]
+20200123-001944<INFO :0xf741c700>: [BiShopPing] Ping return at 3846859.
+20200123-001955<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[65798] LastFrame[65257] NewFrame[65798]
+20200123-001955<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3857674
+20200123-002004<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[65964] LastFrame[65603] NewFrame[65964]
+20200123-002004<INFO :0xf741c700>: [BiShopPing] Ping return at 3866898.
+20200123-002024<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[66325] LastFrame[65964] NewFrame[66325]
+20200123-002024<INFO :0xf741c700>: [BiShopPing] Ping return at 3886978.
+20200123-002025<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[66339] LastFrame[65798] NewFrame[66339]
+20200123-002025<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3887724
+20200123-002037<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002044<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[66686] LastFrame[66325] NewFrame[66686]
+20200123-002044<INFO :0xf741c700>: [BiShopPing] Ping return at 3907013.
+20200123-002053<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-002053<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=FF8EF4B2 dwDataLen=3848
+20200123-002053<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-002104<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[67047] LastFrame[66686] NewFrame[67047]
+20200123-002104<INFO :0xf741c700>: [BiShopPing] Ping return at 3927099.
+20200123-002120<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002123<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[67392] LastFrame[66851] NewFrame[67392]
+20200123-002123<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3946229
+20200123-002124<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[67408] LastFrame[67047] NewFrame[67408]
+20200123-002124<INFO :0xf741c700>: [BiShopPing] Ping return at 3947137.
+20200123-002144<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[67769] LastFrame[67408] NewFrame[67769]
+20200123-002144<INFO :0xf741c700>: [BiShopPing] Ping return at 3967173.
+20200123-002148<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002154<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[67933] LastFrame[67392] NewFrame[67933]
+20200123-002154<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 3976271
+20200123-002159<INFO :0xf741c700>: [Frame debug] Frame 68040
+20200123-002204<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[68130] LastFrame[67769] NewFrame[68130]
+20200123-002204<INFO :0xf741c700>: [BiShopPing] Ping return at 3987257.
+20200123-002224<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[68474] LastFrame[67933] NewFrame[68474]
+20200123-002224<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4006327
+20200123-002225<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[68491] LastFrame[68130] NewFrame[68491]
+20200123-002225<INFO :0xf741c700>: [BiShopPing] Ping return at 4007301.
+20200123-002245<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[68852] LastFrame[68491] NewFrame[68852]
+20200123-002245<INFO :0xf741c700>: [BiShopPing] Ping return at 4027332.
+20200123-002254<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[69015] LastFrame[68474] NewFrame[69015]
+20200123-002254<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4036388
+20200123-002305<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[69213] LastFrame[68852] NewFrame[69213]
+20200123-002305<INFO :0xf741c700>: [BiShopPing] Ping return at 4047424.
+20200123-002324<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[69556] LastFrame[69015] NewFrame[69556]
+20200123-002324<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4066436
+20200123-002325<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[69574] LastFrame[69213] NewFrame[69574]
+20200123-002325<INFO :0xf741c700>: [BiShopPing] Ping return at 4067463.
+20200123-002342<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002345<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[69935] LastFrame[69574] NewFrame[69935]
+20200123-002345<INFO :0xf741c700>: [BiShopPing] Ping return at 4087504.
+20200123-002354<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[70097] LastFrame[69556] NewFrame[70097]
+20200123-002354<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4096487
+20200123-002405<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[70296] LastFrame[69935] NewFrame[70296]
+20200123-002405<INFO :0xf741c700>: [BiShopPing] Ping return at 4107539.
+20200123-002424<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[70638] LastFrame[70097] NewFrame[70638]
+20200123-002424<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4126541
+20200123-002425<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[70657] LastFrame[70296] NewFrame[70657]
+20200123-002425<INFO :0xf741c700>: [BiShopPing] Ping return at 4127625.
+20200123-002445<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[71018] LastFrame[70657] NewFrame[71018]
+20200123-002445<INFO :0xf741c700>: [BiShopPing] Ping return at 4147659.
+20200123-002454<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[71179] LastFrame[70638] NewFrame[71179]
+20200123-002454<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4156595
+20200123-002459<INFO :0xf741c700>: [Frame debug] Frame 71280
+20200123-002505<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[71379] LastFrame[71018] NewFrame[71379]
+20200123-002505<INFO :0xf741c700>: [BiShopPing] Ping return at 4167742.
+20200123-002507<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002524<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[71720] LastFrame[71179] NewFrame[71720]
+20200123-002524<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4186650
+20200123-002525<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[71740] LastFrame[71379] NewFrame[71740]
+20200123-002525<INFO :0xf741c700>: [BiShopPing] Ping return at 4187771.
+20200123-002536<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002545<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[72101] LastFrame[71740] NewFrame[72101]
+20200123-002545<INFO :0xf741c700>: [BiShopPing] Ping return at 4207809.
+20200123-002550<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002554<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[72261] LastFrame[71720] NewFrame[72261]
+20200123-002554<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4216700
+20200123-002605<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[72462] LastFrame[72101] NewFrame[72462]
+20200123-002605<INFO :0xf741c700>: [BiShopPing] Ping return at 4227888.
+20200123-002619<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002624<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[72802] LastFrame[72261] NewFrame[72802]
+20200123-002624<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4246751
+20200123-002625<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[72823] LastFrame[72462] NewFrame[72823]
+20200123-002625<INFO :0xf741c700>: [BiShopPing] Ping return at 4247933.
+20200123-002645<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[73184] LastFrame[72823] NewFrame[73184]
+20200123-002645<INFO :0xf741c700>: [BiShopPing] Ping return at 4268010.
+20200123-002654<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[73343] LastFrame[72802] NewFrame[73343]
+20200123-002654<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4276808
+20200123-002705<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[73545] LastFrame[73184] NewFrame[73545]
+20200123-002705<INFO :0xf741c700>: [BiShopPing] Ping return at 4288045.
+20200123-002715<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002724<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[73884] LastFrame[73343] NewFrame[73884]
+20200123-002724<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4306863
+20200123-002725<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[73906] LastFrame[73545] NewFrame[73906]
+20200123-002725<INFO :0xf741c700>: [BiShopPing] Ping return at 4308083.
+20200123-002745<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[74267] LastFrame[73906] NewFrame[74267]
+20200123-002745<INFO :0xf741c700>: [BiShopPing] Ping return at 4328172.
+20200123-002754<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[74425] LastFrame[73884] NewFrame[74425]
+20200123-002754<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4336919
+20200123-002758<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002759<INFO :0xf741c700>: [Frame debug] Frame 74520
+20200123-002805<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[74628] LastFrame[74267] NewFrame[74628]
+20200123-002805<INFO :0xf741c700>: [BiShopPing] Ping return at 4348211.
+20200123-002812<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002824<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[74966] LastFrame[74425] NewFrame[74966]
+20200123-002824<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4366965
+20200123-002826<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[74989] LastFrame[74628] NewFrame[74989]
+20200123-002826<INFO :0xf741c700>: [BiShopPing] Ping return at 4368245.
+20200123-002841<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1800]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[200:BiÖn Kinh].[28832:Th­¬ng nh©n T©y Vùc].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29004:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29005:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29006:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29007:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29008:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29009:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29010:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29011:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29012:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29013:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29014:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29015:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29016:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29017:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29018:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29019:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29020:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29021:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29022:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29023:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29024:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29025:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29026:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29027:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29028:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29029:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29030:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29031:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29032:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29033:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29034:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29035:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29036:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29037:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29038:D­îc Nh©n Th¶o].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29039:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29040:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29041:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29042:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29043:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29044:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29045:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29046:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29047:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29048:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29049:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29050:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29051:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29052:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29053:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29054:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29055:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29056:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29057:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29058:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29059:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29060:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29061:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29062:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29063:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29064:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29065:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29066:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29067:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29068:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29069:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29070:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29071:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29072:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29073:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29074:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29075:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29076:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29077:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29078:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29079:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29080:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29081:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29082:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29083:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29084:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29085:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29086:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29087:TÝch D­¬ng c¨n].
+20200123-002843<ERROR:0xf741c700>: [Script] [1961737226, 1500]{/script/lib/globalcallback.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29088:TÝch D­¬ng c¨n].
+20200123-002846<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[75350] LastFrame[74989] NewFrame[75350]
+20200123-002846<INFO :0xf741c700>: [BiShopPing] Ping return at 4388326.
+20200123-002854<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[75507] LastFrame[74966] NewFrame[75507]
+20200123-002854<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4397027
+20200123-002906<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[75711] LastFrame[75350] NewFrame[75711]
+20200123-002906<INFO :0xf741c700>: [BiShopPing] Ping return at 4408369.
+20200123-002924<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[76048] LastFrame[75507] NewFrame[76048]
+20200123-002924<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4427072
+20200123-002926<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[76072] LastFrame[75711] NewFrame[76072]
+20200123-002926<INFO :0xf741c700>: [BiShopPing] Ping return at 4428443.
+20200123-002946<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[76433] LastFrame[76072] NewFrame[76433]
+20200123-002946<INFO :0xf741c700>: [BiShopPing] Ping return at 4448478.
+20200123-002954<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[76589] LastFrame[76048] NewFrame[76589]
+20200123-002954<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4457124
+20200123-003006<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[76794] LastFrame[76433] NewFrame[76794]
+20200123-003006<INFO :0xf741c700>: [BiShopPing] Ping return at 4468515.
+20200123-003006<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003024<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[77130] LastFrame[76589] NewFrame[77130]
+20200123-003024<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4487185
+20200123-003026<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[77155] LastFrame[76794] NewFrame[77155]
+20200123-003026<INFO :0xf741c700>: [BiShopPing] Ping return at 4488600.
+20200123-003046<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[77516] LastFrame[77155] NewFrame[77516]
+20200123-003046<INFO :0xf741c700>: [BiShopPing] Ping return at 4508643.
+20200123-003049<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003055<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[77671] LastFrame[77130] NewFrame[77671]
+20200123-003055<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4517234
+20200123-003059<INFO :0xf741c700>: [Frame debug] Frame 77760
+20200123-003106<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[77877] LastFrame[77516] NewFrame[77877]
+20200123-003106<INFO :0xf741c700>: [BiShopPing] Ping return at 4528723.
+20200123-003117<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003125<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[78212] LastFrame[77671] NewFrame[78212]
+20200123-003125<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4547289
+20200123-003126<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[78238] LastFrame[77877] NewFrame[78238]
+20200123-003126<INFO :0xf741c700>: [BiShopPing] Ping return at 4548769.
+20200123-003146<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003146<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[78599] LastFrame[78238] NewFrame[78599]
+20200123-003146<INFO :0xf741c700>: [BiShopPing] Ping return at 4568797.
+20200123-003155<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[78753] LastFrame[78212] NewFrame[78753]
+20200123-003155<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4577344
+20200123-003206<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[78960] LastFrame[78599] NewFrame[78960]
+20200123-003206<INFO :0xf741c700>: [BiShopPing] Ping return at 4588837.
+20200123-003225<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[79294] LastFrame[78753] NewFrame[79294]
+20200123-003225<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4607396
+20200123-003226<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[79321] LastFrame[78960] NewFrame[79321]
+20200123-003226<INFO :0xf741c700>: [BiShopPing] Ping return at 4608928.
+20200123-003246<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[79682] LastFrame[79321] NewFrame[79682]
+20200123-003246<INFO :0xf741c700>: [BiShopPing] Ping return at 4628972.
+20200123-003255<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[79835] LastFrame[79294] NewFrame[79835]
+20200123-003255<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4637446
+20200123-003306<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[80043] LastFrame[79682] NewFrame[80043]
+20200123-003306<INFO :0xf741c700>: [BiShopPing] Ping return at 4649010.
+20200123-003325<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[80376] LastFrame[79835] NewFrame[80376]
+20200123-003325<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4667501
+20200123-003326<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[80404] LastFrame[80043] NewFrame[80404]
+20200123-003326<INFO :0xf741c700>: [BiShopPing] Ping return at 4669055.
+20200123-003339<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003346<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[80765] LastFrame[80404] NewFrame[80765]
+20200123-003346<INFO :0xf741c700>: [BiShopPing] Ping return at 4689140.
+20200123-003355<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[80917] LastFrame[80376] NewFrame[80917]
+20200123-003355<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4697556
+20200123-003359<INFO :0xf741c700>: [Frame debug] Frame 81000
+20200123-003406<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[81126] LastFrame[80765] NewFrame[81126]
+20200123-003406<INFO :0xf741c700>: [BiShopPing] Ping return at 4709178.
+20200123-003425<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[81458] LastFrame[80917] NewFrame[81458]
+20200123-003425<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4727609
+20200123-003427<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[81487] LastFrame[81126] NewFrame[81487]
+20200123-003427<INFO :0xf741c700>: [BiShopPing] Ping return at 4729216.
+20200123-003436<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003447<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[81848] LastFrame[81487] NewFrame[81848]
+20200123-003447<INFO :0xf741c700>: [BiShopPing] Ping return at 4749304.
+20200123-003451<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-003451<INFO :0xf741c700>:  100-TuyÒn Ch©u : 1
+20200123-003451<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-003451<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-003451<INFO :0xf741c700>: # TotalNpcCount in npc list : 29083.
+20200123-003451<INFO :0xf741c700>: # TotalItemCount in item list : 134.
+20200123-003451<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003455<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[81999] LastFrame[81458] NewFrame[81999]
+20200123-003455<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4757657
+20200123-003507<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[82209] LastFrame[81848] NewFrame[82209]
+20200123-003507<INFO :0xf741c700>: [BiShopPing] Ping return at 4769339.
+20200123-003525<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[82540] LastFrame[81999] NewFrame[82540]
+20200123-003525<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4787717
+20200123-003527<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[82570] LastFrame[82209] NewFrame[82570]
+20200123-003527<INFO :0xf741c700>: [BiShopPing] Ping return at 4789416.
+20200123-003547<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[82931] LastFrame[82570] NewFrame[82931]
+20200123-003547<INFO :0xf741c700>: [BiShopPing] Ping return at 4809456.
+20200123-003547<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003553<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-003553<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=636DF160 dwDataLen=4100
+20200123-003553<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-003602<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003607<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[83292] LastFrame[82931] NewFrame[83292]
+20200123-003607<INFO :0xf741c700>: [BiShopPing] Ping return at 4829501.
+20200123-003624<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[83593] LastFrame[83052] NewFrame[83593]
+20200123-003624<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4846212
+20200123-003627<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[83653] LastFrame[83292] NewFrame[83653]
+20200123-003627<INFO :0xf741c700>: [BiShopPing] Ping return at 4849585.
+20200123-003647<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[84014] LastFrame[83653] NewFrame[84014]
+20200123-003647<INFO :0xf741c700>: [BiShopPing] Ping return at 4869623.
+20200123-003654<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[84134] LastFrame[83593] NewFrame[84134]
+20200123-003654<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4876261
+20200123-003659<INFO :0xf741c700>: [Frame debug] Frame 84240
+20200123-003707<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[84375] LastFrame[84014] NewFrame[84375]
+20200123-003707<INFO :0xf741c700>: [BiShopPing] Ping return at 4889659.
+20200123-003724<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[84675] LastFrame[84134] NewFrame[84675]
+20200123-003724<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4906315
+20200123-003727<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[84736] LastFrame[84375] NewFrame[84736]
+20200123-003727<INFO :0xf741c700>: [BiShopPing] Ping return at 4909747.
+20200123-003747<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[85097] LastFrame[84736] NewFrame[85097]
+20200123-003747<INFO :0xf741c700>: [BiShopPing] Ping return at 4929782.
+20200123-003754<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[85216] LastFrame[84675] NewFrame[85216]
+20200123-003754<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4936371
+20200123-003755<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-003807<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[85458] LastFrame[85097] NewFrame[85458]
+20200123-003807<INFO :0xf741c700>: [BiShopPing] Ping return at 4949815.
+20200123-003824<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[85757] LastFrame[85216] NewFrame[85757]
+20200123-003824<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4966423
+20200123-003827<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[85819] LastFrame[85458] NewFrame[85819]
+20200123-003827<INFO :0xf741c700>: [BiShopPing] Ping return at 4969861.
+20200123-003847<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[86180] LastFrame[85819] NewFrame[86180]
+20200123-003847<INFO :0xf741c700>: [BiShopPing] Ping return at 4989952.
+20200123-003854<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[86298] LastFrame[85757] NewFrame[86298]
+20200123-003854<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 4996477
+20200123-003907<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[86541] LastFrame[86180] NewFrame[86541]
+20200123-003907<INFO :0xf741c700>: [BiShopPing] Ping return at 5009981.
+20200123-003924<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[86839] LastFrame[86298] NewFrame[86839]
+20200123-003924<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5026529
+20200123-003927<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[86902] LastFrame[86541] NewFrame[86902]
+20200123-003927<INFO :0xf741c700>: [BiShopPing] Ping return at 5030070.
+20200123-003947<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[87263] LastFrame[86902] NewFrame[87263]
+20200123-003947<INFO :0xf741c700>: [BiShopPing] Ping return at 5050103.
+20200123-003954<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[87380] LastFrame[86839] NewFrame[87380]
+20200123-003954<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5056582
+20200123-003959<INFO :0xf741c700>: [Frame debug] Frame 87480
+20200123-004007<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[87624] LastFrame[87263] NewFrame[87624]
+20200123-004007<INFO :0xf741c700>: [BiShopPing] Ping return at 5070150.
+20200123-004024<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[87921] LastFrame[87380] NewFrame[87921]
+20200123-004024<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5086632
+20200123-004028<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[87985] LastFrame[87624] NewFrame[87985]
+20200123-004028<INFO :0xf741c700>: [BiShopPing] Ping return at 5090191.
+20200123-004048<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[88346] LastFrame[87985] NewFrame[88346]
+20200123-004048<INFO :0xf741c700>: [BiShopPing] Ping return at 5110277.
+20200123-004054<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[88462] LastFrame[87921] NewFrame[88462]
+20200123-004054<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5116690
+20200123-004108<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[88707] LastFrame[88346] NewFrame[88707]
+20200123-004108<INFO :0xf741c700>: [BiShopPing] Ping return at 5130314.
+20200123-004124<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[89003] LastFrame[88462] NewFrame[89003]
+20200123-004124<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5146738
+20200123-004128<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[89068] LastFrame[88707] NewFrame[89068]
+20200123-004128<INFO :0xf741c700>: [BiShopPing] Ping return at 5150356.
+20200123-004148<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[89429] LastFrame[89068] NewFrame[89429]
+20200123-004148<INFO :0xf741c700>: [BiShopPing] Ping return at 5170449.
+20200123-004154<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[89544] LastFrame[89003] NewFrame[89544]
+20200123-004154<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5176792
+20200123-004157<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004208<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[89790] LastFrame[89429] NewFrame[89790]
+20200123-004208<INFO :0xf741c700>: [BiShopPing] Ping return at 5190486.
+20200123-004211<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004224<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[90085] LastFrame[89544] NewFrame[90085]
+20200123-004224<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5206841
+20200123-004228<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[90151] LastFrame[89790] NewFrame[90151]
+20200123-004228<INFO :0xf741c700>: [BiShopPing] Ping return at 5210528.
+20200123-004248<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[90512] LastFrame[90151] NewFrame[90512]
+20200123-004248<INFO :0xf741c700>: [BiShopPing] Ping return at 5230565.
+20200123-004254<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[90626] LastFrame[90085] NewFrame[90626]
+20200123-004254<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5236897
+20200123-004259<INFO :0xf741c700>: [Frame debug] Frame 90720
+20200123-004308<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[90873] LastFrame[90512] NewFrame[90873]
+20200123-004308<INFO :0xf741c700>: [BiShopPing] Ping return at 5250653.
+20200123-004323<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004324<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[91167] LastFrame[90626] NewFrame[91167]
+20200123-004324<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5266951
+20200123-004328<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[91234] LastFrame[90873] NewFrame[91234]
+20200123-004328<INFO :0xf741c700>: [BiShopPing] Ping return at 5270685.
+20200123-004348<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[91595] LastFrame[91234] NewFrame[91595]
+20200123-004348<INFO :0xf741c700>: [BiShopPing] Ping return at 5290724.
+20200123-004354<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[91708] LastFrame[91167] NewFrame[91708]
+20200123-004354<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5297005
+20200123-004405<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004408<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[91956] LastFrame[91595] NewFrame[91956]
+20200123-004408<INFO :0xf741c700>: [BiShopPing] Ping return at 5310811.
+20200123-004424<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[92249] LastFrame[91708] NewFrame[92249]
+20200123-004424<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5327055
+20200123-004428<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[92317] LastFrame[91956] NewFrame[92317]
+20200123-004428<INFO :0xf741c700>: [BiShopPing] Ping return at 5330850.
+20200123-004448<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004448<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[92678] LastFrame[92317] NewFrame[92678]
+20200123-004448<INFO :0xf741c700>: [BiShopPing] Ping return at 5350934.
+20200123-004454<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[92790] LastFrame[92249] NewFrame[92790]
+20200123-004454<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5357116
+20200123-004508<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[93039] LastFrame[92678] NewFrame[93039]
+20200123-004508<INFO :0xf741c700>: [BiShopPing] Ping return at 5370961.
+20200123-004522<ERROR:0xf741c700>: Execute script {
+AddItem(0,109,929',1,4,5,342,2,346,7,102)
+} fail
+20200123-004525<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[93331] LastFrame[92790] NewFrame[93331]
+20200123-004525<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5387162
+20200123-004528<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[93400] LastFrame[93039] NewFrame[93400]
+20200123-004528<INFO :0xf741c700>: [BiShopPing] Ping return at 5390995.
+20200123-004548<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[93761] LastFrame[93400] NewFrame[93761]
+20200123-004548<INFO :0xf741c700>: [BiShopPing] Ping return at 5411078.
+20200123-004555<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[93872] LastFrame[93331] NewFrame[93872]
+20200123-004555<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5417216
+20200123-004559<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004559<INFO :0xf741c700>: [Frame debug] Frame 93960
+20200123-004608<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[94122] LastFrame[93761] NewFrame[94122]
+20200123-004608<INFO :0xf741c700>: [BiShopPing] Ping return at 5431113.
+20200123-004625<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[94413] LastFrame[93872] NewFrame[94413]
+20200123-004625<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5447269
+20200123-004629<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[94483] LastFrame[94122] NewFrame[94483]
+20200123-004629<INFO :0xf741c700>: [BiShopPing] Ping return at 5451162.
+20200123-004642<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004649<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[94844] LastFrame[94483] NewFrame[94844]
+20200123-004649<INFO :0xf741c700>: [BiShopPing] Ping return at 5471255.
+20200123-004655<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[94954] LastFrame[94413] NewFrame[94954]
+20200123-004655<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5477321
+20200123-004709<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[95205] LastFrame[94844] NewFrame[95205]
+20200123-004709<INFO :0xf741c700>: [BiShopPing] Ping return at 5491291.
+20200123-004725<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[95495] LastFrame[94954] NewFrame[95495]
+20200123-004725<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5507381
+20200123-004729<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[95566] LastFrame[95205] NewFrame[95566]
+20200123-004729<INFO :0xf741c700>: [BiShopPing] Ping return at 5511327.
+20200123-004739<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-004749<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[95927] LastFrame[95566] NewFrame[95927]
+20200123-004749<INFO :0xf741c700>: [BiShopPing] Ping return at 5531374.
+20200123-004755<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[96036] LastFrame[95495] NewFrame[96036]
+20200123-004755<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5537432
+20200123-004809<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[96288] LastFrame[95927] NewFrame[96288]
+20200123-004809<INFO :0xf741c700>: [BiShopPing] Ping return at 5551464.
+20200123-004825<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[96577] LastFrame[96036] NewFrame[96577]
+20200123-004825<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5567486
+20200123-004829<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[96649] LastFrame[96288] NewFrame[96649]
+20200123-004829<INFO :0xf741c700>: [BiShopPing] Ping return at 5571509.
+20200123-004849<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[97010] LastFrame[96649] NewFrame[97010]
+20200123-004849<INFO :0xf741c700>: [BiShopPing] Ping return at 5591549.
+20200123-004855<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[97118] LastFrame[96577] NewFrame[97118]
+20200123-004855<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5597539
+20200123-004859<INFO :0xf741c700>: [Frame debug] Frame 97200
+20200123-004909<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[97371] LastFrame[97010] NewFrame[97371]
+20200123-004909<INFO :0xf741c700>: [BiShopPing] Ping return at 5611633.
+20200123-004925<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[97659] LastFrame[97118] NewFrame[97659]
+20200123-004925<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5627593
+20200123-004929<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[97732] LastFrame[97371] NewFrame[97732]
+20200123-004929<INFO :0xf741c700>: [BiShopPing] Ping return at 5631665.
+20200123-004949<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[98093] LastFrame[97732] NewFrame[98093]
+20200123-004949<INFO :0xf741c700>: [BiShopPing] Ping return at 5651703.
+20200123-004955<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[98200] LastFrame[97659] NewFrame[98200]
+20200123-004955<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5657640
+20200123-005001<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-005001<INFO :0xf741c700>:  150-D­¬ng Ch©u : 1
+20200123-005001<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-005001<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-005001<INFO :0xf741c700>: # TotalNpcCount in npc list : 29083.
+20200123-005001<INFO :0xf741c700>: # TotalItemCount in item list : 161.
+20200123-005001<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005009<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[98454] LastFrame[98093] NewFrame[98454]
+20200123-005009<INFO :0xf741c700>: [BiShopPing] Ping return at 5671792.
+20200123-005025<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[98741] LastFrame[98200] NewFrame[98741]
+20200123-005025<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5687699
+20200123-005029<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[98815] LastFrame[98454] NewFrame[98815]
+20200123-005029<INFO :0xf741c700>: [BiShopPing] Ping return at 5691831.
+20200123-005049<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[99176] LastFrame[98815] NewFrame[99176]
+20200123-005049<INFO :0xf741c700>: [BiShopPing] Ping return at 5711864.
+20200123-005054<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-005054<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=81835F9F dwDataLen=3651
+20200123-005054<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-005109<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[99537] LastFrame[99176] NewFrame[99537]
+20200123-005109<INFO :0xf741c700>: [BiShopPing] Ping return at 5731956.
+20200123-005112<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005124<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[99794] LastFrame[99253] NewFrame[99794]
+20200123-005124<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5746186
+20200123-005129<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[99898] LastFrame[99537] NewFrame[99898]
+20200123-005129<INFO :0xf741c700>: [BiShopPing] Ping return at 5751996.
+20200123-005140<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005149<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[100259] LastFrame[99898] NewFrame[100259]
+20200123-005149<INFO :0xf741c700>: [BiShopPing] Ping return at 5772046.
+20200123-005154<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[100335] LastFrame[99794] NewFrame[100335]
+20200123-005154<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5776249
+20200123-005159<INFO :0xf741c700>: [Frame debug] Frame 100440
+20200123-005209<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[100620] LastFrame[100259] NewFrame[100620]
+20200123-005209<INFO :0xf741c700>: [BiShopPing] Ping return at 5792082.
+20200123-005224<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[100876] LastFrame[100335] NewFrame[100876]
+20200123-005224<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5806296
+20200123-005230<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[100981] LastFrame[100620] NewFrame[100981]
+20200123-005230<INFO :0xf741c700>: [BiShopPing] Ping return at 5812165.
+20200123-005250<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[101342] LastFrame[100981] NewFrame[101342]
+20200123-005250<INFO :0xf741c700>: [BiShopPing] Ping return at 5832203.
+20200123-005254<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[101417] LastFrame[100876] NewFrame[101417]
+20200123-005254<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5836356
+20200123-005306<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005310<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[101703] LastFrame[101342] NewFrame[101703]
+20200123-005310<INFO :0xf741c700>: [BiShopPing] Ping return at 5852278.
+20200123-005324<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[101958] LastFrame[101417] NewFrame[101958]
+20200123-005324<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5866399
+20200123-005330<WARN :0xf741c700>: g_GetScript find unpreloaded file [\script\½­ÄÏÇø\ÔÆÃÎÔó\npc\ÔÆÃÎÔóó¸òÜ.lua]
+20200123-005330<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[102064] LastFrame[101703] NewFrame[102064]
+20200123-005330<INFO :0xf741c700>: [BiShopPing] Ping return at 5872315.
+20200123-005350<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[102425] LastFrame[102064] NewFrame[102425]
+20200123-005350<INFO :0xf741c700>: [BiShopPing] Ping return at 5892357.
+20200123-005354<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[102499] LastFrame[101958] NewFrame[102499]
+20200123-005354<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5896458
+20200123-005403<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005410<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[102786] LastFrame[102425] NewFrame[102786]
+20200123-005410<INFO :0xf741c700>: [BiShopPing] Ping return at 5912406.
+20200123-005424<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[103040] LastFrame[102499] NewFrame[103040]
+20200123-005424<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5926506
+20200123-005430<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[103147] LastFrame[102786] NewFrame[103147]
+20200123-005430<INFO :0xf741c700>: [BiShopPing] Ping return at 5932498.
+20200123-005445<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005450<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[103508] LastFrame[103147] NewFrame[103508]
+20200123-005450<INFO :0xf741c700>: [BiShopPing] Ping return at 5952537.
+20200123-005454<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[103581] LastFrame[103040] NewFrame[103581]
+20200123-005454<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5956567
+20200123-005459<INFO :0xf741c700>: [Frame debug] Frame 103680
+20200123-005510<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[103869] LastFrame[103508] NewFrame[103869]
+20200123-005510<INFO :0xf741c700>: [BiShopPing] Ping return at 5972566.
+20200123-005515<INFO :0xf741c700>: [EquipFeed][Item[ID:3430462200 RandSeed:737275101 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr0 Lv2487 LineId=13356 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv2
+20200123-005515<INFO :0xf741c700>: [EquipFeed][Item[ID:3430462200 RandSeed:737275101 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2489 LineId=13343 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv3
+20200123-005515<INFO :0xf741c700>: [EquipFeed][Item[ID:3430462200 RandSeed:737275101 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr2 Lv2493 LineId=14221 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14221 lv1
+20200123-005515<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3430462200 RandSeed:737275101]{V« Song ChiÕn ThÇn G 0 100 30651 } ResetGrowAttrs[seed=737275101] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,0,0} Exp=10|0
+20200123-005515<INFO :0xf741c700>: [EquipFeed][Item[ID:3430462200 RandSeed:737275101 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2496 LineId=13345 Id=8 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13345 lv8
+20200123-005515<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3430462200 RandSeed:737275101]{V« Song ChiÕn ThÇn G 0 100 30651} ResetUnlockAttrs[seed=1031036356] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,a083421,0} Exp=10|0
+20200123-005524<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[104122] LastFrame[103581] NewFrame[104122]
+20200123-005524<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 5986611
+20200123-005528<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005530<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[104230] LastFrame[103869] NewFrame[104230]
+20200123-005530<INFO :0xf741c700>: [BiShopPing] Ping return at 5992650.
+20200123-005536<INFO :0xf741c700>: [EquipFeed][Item[ID:3466268056 RandSeed:441069864 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr0 Lv2487 LineId=13356 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv2
+20200123-005536<INFO :0xf741c700>: [EquipFeed][Item[ID:3466268056 RandSeed:441069864 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2489 LineId=13343 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv3
+20200123-005536<INFO :0xf741c700>: [EquipFeed][Item[ID:3466268056 RandSeed:441069864 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr2 Lv2491 LineId=14219 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14219 lv2
+20200123-005536<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3466268056 RandSeed:441069864]{V« Song ChiÕn ThÇn G 0 100 30651 } ResetGrowAttrs[seed=441069864] GrowSocket={2342c,3341f,2378b}  UnlockSocket={0,0,0} Exp=10|0
+20200123-005536<INFO :0xf741c700>: [EquipFeed][Item[ID:3466268056 RandSeed:441069864 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2499 LineId=13348 Id=8 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13348 lv8
+20200123-005536<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3466268056 RandSeed:441069864]{V« Song ChiÕn ThÇn G 0 100 30651} ResetUnlockAttrs[seed=745431171] GrowSocket={2342c,3341f,2378b}  UnlockSocket={0,a083424,0} Exp=10|0
+20200123-005542<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005550<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[104591] LastFrame[104230] NewFrame[104591]
+20200123-005550<INFO :0xf741c700>: [BiShopPing] Ping return at 6012693.
+20200123-005550<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906072 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr0 Lv2487 LineId=13356 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv2
+20200123-005550<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906072 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2489 LineId=13343 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv3
+20200123-005550<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906072 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr2 Lv2493 LineId=14221 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14221 lv1
+20200123-005550<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3440906072 RandSeed:200]{V« Song ChiÕn ThÇn G 0 100 30651 } ResetGrowAttrs[seed=200] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,0,0} Exp=10|0
+20200123-005550<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906072 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2499 LineId=13348 Id=8 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13348 lv8
+20200123-005550<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3440906072 RandSeed:200]{V« Song ChiÕn ThÇn G 0 100 30651} ResetUnlockAttrs[seed=844815779] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,a083424,0} Exp=10|0
+20200123-005554<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[104663] LastFrame[104122] NewFrame[104663]
+20200123-005554<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6016666
+20200123-005602<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906456 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr0 Lv2487 LineId=13356 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv2
+20200123-005602<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906456 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2489 LineId=13343 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv3
+20200123-005602<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906456 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr2 Lv2493 LineId=14221 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14221 lv1
+20200123-005602<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3440906456 RandSeed:200]{V« Song ChiÕn ThÇn G 0 100 30651 } ResetGrowAttrs[seed=200] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,0,0} Exp=10|0
+20200123-005602<INFO :0xf741c700>: [EquipFeed][Item[ID:3440906456 RandSeed:200 Lv=10]={V« Song ChiÕn ThÇn G 0 100 30651}]Set Attr1 Lv2499 LineId=13348 Id=8 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13348 lv8
+20200123-005602<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3440906456 RandSeed:200]{V« Song ChiÕn ThÇn G 0 100 30651} ResetUnlockAttrs[seed=844815779] GrowSocket={2342c,3341f,1378d}  UnlockSocket={0,a083424,0} Exp=10|0
+20200123-005610<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[104952] LastFrame[104591] NewFrame[104952]
+20200123-005610<INFO :0xf741c700>: [BiShopPing] Ping return at 6032728.
+20200123-005624<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[105204] LastFrame[104663] NewFrame[105204]
+20200123-005624<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6046724
+20200123-005630<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[105313] LastFrame[104952] NewFrame[105313]
+20200123-005630<INFO :0xf741c700>: [BiShopPing] Ping return at 6052804.
+20200123-005650<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[105674] LastFrame[105313] NewFrame[105674]
+20200123-005650<INFO :0xf741c700>: [BiShopPing] Ping return at 6072832.
+20200123-005653<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005654<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[105745] LastFrame[105204] NewFrame[105745]
+20200123-005654<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6076776
+20200123-005707<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005710<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[106035] LastFrame[105674] NewFrame[106035]
+20200123-005710<INFO :0xf741c700>: [BiShopPing] Ping return at 6092923.
+20200123-005724<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[106286] LastFrame[105745] NewFrame[106286]
+20200123-005724<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6106827
+20200123-005730<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[106396] LastFrame[106035] NewFrame[106396]
+20200123-005730<INFO :0xf741c700>: [BiShopPing] Ping return at 6112960.
+20200123-005750<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[106757] LastFrame[106396] NewFrame[106757]
+20200123-005750<INFO :0xf741c700>: [BiShopPing] Ping return at 6133000.
+20200123-005754<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[106827] LastFrame[106286] NewFrame[106827]
+20200123-005754<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6136881
+20200123-005759<INFO :0xf741c700>: [Frame debug] Frame 106920
+20200123-005810<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[107118] LastFrame[106757] NewFrame[107118]
+20200123-005810<INFO :0xf741c700>: [BiShopPing] Ping return at 6153042.
+20200123-005824<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[107368] LastFrame[106827] NewFrame[107368]
+20200123-005824<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6166938
+20200123-005831<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[107479] LastFrame[107118] NewFrame[107479]
+20200123-005831<INFO :0xf741c700>: [BiShopPing] Ping return at 6173129.
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1800]{/script/global/suit_active.lua}remove a none copy map dialog npc[150:D­¬ng Ch©u].[29089:Th­¬ng nh©n T©y Vùc].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29090:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29091:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29092:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29093:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29094:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29095:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29096:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29097:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29098:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29099:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29100:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29101:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29102:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29103:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29104:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29105:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29106:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29107:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29108:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29109:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29110:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29111:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29112:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29113:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29114:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29115:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29116:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29117:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29118:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29119:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29120:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29121:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29122:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29123:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29124:D­îc Nh©n Th¶o].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29125:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29126:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29127:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29128:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29129:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29130:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29131:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29132:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29133:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29134:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29135:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29136:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29137:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29138:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29139:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29140:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29141:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29142:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29143:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29144:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29145:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29146:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29147:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29148:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29149:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29150:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29151:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29152:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29153:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29154:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29155:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29156:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29157:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29158:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29159:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29160:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29161:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29162:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29163:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29164:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29165:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29166:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29167:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29168:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29169:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29170:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29171:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29172:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29173:TÝch D­¬ng c¨n].
+20200123-005843<ERROR:0xf741c700>: [Script] [4010778458, 1500]{/script/global/suit_active.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29174:TÝch D­¬ng c¨n].
+20200123-005851<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[107840] LastFrame[107479] NewFrame[107840]
+20200123-005851<INFO :0xf741c700>: [BiShopPing] Ping return at 6193169.
+20200123-005854<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[107909] LastFrame[107368] NewFrame[107909]
+20200123-005854<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6196986
+20200123-005911<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[108201] LastFrame[107840] NewFrame[108201]
+20200123-005911<INFO :0xf741c700>: [BiShopPing] Ping return at 6213249.
+20200123-005924<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[108450] LastFrame[107909] NewFrame[108450]
+20200123-005924<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6227035
+20200123-005931<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[108562] LastFrame[108201] NewFrame[108562]
+20200123-005931<INFO :0xf741c700>: [BiShopPing] Ping return at 6233273.
+20200123-005944<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-005951<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[108923] LastFrame[108562] NewFrame[108923]
+20200123-005951<INFO :0xf741c700>: [BiShopPing] Ping return at 6253358.
+20200123-005955<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[108991] LastFrame[108450] NewFrame[108991]
+20200123-005955<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6257092
+20200123-010000<INFO :0xf741c700>: [SystimeTask] timetask [Ln6 01:00]  is time up [Frame 109088], execute script 1242397090:{\script\online\viet_event\200912\5\init_yanhui.lua}
+20200123-010011<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[109284] LastFrame[108923] NewFrame[109284]
+20200123-010011<INFO :0xf741c700>: [BiShopPing] Ping return at 6273396.
+20200123-010025<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[109532] LastFrame[108991] NewFrame[109532]
+20200123-010025<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6287145
+20200123-010031<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[109645] LastFrame[109284] NewFrame[109645]
+20200123-010031<INFO :0xf741c700>: [BiShopPing] Ping return at 6293424.
+20200123-010041<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010051<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[110006] LastFrame[109645] NewFrame[110006]
+20200123-010051<INFO :0xf741c700>: [BiShopPing] Ping return at 6313510.
+20200123-010055<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[110073] LastFrame[109532] NewFrame[110073]
+20200123-010055<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6317194
+20200123-010059<INFO :0xf741c700>: [Frame debug] Frame 110160
+20200123-010102<INFO :0xf741c700>: [EquipFeed][Item[ID:3460036184 RandSeed:409281856 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr0 Lv3074 LineId=13356 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv3
+20200123-010102<INFO :0xf741c700>: [EquipFeed][Item[ID:3460036184 RandSeed:409281856 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr1 Lv3076 LineId=13343 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv4
+20200123-010102<INFO :0xf741c700>: [EquipFeed][Item[ID:3460036184 RandSeed:409281856 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr2 Lv3079 LineId=14220 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14220 lv4
+20200123-010102<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3460036184 RandSeed:409281856]{H¾c B¹ch V« Song Y 0 100 3196 } ResetGrowAttrs[seed=409281856] GrowSocket={3342c,4341f,4378c}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010102<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3460036184 RandSeed:409281856]{H¾c B¹ch V« Song Y 0 100 3196} ResetUnlockAttrs[seed=1455753531] GrowSocket={3342c,4341f,4378c}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010111<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[110367] LastFrame[110006] NewFrame[110367]
+20200123-010111<INFO :0xf741c700>: [BiShopPing] Ping return at 6333541.
+20200123-010123<INFO :0xf741c700>: [EquipFeed][Item[ID:3411726584 RandSeed:2582694171 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr0 Lv3074 LineId=13356 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv3
+20200123-010123<INFO :0xf741c700>: [EquipFeed][Item[ID:3411726584 RandSeed:2582694171 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr1 Lv3076 LineId=13343 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv4
+20200123-010123<INFO :0xf741c700>: [EquipFeed][Item[ID:3411726584 RandSeed:2582694171 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr2 Lv3080 LineId=14221 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14221 lv3
+20200123-010123<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3411726584 RandSeed:2582694171]{H¾c B¹ch V« Song Y 0 100 3196 } ResetGrowAttrs[seed=2582694171] GrowSocket={3342c,4341f,3378d}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010123<INFO :0xf741c700>: [EquipFeed][Item[ID:3411726584 RandSeed:2582694171 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr1 Lv3083 LineId=13345 Id=11 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13345 lv11
+20200123-010123<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3411726584 RandSeed:2582694171]{H¾c B¹ch V« Song Y 0 100 3196} ResetUnlockAttrs[seed=4138347338] GrowSocket={3342c,4341f,3378d}  UnlockSocket={0,a0b3421,0} Exp=10|0
+20200123-010123<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010125<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[110614] LastFrame[110073] NewFrame[110614]
+20200123-010125<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6347252
+20200123-010131<INFO :0xf741c700>: [EquipFeed][Item[ID:3469644280 RandSeed:1733048211 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr0 Lv3074 LineId=13356 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv3
+20200123-010131<INFO :0xf741c700>: [EquipFeed][Item[ID:3469644280 RandSeed:1733048211 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr1 Lv3076 LineId=13343 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv4
+20200123-010131<INFO :0xf741c700>: [EquipFeed][Item[ID:3469644280 RandSeed:1733048211 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr2 Lv3079 LineId=14220 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14220 lv4
+20200123-010131<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3469644280 RandSeed:1733048211]{H¾c B¹ch V« Song Y 0 100 3196 } ResetGrowAttrs[seed=1733048211] GrowSocket={3342c,4341f,4378c}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010131<INFO :0xf741c700>: [EquipFeed][Item[ID:3469644280 RandSeed:1733048211 Lv=10]={H¾c B¹ch V« Song Y 0 100 3196}]Set Attr1 Lv3085 LineId=13347 Id=11 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13347 lv11
+20200123-010131<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3469644280 RandSeed:1733048211]{H¾c B¹ch V« Song Y 0 100 3196} ResetUnlockAttrs[seed=1314273506] GrowSocket={3342c,4341f,4378c}  UnlockSocket={0,a0b3423,0} Exp=10|0
+20200123-010131<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[110728] LastFrame[110367] NewFrame[110728]
+20200123-010131<INFO :0xf741c700>: [BiShopPing] Ping return at 6353577.
+20200123-010151<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[111089] LastFrame[110728] NewFrame[111089]
+20200123-010151<INFO :0xf741c700>: [BiShopPing] Ping return at 6373664.
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr0 Lv3009 LineId=13721 Id=25 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13721 lv25
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr1 Lv3010 LineId=14192 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14192 lv4
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr2 Lv3011 LineId=14195 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:14195 lv4
+20200123-010154<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3382916312 RandSeed:1495634471]{Th«ng Thiªn Bµo 0 100 3192 } ResetGrowAttrs[seed=1495634471] GrowSocket={193599,43770,43773}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr0 Lv3013 LineId=14194 Id=6 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:14194 lv6
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr1 Lv3014 LineId=843 Id=6 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:843 lv6
+20200123-010154<INFO :0xf741c700>: [EquipFeed][Item[ID:3382916312 RandSeed:1495634471 Lv=10]={Th«ng Thiªn Bµo 0 100 3192}]Set Attr2 Lv3015 LineId=14204 Id=2 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:14204 lv2
+20200123-010154<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3382916312 RandSeed:1495634471]{Th«ng Thiªn Bµo 0 100 3192} ResetUnlockAttrs[seed=880456358] GrowSocket={193599,43770,43773}  UnlockSocket={1063772,606034b,a02377c} Exp=10|0
+20200123-010155<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[111155] LastFrame[110614] NewFrame[111155]
+20200123-010155<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6377303
+20200123-010211<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[111450] LastFrame[111089] NewFrame[111450]
+20200123-010211<INFO :0xf741c700>: [BiShopPing] Ping return at 6393694.
+20200123-010220<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010225<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[111696] LastFrame[111155] NewFrame[111696]
+20200123-010225<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6407360
+20200123-010231<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[111811] LastFrame[111450] NewFrame[111811]
+20200123-010231<INFO :0xf741c700>: [BiShopPing] Ping return at 6413774.
+20200123-010251<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[112172] LastFrame[111811] NewFrame[112172]
+20200123-010251<INFO :0xf741c700>: [BiShopPing] Ping return at 6433802.
+20200123-010255<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[112237] LastFrame[111696] NewFrame[112237]
+20200123-010255<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6437404
+20200123-010311<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[112533] LastFrame[112172] NewFrame[112533]
+20200123-010311<INFO :0xf741c700>: [BiShopPing] Ping return at 6453847.
+20200123-010317<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010325<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[112778] LastFrame[112237] NewFrame[112778]
+20200123-010325<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6467461
+20200123-010331<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[112894] LastFrame[112533] NewFrame[112894]
+20200123-010331<INFO :0xf741c700>: [BiShopPing] Ping return at 6473939.
+20200123-010351<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[113255] LastFrame[112894] NewFrame[113255]
+20200123-010351<INFO :0xf741c700>: [BiShopPing] Ping return at 6493971.
+20200123-010355<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[113319] LastFrame[112778] NewFrame[113319]
+20200123-010355<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6497515
+20200123-010359<INFO :0xf741c700>: [Frame debug] Frame 113400
+20200123-010411<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[113616] LastFrame[113255] NewFrame[113616]
+20200123-010411<INFO :0xf741c700>: [BiShopPing] Ping return at 6514007.
+20200123-010425<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[113860] LastFrame[113319] NewFrame[113860]
+20200123-010425<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6527569
+20200123-010432<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[113977] LastFrame[113616] NewFrame[113977]
+20200123-010432<INFO :0xf741c700>: [BiShopPing] Ping return at 6534102.
+20200123-010452<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[114338] LastFrame[113977] NewFrame[114338]
+20200123-010452<INFO :0xf741c700>: [BiShopPing] Ping return at 6554139.
+20200123-010455<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[114401] LastFrame[113860] NewFrame[114401]
+20200123-010455<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6557616
+20200123-010511<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-010511<INFO :0xf741c700>:  150-D­¬ng Ch©u : 1
+20200123-010511<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-010511<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-010511<INFO :0xf741c700>: # TotalNpcCount in npc list : 29169.
+20200123-010511<INFO :0xf741c700>: # TotalItemCount in item list : 189.
+20200123-010511<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010512<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[114699] LastFrame[114338] NewFrame[114699]
+20200123-010512<INFO :0xf741c700>: [BiShopPing] Ping return at 6574176.
+20200123-010525<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[114942] LastFrame[114401] NewFrame[114942]
+20200123-010525<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6587670
+20200123-010532<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[115060] LastFrame[114699] NewFrame[115060]
+20200123-010532<INFO :0xf741c700>: [BiShopPing] Ping return at 6594264.
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr0 Lv1571 LineId=13723 Id=26 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13723 lv26
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr1 Lv1572 LineId=13721 Id=7 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13721 lv7
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr2 Lv1576 LineId=13722 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13722 lv1
+20200123-010540<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3391066392 RandSeed:2276958639]{Hµo HiÖp y 0 100 30568 } ResetGrowAttrs[seed=2276958639] GrowSocket={1a359b,73599,1359a}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr0 Lv1725 LineId=13733 Id=16 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:13733 lv16
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr1 Lv1771 LineId=13752 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13752 lv1
+20200123-010540<INFO :0xf741c700>: [EquipFeed][Item[ID:3391066392 RandSeed:2276958639 Lv=10]={Hµo HiÖp y 0 100 30568}]Set Attr2 Lv1783 LineId=13721 Id=15 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13721 lv15
+20200123-010540<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3391066392 RandSeed:2276958639]{Hµo HiÖp y 0 100 30568} ResetUnlockAttrs[seed=2936040206] GrowSocket={1a359b,73599,1359a}  UnlockSocket={11035a5,60135b8,a0f3599} Exp=10|0
+20200123-010546<INFO :0xf741c700>: [EquipFeed][Item[ID:3386024408 RandSeed:985110545 Lv=10]={¸o Hµo HiÖp (PhÕ) 0 100 30567}]Set Attr0 Lv1474 LineId=13668 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13668 lv1
+20200123-010546<INFO :0xf741c700>: [EquipFeed][Item[ID:3386024408 RandSeed:985110545 Lv=10]={¸o Hµo HiÖp (PhÕ) 0 100 30567}]Set Attr1 Lv1472 LineId=13656 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13656 lv1
+20200123-010546<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3386024408 RandSeed:985110545]{¸o Hµo HiÖp (PhÕ) 0 100 30567 } ResetGrowAttrs[seed=985110545] GrowSocket={13564,13558,0}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010546<INFO :0xf741c700>: [EquipFeed][Item[ID:3386024408 RandSeed:985110545 Lv=10]={¸o Hµo HiÖp (PhÕ) 0 100 30567}]Set Attr0 Lv1479 LineId=13661 Id=1 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:13661 lv1
+20200123-010546<INFO :0xf741c700>: [EquipFeed][Item[ID:3386024408 RandSeed:985110545 Lv=10]={¸o Hµo HiÖp (PhÕ) 0 100 30567}]Set Attr1 Lv1471 LineId=13655 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13655 lv1
+20200123-010546<INFO :0xf741c700>: [EquipFeed][Item[ID:3386024408 RandSeed:985110545 Lv=10]={¸o Hµo HiÖp (PhÕ) 0 100 30567}]Set Attr2 Lv1462 LineId=13646 Id=1 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13646 lv1
+20200123-010546<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3386024408 RandSeed:985110545]{¸o Hµo HiÖp (PhÕ) 0 100 30567} ResetUnlockAttrs[seed=3841765800] GrowSocket={13564,13558,0}  UnlockSocket={101355d,6013557,a01354e} Exp=10|0
+20200123-010552<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[115421] LastFrame[115060] NewFrame[115421]
+20200123-010552<INFO :0xf741c700>: [BiShopPing] Ping return at 6614298.
+20200123-010554<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-010554<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=0CEECEEB dwDataLen=5502
+20200123-010554<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-010554<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010612<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[115782] LastFrame[115421] NewFrame[115782]
+20200123-010612<INFO :0xf741c700>: [BiShopPing] Ping return at 6634330.
+20200123-010624<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[115995] LastFrame[115454] NewFrame[115995]
+20200123-010624<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6646170
+20200123-010632<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[116143] LastFrame[115782] NewFrame[116143]
+20200123-010632<INFO :0xf741c700>: [BiShopPing] Ping return at 6654411.
+20200123-010651<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010652<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[116504] LastFrame[116143] NewFrame[116504]
+20200123-010652<INFO :0xf741c700>: [BiShopPing] Ping return at 6674443.
+20200123-010654<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[116536] LastFrame[115995] NewFrame[116536]
+20200123-010654<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6676225
+20200123-010659<INFO :0xf741c700>: [Frame debug] Frame 116640
+20200123-010712<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[116865] LastFrame[116504] NewFrame[116865]
+20200123-010712<INFO :0xf741c700>: [BiShopPing] Ping return at 6694529.
+20200123-010719<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010724<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[117077] LastFrame[116536] NewFrame[117077]
+20200123-010724<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6706270
+20200123-010732<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[117226] LastFrame[116865] NewFrame[117226]
+20200123-010732<INFO :0xf741c700>: [BiShopPing] Ping return at 6714562.
+20200123-010733<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010752<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[117587] LastFrame[117226] NewFrame[117587]
+20200123-010752<INFO :0xf741c700>: [BiShopPing] Ping return at 6734643.
+20200123-010754<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[117618] LastFrame[117077] NewFrame[117618]
+20200123-010754<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6736323
+20200123-010812<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[117948] LastFrame[117587] NewFrame[117948]
+20200123-010812<INFO :0xf741c700>: [BiShopPing] Ping return at 6754676.
+20200123-010822<INFO :0xf741c700>: [EquipFeed][Item[ID:3390584152 RandSeed:3432882369 Lv=10]={Thiªn H¹ V« Song Gi¸ 0 100 30207}]Set Attr0 Lv1037 LineId=13356 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13356 lv2
+20200123-010822<INFO :0xf741c700>: [EquipFeed][Item[ID:3390584152 RandSeed:3432882369 Lv=10]={Thiªn H¹ V« Song Gi¸ 0 100 30207}]Set Attr1 Lv1039 LineId=13343 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv2
+20200123-010822<INFO :0xf741c700>: [EquipFeed][Item[ID:3390584152 RandSeed:3432882369 Lv=10]={Thiªn H¹ V« Song Gi¸ 0 100 30207}]Set Attr2 Lv1042 LineId=13351 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13351 lv3
+20200123-010822<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3390584152 RandSeed:3432882369]{Thiªn H¹ V« Song Gi¸ 0 100 30207 } ResetGrowAttrs[seed=3432882369] GrowSocket={2342c,2341f,33427}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010822<INFO :0xf741c700>: [EquipFeed][Item[ID:3390584152 RandSeed:3432882369 Lv=10]={Thiªn H¹ V« Song Gi¸ 0 100 30207}]Set Attr1 Lv1049 LineId=13348 Id=3 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13348 lv3
+20200123-010822<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3390584152 RandSeed:3432882369]{Thiªn H¹ V« Song Gi¸ 0 100 30207} ResetUnlockAttrs[seed=539693464] GrowSocket={2342c,2341f,33427}  UnlockSocket={0,a033424,0} Exp=10|0
+20200123-010824<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[118159] LastFrame[117618] NewFrame[118159]
+20200123-010824<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6766375
+20200123-010832<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[118309] LastFrame[117948] NewFrame[118309]
+20200123-010832<INFO :0xf741c700>: [BiShopPing] Ping return at 6774710.
+20200123-010850<INFO :0xf741c700>: [EquipFeed][Item[ID:3762749656 RandSeed:1643603610 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr0 Lv1038 LineId=13344 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13344 lv3
+20200123-010850<INFO :0xf741c700>: [EquipFeed][Item[ID:3762749656 RandSeed:1643603610 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr1 Lv1039 LineId=13343 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv2
+20200123-010850<INFO :0xf741c700>: [EquipFeed][Item[ID:3762749656 RandSeed:1643603610 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr2 Lv1042 LineId=13351 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13351 lv3
+20200123-010850<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3762749656 RandSeed:1643603610]{Thiªn H¹ V« Song Tra 0 101 30207 } ResetGrowAttrs[seed=1643603610] GrowSocket={33420,2341f,33427}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010850<INFO :0xf741c700>: [EquipFeed][Item[ID:3762749656 RandSeed:1643603610 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr1 Lv1048 LineId=13347 Id=3 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13347 lv3
+20200123-010850<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3762749656 RandSeed:1643603610]{Thiªn H¹ V« Song Tra 0 101 30207} ResetUnlockAttrs[seed=269924333] GrowSocket={33420,2341f,33427}  UnlockSocket={0,a033423,0} Exp=10|0
+20200123-010852<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[118670] LastFrame[118309] NewFrame[118670]
+20200123-010852<INFO :0xf741c700>: [BiShopPing] Ping return at 6794794.
+20200123-010854<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[118700] LastFrame[118159] NewFrame[118700]
+20200123-010854<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6796429
+20200123-010910<INFO :0xf741c700>: [EquipFeed][Item[ID:3651361624 RandSeed:939758117 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr0 Lv1038 LineId=13344 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13344 lv3
+20200123-010910<INFO :0xf741c700>: [EquipFeed][Item[ID:3651361624 RandSeed:939758117 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr1 Lv1039 LineId=13343 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv2
+20200123-010910<INFO :0xf741c700>: [EquipFeed][Item[ID:3651361624 RandSeed:939758117 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr2 Lv1042 LineId=13351 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13351 lv3
+20200123-010910<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3651361624 RandSeed:939758117]{Thiªn H¹ V« Song Tra 0 101 30207 } ResetGrowAttrs[seed=939758117] GrowSocket={33420,2341f,33427}  UnlockSocket={0,0,0} Exp=10|0
+20200123-010910<INFO :0xf741c700>: [EquipFeed][Item[ID:3651361624 RandSeed:939758117 Lv=10]={Thiªn H¹ V« Song Tra 0 101 30207}]Set Attr1 Lv1047 LineId=13346 Id=3 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13346 lv3
+20200123-010910<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3651361624 RandSeed:939758117]{Thiªn H¹ V« Song Tra 0 101 30207} ResetUnlockAttrs[seed=1663032556] GrowSocket={33420,2341f,33427}  UnlockSocket={0,a033422,0} Exp=10|0
+20200123-010912<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[119031] LastFrame[118670] NewFrame[119031]
+20200123-010912<INFO :0xf741c700>: [BiShopPing] Ping return at 6814835.
+20200123-010924<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[119241] LastFrame[118700] NewFrame[119241]
+20200123-010924<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6826489
+20200123-010927<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010932<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[119392] LastFrame[119031] NewFrame[119392]
+20200123-010932<INFO :0xf741c700>: [BiShopPing] Ping return at 6834870.
+20200123-010952<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[119753] LastFrame[119392] NewFrame[119753]
+20200123-010952<INFO :0xf741c700>: [BiShopPing] Ping return at 6854951.
+20200123-010954<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[119782] LastFrame[119241] NewFrame[119782]
+20200123-010954<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6856533
+20200123-010955<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-010959<INFO :0xf741c700>: [Frame debug] Frame 119880
+20200123-011012<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[120114] LastFrame[119753] NewFrame[120114]
+20200123-011012<INFO :0xf741c700>: [BiShopPing] Ping return at 6874990.
+20200123-011024<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[120323] LastFrame[119782] NewFrame[120323]
+20200123-011024<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6886586
+20200123-011033<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[120475] LastFrame[120114] NewFrame[120475]
+20200123-011033<INFO :0xf741c700>: [BiShopPing] Ping return at 6895031.
+20200123-011045<INFO :0xf741c700>: [EquipFeed][Item[ID:3312414520 RandSeed:1992035238 Lv=10]={Thiªn H¹ V« Song Kh« 0 103 30207}]Set Attr0 Lv1036 LineId=13342 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13342 lv2
+20200123-011045<INFO :0xf741c700>: [EquipFeed][Item[ID:3312414520 RandSeed:1992035238 Lv=10]={Thiªn H¹ V« Song Kh« 0 103 30207}]Set Attr1 Lv1039 LineId=13343 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13343 lv2
+20200123-011045<INFO :0xf741c700>: [EquipFeed][Item[ID:3312414520 RandSeed:1992035238 Lv=10]={Thiªn H¹ V« Song Kh« 0 103 30207}]Set Attr2 Lv1042 LineId=13351 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13351 lv3
+20200123-011045<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3312414520 RandSeed:1992035238]{Thiªn H¹ V« Song Kh« 0 103 30207 } ResetGrowAttrs[seed=1992035238] GrowSocket={2341e,2341f,33427}  UnlockSocket={0,0,0} Exp=10|0
+20200123-011045<INFO :0xf741c700>: [EquipFeed][Item[ID:3312414520 RandSeed:1992035238 Lv=10]={Thiªn H¹ V« Song Kh« 0 103 30207}]Set Attr1 Lv1050 LineId=13349 Id=3 Worth=2000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13349 lv3
+20200123-011045<DEBUG:0xf741c700>: [EQUIP_FEED] acc[an] role[ioNaruto] item[ID:3312414520 RandSeed:1992035238]{Thiªn H¹ V« Song Kh« 0 103 30207} ResetUnlockAttrs[seed=3157273417] GrowSocket={2341e,2341f,33427}  UnlockSocket={0,a033425,0} Exp=10|0
+20200123-011053<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[120836] LastFrame[120475] NewFrame[120836]
+20200123-011053<INFO :0xf741c700>: [BiShopPing] Ping return at 6915120.
+20200123-011054<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[120864] LastFrame[120323] NewFrame[120864]
+20200123-011054<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6916648
+20200123-011107<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011113<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[121197] LastFrame[120836] NewFrame[121197]
+20200123-011113<INFO :0xf741c700>: [BiShopPing] Ping return at 6935160.
+20200123-011124<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[121405] LastFrame[120864] NewFrame[121405]
+20200123-011124<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6946692
+20200123-011133<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[121558] LastFrame[121197] NewFrame[121558]
+20200123-011133<INFO :0xf741c700>: [BiShopPing] Ping return at 6955241.
+20200123-011149<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011153<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[121919] LastFrame[121558] NewFrame[121919]
+20200123-011153<INFO :0xf741c700>: [BiShopPing] Ping return at 6975271.
+20200123-011154<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[121946] LastFrame[121405] NewFrame[121946]
+20200123-011154<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 6976753
+20200123-011203<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011213<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[122280] LastFrame[121919] NewFrame[122280]
+20200123-011213<INFO :0xf741c700>: [BiShopPing] Ping return at 6995299.
+20200123-011224<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[122487] LastFrame[121946] NewFrame[122487]
+20200123-011224<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7006802
+20200123-011232<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011233<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[122641] LastFrame[122280] NewFrame[122641]
+20200123-011233<INFO :0xf741c700>: [BiShopPing] Ping return at 7015388.
+20200123-011253<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[123002] LastFrame[122641] NewFrame[123002]
+20200123-011253<INFO :0xf741c700>: [BiShopPing] Ping return at 7035424.
+20200123-011254<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[123028] LastFrame[122487] NewFrame[123028]
+20200123-011254<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7036855
+20200123-011259<INFO :0xf741c700>: [Frame debug] Frame 123120
+20200123-011313<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[123363] LastFrame[123002] NewFrame[123363]
+20200123-011313<INFO :0xf741c700>: [BiShopPing] Ping return at 7055466.
+20200123-011315<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011324<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[123569] LastFrame[123028] NewFrame[123569]
+20200123-011324<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7066909
+20200123-011333<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[123724] LastFrame[123363] NewFrame[123724]
+20200123-011333<INFO :0xf741c700>: [BiShopPing] Ping return at 7075553.
+20200123-011353<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[124085] LastFrame[123724] NewFrame[124085]
+20200123-011353<INFO :0xf741c700>: [BiShopPing] Ping return at 7095596.
+20200123-011354<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[124110] LastFrame[123569] NewFrame[124110]
+20200123-011354<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7096963
+20200123-011413<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[124446] LastFrame[124085] NewFrame[124446]
+20200123-011413<INFO :0xf741c700>: [BiShopPing] Ping return at 7115640.
+20200123-011425<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[124651] LastFrame[124110] NewFrame[124651]
+20200123-011425<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7127013
+20200123-011426<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011433<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[124807] LastFrame[124446] NewFrame[124807]
+20200123-011433<INFO :0xf741c700>: [BiShopPing] Ping return at 7135677.
+20200123-011453<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[125168] LastFrame[124807] NewFrame[125168]
+20200123-011453<INFO :0xf741c700>: [BiShopPing] Ping return at 7155754.
+20200123-011455<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[125192] LastFrame[124651] NewFrame[125192]
+20200123-011455<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7157066
+20200123-011513<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[125529] LastFrame[125168] NewFrame[125529]
+20200123-011513<INFO :0xf741c700>: [BiShopPing] Ping return at 7175790.
+20200123-011525<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[125733] LastFrame[125192] NewFrame[125733]
+20200123-011525<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7187116
+20200123-011533<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[125890] LastFrame[125529] NewFrame[125890]
+20200123-011533<INFO :0xf741c700>: [BiShopPing] Ping return at 7195879.
+20200123-011553<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[126251] LastFrame[125890] NewFrame[126251]
+20200123-011553<INFO :0xf741c700>: [BiShopPing] Ping return at 7215908.
+20200123-011555<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[126274] LastFrame[125733] NewFrame[126274]
+20200123-011555<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7217171
+20200123-011559<INFO :0xf741c700>: [Frame debug] Frame 126360
+20200123-011605<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011613<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[126612] LastFrame[126251] NewFrame[126612]
+20200123-011613<INFO :0xf741c700>: [BiShopPing] Ping return at 7235988.
+20200123-011625<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[126815] LastFrame[126274] NewFrame[126815]
+20200123-011625<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7247223
+20200123-011634<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[126973] LastFrame[126612] NewFrame[126973]
+20200123-011634<INFO :0xf741c700>: [BiShopPing] Ping return at 7256014.
+20200123-011634<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011654<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[127334] LastFrame[126973] NewFrame[127334]
+20200123-011654<INFO :0xf741c700>: [BiShopPing] Ping return at 7276100.
+20200123-011655<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[127356] LastFrame[126815] NewFrame[127356]
+20200123-011655<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7277280
+20200123-011714<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[127695] LastFrame[127334] NewFrame[127695]
+20200123-011714<INFO :0xf741c700>: [BiShopPing] Ping return at 7296139.
+20200123-011725<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[127897] LastFrame[127356] NewFrame[127897]
+20200123-011725<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7307328
+20200123-011734<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[128056] LastFrame[127695] NewFrame[128056]
+20200123-011734<INFO :0xf741c700>: [BiShopPing] Ping return at 7316171.
+20200123-011754<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[128417] LastFrame[128056] NewFrame[128417]
+20200123-011754<INFO :0xf741c700>: [BiShopPing] Ping return at 7336253.
+20200123-011755<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[128438] LastFrame[127897] NewFrame[128438]
+20200123-011755<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7337383
+20200123-011759<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011814<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[128778] LastFrame[128417] NewFrame[128778]
+20200123-011814<INFO :0xf741c700>: [BiShopPing] Ping return at 7356290.
+20200123-011825<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[128979] LastFrame[128438] NewFrame[128979]
+20200123-011825<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7367444
+20200123-011827<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011834<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[129139] LastFrame[128778] NewFrame[129139]
+20200123-011834<INFO :0xf741c700>: [BiShopPing] Ping return at 7376322.
+20200123-011842<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-011854<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[129500] LastFrame[129139] NewFrame[129500]
+20200123-011854<INFO :0xf741c700>: [BiShopPing] Ping return at 7396416.
+20200123-011855<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[129520] LastFrame[128979] NewFrame[129520]
+20200123-011855<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7397490
+20200123-011859<INFO :0xf741c700>: [Frame debug] Frame 129600
+20200123-011913<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[129861] LastFrame[129500] NewFrame[129861]
+20200123-011913<INFO :0xf741c700>: [BiShopPing] Ping return at 7415436.
+20200123-011924<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[130061] LastFrame[129520] NewFrame[130061]
+20200123-011924<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7426544
+20200123-011933<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[130222] LastFrame[129861] NewFrame[130222]
+20200123-011933<INFO :0xf741c700>: [BiShopPing] Ping return at 7435519.
+20200123-011953<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[130583] LastFrame[130222] NewFrame[130583]
+20200123-011953<INFO :0xf741c700>: [BiShopPing] Ping return at 7455542.
+20200123-011954<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[130602] LastFrame[130061] NewFrame[130602]
+20200123-011954<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7456598
+20200123-012006<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-012013<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[130944] LastFrame[130583] NewFrame[130944]
+20200123-012013<INFO :0xf741c700>: [BiShopPing] Ping return at 7475630.
+20200123-012020<INFO :0xf741c700>: # PlayerCount in every subworld:
+20200123-012020<INFO :0xf741c700>:  150-D­¬ng Ch©u : 1
+20200123-012020<INFO :0xf741c700>: # TotalPlayerCount in this GameSvr : 1.
+20200123-012020<INFO :0xf741c700>: # TotalPlayerCount in player list : 1.
+20200123-012020<INFO :0xf741c700>: # TotalNpcCount in npc list : 29169.
+20200123-012020<INFO :0xf741c700>: # TotalItemCount in item list : 208.
+20200123-012024<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[131143] LastFrame[130602] NewFrame[131143]
+20200123-012024<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7486652
+20200123-012033<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[131305] LastFrame[130944] NewFrame[131305]
+20200123-012033<INFO :0xf741c700>: [BiShopPing] Ping return at 7495660.
+20200123-012053<INFO :0xf741c700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200123-012053<INFO :0xf741c700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=579A34AD dwDataLen=3790
+20200123-012053<INFO :0xf741c700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200123-012053<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[131666] LastFrame[131305] NewFrame[131666]
+20200123-012053<INFO :0xf741c700>: [BiShopPing] Ping return at 7515748.
+20200123-012113<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[132027] LastFrame[131666] NewFrame[132027]
+20200123-012113<INFO :0xf741c700>: [BiShopPing] Ping return at 7535786.
+20200123-012117<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-012123<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[132196] LastFrame[131655] NewFrame[132196]
+20200123-012123<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7545145
+20200123-012133<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[132388] LastFrame[132027] NewFrame[132388]
+20200123-012133<INFO :0xf741c700>: [BiShopPing] Ping return at 7555824.
+20200123-012153<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[132737] LastFrame[132196] NewFrame[132737]
+20200123-012153<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7575195
+20200123-012153<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[132749] LastFrame[132388] NewFrame[132749]
+20200123-012153<INFO :0xf741c700>: [BiShopPing] Ping return at 7575862.
+20200123-012158<INFO :0xf741c700>: [Frame debug] Frame 132840
+20200123-012200<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-012213<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[133110] LastFrame[132749] NewFrame[133110]
+20200123-012213<INFO :0xf741c700>: [BiShopPing] Ping return at 7595949.
+20200123-012223<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[133278] LastFrame[132737] NewFrame[133278]
+20200123-012223<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7605256
+20200123-012234<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[133471] LastFrame[133110] NewFrame[133471]
+20200123-012234<INFO :0xf741c700>: [BiShopPing] Ping return at 7615986.
+20200123-012253<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[133819] LastFrame[133278] NewFrame[133819]
+20200123-012253<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7635302
+20200123-012254<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[133832] LastFrame[133471] NewFrame[133832]
+20200123-012254<INFO :0xf741c700>: [BiShopPing] Ping return at 7636023.
+20200123-012257<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-012314<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[134193] LastFrame[133832] NewFrame[134193]
+20200123-012314<INFO :0xf741c700>: [BiShopPing] Ping return at 7656115.
+20200123-012323<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[134360] LastFrame[133819] NewFrame[134360]
+20200123-012323<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7665360
+20200123-012334<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[134554] LastFrame[134193] NewFrame[134554]
+20200123-012334<INFO :0xf741c700>: [BiShopPing] Ping return at 7676151.
+20200123-012339<WARN :0xf741c700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200123-012353<INFO :0xf741c700>: gs ping goddess[result=1], CurFrame[134901] LastFrame[134360] NewFrame[134901]
+20200123-012353<INFO :0xf741c700>: receieve goddess ping reply, goddess time = 7695411
+20200123-012354<ERROR:0xf741c700>: gs ping bishop[result=1], CurFrame[134915] LastFrame[134554] NewFrame[134915]
+20200123-012354<INFO :0xf741c700>: [BiShopPing] Ping return at 7696192.

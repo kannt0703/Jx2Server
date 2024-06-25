@@ -1,0 +1,13 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=372/160000 LastTime=2020-2-6 1:4:29
+20200207-150446<DEBUG:0xf676fb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 397 in ReceivePackages
+20200207-150446<INFO :0xf676fb40>: [Goddess] Logout() nResult = 1
+20200207-150446<INFO :0xf676fb40>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x8eb93c8
+20200207-150446<INFO :0xf676fb40>: [Goddess] Login() nResult = 1
+20200207-150446<INFO :0xf676fb40>: [Goddess] Reconnect() nResult = 1
+20200207-150449<INFO :0xf676fb40>: receive goddess ping reply, goddess time = 1284986
+20200207-150450<DEBUG:0xf6f70b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20200207-150450<DEBUG:0xf6f70b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20200207-150451<INFO :0xdb1ffb40>: [GameServer 0] from [127.0.0.1 : 64979] === crashed ===
+20200207-150451<DEBUG:0xdb1ffb40>: KGLOG_PROCESS_ERROR(FALSE) at line 2896 in ThreadFunction
+20200207-150451<INFO :0xdb1ffb40>: [GameServer 0] from [127.0.0.1 : 64979] === End ===
+20200207-150451<INFO :0xdb1ffb40>: [GameServer 0] unlock  accounts in game server,count=0 

@@ -1,0 +1,71 @@
+20200105-231644	INFO	COMMON	reges of Observer:
+20200105-231644	INFO	COMMON	reges of event 1[SYSEVENT_GAMESERVER_START]:
+20200105-231644	INFO	COMMON	reges of event 2[SYSEVENT_PLAYER_LOGIN]:
+20200105-231644	INFO	COMMON	add_tifyzhiyin of 2[SYSEVENT_PLAYER_LOGIN]: "#FUNCTION"
+20200105-231644	INFO	COMMON	reges of event 3[SYSEVENT_PLAYER_LOGOUT]:
+20200105-231644	INFO	COMMON	reges of event 4[SYSEVENT_DAILY_CLEAR]:
+20200105-231644	INFO	COMMON	reges of event 101[SYSEVENT_LIANGSHAN_STAGE_FINISH]:
+20200105-231644	INFO	COMMON	reges of event 102[SYSEVENT_LIANGSHAN_TASK_AWARD]:
+20200105-231644	INFO	COMMON	reges of event 301[SYSEVENT_WANJIANZHONG_STAGE_FINISH]:
+20200105-231644	INFO	COMMON	reges of event 302[SYSEVENT_WANJIANZHONG_TASK_AWARD]:
+20200105-231644	INFO	COMMON	reges of event 10001[SYSEVENT_GLOBAL_COST_IB]:
+20200105-231644	INFO	COMMON	_on_cost_ib_item of 10001[SYSEVENT_GLOBAL_COST_IB]: "#FUNCTION"
+20200105-231644	INFO	COMMON	reges of event 501[SYSEVENT_TAIYI_NOR_STAGE_FINISH]:
+20200105-231644	INFO	COMMON	reges of event 502[SYSEVENT_TAIYI_HARD_STAGE_FINISH]:
+20200105-231644	INFO	COMMON	reges of event 601[SYSEVENT_TAIXU_STAGE_FINISH]:
+20200105-231644	INFO	COMMON	reges of event 5[SYSEVENT_WEEKLY_CLEAR]:
+20200105-231644	INFO	COMMON	reges of event 6[SYSEVENT_MONTHLY_CLEAR]:
+20200105-231644	INFO	COMMON	reges of event 401[SYSEVENT_CANGJIAN_STAGE_FINISH]:
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,2) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,3) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,5) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,6) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,7) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,8) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,9) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,10) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,11) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,12) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,13) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231742	INFO	COMMON	[kuafu share data(KF_demooooooooo,0,14) not exist]	tinykidpro	demooooooooo										5	99	0	0		192.168.70.1
+20200105-231750	INFO	COMMON	B¶n ®å:100TÊt c¶ nh÷ng th«ng tin liªn quan vÒ ¶i
+20200105-231750	INFO	COMMON	B¶n ®å:150TÊt c¶ nh÷ng th«ng tin liªn quan vÒ ¶i
+20200105-231750	INFO	COMMON	B¶n ®å:200TÊt c¶ nh÷ng th«ng tin liªn quan vÒ ¶i
+20200105-231750	INFO	COMMON	B¶n ®å:300TÊt c¶ nh÷ng th«ng tin liªn quan vÒ ¶i
+20200105-231750	INFO	COMMON	B¶n ®å:350TÊt c¶ nh÷ng th«ng tin liªn quan vÒ ¶i
+20200105-231848	INFO	COMMON	[Tr­îng KiÕm Thiªn Nhai] [NhiÖm vô biÕn hãa] [Nh©n vËt: DemoDemo, tµi kho¶n: thuong] [Sè vßng: 0, vÞ trÝ: 0, biÕn l­îng: 0]
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,2) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,3) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,5) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,6) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,7) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,8) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,9) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,10) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,11) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,12) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,13) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-231848	INFO	COMMON	[kuafu share data(KF_DemoDemo,0,14) not exist]	thuong	DemoDemo										5	99	0	0		192.168.70.1
+20200105-232045	INFO	COMMON	nAttendWeek:0
+20200105-232045	INFO	COMMON	nFieldMapID:926
+20200105-232045	INFO	COMMON	[Bang héi v­ît ¶i]:ThuongBang héi b¾t ®Çu v­ît ¶i, nMSUID: 398000
+20200105-232045	INFO	COMMON	[Tu Quang Cac]	tinykidpro	demooooooooo	tham gia									5	99	0	0		192.168.70.1
+20200105-232045	INFO	COMMON	[Tu Quang Cac]	thuong	DemoDemo	tham gia									5	99	0	0		192.168.70.1
+20200105-232050	INFO	COMMON	2
+20200105-232050	INFO	COMMON	0
+20200105-232058	INFO	COMMON	2
+20200105-232058	INFO	COMMON	0
+20200105-232110	INFO	COMMON	2
+20200105-232110	INFO	COMMON	0
+20200105-232113	INFO	COMMON	2
+20200105-232113	INFO	COMMON	0
+20200105-232122	INFO	COMMON	2
+20200105-232122	INFO	COMMON	0
+20200105-232139	INFO	COMMON	2
+20200105-232139	INFO	COMMON	0
+20200105-232203	INFO	COMMON	2
+20200105-232203	INFO	COMMON	0
+20200105-232205	INFO	COMMON	player count:1
+20200105-232205	INFO	COMMON	player count:0
+20200105-232205	INFO	COMMON	[Bang héi v­ît ¶i]:Thuong¶i bang héi ®· kÕt thóc, nMSUID?398000
+20200105-232330	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	thuong	DemoDemo	0	0

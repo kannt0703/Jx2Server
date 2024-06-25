@@ -1,0 +1,105 @@
+20200106-001155	INFO	COMMON	reges of Observer:
+20200106-001155	INFO	COMMON	reges of event 1[SYSEVENT_GAMESERVER_START]:
+20200106-001155	INFO	COMMON	reges of event 2[SYSEVENT_PLAYER_LOGIN]:
+20200106-001155	INFO	COMMON	add_tifyzhiyin of 2[SYSEVENT_PLAYER_LOGIN]: "#FUNCTION"
+20200106-001155	INFO	COMMON	reges of event 3[SYSEVENT_PLAYER_LOGOUT]:
+20200106-001155	INFO	COMMON	reges of event 4[SYSEVENT_DAILY_CLEAR]:
+20200106-001155	INFO	COMMON	reges of event 101[SYSEVENT_LIANGSHAN_STAGE_FINISH]:
+20200106-001155	INFO	COMMON	reges of event 102[SYSEVENT_LIANGSHAN_TASK_AWARD]:
+20200106-001155	INFO	COMMON	reges of event 301[SYSEVENT_WANJIANZHONG_STAGE_FINISH]:
+20200106-001155	INFO	COMMON	reges of event 302[SYSEVENT_WANJIANZHONG_TASK_AWARD]:
+20200106-001155	INFO	COMMON	reges of event 10001[SYSEVENT_GLOBAL_COST_IB]:
+20200106-001155	INFO	COMMON	_on_cost_ib_item of 10001[SYSEVENT_GLOBAL_COST_IB]: "#FUNCTION"
+20200106-001155	INFO	COMMON	reges of event 501[SYSEVENT_TAIYI_NOR_STAGE_FINISH]:
+20200106-001155	INFO	COMMON	reges of event 502[SYSEVENT_TAIYI_HARD_STAGE_FINISH]:
+20200106-001155	INFO	COMMON	reges of event 601[SYSEVENT_TAIXU_STAGE_FINISH]:
+20200106-001155	INFO	COMMON	reges of event 5[SYSEVENT_WEEKLY_CLEAR]:
+20200106-001155	INFO	COMMON	reges of event 6[SYSEVENT_MONTHLY_CLEAR]:
+20200106-001155	INFO	COMMON	reges of event 401[SYSEVENT_CANGJIAN_STAGE_FINISH]:
+20200106-001324	INFO	COMMON	[Tr≠Óng Ki’m Thi™n Nhai] [Nhi÷m vÙ bi’n h„a] [Nh©n vÀt: ThuongKawaii, tµi kho∂n: tinykidpro] [SË vﬂng: 0, vﬁ tr›: 0, bi’n l≠Óng: 0]
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,2) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,3) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,5) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,6) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,7) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,8) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,9) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,10) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,11) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,12) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,13) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001324	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,14) not exist]	tinykidpro	ThuongKawaii										0	1	0	0		192.168.70.1
+20200106-001426	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	tinykidpro	ThuongKawaii	0	0
+20200106-001516	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,2) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,3) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,5) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,6) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,7) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,8) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,9) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,10) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,11) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,12) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,13) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001517	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,14) not exist]	tinykidpro	ThuongKawaii										5	99	0	0		192.168.70.1
+20200106-001611	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	0,112,158,1
+20200106-001704	INFO	COMMON	[]	tinykidpro	ThuongKawaii	use item qiaoyiquan		30491	2,1,30491,4						5	99	0	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 1							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 1							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 1							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 1							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 2							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 2							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 2							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 2							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 3							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 3							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 3							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 3							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 4							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 4							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 4							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 4							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 5							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 5							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 5							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 5							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Huy’t Tr›ch Thπch C p 6							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Nguy÷t Bπch Thπch C p 6							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	HÊ Ph∏ch Thπch C p 6							5	99	6	0		192.168.70.1
+20200106-002740	INFO	COMMON	[Get_Gem]	tinykidpro	ThuongKawaii	NhÀn Æ∏ qu˝	100	Hæc Di÷u Thπch C p 6							5	99	6	0		192.168.70.1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,120,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,121,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,122,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,123,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,124,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,125,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,126,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,127,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,128,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,129,1
+20200106-003250	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,130,1
+20200106-003659	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,120,1
+20200106-003659	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,121,1
+20200106-003659	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,122,1
+20200106-003659	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,123,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,124,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,125,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,126,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,127,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,128,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,129,1
+20200106-003700	INFO	COMMON	[]	AddItemEx:	ThuongKawaii	nhÀn Æ≠Óc vÀt ph»m	2,6,130,1
+20200106-003817	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	tinykidpro	ThuongKawaii	0	0
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,2) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,3) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,5) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,6) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,7) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,8) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,9) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,10) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,11) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,12) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,13) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1
+20200106-003844	INFO	COMMON	[kuafu share data(KF_ThuongKawaii,0,14) not exist]	tinykidpro	ThuongKawaii										5	99	6	0		192.168.70.1

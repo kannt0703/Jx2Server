@@ -1,0 +1,702 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=401/65535 LastTime=2020-2-7 23:58:34
+20200208-000000<INFO :0xf73a6700>: [SystimeTask] timetask [Ln2 00:00]  is time up [Frame 1376], execute script 297637250:{\script\task\weekend\weekend_timer.lua}
+20200208-000011<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[1587] LastFrame[1226] NewFrame[1587]
+20200208-000011<INFO :0xf73a6700>: [BiShopPing] Ping return at 4460524.
+20200208-000012<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[1598] LastFrame[1057] NewFrame[1598]
+20200208-000012<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4461101
+20200208-000031<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[1948] LastFrame[1587] NewFrame[1948]
+20200208-000031<INFO :0xf73a6700>: [BiShopPing] Ping return at 4480568.
+20200208-000042<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[2139] LastFrame[1598] NewFrame[2139]
+20200208-000042<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4491151
+20200208-000051<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000052<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[2309] LastFrame[1948] NewFrame[2309]
+20200208-000052<INFO :0xf73a6700>: [BiShopPing] Ping return at 4500613.
+20200208-000100<INFO :0xf73a6700>: [SystimeTask] timetask [Ln3 00:01]  is time up [Frame 2464], execute script 2834089862:{\script\newbattles\systemtimemessage\main_battle_signup.lua}
+20200208-000101<INFO :0xf73a6700>: [SystimeTask] timetask [Ln4 00:01]  is time up [Frame 2480], execute script 1242397090:{\script\online\viet_event\200912\5\init_yanhui.lua}
+20200208-000112<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[2670] LastFrame[2309] NewFrame[2670]
+20200208-000112<INFO :0xf73a6700>: [BiShopPing] Ping return at 4520656.
+20200208-000112<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[2680] LastFrame[2139] NewFrame[2680]
+20200208-000112<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4521206
+20200208-000132<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[3031] LastFrame[2670] NewFrame[3031]
+20200208-000132<INFO :0xf73a6700>: [BiShopPing] Ping return at 4540711.
+20200208-000142<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[3221] LastFrame[2680] NewFrame[3221]
+20200208-000142<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4551260
+20200208-000143<INFO :0xf73a6700>: [Frame debug] Frame 3240
+20200208-000152<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[3392] LastFrame[3031] NewFrame[3392]
+20200208-000152<INFO :0xf73a6700>: [BiShopPing] Ping return at 4560801.
+20200208-000200<INFO :0xf73a6700>: [SystimeTask] timetask [Ln5 00:02]  is time up [Frame 3536], execute script 3113710872:{\script\½á»é\mate_timer.lua}
+20200208-000202<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000212<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[3753] LastFrame[3392] NewFrame[3753]
+20200208-000212<INFO :0xf73a6700>: [BiShopPing] Ping return at 4580846.
+20200208-000212<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[3762] LastFrame[3221] NewFrame[3762]
+20200208-000212<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4581312
+20200208-000232<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[4114] LastFrame[3753] NewFrame[4114]
+20200208-000232<INFO :0xf73a6700>: [BiShopPing] Ping return at 4600887.
+20200208-000242<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[4303] LastFrame[3762] NewFrame[4303]
+20200208-000242<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4611368
+20200208-000252<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[4475] LastFrame[4114] NewFrame[4475]
+20200208-000252<INFO :0xf73a6700>: [BiShopPing] Ping return at 4620927.
+20200208-000300<INFO :0xf73a6700>: [SystimeTask] timetask [Ln6 00:03]  is time up [Frame 4624], execute script 3583112118:{\script\²Ø½£É½×¯\task_script\ontimer_notify.lua}
+20200208-000312<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[4836] LastFrame[4475] NewFrame[4836]
+20200208-000312<INFO :0xf73a6700>: [BiShopPing] Ping return at 4640967.
+20200208-000312<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[4844] LastFrame[4303] NewFrame[4844]
+20200208-000312<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4641418
+20200208-000332<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[5197] LastFrame[4836] NewFrame[5197]
+20200208-000332<INFO :0xf73a6700>: [BiShopPing] Ping return at 4661063.
+20200208-000342<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[5385] LastFrame[4844] NewFrame[5385]
+20200208-000342<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4671468
+20200208-000352<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[5558] LastFrame[5197] NewFrame[5558]
+20200208-000352<INFO :0xf73a6700>: [BiShopPing] Ping return at 4681111.
+20200208-000356<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000412<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[5919] LastFrame[5558] NewFrame[5919]
+20200208-000412<INFO :0xf73a6700>: [BiShopPing] Ping return at 4701164.
+20200208-000412<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[5926] LastFrame[5385] NewFrame[5926]
+20200208-000412<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4701518
+20200208-000432<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[6280] LastFrame[5919] NewFrame[6280]
+20200208-000432<INFO :0xf73a6700>: [BiShopPing] Ping return at 4721210.
+20200208-000443<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[6467] LastFrame[5926] NewFrame[6467]
+20200208-000443<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4731575
+20200208-000443<INFO :0xf73a6700>: [Frame debug] Frame 6480
+20200208-000452<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[6641] LastFrame[6280] NewFrame[6641]
+20200208-000452<INFO :0xf73a6700>: [BiShopPing] Ping return at 4741250.
+20200208-000512<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[7002] LastFrame[6641] NewFrame[7002]
+20200208-000512<INFO :0xf73a6700>: [BiShopPing] Ping return at 4761341.
+20200208-000513<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[7008] LastFrame[6467] NewFrame[7008]
+20200208-000513<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4761631
+20200208-000532<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[7363] LastFrame[7002] NewFrame[7363]
+20200208-000532<INFO :0xf73a6700>: [BiShopPing] Ping return at 4781387.
+20200208-000543<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[7549] LastFrame[7008] NewFrame[7549]
+20200208-000543<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4791683
+20200208-000552<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[7724] LastFrame[7363] NewFrame[7724]
+20200208-000552<INFO :0xf73a6700>: [BiShopPing] Ping return at 4801436.
+20200208-000612<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[8085] LastFrame[7724] NewFrame[8085]
+20200208-000612<INFO :0xf73a6700>: [BiShopPing] Ping return at 4821483.
+20200208-000613<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[8090] LastFrame[7549] NewFrame[8090]
+20200208-000613<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4821735
+20200208-000632<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[8446] LastFrame[8085] NewFrame[8446]
+20200208-000632<INFO :0xf73a6700>: [BiShopPing] Ping return at 4841533.
+20200208-000643<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[8631] LastFrame[8090] NewFrame[8631]
+20200208-000643<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4851786
+20200208-000653<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[8807] LastFrame[8446] NewFrame[8807]
+20200208-000653<INFO :0xf73a6700>: [BiShopPing] Ping return at 4861574.
+20200208-000701<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000713<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[9168] LastFrame[8807] NewFrame[9168]
+20200208-000713<INFO :0xf73a6700>: [BiShopPing] Ping return at 4881620.
+20200208-000713<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[9172] LastFrame[8631] NewFrame[9172]
+20200208-000713<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4881844
+20200208-000729<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000733<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[9529] LastFrame[9168] NewFrame[9529]
+20200208-000733<INFO :0xf73a6700>: [BiShopPing] Ping return at 4901712.
+20200208-000743<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[9713] LastFrame[9172] NewFrame[9713]
+20200208-000743<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4911894
+20200208-000743<INFO :0xf73a6700>: [Frame debug] Frame 9720
+20200208-000753<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[9890] LastFrame[9529] NewFrame[9890]
+20200208-000753<INFO :0xf73a6700>: [BiShopPing] Ping return at 4921756.
+20200208-000813<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[10251] LastFrame[9890] NewFrame[10251]
+20200208-000813<INFO :0xf73a6700>: [BiShopPing] Ping return at 4941801.
+20200208-000813<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[10254] LastFrame[9713] NewFrame[10254]
+20200208-000813<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4941944
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1800]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[200:BiÖn Kinh].[28838:Th­¬ng nh©n T©y Vùc].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28839:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28840:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28841:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28842:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28843:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28844:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28845:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28846:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28847:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28848:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28849:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28850:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28851:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28852:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28853:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28854:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28855:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28856:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28857:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28858:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28859:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28860:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28861:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28862:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28863:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28864:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28865:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28866:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28867:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28868:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28869:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28870:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28871:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28872:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28873:D­îc Nh©n Th¶o].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28874:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28875:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28876:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28877:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28878:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28879:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28880:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28881:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28882:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28883:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28884:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28885:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28886:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28887:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28888:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28889:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28890:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28891:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28892:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28893:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28894:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28895:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28896:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28897:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28898:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28899:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28900:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28901:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28902:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28903:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28904:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28905:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28906:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28907:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28908:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28909:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28910:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28911:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28912:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28913:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28914:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28915:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28916:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28917:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28918:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28919:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28920:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28921:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28922:TÝch D­¬ng c¨n].
+20200208-000829<ERROR:0xf73a6700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28923:TÝch D­¬ng c¨n].
+20200208-000833<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[10612] LastFrame[10251] NewFrame[10612]
+20200208-000833<INFO :0xf73a6700>: [BiShopPing] Ping return at 4961848.
+20200208-000841<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000843<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[10795] LastFrame[10254] NewFrame[10795]
+20200208-000843<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 4972002
+20200208-000853<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[10973] LastFrame[10612] NewFrame[10973]
+20200208-000853<INFO :0xf73a6700>: [BiShopPing] Ping return at 4981889.
+20200208-000913<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[11334] LastFrame[10973] NewFrame[11334]
+20200208-000913<INFO :0xf73a6700>: [BiShopPing] Ping return at 5001980.
+20200208-000913<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[11336] LastFrame[10795] NewFrame[11336]
+20200208-000913<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5002054
+20200208-000933<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[11695] LastFrame[11334] NewFrame[11695]
+20200208-000933<INFO :0xf73a6700>: [BiShopPing] Ping return at 5022027.
+20200208-000937<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-000943<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[11877] LastFrame[11336] NewFrame[11877]
+20200208-000943<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5032098
+20200208-000953<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[12056] LastFrame[11695] NewFrame[12056]
+20200208-000953<INFO :0xf73a6700>: [BiShopPing] Ping return at 5042071.
+20200208-001005<ERROR:0xf73a6700>: Recv data error, shutdown(linkindex:0)
+20200208-001005<INFO :0xf73a6700>: [LOGIN/OUT] Connection[0] lost, idx:1, acc:an, role:ioNaruto, GameStatus:PlayerPlaying, ExchangeStatus:ExchangeBegin, LastPingTime:[2020-02-08 00:10:03]
+20200208-001005<INFO :0xf73a6700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200208-001005<INFO :0xf73a6700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=11EE282A dwDataLen=7380
+20200208-001005<INFO :0xf73a6700>: [SavePlayerData] send save request to goddess bUnLock=1, acc:an, role:ioNaruto
+20200208-001005<INFO :0xf73a6700>: [LOGIN/OUT] G2B_ROLE_LOGOUT idx:1, acc:an, role:ioNaruto
+20200208-001005<INFO :0xf73a6700>: acc:an leave game!
+20200208-001005<INFO :0xf73a6700>: Remove player object . acc an, role ioNaruto
+20200208-001006<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001025<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[12628] LastFrame[12267] NewFrame[12628]
+20200208-001025<INFO :0xf73a6700>: [BiShopPing] Ping return at 5073830.
+20200208-001035<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[12808] LastFrame[12267] NewFrame[12808]
+20200208-001035<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5083820
+20200208-001043<INFO :0xf73a6700>: [Frame debug] Frame 12960
+20200208-001045<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[12989] LastFrame[12628] NewFrame[12989]
+20200208-001045<INFO :0xf73a6700>: [BiShopPing] Ping return at 5093880.
+20200208-001049<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001105<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[13349] LastFrame[12808] NewFrame[13349]
+20200208-001105<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5113878
+20200208-001105<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[13350] LastFrame[12989] NewFrame[13350]
+20200208-001105<INFO :0xf73a6700>: [BiShopPing] Ping return at 5113925.
+20200208-001117<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001125<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[13711] LastFrame[13350] NewFrame[13711]
+20200208-001125<INFO :0xf73a6700>: [BiShopPing] Ping return at 5134023.
+20200208-001135<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[13890] LastFrame[13349] NewFrame[13890]
+20200208-001135<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5143926
+20200208-001145<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[14072] LastFrame[13711] NewFrame[14072]
+20200208-001145<INFO :0xf73a6700>: [BiShopPing] Ping return at 5154032.
+20200208-001205<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[14431] LastFrame[13890] NewFrame[14431]
+20200208-001205<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5173976
+20200208-001205<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[14433] LastFrame[14072] NewFrame[14433]
+20200208-001205<INFO :0xf73a6700>: [BiShopPing] Ping return at 5174130.
+20200208-001214<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001225<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[14794] LastFrame[14433] NewFrame[14794]
+20200208-001225<INFO :0xf73a6700>: [BiShopPing] Ping return at 5194180.
+20200208-001235<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[14972] LastFrame[14431] NewFrame[14972]
+20200208-001235<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5204034
+20200208-001242<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001245<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[15155] LastFrame[14794] NewFrame[15155]
+20200208-001245<INFO :0xf73a6700>: [BiShopPing] Ping return at 5214215.
+20200208-001305<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[15513] LastFrame[14972] NewFrame[15513]
+20200208-001305<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5234086
+20200208-001305<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[15516] LastFrame[15155] NewFrame[15516]
+20200208-001305<INFO :0xf73a6700>: [BiShopPing] Ping return at 5234259.
+20200208-001325<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[15877] LastFrame[15516] NewFrame[15877]
+20200208-001325<INFO :0xf73a6700>: [BiShopPing] Ping return at 5254312.
+20200208-001335<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[16054] LastFrame[15513] NewFrame[16054]
+20200208-001335<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5264139
+20200208-001343<INFO :0xf73a6700>: [Frame debug] Frame 16200
+20200208-001345<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[16238] LastFrame[15877] NewFrame[16238]
+20200208-001345<INFO :0xf73a6700>: [BiShopPing] Ping return at 5274402.
+20200208-001353<INFO :0xf73a6700>: # PlayerCount in every subworld:
+20200208-001353<INFO :0xf73a6700>: # TotalPlayerCount in this GameSvr : 0.
+20200208-001353<INFO :0xf73a6700>: # TotalPlayerCount in player list : 0.
+20200208-001353<INFO :0xf73a6700>: # TotalNpcCount in npc list : 28917.
+20200208-001353<INFO :0xf73a6700>: # TotalItemCount in item list : 0.
+20200208-001405<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[16595] LastFrame[16054] NewFrame[16595]
+20200208-001405<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5294192
+20200208-001405<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[16599] LastFrame[16238] NewFrame[16599]
+20200208-001405<INFO :0xf73a6700>: [BiShopPing] Ping return at 5294452.
+20200208-001408<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001425<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[16960] LastFrame[16599] NewFrame[16960]
+20200208-001425<INFO :0xf73a6700>: [BiShopPing] Ping return at 5314491.
+20200208-001435<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[17136] LastFrame[16595] NewFrame[17136]
+20200208-001435<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5324248
+20200208-001446<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[17321] LastFrame[16960] NewFrame[17321]
+20200208-001446<INFO :0xf73a6700>: [BiShopPing] Ping return at 5334554.
+20200208-001505<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001505<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[17677] LastFrame[17136] NewFrame[17677]
+20200208-001505<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5354297
+20200208-001506<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[17682] LastFrame[17321] NewFrame[17682]
+20200208-001506<INFO :0xf73a6700>: [BiShopPing] Ping return at 5354616.
+20200208-001526<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[18043] LastFrame[17682] NewFrame[18043]
+20200208-001526<INFO :0xf73a6700>: [BiShopPing] Ping return at 5374669.
+20200208-001533<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001535<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[18218] LastFrame[17677] NewFrame[18218]
+20200208-001535<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5384349
+20200208-001546<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[18404] LastFrame[18043] NewFrame[18404]
+20200208-001546<INFO :0xf73a6700>: [BiShopPing] Ping return at 5394714.
+20200208-001605<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[18759] LastFrame[18218] NewFrame[18759]
+20200208-001605<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5414423
+20200208-001606<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[18765] LastFrame[18404] NewFrame[18765]
+20200208-001606<INFO :0xf73a6700>: [BiShopPing] Ping return at 5414741.
+20200208-001626<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[19126] LastFrame[18765] NewFrame[19126]
+20200208-001626<INFO :0xf73a6700>: [BiShopPing] Ping return at 5434788.
+20200208-001635<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[19300] LastFrame[18759] NewFrame[19300]
+20200208-001635<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5444472
+20200208-001643<INFO :0xf73a6700>: [Frame debug] Frame 19440
+20200208-001644<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001646<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[19487] LastFrame[19126] NewFrame[19487]
+20200208-001646<INFO :0xf73a6700>: [BiShopPing] Ping return at 5454886.
+20200208-001706<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[19841] LastFrame[19300] NewFrame[19841]
+20200208-001706<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5474501
+20200208-001706<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[19848] LastFrame[19487] NewFrame[19848]
+20200208-001706<INFO :0xf73a6700>: [BiShopPing] Ping return at 5474923.
+20200208-001713<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001726<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[20209] LastFrame[19848] NewFrame[20209]
+20200208-001726<INFO :0xf73a6700>: [BiShopPing] Ping return at 5494975.
+20200208-001736<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[20382] LastFrame[19841] NewFrame[20382]
+20200208-001736<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5504556
+20200208-001746<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[20570] LastFrame[20209] NewFrame[20570]
+20200208-001746<INFO :0xf73a6700>: [BiShopPing] Ping return at 5515026.
+20200208-001806<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[20923] LastFrame[20382] NewFrame[20923]
+20200208-001806<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5534609
+20200208-001806<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[20931] LastFrame[20570] NewFrame[20931]
+20200208-001806<INFO :0xf73a6700>: [BiShopPing] Ping return at 5535083.
+20200208-001826<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[21292] LastFrame[20931] NewFrame[21292]
+20200208-001826<INFO :0xf73a6700>: [BiShopPing] Ping return at 5555139.
+20200208-001836<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[21464] LastFrame[20923] NewFrame[21464]
+20200208-001836<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5564664
+20200208-001846<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[21653] LastFrame[21292] NewFrame[21653]
+20200208-001846<INFO :0xf73a6700>: [BiShopPing] Ping return at 5575186.
+20200208-001852<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001906<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[22005] LastFrame[21464] NewFrame[22005]
+20200208-001906<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5594719
+20200208-001906<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[22014] LastFrame[21653] NewFrame[22014]
+20200208-001906<INFO :0xf73a6700>: [BiShopPing] Ping return at 5595237.
+20200208-001906<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-001926<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[22375] LastFrame[22014] NewFrame[22375]
+20200208-001926<INFO :0xf73a6700>: [BiShopPing] Ping return at 5615293.
+20200208-001936<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[22546] LastFrame[22005] NewFrame[22546]
+20200208-001936<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5624768
+20200208-001943<INFO :0xf73a6700>: [Frame debug] Frame 22680
+20200208-001946<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[22736] LastFrame[22375] NewFrame[22736]
+20200208-001946<INFO :0xf73a6700>: [BiShopPing] Ping return at 5635321.
+20200208-002006<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[23087] LastFrame[22546] NewFrame[23087]
+20200208-002006<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5654819
+20200208-002006<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[23097] LastFrame[22736] NewFrame[23097]
+20200208-002006<INFO :0xf73a6700>: [BiShopPing] Ping return at 5655417.
+20200208-002024<INFO :0xf73a6700>: [Gateway Kick] Can't find account ttt
+20200208-002032<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002036<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[23628] LastFrame[23087] NewFrame[23628]
+20200208-002036<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5684876
+20200208-002044<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[23782] LastFrame[23421] NewFrame[23782]
+20200208-002044<INFO :0xf73a6700>: [BiShopPing] Ping return at 5693446.
+20200208-002100<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002105<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[24143] LastFrame[23782] NewFrame[24143]
+20200208-002105<INFO :0xf73a6700>: [BiShopPing] Ping return at 5713492.
+20200208-002106<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[24169] LastFrame[23628] NewFrame[24169]
+20200208-002106<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5714924
+20200208-002125<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[24504] LastFrame[24143] NewFrame[24504]
+20200208-002125<INFO :0xf73a6700>: [BiShopPing] Ping return at 5733546.
+20200208-002136<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[24710] LastFrame[24169] NewFrame[24710]
+20200208-002136<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5744979
+20200208-002145<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[24865] LastFrame[24504] NewFrame[24865]
+20200208-002145<INFO :0xf73a6700>: [BiShopPing] Ping return at 5753629.
+20200208-002205<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[25226] LastFrame[24865] NewFrame[25226]
+20200208-002205<INFO :0xf73a6700>: [BiShopPing] Ping return at 5773667.
+20200208-002206<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[25251] LastFrame[24710] NewFrame[25251]
+20200208-002206<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5775038
+20200208-002225<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[25587] LastFrame[25226] NewFrame[25587]
+20200208-002225<INFO :0xf73a6700>: [BiShopPing] Ping return at 5793728.
+20200208-002236<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[25792] LastFrame[25251] NewFrame[25792]
+20200208-002236<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5805089
+20200208-002240<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002243<INFO :0xf73a6700>: [Frame debug] Frame 25920
+20200208-002245<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[25948] LastFrame[25587] NewFrame[25948]
+20200208-002245<INFO :0xf73a6700>: [BiShopPing] Ping return at 5813779.
+20200208-002305<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[26309] LastFrame[25948] NewFrame[26309]
+20200208-002305<INFO :0xf73a6700>: [BiShopPing] Ping return at 5833831.
+20200208-002306<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[26333] LastFrame[25792] NewFrame[26333]
+20200208-002306<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5835143
+20200208-002308<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002325<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[26670] LastFrame[26309] NewFrame[26670]
+20200208-002325<INFO :0xf73a6700>: [BiShopPing] Ping return at 5853862.
+20200208-002336<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[26874] LastFrame[26333] NewFrame[26874]
+20200208-002336<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5865190
+20200208-002345<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[27031] LastFrame[26670] NewFrame[27031]
+20200208-002345<INFO :0xf73a6700>: [BiShopPing] Ping return at 5873909.
+20200208-002405<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[27392] LastFrame[27031] NewFrame[27392]
+20200208-002405<INFO :0xf73a6700>: [BiShopPing] Ping return at 5894004.
+20200208-002406<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[27415] LastFrame[26874] NewFrame[27415]
+20200208-002406<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5895244
+20200208-002425<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[27753] LastFrame[27392] NewFrame[27753]
+20200208-002425<INFO :0xf73a6700>: [BiShopPing] Ping return at 5914060.
+20200208-002436<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[27956] LastFrame[27415] NewFrame[27956]
+20200208-002436<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5925299
+20200208-002445<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[28114] LastFrame[27753] NewFrame[28114]
+20200208-002445<INFO :0xf73a6700>: [BiShopPing] Ping return at 5934085.
+20200208-002448<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002505<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[28475] LastFrame[28114] NewFrame[28475]
+20200208-002505<INFO :0xf73a6700>: [BiShopPing] Ping return at 5954170.
+20200208-002506<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[28497] LastFrame[27956] NewFrame[28497]
+20200208-002506<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5955348
+20200208-002525<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[28836] LastFrame[28475] NewFrame[28836]
+20200208-002525<INFO :0xf73a6700>: [BiShopPing] Ping return at 5974220.
+20200208-002536<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[29038] LastFrame[28497] NewFrame[29038]
+20200208-002536<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 5985403
+20200208-002543<INFO :0xf73a6700>: [Frame debug] Frame 29160
+20200208-002545<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[29197] LastFrame[28836] NewFrame[29197]
+20200208-002545<INFO :0xf73a6700>: [BiShopPing] Ping return at 5994270.
+20200208-002605<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[29558] LastFrame[29197] NewFrame[29558]
+20200208-002605<INFO :0xf73a6700>: [BiShopPing] Ping return at 6014330.
+20200208-002607<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[29579] LastFrame[29038] NewFrame[29579]
+20200208-002607<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6015452
+20200208-002613<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002625<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[29919] LastFrame[29558] NewFrame[29919]
+20200208-002625<INFO :0xf73a6700>: [BiShopPing] Ping return at 6034377.
+20200208-002637<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[30120] LastFrame[29579] NewFrame[30120]
+20200208-002637<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6045504
+20200208-002645<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[30280] LastFrame[29919] NewFrame[30280]
+20200208-002645<INFO :0xf73a6700>: [BiShopPing] Ping return at 6054434.
+20200208-002706<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[30641] LastFrame[30280] NewFrame[30641]
+20200208-002706<INFO :0xf73a6700>: [BiShopPing] Ping return at 6074491.
+20200208-002707<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[30661] LastFrame[30120] NewFrame[30661]
+20200208-002707<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6075561
+20200208-002724<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002726<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[31002] LastFrame[30641] NewFrame[31002]
+20200208-002726<INFO :0xf73a6700>: [BiShopPing] Ping return at 6094543.
+20200208-002737<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[31202] LastFrame[30661] NewFrame[31202]
+20200208-002737<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6105615
+20200208-002746<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[31363] LastFrame[31002] NewFrame[31363]
+20200208-002746<INFO :0xf73a6700>: [BiShopPing] Ping return at 6114599.
+20200208-002806<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[31724] LastFrame[31363] NewFrame[31724]
+20200208-002806<INFO :0xf73a6700>: [BiShopPing] Ping return at 6134607.
+20200208-002807<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[31743] LastFrame[31202] NewFrame[31743]
+20200208-002807<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6135669
+20200208-002821<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002826<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[32085] LastFrame[31724] NewFrame[32085]
+20200208-002826<INFO :0xf73a6700>: [BiShopPing] Ping return at 6154709.
+20200208-002835<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-002837<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[32284] LastFrame[31743] NewFrame[32284]
+20200208-002837<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6165723
+20200208-002843<INFO :0xf73a6700>: [Frame debug] Frame 32400
+20200208-002846<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[32446] LastFrame[32085] NewFrame[32446]
+20200208-002846<INFO :0xf73a6700>: [BiShopPing] Ping return at 6174763.
+20200208-002904<INFO :0xf73a6700>: # PlayerCount in every subworld:
+20200208-002904<INFO :0xf73a6700>: # TotalPlayerCount in this GameSvr : 0.
+20200208-002904<INFO :0xf73a6700>: # TotalPlayerCount in player list : 0.
+20200208-002904<INFO :0xf73a6700>: # TotalNpcCount in npc list : 29122.
+20200208-002904<INFO :0xf73a6700>: # TotalItemCount in item list : 0.
+20200208-002906<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[32807] LastFrame[32446] NewFrame[32807]
+20200208-002906<INFO :0xf73a6700>: [BiShopPing] Ping return at 6194813.
+20200208-002907<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[32825] LastFrame[32284] NewFrame[32825]
+20200208-002907<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6195772
+20200208-002926<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[33168] LastFrame[32807] NewFrame[33168]
+20200208-002926<INFO :0xf73a6700>: [BiShopPing] Ping return at 6214823.
+20200208-002937<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[33366] LastFrame[32825] NewFrame[33366]
+20200208-002937<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6225830
+20200208-002946<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[33529] LastFrame[33168] NewFrame[33529]
+20200208-002946<INFO :0xf73a6700>: [BiShopPing] Ping return at 6234881.
+20200208-003006<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[33890] LastFrame[33529] NewFrame[33890]
+20200208-003006<INFO :0xf73a6700>: [BiShopPing] Ping return at 6254931.
+20200208-003007<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[33907] LastFrame[33366] NewFrame[33907]
+20200208-003007<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6255874
+20200208-003026<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[34251] LastFrame[33890] NewFrame[34251]
+20200208-003026<INFO :0xf73a6700>: [BiShopPing] Ping return at 6275028.
+20200208-003037<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[34448] LastFrame[33907] NewFrame[34448]
+20200208-003037<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6285930
+20200208-003046<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[34612] LastFrame[34251] NewFrame[34612]
+20200208-003046<INFO :0xf73a6700>: [BiShopPing] Ping return at 6295085.
+20200208-003106<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[34973] LastFrame[34612] NewFrame[34973]
+20200208-003106<INFO :0xf73a6700>: [BiShopPing] Ping return at 6315099.
+20200208-003107<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[34989] LastFrame[34448] NewFrame[34989]
+20200208-003107<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6315987
+20200208-003112<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003126<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[35334] LastFrame[34973] NewFrame[35334]
+20200208-003126<INFO :0xf73a6700>: [BiShopPing] Ping return at 6335160.
+20200208-003137<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[35530] LastFrame[34989] NewFrame[35530]
+20200208-003137<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6346041
+20200208-003143<INFO :0xf73a6700>: [Frame debug] Frame 35640
+20200208-003146<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[35695] LastFrame[35334] NewFrame[35695]
+20200208-003146<INFO :0xf73a6700>: [BiShopPing] Ping return at 6355219.
+20200208-003206<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[36056] LastFrame[35695] NewFrame[36056]
+20200208-003206<INFO :0xf73a6700>: [BiShopPing] Ping return at 6375281.
+20200208-003207<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[36071] LastFrame[35530] NewFrame[36071]
+20200208-003207<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6376092
+20200208-003226<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[36417] LastFrame[36056] NewFrame[36417]
+20200208-003226<INFO :0xf73a6700>: [BiShopPing] Ping return at 6395340.
+20200208-003237<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[36612] LastFrame[36071] NewFrame[36612]
+20200208-003237<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6406141
+20200208-003246<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[36778] LastFrame[36417] NewFrame[36778]
+20200208-003246<INFO :0xf73a6700>: [BiShopPing] Ping return at 6415396.
+20200208-003251<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003307<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[37139] LastFrame[36778] NewFrame[37139]
+20200208-003307<INFO :0xf73a6700>: [BiShopPing] Ping return at 6435454.
+20200208-003307<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[37153] LastFrame[36612] NewFrame[37153]
+20200208-003307<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6436200
+20200208-003327<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[37500] LastFrame[37139] NewFrame[37500]
+20200208-003327<INFO :0xf73a6700>: [BiShopPing] Ping return at 6455481.
+20200208-003337<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[37694] LastFrame[37153] NewFrame[37694]
+20200208-003337<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6466245
+20200208-003347<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[37861] LastFrame[37500] NewFrame[37861]
+20200208-003347<INFO :0xf73a6700>: [BiShopPing] Ping return at 6475527.
+20200208-003348<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003407<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[38222] LastFrame[37861] NewFrame[38222]
+20200208-003407<INFO :0xf73a6700>: [BiShopPing] Ping return at 6495574.
+20200208-003407<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[38235] LastFrame[37694] NewFrame[38235]
+20200208-003407<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6496303
+20200208-003427<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[38583] LastFrame[38222] NewFrame[38583]
+20200208-003427<INFO :0xf73a6700>: [BiShopPing] Ping return at 6515630.
+20200208-003437<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[38776] LastFrame[38235] NewFrame[38776]
+20200208-003437<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6526349
+20200208-003443<INFO :0xf73a6700>: [Frame debug] Frame 38880
+20200208-003447<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[38944] LastFrame[38583] NewFrame[38944]
+20200208-003447<INFO :0xf73a6700>: [BiShopPing] Ping return at 6535693.
+20200208-003507<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[39305] LastFrame[38944] NewFrame[39305]
+20200208-003507<INFO :0xf73a6700>: [BiShopPing] Ping return at 6555742.
+20200208-003508<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[39317] LastFrame[38776] NewFrame[39317]
+20200208-003508<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6556411
+20200208-003527<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[39666] LastFrame[39305] NewFrame[39666]
+20200208-003527<INFO :0xf73a6700>: [BiShopPing] Ping return at 6575795.
+20200208-003528<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003538<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[39858] LastFrame[39317] NewFrame[39858]
+20200208-003538<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6586461
+20200208-003547<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[40027] LastFrame[39666] NewFrame[40027]
+20200208-003547<INFO :0xf73a6700>: [BiShopPing] Ping return at 6595852.
+20200208-003607<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[40388] LastFrame[40027] NewFrame[40388]
+20200208-003607<INFO :0xf73a6700>: [BiShopPing] Ping return at 6615913.
+20200208-003608<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[40399] LastFrame[39858] NewFrame[40399]
+20200208-003608<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6616514
+20200208-003610<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003627<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[40749] LastFrame[40388] NewFrame[40749]
+20200208-003627<INFO :0xf73a6700>: [BiShopPing] Ping return at 6635966.
+20200208-003638<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[40940] LastFrame[40399] NewFrame[40940]
+20200208-003638<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6646559
+20200208-003647<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[41110] LastFrame[40749] NewFrame[41110]
+20200208-003647<INFO :0xf73a6700>: [BiShopPing] Ping return at 6656016.
+20200208-003707<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[41471] LastFrame[41110] NewFrame[41471]
+20200208-003707<INFO :0xf73a6700>: [BiShopPing] Ping return at 6676067.
+20200208-003708<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[41481] LastFrame[40940] NewFrame[41481]
+20200208-003708<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6676612
+20200208-003721<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003727<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[41832] LastFrame[41471] NewFrame[41832]
+20200208-003727<INFO :0xf73a6700>: [BiShopPing] Ping return at 6696124.
+20200208-003738<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[42022] LastFrame[41481] NewFrame[42022]
+20200208-003738<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6706667
+20200208-003743<INFO :0xf73a6700>: [Frame debug] Frame 42120
+20200208-003747<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[42193] LastFrame[41832] NewFrame[42193]
+20200208-003747<INFO :0xf73a6700>: [BiShopPing] Ping return at 6716182.
+20200208-003807<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[42554] LastFrame[42193] NewFrame[42554]
+20200208-003807<INFO :0xf73a6700>: [BiShopPing] Ping return at 6736239.
+20200208-003808<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[42563] LastFrame[42022] NewFrame[42563]
+20200208-003808<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6736721
+20200208-003818<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003827<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[42915] LastFrame[42554] NewFrame[42915]
+20200208-003827<INFO :0xf73a6700>: [BiShopPing] Ping return at 6756291.
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1800]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[300:Thµnh §«].[29128:Th­¬ng nh©n T©y Vùc].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29129:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29130:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29131:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29132:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29133:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29134:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29135:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29136:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29137:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29138:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29139:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29140:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29141:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29142:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29143:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29144:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29145:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29146:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29147:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29148:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29149:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29150:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29151:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29152:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29153:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29154:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29155:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29156:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29157:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29158:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29159:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29160:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29161:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29162:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[29163:D­îc Nh©n Th¶o].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29164:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29165:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29166:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29167:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29168:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29169:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29170:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29171:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29172:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29173:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29174:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29175:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29176:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29177:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29178:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29179:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29180:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29181:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29182:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29183:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29184:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29185:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29186:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29187:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29188:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29189:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29190:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29191:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29192:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29193:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29194:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29195:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29196:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29197:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29198:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29199:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29200:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29201:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29202:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29203:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29204:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29205:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29206:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29207:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29208:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29209:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29210:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29211:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29212:TÝch D­¬ng c¨n].
+20200208-003829<ERROR:0xf73a6700>: [Script] [2395450763, 1500]{/script/newbattles/mainbattle/mission/injure_timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[29213:TÝch D­¬ng c¨n].
+20200208-003838<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[43104] LastFrame[42563] NewFrame[43104]
+20200208-003838<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6766777
+20200208-003847<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[43276] LastFrame[42915] NewFrame[43276]
+20200208-003847<INFO :0xf73a6700>: [BiShopPing] Ping return at 6776343.
+20200208-003908<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[43637] LastFrame[43276] NewFrame[43637]
+20200208-003908<INFO :0xf73a6700>: [BiShopPing] Ping return at 6796390.
+20200208-003908<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[43645] LastFrame[43104] NewFrame[43645]
+20200208-003908<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6796830
+20200208-003928<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[43998] LastFrame[43637] NewFrame[43998]
+20200208-003928<INFO :0xf73a6700>: [BiShopPing] Ping return at 6816453.
+20200208-003938<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[44186] LastFrame[43645] NewFrame[44186]
+20200208-003938<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6826883
+20200208-003944<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-003948<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[44359] LastFrame[43998] NewFrame[44359]
+20200208-003948<INFO :0xf73a6700>: [BiShopPing] Ping return at 6836511.
+20200208-004008<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[44720] LastFrame[44359] NewFrame[44720]
+20200208-004008<INFO :0xf73a6700>: [BiShopPing] Ping return at 6856564.
+20200208-004008<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[44727] LastFrame[44186] NewFrame[44727]
+20200208-004008<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6856937
+20200208-004026<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-004028<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[45081] LastFrame[44720] NewFrame[45081]
+20200208-004028<INFO :0xf73a6700>: [BiShopPing] Ping return at 6876617.
+20200208-004038<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[45268] LastFrame[44727] NewFrame[45268]
+20200208-004038<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6886987
+20200208-004043<INFO :0xf73a6700>: [Frame debug] Frame 45360
+20200208-004048<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[45442] LastFrame[45081] NewFrame[45442]
+20200208-004048<INFO :0xf73a6700>: [BiShopPing] Ping return at 6896672.
+20200208-004108<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[45803] LastFrame[45442] NewFrame[45803]
+20200208-004108<INFO :0xf73a6700>: [BiShopPing] Ping return at 6916737.
+20200208-004108<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[45809] LastFrame[45268] NewFrame[45809]
+20200208-004108<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6917041
+20200208-004109<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-004128<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[46164] LastFrame[45803] NewFrame[46164]
+20200208-004128<INFO :0xf73a6700>: [BiShopPing] Ping return at 6936798.
+20200208-004138<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[46350] LastFrame[45809] NewFrame[46350]
+20200208-004138<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6947096
+20200208-004148<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[46525] LastFrame[46164] NewFrame[46525]
+20200208-004148<INFO :0xf73a6700>: [BiShopPing] Ping return at 6956850.
+20200208-004152<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-004208<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[46886] LastFrame[46525] NewFrame[46886]
+20200208-004208<INFO :0xf73a6700>: [BiShopPing] Ping return at 6976905.
+20200208-004208<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[46891] LastFrame[46350] NewFrame[46891]
+20200208-004208<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 6977146
+20200208-004228<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[47247] LastFrame[46886] NewFrame[47247]
+20200208-004228<INFO :0xf73a6700>: [BiShopPing] Ping return at 6996964.
+20200208-004238<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[47432] LastFrame[46891] NewFrame[47432]
+20200208-004238<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 7007193
+20200208-004248<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[47608] LastFrame[47247] NewFrame[47608]
+20200208-004248<INFO :0xf73a6700>: [BiShopPing] Ping return at 7017018.
+20200208-004308<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[47969] LastFrame[47608] NewFrame[47969]
+20200208-004308<INFO :0xf73a6700>: [BiShopPing] Ping return at 7037072.
+20200208-004308<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[47973] LastFrame[47432] NewFrame[47973]
+20200208-004308<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 7037255
+20200208-004328<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[48330] LastFrame[47969] NewFrame[48330]
+20200208-004328<INFO :0xf73a6700>: [BiShopPing] Ping return at 7057078.
+20200208-004338<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[48514] LastFrame[47973] NewFrame[48514]
+20200208-004338<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 7067305
+20200208-004343<INFO :0xf73a6700>: [Frame debug] Frame 48600
+20200208-004345<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-004348<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[48691] LastFrame[48330] NewFrame[48691]
+20200208-004348<INFO :0xf73a6700>: [BiShopPing] Ping return at 7077133.
+20200208-004408<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[49052] LastFrame[48691] NewFrame[49052]
+20200208-004408<INFO :0xf73a6700>: [BiShopPing] Ping return at 7097233.
+20200208-004409<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[49055] LastFrame[48514] NewFrame[49055]
+20200208-004409<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 7097357
+20200208-004414<INFO :0xf73a6700>: # PlayerCount in every subworld:
+20200208-004414<INFO :0xf73a6700>: # TotalPlayerCount in this GameSvr : 0.
+20200208-004414<INFO :0xf73a6700>: # TotalPlayerCount in player list : 0.
+20200208-004414<INFO :0xf73a6700>: # TotalNpcCount in npc list : 29208.
+20200208-004414<INFO :0xf73a6700>: # TotalItemCount in item list : 0.
+20200208-004428<WARN :0xf73a6700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200208-004428<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[49413] LastFrame[49052] NewFrame[49413]
+20200208-004428<INFO :0xf73a6700>: [BiShopPing] Ping return at 7117240.
+20200208-004439<INFO :0xf73a6700>: gs ping goddess[result=1], CurFrame[49596] LastFrame[49055] NewFrame[49596]
+20200208-004439<INFO :0xf73a6700>: receieve goddess ping reply, goddess time = 7127407
+20200208-004448<ERROR:0xf73a6700>: gs ping bishop[result=1], CurFrame[49774] LastFrame[49413] NewFrame[49774]
+20200208-004448<INFO :0xf73a6700>: [BiShopPing] Ping return at 7137292.

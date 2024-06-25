@@ -1,0 +1,16 @@
+20200105-080426	Key	Action	Acc1	Role1	Lv1	Tong1	Num1	Map1	PosX	PosY	Acc2	Role2	Lv2	Tong2	Num2	Map2	Pos2X	Pos2Y	ItemName	ItemG	ItemD	IitemP	ItemDur	ItemSeed	GenTime	Socket1	Socket2	Socket3	EnhanceTimes	Place	X	Y
+20200105-080716	ItemAdd	IBShop	thuong3	TungTra	799		1	200	1223	2819			0		0	0	0	0	ThÇn hµnh b¶o ®iÓn	0	200	40	1000	-1464755247	2020-01-05 08:07:16	0	0	0	0	2	3	6
+20200105-080747	large_str	Pay[/settings/static_script/cheat/gm_item_tifuzhiyin.lua|Get_Money]			0		2936920919	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200105-080747	MoneyEarn	2936920919	thuong3	TungTra	799		40000000	100	1408	2851			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200105-080758	large_str	Pay[/script/Ì«Ðé»Ã¾³/¿Õ¿ÕºÍÉÐ.lua|EnterTx]			0		4233712569	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200105-080758	MoneyPay	4233712569	thuong	EopiThuong	799		290000	100	1383	2858			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200105-080758	MoneyPay	4233712569	thuong3	TungTra	799		290000	100	1377	2862			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20200105-080835	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-1716826547	2020-01-05 08:08:35	0	0	0	0	2	2	1
+20200105-080835	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-522855564	2020-01-05 08:08:35	0	0	0	0	2	2	2
+20200105-080836	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-1719411681	2020-01-05 08:08:36	0	0	0	0	2	3	2
+20200105-080836	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	1149320638	2020-01-05 08:08:36	0	0	0	0	2	4	2
+20200105-080836	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-1440065023	2020-01-05 08:08:36	0	0	0	0	2	0	3
+20200105-080837	ItemConsume	ExpendIdx	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-1716826547	2020-01-05 08:08:35	0	0	0	0	2	2	1
+20200105-080837	ItemAdd	IBShop	thuong	EopiThuong	799		1	3010	1541	3281			0		0	0	0	0	§Êu hån	2	1	1157	1	-2024047144	2020-01-05 08:08:37	0	0	0	0	2	2	1
+20200105-080936	ItemAdd	IBShop	thuong3	TungTra	799		1	3010	1552	3287			0		0	0	0	0	§Êu hån	2	1	1157	1	-1517477953	2020-01-05 08:09:36	0	0	0	0	2	4	6
+20200105-080938	ItemConsume	ExpendIdx	thuong3	TungTra	799		1	3010	1552	3287			0		0	0	0	0	§Êu hån	2	1	1157	1	-1517477953	2020-01-05 08:09:36	0	0	0	0	2	4	6

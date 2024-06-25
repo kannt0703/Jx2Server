@@ -1,0 +1,82 @@
+20240624-220754	INFO	COMMON	reges of Observer:
+20240624-220754	INFO	COMMON	reges of event 1[SYSEVENT_GAMESERVER_START]:
+20240624-220754	INFO	COMMON	reges of event 2[SYSEVENT_PLAYER_LOGIN]:
+20240624-220754	INFO	COMMON	add_tifyzhiyin of 2[SYSEVENT_PLAYER_LOGIN]: "#FUNCTION"
+20240624-220754	INFO	COMMON	reges of event 3[SYSEVENT_PLAYER_LOGOUT]:
+20240624-220754	INFO	COMMON	reges of event 4[SYSEVENT_DAILY_CLEAR]:
+20240624-220754	INFO	COMMON	reges of event 101[SYSEVENT_LIANGSHAN_STAGE_FINISH]:
+20240624-220754	INFO	COMMON	reges of event 102[SYSEVENT_LIANGSHAN_TASK_AWARD]:
+20240624-220754	INFO	COMMON	reges of event 301[SYSEVENT_WANJIANZHONG_STAGE_FINISH]:
+20240624-220754	INFO	COMMON	reges of event 302[SYSEVENT_WANJIANZHONG_TASK_AWARD]:
+20240624-220754	INFO	COMMON	reges of event 10001[SYSEVENT_GLOBAL_COST_IB]:
+20240624-220754	INFO	COMMON	_on_cost_ib_item of 10001[SYSEVENT_GLOBAL_COST_IB]: "#FUNCTION"
+20240624-220754	INFO	COMMON	reges of event 501[SYSEVENT_TAIYI_NOR_STAGE_FINISH]:
+20240624-220754	INFO	COMMON	reges of event 502[SYSEVENT_TAIYI_HARD_STAGE_FINISH]:
+20240624-220754	INFO	COMMON	reges of event 601[SYSEVENT_TAIXU_STAGE_FINISH]:
+20240624-220754	INFO	COMMON	reges of event 5[SYSEVENT_WEEKLY_CLEAR]:
+20240624-220754	INFO	COMMON	reges of event 6[SYSEVENT_MONTHLY_CLEAR]:
+20240624-220754	INFO	COMMON	reges of event 401[SYSEVENT_CANGJIAN_STAGE_FINISH]:
+20240624-221018	INFO	COMMON	Player Jx2iiTieuKan max attr of meridian has been fixed to 6001 nLastLogoutTime=20240625-54820 nMeridianLv=4
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,2) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,3) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,5) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,6) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,7) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,8) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,9) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,10) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,11) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,12) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,13) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221018	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,14) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221134	INFO	COMMON	[DenBuHoaPhung]	kan	Jx2iiTieuKan	Nhan	1200	C«ng tr¹ng							5	99	-6	0		192.168.1.13
+20240624-221134	INFO	COMMON	[DenBuHoaPhung]	kan	Jx2iiTieuKan	Nhan	20000000	Kinh nghiÖm							5	99	-6	0		192.168.1.13
+20240624-221558	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	kan	Jx2iiTieuKan	0	0
+20240624-221604	INFO	COMMON	Player Jx2iiTieuKan max attr of meridian has been fixed to 6001 nLastLogoutTime=20240625-61558 nMeridianLv=4
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,2) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,3) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,5) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,6) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,7) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,8) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,9) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,10) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,11) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,12) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,13) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-221604	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,14) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222150	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222152	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222156	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222202	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222203	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222317	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222319	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222320	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222322	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222325	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222327	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222329	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222330	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222333	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222334	INFO	COMMON	[ChiÕn tr­êng Nh¹n M«n Quan]:Jx2iiTieuKanSö dông Qu©n tÝch bµi 
+20240624-222422	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu nguyªn so¸i ®Çu kh«i
+20240624-222445	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu nguyªn so¸i chiÕn bµo
+20240624-222521	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu nguyªn so¸i chiÕn phôc
+20240624-222537	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu so¸i kú
+20240624-222556	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu so¸i phï
+20240624-222621	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu nguyªn so¸i lÖnh kú
+20240624-222631	INFO	COMMON	[phÇn th­ëng chiÕn trËn]:Jx2iiTieuKannhËn ®­îc trang bÞ chiÕn tr­êng:Liªu nguyªn so¸i hæ phï
+20240624-222649	INFO	COMMON	[_tjl_player_syn_record]PlayerLogout	kan	Jx2iiTieuKan	0	0
+20240624-222655	INFO	COMMON	Player Jx2iiTieuKan max attr of meridian has been fixed to 6001 nLastLogoutTime=20240625-62649 nMeridianLv=4
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,2) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,3) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,5) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,6) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,7) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,8) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,9) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,10) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,11) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,12) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13
+20240624-222655	INFO	COMMON	[kuafu share data(KF_Jx2iiTieuKan,0,13) not exist]	kan	Jx2iiTieuKan										5	99	-6	0		192.168.1.13

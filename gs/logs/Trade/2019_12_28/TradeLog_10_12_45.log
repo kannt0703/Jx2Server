@@ -1,0 +1,11 @@
+20191228-101245	Key	Action	Acc1	Role1	Lv1	Tong1	Num1	Map1	PosX	PosY	Acc2	Role2	Lv2	Tong2	Num2	Map2	Pos2X	Pos2Y	ItemName	ItemG	ItemD	IitemP	ItemDur	ItemSeed	GenTime	Socket1	Socket2	Socket3	EnhanceTimes	Place	X	Y
+20191228-101442	large_str	Pay[/settings/static_script/cheat/gm_item_tifuzhiyin.lua|Get_Money]			0		2936920919	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20191228-101442	MoneyEarn	2936920919	jiqinghk	JiaXQing	790		70000	200	1385	2836			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20191228-101444	large_str	AddItem[/settings/static_script/cheat/gm_item_tifuzhiyin.lua|Process_Equip_LingTu]			0		4273203612	0	0	0			0		0	0	0	0		0	0	0	0	0		0	0	0	0	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Giíi (tr¸i)	0	102	30221	100	1446321279	2019-12-28 10:14:44	0	0	0	0	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Giíi (ph¶i)	0	102	30222	100	-550770057	2019-12-28 10:14:44	0	0	0	0	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å PhiÕn	0	13	30222	300	-355133180	2019-12-28 10:14:44	0	0	0	10	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Trang (th­¬n	0	101	30238	100	-2134920242	2019-12-28 10:14:44	0	0	0	10	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Trang (ngo¹i	0	101	30242	100	-712093592	2019-12-28 10:14:44	0	0	0	10	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Trang (néi)	0	101	30246	100	1571944786	2019-12-28 10:14:44	0	0	0	10	-1	-1	-1
+20191228-101444	ItemAdd	4273203612	jiqinghk	JiaXQing	790		1	200	1385	2836			0		0	0	0	0	Linh §å Y	0	100	30238	100	1007045691	2019-12-28 10:14:44	0	0	0	10	-1	-1	-1

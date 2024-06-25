@@ -1,0 +1,25 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200208-004652<INFO :0xf7396700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20200208-004652<INFO :0xf7396700>: Data OK! Current max Service ID is: 2318756
+20200208-004800<INFO :0xf5dffb40>: [PlayerCreator] Created role taothunha, ServerID=2318756
+20200208-004812<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taothunha dwCRC=BFA68556/BFA68556 nResult=1
+20200208-004844<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taothunha dwCRC=4D4122E6/4D4122E6 nResult=1
+20200208-005040<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taothunha dwCRC=9D4E1E21/9D4E1E21 nResult=1
+20200208-005133<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taothunha dwCRC=3C9539FA/3C9539FA nResult=1
+20200208-005259<INFO :0xf5dffb40>: [PlayerCreator] Created role taomuonthu, ServerID=2318757
+20200208-005308<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taomuonthu dwCRC=CF7189F2/CF7189F2 nResult=1
+20200208-005316<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taomuonthu dwCRC=8188A3A0/8188A3A0 nResult=1
+20200208-005337<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData ttt.taothunha dwCRC=BFAAF0DE/BFAAF0DE nResult=1
+20200208-005543<INFO :0xf5dffb40>: [PlayerCreator] Created role asdasd, ServerID=2318758
+20200208-005557<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.asdasd dwCRC=C65C6F05/C65C6F05 nResult=1
+20200208-005604<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.asdasd dwCRC=4734612B/4734612B nResult=1
+20200208-010702<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.asdasd dwCRC=641DE709/641DE709 nResult=1
+20200208-010712<INFO :0xf5dffb40>: [PlayerCreator] Created role sdasdasd, ServerID=2318759
+20200208-010718<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.sdasdasd dwCRC=E68644DA/E68644DA nResult=1
+20200208-010739<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.sdasdasd dwCRC=1B49987E/1B49987E nResult=1
+20200208-010911<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData tt.sdasdasd dwCRC=6A768D54/6A768D54 nResult=1
+20200208-012822<INFO :0xf5dffb40>: [PlayerCreator] Created role thieulam, ServerID=2318760
+20200208-012833<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thu.thieulam dwCRC=07EF605D/07EF605D nResult=1
+20200208-012846<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thu.thieulam dwCRC=3794F3A5/3794F3A5 nResult=1
+20200208-013255<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thu.thieulam dwCRC=CEB0E6FE/CEB0E6FE nResult=1
+20200208-014754<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thu.thieulam dwCRC=ED1A44D1/ED1A44D1 nResult=1

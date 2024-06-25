@@ -1,0 +1,6 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200206-004336<INFO :0xf73db700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20200206-004336<INFO :0xf73db700>: Data OK! Current max Service ID is: 2318756
+20200206-004707<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an1.zzzzzzzz dwCRC=B303D8CE/B303D8CE nResult=1
+20200206-005051<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an1.zzzzzzzz dwCRC=6D9BC22A/6D9BC22A nResult=1
+20200206-005442<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData an.ioNaruto dwCRC=6BD81336/6BD81336 nResult=1
