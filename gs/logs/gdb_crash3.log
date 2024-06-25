@@ -1,0 +1,24 @@
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+Detaching after fork from child process 13430.
+
+Program received signal SIGTSTP, Stopped (user).
+0xf7fd9430 in __kernel_vsyscall ()
+$1 = "crash time:"
+Mon Jun  3 13:35:50 +07 2019
+$2 = "crash frame:"
+Stack level 0, frame at 0xffffd41c:
+ eip = 0xf7fd9430 in __kernel_vsyscall; saved eip 0xf7d5a780
+ called by frame at 0xffffd420
+ Arglist at 0xffffd414, args: 
+ Locals at 0xffffd414, Previous frame's sp is 0xffffd41c
+ Saved registers:
+  ebp at 0xffffd40c, eip at 0xffffd418
+$3 = "crash locals:"
+No symbol table info available.
+$4 = "crash callstack:"
+#0  0xf7fd9430 in __kernel_vsyscall ()
+#1  0xf7d5a780 in __nanosleep_nocancel () from /lib/libc.so.6
+#2  0xf7d90d6d in usleep () from /lib/libc.so.6
+#3  0x0804e7d0 in KSwordOnLineSever::Breathe (this=0x8595d60 <g_SOServer>) at ./SourceCode/Server/GameServer/KSOServer.cpp:494
+#4  0x0804bcc8 in main (argc=2, argv=0xffffd6a4) at ./SourceCode/Server/GameServer/GameServer.cpp:100

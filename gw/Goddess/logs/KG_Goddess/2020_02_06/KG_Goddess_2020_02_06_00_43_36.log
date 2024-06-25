@@ -1,0 +1,125 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Loading KG_Goddess.ini
+20200206-004336<INFO :0xf73db700>: [verify_up2date]...
+20200206-004336<INFO :0xf73db700>: >Current lang is [gb18030]
+20200206-004336<INFO :0xf73db700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200206-004336<INFO :0xf73db700>: >Time duration: 6.801261ms 
+20200206-004336<INFO :0xf73db700>: >
+20200206-004336<INFO :0xf73db700>: >Finish, my exit code is: 0
+20200206-004336<INFO :0xf73db700>: |shell cmd result is 0
+20200206-004336<INFO :0xf73db700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20200206-004336<INFO :0xf73db700>: [verify_up2date] ok
+20200206-004336<INFO :0xf73db700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Initializing role database ...
+20200206-004336<INFO :0xf73db700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200206-004336<DEBUG:0xf73db700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200206-004336<DEBUG:0xf73db700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9728ff0)->_LoadTable()
+20200206-004336<DEBUG:0xf73db700>: [KGD] (0x0x9728ff0)->_LoadTable("fightteam")
+20200206-004336<DEBUG:0xf73db700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9728ff0)->_LoadTable()
+20200206-004336<DEBUG:0xf73db700>: [KGD] (0x0x9728ff0)->_LoadTable("playerfightteam")
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Initializing role statistic ...
+20200206-004336<INFO :0xf73db700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20200206-004336<INFO :0xf73db700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Initializing server manager ...
+20200206-004336<INFO :0xf73db700>: [ServerManager] Listening at 127.0.0.1:5001
+20200206-004336<INFO :0xf73db700>: [KG_Goddess] Started successful
+20200206-004340<INFO :0xf674fb40>: [ServerManager] RemoteServer from (127.0.0.1:49966) connect ok
+20200206-004340<INFO :0xf674fb40>: [ServerManager] Accept from (127.0.0.1:49966) SocketStream = 0xf5e00528
+20200206-004340<INFO :0xf674fb40>: [[Group 1 Server 00]] Server 0 created ok!
+20200206-004340<INFO :0xf5dffb40>: [Group 1 Server 00] Started, service for 127.0.0.1:49966
+20200206-004340<INFO :0xf5dffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200206-004340<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200206-004340<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("fightteam")
+20200206-004340<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200206-004340<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("playerfightteam")
+20200206-004340<DEBUG:0xf5dffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200206-004353<INFO :0xf674fb40>: [ServerManager] RemoteServer from (127.0.0.1:38892) connect ok
+20200206-004353<INFO :0xf674fb40>: [ServerManager] Accept from (127.0.0.1:38892) SocketStream = 0xf5e00a30
+20200206-004353<INFO :0xf674fb40>: [[Group 1 Server 01]] Server 1 created ok!
+20200206-004353<INFO :0xf53ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:38892
+20200206-004353<INFO :0xf53ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200206-004353<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200206-004353<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("fightteam")
+20200206-004353<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200206-004353<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("playerfightteam")
+20200206-004353<DEBUG:0xf53ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200206-004353<INFO :0xf53ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20200206-004353<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20200206-004353<DEBUG:0xf53ffb40>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20200206-004353<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20200206-004359<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=106361)
+20200206-004402<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200206-004402<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=1 nResult=1
+20200206-004420<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "zzzzzzzz" nResult=1
+20200206-004423<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" locked by Server 01
+20200206-004423<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=zzzzzzzz, Lock=1) nResult=1
+20200206-004440<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=146441)
+20200206-004452<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=158399)
+20200206-004500<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=166472)
+20200206-004520<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=186497)
+20200206-004522<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=188437)
+20200206-004541<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=206522)
+20200206-004552<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=218348)
+20200206-004601<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=226546)
+20200206-004621<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=246572)
+20200206-004623<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=248269)
+20200206-004641<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=266615)
+20200206-004653<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=278269)
+20200206-004701<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=286619)
+20200206-004707<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" unlocked by Server 1
+20200206-004707<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[zzzzzzzz], LeaveFlag = 1 nResult=1
+20200206-004710<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200206-004710<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=1 nResult=1
+20200206-004712<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "zzzzzzzz" nResult=1
+20200206-004714<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" locked by Server 01
+20200206-004714<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=zzzzzzzz, Lock=1) nResult=1
+20200206-004732<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=317864)
+20200206-004744<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=329763)
+20200206-004752<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=337864)
+20200206-004812<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=357873)
+20200206-004814<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=359791)
+20200206-004832<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=377877)
+20200206-004844<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=389868)
+20200206-004852<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=397915)
+20200206-004912<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=417922)
+20200206-004914<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=419990)
+20200206-004932<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=437918)
+20200206-004944<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=450388)
+20200206-004952<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=457952)
+20200206-005012<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=477996)
+20200206-005014<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=480443)
+20200206-005032<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=498037)
+20200206-005044<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=510488)
+20200206-005051<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" unlocked by Server 1
+20200206-005051<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[zzzzzzzz], LeaveFlag = 1 nResult=1
+20200206-005052<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=518070)
+20200206-005059<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an"
+20200206-005059<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an) uRoleCount=1 nResult=1
+20200206-005101<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "ioNaruto" nResult=1
+20200206-005103<DEBUG:0xf53ffb40>: [ServerManager] Role "ioNaruto" locked by Server 01
+20200206-005103<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=ioNaruto, Lock=1) nResult=1
+20200206-005122<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=547574)
+20200206-005133<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=558996)
+20200206-005142<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=567622)
+20200206-005202<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=587652)
+20200206-005203<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=589045)
+20200206-005222<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=607689)
+20200206-005233<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=619100)
+20200206-005242<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=627718)
+20200206-005302<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=647762)
+20200206-005303<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=649158)
+20200206-005322<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=667792)
+20200206-005333<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=679206)
+20200206-005342<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=687828)
+20200206-005402<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=707846)
+20200206-005403<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=709245)
+20200206-005422<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=727838)
+20200206-005433<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=739287)
+20200206-005442<DEBUG:0xf53ffb40>: [ServerManager] Role "ioNaruto" unlocked by Server 1
+20200206-005442<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 1 nResult=1
+20200206-005442<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=747878)
+20200206-005502<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=767904)
+20200206-005512<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=777556)
+20200206-005522<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=787934)

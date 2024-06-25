@@ -1,0 +1,11 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=111/65536 LastTime=2020-2-7 23:58:29
+20200208-000329<INFO :0xf73db700>: set runtime statistic result path is [runtime_stat_result/2020_02_07/stat_result_ksg_2020_02_07_@SONGLONG_GW.txt]
+20200208-000329<WARN :0xf73db700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_07/stat_result_ksg_2020_02_07_@SONGLONG_GW.txt Count=364
+20200208-000329<WARN :0xf73db700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_07/stat_result_vng_2020-02-07_@SONGLONG_GW.txt Count=1
+20200208-000329<INFO :0xf73db700>: set runtime statistic result path is [runtime_stat_result/2020_02_08/stat_result_ksg_2020_02_08_@SONGLONG_GW.txt]
+20200208-000329<INFO :0xf73db700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20200208-000329<WARN :0xf73db700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_08/stat_result_ksg_2020_02_08_@SONGLONG_GW.txt Count=363
+20200208-000329<WARN :0xf73db700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_08/stat_result_vng_2020-02-08_@SONGLONG_GW.txt Count=1
+20200208-001005<DEBUG:0xf73db700>: [RelationMgr] SomeoneLogout("ioNaruto")
+20200208-004450<INFO :0xf73db700>: [Relay] Get quit signal!
+20200208-004450<INFO :0xf73db700>: Relay stopping!

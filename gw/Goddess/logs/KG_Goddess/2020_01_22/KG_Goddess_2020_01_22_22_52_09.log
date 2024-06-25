@@ -1,0 +1,158 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Loading KG_Goddess.ini
+20200122-225209<INFO :0xf743e700>: [verify_up2date]...
+20200122-225209<INFO :0xf743e700>: >Current lang is [gb18030]
+20200122-225209<INFO :0xf743e700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200122-225209<INFO :0xf743e700>: >Time duration: 6.729338ms 
+20200122-225209<INFO :0xf743e700>: >
+20200122-225209<INFO :0xf743e700>: >Finish, my exit code is: 0
+20200122-225209<INFO :0xf743e700>: |shell cmd result is 0
+20200122-225209<INFO :0xf743e700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20200122-225209<INFO :0xf743e700>: [verify_up2date] ok
+20200122-225209<INFO :0xf743e700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Initializing role database ...
+20200122-225209<INFO :0xf743e700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200122-225209<DEBUG:0xf743e700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200122-225209<DEBUG:0xf743e700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8d49ff0)->_LoadTable()
+20200122-225209<DEBUG:0xf743e700>: [KGD] (0x0x8d49ff0)->_LoadTable("fightteam")
+20200122-225209<DEBUG:0xf743e700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8d49ff0)->_LoadTable()
+20200122-225209<DEBUG:0xf743e700>: [KGD] (0x0x8d49ff0)->_LoadTable("playerfightteam")
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Initializing role statistic ...
+20200122-225209<INFO :0xf743e700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20200122-225209<INFO :0xf743e700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Initializing server manager ...
+20200122-225209<INFO :0xf743e700>: [ServerManager] Listening at 127.0.0.1:5001
+20200122-225209<INFO :0xf743e700>: [KG_Goddess] Started successful
+20200122-225213<INFO :0xf67b2b40>: [ServerManager] RemoteServer from (127.0.0.1:33434) connect ok
+20200122-225213<INFO :0xf67b2b40>: [ServerManager] Accept from (127.0.0.1:33434) SocketStream = 0xf5e00528
+20200122-225213<INFO :0xf67b2b40>: [[Group 1 Server 00]] Server 0 created ok!
+20200122-225213<INFO :0xf5dffb40>: [Group 1 Server 00] Started, service for 127.0.0.1:33434
+20200122-225213<INFO :0xf5dffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200122-225213<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200122-225213<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("fightteam")
+20200122-225213<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200122-225213<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("playerfightteam")
+20200122-225213<DEBUG:0xf5dffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200122-225233<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=355788)
+20200122-225236<INFO :0xf67b2b40>: [ServerManager] RemoteServer from (127.0.0.1:51726) connect ok
+20200122-225236<INFO :0xf67b2b40>: [ServerManager] Accept from (127.0.0.1:51726) SocketStream = 0xf5e00a30
+20200122-225236<INFO :0xf67b2b40>: [[Group 1 Server 01]] Server 1 created ok!
+20200122-225236<INFO :0xf53ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:51726
+20200122-225236<INFO :0xf53ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200122-225236<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200122-225236<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("fightteam")
+20200122-225236<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200122-225236<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("playerfightteam")
+20200122-225236<DEBUG:0xf53ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200122-225236<INFO :0xf53ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20200122-225236<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20200122-225236<DEBUG:0xf53ffb40>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20200122-225236<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20200122-225252<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=375819)
+20200122-225306<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=389991)
+20200122-225312<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=395867)
+20200122-225332<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=415909)
+20200122-225336<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=420052)
+20200122-225352<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=435947)
+20200122-225406<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=450104)
+20200122-225412<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=455988)
+20200122-225432<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=475995)
+20200122-225436<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=480156)
+20200122-225452<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=496031)
+20200122-225506<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=510221)
+20200122-225512<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=516075)
+20200122-225532<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=536126)
+20200122-225537<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=540274)
+20200122-225552<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=556176)
+20200122-225607<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=570327)
+20200122-225612<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=576221)
+20200122-225632<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=596259)
+20200122-225637<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=600382)
+20200122-225653<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=616269)
+20200122-225707<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=630437)
+20200122-225713<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=636310)
+20200122-225733<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=656311)
+20200122-225737<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=660491)
+20200122-225753<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=676358)
+20200122-225807<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=690543)
+20200122-225813<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=696394)
+20200122-225833<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=716394)
+20200122-225837<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=720604)
+20200122-225853<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=736445)
+20200122-225907<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=750661)
+20200122-225913<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=756488)
+20200122-225933<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=776521)
+20200122-225937<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=780714)
+20200122-225953<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=796566)
+20200122-230007<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=810768)
+20200122-230013<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=816612)
+20200122-230033<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=836651)
+20200122-230037<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=840824)
+20200122-230053<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=856697)
+20200122-230107<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=870878)
+20200122-230113<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=876695)
+20200122-230133<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=896743)
+20200122-230137<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=900930)
+20200122-230153<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=916738)
+20200122-230207<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=930990)
+20200122-230213<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=936790)
+20200122-230233<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=956829)
+20200122-230237<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=961052)
+20200122-230253<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=976871)
+20200122-230307<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=991104)
+20200122-230313<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=996912)
+20200122-230333<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1016922)
+20200122-230337<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1021159)
+20200122-230353<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1036960)
+20200122-230407<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1051216)
+20200122-230413<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1056971)
+20200122-230433<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1077007)
+20200122-230438<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1081268)
+20200122-230453<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1097011)
+20200122-230508<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1111326)
+20200122-230513<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1117050)
+20200122-230533<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1137092)
+20200122-230538<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1141383)
+20200122-230553<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1157129)
+20200122-230608<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1171437)
+20200122-230613<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1177167)
+20200122-230633<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1197214)
+20200122-230638<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1201493)
+20200122-230653<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1217256)
+20200122-230708<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1231549)
+20200122-230714<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1237267)
+20200122-230734<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1257306)
+20200122-230738<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1261597)
+20200122-230754<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1277347)
+20200122-230808<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1291659)
+20200122-230814<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1297388)
+20200122-230834<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1317424)
+20200122-230838<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1321711)
+20200122-230854<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1337471)
+20200122-230908<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1351763)
+20200122-230914<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1357509)
+20200122-230934<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1377547)
+20200122-230938<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1381826)
+20200122-230954<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1397598)
+20200122-231008<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1411877)
+20200122-231014<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1417639)
+20200122-231034<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1437677)
+20200122-231038<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1441936)
+20200122-231054<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1457717)
+20200122-231108<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1471990)
+20200122-231114<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1477767)
+20200122-231134<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1497801)
+20200122-231138<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1502040)
+20200122-231154<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1517844)
+20200122-231208<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1532101)
+20200122-231214<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1537849)
+20200122-231234<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1557887)
+20200122-231238<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1562157)
+20200122-231254<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1577927)
+20200122-231308<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1592206)
+20200122-231314<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1597970)
+20200122-231334<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1618017)
+20200122-231339<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1622266)
+20200122-231354<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1638039)

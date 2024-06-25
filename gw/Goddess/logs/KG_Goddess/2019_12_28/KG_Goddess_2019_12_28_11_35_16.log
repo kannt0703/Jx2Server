@@ -1,0 +1,123 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Loading KG_Goddess.ini
+20191228-113516<INFO :0xf77cb6d0>: [verify_up2date]...
+20191228-113516<INFO :0xf77cb6d0>: >Current lang is [gb18030]
+20191228-113516<INFO :0xf77cb6d0>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191228-113516<INFO :0xf77cb6d0>: >Time duration: 10.769084ms 
+20191228-113516<INFO :0xf77cb6d0>: >
+20191228-113516<INFO :0xf77cb6d0>: >Finish, my exit code is: 0
+20191228-113516<INFO :0xf77cb6d0>: |shell cmd result is 0
+20191228-113516<INFO :0xf77cb6d0>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20191228-113516<INFO :0xf77cb6d0>: [verify_up2date] ok
+20191228-113516<INFO :0xf77cb6d0>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Initializing role database ...
+20191228-113516<INFO :0xf77cb6d0>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-113516<DEBUG:0xf77cb6d0>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-113516<DEBUG:0xf77cb6d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x862cf10)->_LoadTable()
+20191228-113516<DEBUG:0xf77cb6d0>: [KGD] (0x0x862cf10)->_LoadTable("fightteam")
+20191228-113516<DEBUG:0xf77cb6d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x862cf10)->_LoadTable()
+20191228-113516<DEBUG:0xf77cb6d0>: [KGD] (0x0x862cf10)->_LoadTable("playerfightteam")
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Initializing role statistic ...
+20191228-113516<INFO :0xf77cb6d0>: [RoleStatistic] listen 192.168.136.146 : 6001 result=1
+20191228-113516<INFO :0xf77cb6d0>: [RoleStatistic] Listening at 192.168.136.146:6001
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Initializing server manager ...
+20191228-113516<INFO :0xf77cb6d0>: [ServerManager] Listening at 192.168.136.146:5001
+20191228-113516<INFO :0xf77cb6d0>: [KG_Goddess] Started successful
+20191228-113518<INFO :0xf6a36b70>: [ServerManager] RemoteServer from (192.168.136.146:32831) connect ok
+20191228-113518<INFO :0xf6a36b70>: [ServerManager] Accept from (192.168.136.146:32831) SocketStream = 0xf5f00528
+20191228-113518<INFO :0xf6a36b70>: [[Group 1 Server 00]] Server 0 created ok!
+20191228-113518<INFO :0xf5effb70>: [Group 1 Server 00] Started, service for 192.168.136.146:32831
+20191228-113518<INFO :0xf5effb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-113518<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20191228-113518<DEBUG:0xf5effb70>: [KGD] (0x0xf5300470)->_LoadTable("fightteam")
+20191228-113518<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20191228-113518<DEBUG:0xf5effb70>: [KGD] (0x0xf5300470)->_LoadTable("playerfightteam")
+20191228-113518<DEBUG:0xf5effb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-113529<INFO :0xf6a36b70>: [ServerManager] RemoteServer from (127.0.0.1:56128) connect ok
+20191228-113529<INFO :0xf6a36b70>: [ServerManager] Accept from (127.0.0.1:56128) SocketStream = 0xf5f00a30
+20191228-113529<INFO :0xf6a36b70>: [[Group 1 Server 01]] Server 1 created ok!
+20191228-113529<INFO :0xf52ffb70>: [Group 1 Server 01] Started, service for 127.0.0.1:56128
+20191228-113529<INFO :0xf52ffb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-113529<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4700470)->_LoadTable()
+20191228-113529<DEBUG:0xf52ffb70>: [KGD] (0x0xf4700470)->_LoadTable("fightteam")
+20191228-113529<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4700470)->_LoadTable()
+20191228-113529<DEBUG:0xf52ffb70>: [KGD] (0x0xf4700470)->_LoadTable("playerfightteam")
+20191228-113529<DEBUG:0xf52ffb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-113529<INFO :0xf52ffb70>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191228-113529<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _query_statistic_info()
+20191228-113529<DEBUG:0xf52ffb70>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20191228-113529<DEBUG:0xf52ffb70>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20191228-113537<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=120669)
+20191228-113543<INFO :0xf5effb70>: [Group 1 Server 00] Query roles list of account "jiqinghk"
+20191228-113543<DEBUG:0xf5effb70>: [Group 1 Server 00] Leave _query_role_list(jiqinghk) uRoleCount=2 nResult=1
+20191228-113559<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=142623)
+20191228-113604<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=146837)
+20191228-113606<INFO :0xf5effb70>: [Group 1 Server 00] Get role "JiaXQing" nResult=1
+20191228-113608<DEBUG:0xf52ffb70>: [ServerManager] Role "JiaXQing" locked by Server 01
+20191228-113608<DEBUG:0xf52ffb70>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=JiaXQing, Lock=1) nResult=1
+20191228-113626<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=168918)
+20191228-113638<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=180999)
+20191228-113646<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=188965)
+20191228-113706<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=208972)
+20191228-113708<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=211032)
+20191228-113726<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=229009)
+20191228-113738<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=241076)
+20191228-113746<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=249050)
+20191228-113806<DEBUG:0xf5effb70>: [Group 1 Server 00] Enter _ping(time=269084)
+20191228-113808<DEBUG:0xf52ffb70>: [Group 1 Server 01] Enter _ping(time=271123)
+20191228-113809<DEBUG:0xf52ffb70>: [ServerManager] Role "JiaXQing" unlocked by Server 1
+20191228-113809<INFO :0xf52ffb70>: [Group 1 Server 01] Save role end [jiqinghk].[JiaXQing], LeaveFlag = 1 nResult=1
+20191228-113811<DEBUG:0xf52ffb70>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191228-113811<ERROR:0xf52ffb70>: [Group 1 Server 01] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191228-113811<WARN :0xf52ffb70>: [[Group 1 Server 01]] RemoteServer 127.0.0.1:56128 crashed
+20191228-113811<INFO :0xf52ffb70>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20191228-113815<DEBUG:0xf5effb70>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191228-113815<ERROR:0xf5effb70>: [Group 1 Server 00] Connection with 192.168.136.146 have been disconnected, wait for being reconnectted!
+20191228-113815<WARN :0xf5effb70>: [[Group 1 Server 00]] RemoteServer 192.168.136.146:32831 crashed
+20191228-113815<INFO :0xf5effb70>: [ServerManager] Server 0 will stop, unlock all role [count=0] 
+20191228-114006<ERROR:0xf5effb70>: [Group 1 Server 00] There are no data arrive during 120/120 second, auto disconnect!
+20191228-114006<INFO :0xf5effb70>: [ServerManager] Server 0 will stop, unlock all role [count=0] 
+20191228-114006<INFO :0xf5effb70>: [Group 1 Server 00] Stopped
+20191228-114009<ERROR:0xf52ffb70>: [Group 1 Server 01] There are no data arrive during 120/120 second, auto disconnect!
+20191228-114009<INFO :0xf52ffb70>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20191228-114009<INFO :0xf52ffb70>: [Group 1 Server 01] Stopped
+20191228-114429<INFO :0xf6a36b70>: [ServerManager] RemoteServer from (192.168.136.146:44506) connect ok
+20191228-114429<INFO :0xf6a36b70>: [ServerManager] Accept from (192.168.136.146:44506) SocketStream = 0xf5f00528
+20191228-114429<INFO :0xf6a36b70>: [[Group 1 Server 02]] Server 2 created ok!
+20191228-114429<INFO :0xf52ffb70>: [Group 1 Server 02] Started, service for 192.168.136.146:44506
+20191228-114429<INFO :0xf52ffb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-114429<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4706ab0)->_LoadTable()
+20191228-114429<DEBUG:0xf52ffb70>: [KGD] (0x0xf4706ab0)->_LoadTable("fightteam")
+20191228-114429<DEBUG:0xf52ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4706ab0)->_LoadTable()
+20191228-114429<DEBUG:0xf52ffb70>: [KGD] (0x0xf4706ab0)->_LoadTable("playerfightteam")
+20191228-114429<DEBUG:0xf52ffb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-114437<INFO :0xf6a36b70>: [ServerManager] RemoteServer from (127.0.0.1:57439) connect ok
+20191228-114437<INFO :0xf6a36b70>: [ServerManager] Accept from (127.0.0.1:57439) SocketStream = 0xf5f00a30
+20191228-114437<INFO :0xf6a36b70>: [[Group 1 Server 03]] Server 3 created ok!
+20191228-114437<INFO :0xf5effb70>: [Group 1 Server 03] Started, service for 127.0.0.1:57439
+20191228-114437<INFO :0xf5effb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-114437<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5306ab0)->_LoadTable()
+20191228-114437<DEBUG:0xf5effb70>: [KGD] (0x0xf5306ab0)->_LoadTable("fightteam")
+20191228-114437<DEBUG:0xf5effb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5306ab0)->_LoadTable()
+20191228-114437<DEBUG:0xf5effb70>: [KGD] (0x0xf5306ab0)->_LoadTable("playerfightteam")
+20191228-114437<DEBUG:0xf5effb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-114437<INFO :0xf5effb70>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191228-114437<DEBUG:0xf5effb70>: [Group 1 Server 03] Enter _query_statistic_info()
+20191228-114437<DEBUG:0xf5effb70>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20191228-114437<DEBUG:0xf5effb70>: [Group 1 Server 03] Leave _query_statistic_info() size =0 ret=0
+20191228-114446<INFO :0xf52ffb70>: [Group 1 Server 02] Query roles list of account "jiqinghk"
+20191228-114446<DEBUG:0xf52ffb70>: [Group 1 Server 02] Leave _query_role_list(jiqinghk) uRoleCount=2 nResult=1
+20191228-114506<DEBUG:0xf52ffb70>: [Group 1 Server 02] Enter _ping(time=690749)
+20191228-114507<DEBUG:0xf5effb70>: [Group 1 Server 03] Enter _ping(time=691880)
+20191228-114507<INFO :0xf52ffb70>: [Group 1 Server 02] Get role "JiaXQing" nResult=1
+20191228-114510<DEBUG:0xf5effb70>: [ServerManager] Role "JiaXQing" locked by Server 03
+20191228-114510<DEBUG:0xf5effb70>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=JiaXQing, Lock=1) nResult=1
+20191228-114527<DEBUG:0xf52ffb70>: [Group 1 Server 02] Enter _ping(time=711972)
+20191228-114532<DEBUG:0xf5effb70>: [ServerManager] Role "JiaXQing" unlocked by Server 3
+20191228-114532<INFO :0xf5effb70>: [Group 1 Server 03] Save role end [jiqinghk].[JiaXQing], LeaveFlag = 1 nResult=1
+20191228-114535<DEBUG:0xf5effb70>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191228-114535<ERROR:0xf5effb70>: [Group 1 Server 03] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191228-114535<WARN :0xf5effb70>: [[Group 1 Server 03]] RemoteServer 127.0.0.1:57439 crashed
+20191228-114535<INFO :0xf5effb70>: [ServerManager] Server 3 will stop, unlock all role [count=0] 

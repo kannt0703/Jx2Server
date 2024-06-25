@@ -1,0 +1,403 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=400/65535 LastTime=2020-2-8 23:59:5
+20200209-000000<INFO :0xf743f700>: [SystimeTask] timetask [Ln2 00:00]  is time up [Frame 896], execute script 297637250:{\script\task\weekend\weekend_timer.lua}
+20200209-000007<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-000008<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[1030] LastFrame[489] NewFrame[1030]
+20200209-000008<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2186358
+20200209-000017<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[1198] LastFrame[837] NewFrame[1198]
+20200209-000017<INFO :0xf743f700>: [BiShopPing] Ping return at 2195698.
+20200209-000037<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[1559] LastFrame[1198] NewFrame[1559]
+20200209-000037<INFO :0xf743f700>: [BiShopPing] Ping return at 2215775.
+20200209-000038<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[1571] LastFrame[1030] NewFrame[1571]
+20200209-000038<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2216410
+20200209-000057<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[1920] LastFrame[1559] NewFrame[1920]
+20200209-000057<INFO :0xf743f700>: [BiShopPing] Ping return at 2235803.
+20200209-000100<INFO :0xf743f700>: [SystimeTask] timetask [Ln3 00:01]  is time up [Frame 1968], execute script 2834089862:{\script\newbattles\systemtimemessage\main_battle_signup.lua}
+20200209-000101<INFO :0xf743f700>: [SystimeTask] timetask [Ln4 00:01]  is time up [Frame 1984], execute script 1242397090:{\script\online\viet_event\200912\5\init_yanhui.lua}
+20200209-000104<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-000108<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[2112] LastFrame[1571] NewFrame[2112]
+20200209-000108<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2246464
+20200209-000117<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[2281] LastFrame[1920] NewFrame[2281]
+20200209-000117<INFO :0xf743f700>: [BiShopPing] Ping return at 2255884.
+20200209-000137<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[2642] LastFrame[2281] NewFrame[2642]
+20200209-000137<INFO :0xf743f700>: [BiShopPing] Ping return at 2275917.
+20200209-000138<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[2653] LastFrame[2112] NewFrame[2653]
+20200209-000138<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2276517
+20200209-000157<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[3003] LastFrame[2642] NewFrame[3003]
+20200209-000157<INFO :0xf743f700>: [BiShopPing] Ping return at 2296001.
+20200209-000200<INFO :0xf743f700>: [SystimeTask] timetask [Ln5 00:02]  is time up [Frame 3056], execute script 3113710872:{\script\½á»é\mate_timer.lua}
+20200209-000208<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[3194] LastFrame[2653] NewFrame[3194]
+20200209-000208<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2306574
+20200209-000210<INFO :0xf743f700>: [Frame debug] Frame 3240
+20200209-000212<WARN :0xf743f700>: g_GetScript find unpreloaded file [\script\½­ÄÏÇø\ÍõÄ¸¶´Èý²ã\npc\ÍõÄ¸¶´Èý²ãÅ®µÑÏÉ.lua]
+20200209-000213<WARN :0xf743f700>: g_GetScript find unpreloaded file [\script\½­ÄÏÇø\ÍõÄ¸¶´Èý²ã\npc\ÍõÄ¸¶´Èý²ãÅ®½£ÏÉ.lua]
+20200209-000215<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-000217<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[3364] LastFrame[3003] NewFrame[3364]
+20200209-000217<INFO :0xf743f700>: [BiShopPing] Ping return at 2316035.
+20200209-000237<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[3725] LastFrame[3364] NewFrame[3725]
+20200209-000237<INFO :0xf743f700>: [BiShopPing] Ping return at 2336070.
+20200209-000238<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[3735] LastFrame[3194] NewFrame[3735]
+20200209-000238<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2336619
+20200209-000257<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[4086] LastFrame[3725] NewFrame[4086]
+20200209-000257<INFO :0xf743f700>: [BiShopPing] Ping return at 2356162.
+20200209-000300<INFO :0xf743f700>: [SystimeTask] timetask [Ln6 00:03]  is time up [Frame 4128], execute script 3583112118:{\script\²Ø½£É½×¯\task_script\ontimer_notify.lua}
+20200209-000303<ERROR:0xf743f700>: Recv data error, shutdown(linkindex:0)
+20200209-000303<INFO :0xf743f700>: [LOGIN/OUT] Connection[0] lost, idx:1, acc:an, role:ioNaruto, GameStatus:PlayerPlaying, ExchangeStatus:ExchangeBegin, LastPingTime:[2020-02-09 00:03:01]
+20200209-000303<INFO :0xf743f700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200209-000303<INFO :0xf743f700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=EAB32956 dwDataLen=4860
+20200209-000303<INFO :0xf743f700>: [SavePlayerData] send save request to goddess bUnLock=1, acc:an, role:ioNaruto
+20200209-000303<INFO :0xf743f700>: [LOGIN/OUT] G2B_ROLE_LOGOUT idx:1, acc:an, role:ioNaruto
+20200209-000303<INFO :0xf743f700>: acc:an leave game!
+20200209-000303<INFO :0xf743f700>: Remove player object . acc an, role ioNaruto
+20200209-000323<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[4544] LastFrame[4183] NewFrame[4544]
+20200209-000323<INFO :0xf743f700>: [BiShopPing] Ping return at 2381608.
+20200209-000333<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[4724] LastFrame[4183] NewFrame[4724]
+20200209-000333<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2391565
+20200209-000343<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[4905] LastFrame[4544] NewFrame[4905]
+20200209-000343<INFO :0xf743f700>: [BiShopPing] Ping return at 2401643.
+20200209-000403<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[5265] LastFrame[4724] NewFrame[5265]
+20200209-000403<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2421618
+20200209-000403<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[5266] LastFrame[4905] NewFrame[5266]
+20200209-000403<INFO :0xf743f700>: [BiShopPing] Ping return at 2421683.
+20200209-000423<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[5627] LastFrame[5266] NewFrame[5627]
+20200209-000423<INFO :0xf743f700>: [BiShopPing] Ping return at 2441770.
+20200209-000433<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[5806] LastFrame[5265] NewFrame[5806]
+20200209-000433<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2451671
+20200209-000443<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[5988] LastFrame[5627] NewFrame[5988]
+20200209-000443<INFO :0xf743f700>: [BiShopPing] Ping return at 2461807.
+20200209-000503<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[6347] LastFrame[5806] NewFrame[6347]
+20200209-000503<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2481726
+20200209-000503<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[6349] LastFrame[5988] NewFrame[6349]
+20200209-000503<INFO :0xf743f700>: [BiShopPing] Ping return at 2481842.
+20200209-000510<INFO :0xf743f700>: [Frame debug] Frame 6480
+20200209-000523<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[6710] LastFrame[6349] NewFrame[6710]
+20200209-000523<INFO :0xf743f700>: [BiShopPing] Ping return at 2501929.
+20200209-000533<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[6888] LastFrame[6347] NewFrame[6888]
+20200209-000533<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2511775
+20200209-000543<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[7071] LastFrame[6710] NewFrame[7071]
+20200209-000543<INFO :0xf743f700>: [BiShopPing] Ping return at 2521967.
+20200209-000603<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[7429] LastFrame[6888] NewFrame[7429]
+20200209-000603<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2541827
+20200209-000603<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[7432] LastFrame[7071] NewFrame[7432]
+20200209-000603<INFO :0xf743f700>: [BiShopPing] Ping return at 2542001.
+20200209-000623<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[7793] LastFrame[7432] NewFrame[7793]
+20200209-000623<INFO :0xf743f700>: [BiShopPing] Ping return at 2562076.
+20200209-000633<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[7970] LastFrame[7429] NewFrame[7970]
+20200209-000633<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2571878
+20200209-000643<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[8154] LastFrame[7793] NewFrame[8154]
+20200209-000643<INFO :0xf743f700>: [BiShopPing] Ping return at 2582107.
+20200209-000703<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[8511] LastFrame[7970] NewFrame[8511]
+20200209-000703<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2601932
+20200209-000703<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[8515] LastFrame[8154] NewFrame[8515]
+20200209-000703<INFO :0xf743f700>: [BiShopPing] Ping return at 2602199.
+20200209-000723<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[8876] LastFrame[8515] NewFrame[8876]
+20200209-000723<INFO :0xf743f700>: [BiShopPing] Ping return at 2622224.
+20200209-000728<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-000733<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[9052] LastFrame[8511] NewFrame[9052]
+20200209-000733<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2631986
+20200209-000744<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[9237] LastFrame[8876] NewFrame[9237]
+20200209-000744<INFO :0xf743f700>: [BiShopPing] Ping return at 2642261.
+20200209-000803<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[9593] LastFrame[9052] NewFrame[9593]
+20200209-000803<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2662046
+20200209-000804<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[9598] LastFrame[9237] NewFrame[9598]
+20200209-000804<INFO :0xf743f700>: [BiShopPing] Ping return at 2662341.
+20200209-000810<INFO :0xf743f700>: [Frame debug] Frame 9720
+20200209-000824<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[9959] LastFrame[9598] NewFrame[9959]
+20200209-000824<INFO :0xf743f700>: [BiShopPing] Ping return at 2682374.
+20200209-000833<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[10134] LastFrame[9593] NewFrame[10134]
+20200209-000833<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2692096
+20200209-000835<INFO :0xf743f700>: [Gateway Kick] Can't find account an
+20200209-000839<INFO :0xf743f700>: [LOGIN/OUT] G2B_ROLE_LOGIN_PERMIT permit acc:an role:ioNaruto.
+20200209-000840<INFO :0xf743f700>: [LOGIN/OUT] connection created ln:0 from 192.168.1.9.
+20200209-000840<INFO :0xf743f700>: Found player[1] an(ioNaruto) is logging in system!Ip:192.168.1.9 mac:0050-56C0-0008
+20200209-000840<INFO :0xf743f700>: [CheckCRC] LoadPlayerBaseInfo(an, ioNaruto) dwCRC=EAB32956 len=4860
+20200209-000840<INFO :0xf743f700>: [PlayerItem] acc=an, @svr=67/10000000
+20200209-000840<INFO :0xf743f700>: [PlayerItem] load=27/27 acc=an @svr=94/10000000
+20200209-000840<INFO :0xf743f700>: PlayerName = ioNaruto, sucess load itemlock head data; 72, 72
+20200209-000840<INFO :0xf743f700>: PlayerName = ioNaruto, 0, 0, 0, 0
+20200209-000840<ERROR:0xf743f700>: [Weapon Effect Error]Weapon effect save data of player ioNaruto is INVALID.
+20200209-000840<INFO :0xf743f700>: [LOGIN/OUT] C2G_ROLE_LOGIN success, idx:1, ln:0, acc:an, role:ioNaruto lv:99
+20200209-000900<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[10614] LastFrame[10253] NewFrame[10614]
+20200209-000900<INFO :0xf743f700>: [BiShopPing] Ping return at 2718769.
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1800]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[200:BiÖn Kinh].[28838:Th­¬ng nh©n T©y Vùc].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28839:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28840:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28841:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28842:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28843:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28844:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28845:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28846:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28847:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28848:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28849:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28850:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28851:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28852:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28853:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28854:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28855:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28856:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28857:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28858:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28859:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28860:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28861:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28862:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28863:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28864:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28865:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28866:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28867:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28868:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28869:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28870:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28871:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28872:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28873:D­îc Nh©n Th¶o].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28874:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28875:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28876:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28877:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28878:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28879:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28880:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28881:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28882:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28883:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28884:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28885:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28886:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28887:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28888:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28889:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28890:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28891:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28892:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28893:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28894:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28895:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28896:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28897:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28898:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28899:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28900:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28901:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28902:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28903:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28904:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28905:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28906:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28907:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28908:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28909:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28910:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28911:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28912:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28913:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28914:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28915:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28916:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28917:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28918:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28919:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28920:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28921:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28922:TÝch D­¬ng c¨n].
+20200209-000901<ERROR:0xf743f700>: [Script] [3797705318, 1500]{/script/newbattles/mainbattle/mission/timer.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28923:TÝch D­¬ng c¨n].
+20200209-000910<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[10795] LastFrame[10254] NewFrame[10795]
+20200209-000910<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2728818
+20200209-000920<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[10975] LastFrame[10614] NewFrame[10975]
+20200209-000920<INFO :0xf743f700>: [BiShopPing] Ping return at 2738855.
+20200209-000940<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[11336] LastFrame[10795] NewFrame[11336]
+20200209-000940<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[11336] LastFrame[10975] NewFrame[11336]
+20200209-000940<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2758869
+20200209-000940<INFO :0xf743f700>: [BiShopPing] Ping return at 2758893.
+20200209-001000<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[11697] LastFrame[11336] NewFrame[11697]
+20200209-001000<INFO :0xf743f700>: [BiShopPing] Ping return at 2778931.
+20200209-001010<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[11877] LastFrame[11336] NewFrame[11877]
+20200209-001010<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2788923
+20200209-001019<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001020<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[12058] LastFrame[11697] NewFrame[12058]
+20200209-001020<INFO :0xf743f700>: [BiShopPing] Ping return at 2798972.
+20200209-001025<INFO :0xf743f700>: [New IB]Buy Request to Relay::(acc:an role:ioNaruto) apply use gold for item(G:0,D:200,P:40),level:1, price:200, expmp:0, jjmp:0
+20200209-001026<INFO :0xf743f700>: [New IB]Buy Request to Bishop::(acc:an role:ioNaruto) attemp to buy item(G:0 D:200 P:40) price 200
+20200209-001026<INFO :0xf743f700>: [New IB]Result to Relay::(acc:an) buy item(itemid:13107240 guid:385892352 buyidx:1 goodsidx:1583773825) result:1
+20200209-001026<INFO :0xf743f700>: [New IB]Add Item to player::(acc:an role:ioNaruto) get A IB Item(G:0 D:200 P:40 GenTime:1581181826 Seed:2482414014 Sock:0,0,0 SockInfo:0,0,0) succeed
+20200209-001026<INFO :0xf743f700>: [New IB]Player Save:(acc:an role:ioNaruto) save, buyidx=1
+20200209-001026<INFO :0xf743f700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200209-001026<INFO :0xf743f700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=DB2B2475 dwDataLen=5257
+20200209-001026<INFO :0xf743f700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200209-001046<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[12514] LastFrame[12153] NewFrame[12514]
+20200209-001046<INFO :0xf743f700>: [BiShopPing] Ping return at 2824346.
+20200209-001047<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001056<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[12701] LastFrame[12160] NewFrame[12701]
+20200209-001056<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2834692
+20200209-001106<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[12875] LastFrame[12514] NewFrame[12875]
+20200209-001106<INFO :0xf743f700>: [BiShopPing] Ping return at 2844380.
+20200209-001110<INFO :0xf743f700>: [Frame debug] Frame 12960
+20200209-001126<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[13236] LastFrame[12875] NewFrame[13236]
+20200209-001126<INFO :0xf743f700>: [BiShopPing] Ping return at 2864419.
+20200209-001126<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[13242] LastFrame[12701] NewFrame[13242]
+20200209-001126<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2864750
+20200209-001146<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[13597] LastFrame[13236] NewFrame[13597]
+20200209-001146<INFO :0xf743f700>: [BiShopPing] Ping return at 2884504.
+20200209-001156<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[13783] LastFrame[13242] NewFrame[13783]
+20200209-001156<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2894798
+20200209-001158<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001206<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[13958] LastFrame[13597] NewFrame[13958]
+20200209-001206<INFO :0xf743f700>: [BiShopPing] Ping return at 2904539.
+20200209-001213<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001226<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[14319] LastFrame[13958] NewFrame[14319]
+20200209-001226<INFO :0xf743f700>: [BiShopPing] Ping return at 2924572.
+20200209-001226<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[14324] LastFrame[13783] NewFrame[14324]
+20200209-001226<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2924858
+20200209-001246<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[14680] LastFrame[14319] NewFrame[14680]
+20200209-001246<INFO :0xf743f700>: [BiShopPing] Ping return at 2944663.
+20200209-001256<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[14865] LastFrame[14324] NewFrame[14865]
+20200209-001256<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2954904
+20200209-001306<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[15041] LastFrame[14680] NewFrame[15041]
+20200209-001306<INFO :0xf743f700>: [BiShopPing] Ping return at 2964699.
+20200209-001324<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001326<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[15402] LastFrame[15041] NewFrame[15402]
+20200209-001326<INFO :0xf743f700>: [BiShopPing] Ping return at 2984733.
+20200209-001326<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[15406] LastFrame[14865] NewFrame[15406]
+20200209-001326<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 2984956
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001334<ERROR:0xf743f700>: Skill	Failed to modify skill level	Skill ID: 44	Skill Level: 21
+20200209-001346<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[15763] LastFrame[15402] NewFrame[15763]
+20200209-001346<INFO :0xf743f700>: [BiShopPing] Ping return at 3004820.
+20200209-001356<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[15947] LastFrame[15406] NewFrame[15947]
+20200209-001356<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3015012
+20200209-001406<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[16124] LastFrame[15763] NewFrame[16124]
+20200209-001406<INFO :0xf743f700>: [BiShopPing] Ping return at 3024855.
+20200209-001410<INFO :0xf743f700>: [Frame debug] Frame 16200
+20200209-001421<INFO :0xf743f700>: # PlayerCount in every subworld:
+20200209-001421<INFO :0xf743f700>:  884-ChiÕn tr­êng chÝnh-Nh¹n M«n Quan : 1
+20200209-001421<INFO :0xf743f700>: # TotalPlayerCount in this GameSvr : 1.
+20200209-001421<INFO :0xf743f700>: # TotalPlayerCount in player list : 1.
+20200209-001421<INFO :0xf743f700>: # TotalNpcCount in npc list : 28918.
+20200209-001421<INFO :0xf743f700>: # TotalItemCount in item list : 156.
+20200209-001426<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[16485] LastFrame[16124] NewFrame[16485]
+20200209-001426<INFO :0xf743f700>: [BiShopPing] Ping return at 3044937.
+20200209-001426<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[16488] LastFrame[15947] NewFrame[16488]
+20200209-001426<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3045067
+20200209-001446<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[16846] LastFrame[16485] NewFrame[16846]
+20200209-001446<INFO :0xf743f700>: [BiShopPing] Ping return at 3064970.
+20200209-001456<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[17029] LastFrame[16488] NewFrame[17029]
+20200209-001456<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3075124
+20200209-001506<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[17207] LastFrame[16846] NewFrame[17207]
+20200209-001506<INFO :0xf743f700>: [BiShopPing] Ping return at 3085008.
+20200209-001526<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[17568] LastFrame[17207] NewFrame[17568]
+20200209-001526<INFO :0xf743f700>: [BiShopPing] Ping return at 3105095.
+20200209-001526<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[17570] LastFrame[17029] NewFrame[17570]
+20200209-001526<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3105174
+20200209-001546<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[17929] LastFrame[17568] NewFrame[17929]
+20200209-001546<INFO :0xf743f700>: [BiShopPing] Ping return at 3125126.
+20200209-001557<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[18111] LastFrame[17570] NewFrame[18111]
+20200209-001557<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3135228
+20200209-001606<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[18290] LastFrame[17929] NewFrame[18290]
+20200209-001606<INFO :0xf743f700>: [BiShopPing] Ping return at 3145209.
+20200209-001627<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[18651] LastFrame[18290] NewFrame[18651]
+20200209-001627<INFO :0xf743f700>: [BiShopPing] Ping return at 3165242.
+20200209-001627<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[18652] LastFrame[18111] NewFrame[18652]
+20200209-001627<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3165281
+20200209-001647<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[19012] LastFrame[18651] NewFrame[19012]
+20200209-001647<INFO :0xf743f700>: [BiShopPing] Ping return at 3185274.
+20200209-001657<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[19193] LastFrame[18652] NewFrame[19193]
+20200209-001657<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3195336
+20200209-001707<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[19373] LastFrame[19012] NewFrame[19373]
+20200209-001707<INFO :0xf743f700>: [BiShopPing] Ping return at 3205355.
+20200209-001710<INFO :0xf743f700>: [Frame debug] Frame 19440
+20200209-001727<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[19734] LastFrame[19193] NewFrame[19734]
+20200209-001727<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[19734] LastFrame[19373] NewFrame[19734]
+20200209-001727<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3225382
+20200209-001727<INFO :0xf743f700>: [BiShopPing] Ping return at 3225384.
+20200209-001747<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[20095] LastFrame[19734] NewFrame[20095]
+20200209-001747<INFO :0xf743f700>: [BiShopPing] Ping return at 3245471.
+20200209-001757<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[20275] LastFrame[19734] NewFrame[20275]
+20200209-001757<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3255444
+20200209-001807<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[20456] LastFrame[20095] NewFrame[20456]
+20200209-001807<INFO :0xf743f700>: [BiShopPing] Ping return at 3265500.
+20200209-001808<WARN :0xf743f700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200209-001827<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[20816] LastFrame[20275] NewFrame[20816]
+20200209-001827<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3285489
+20200209-001827<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[20817] LastFrame[20456] NewFrame[20817]
+20200209-001827<INFO :0xf743f700>: [BiShopPing] Ping return at 3285581.
+20200209-001847<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[21178] LastFrame[20817] NewFrame[21178]
+20200209-001847<INFO :0xf743f700>: [BiShopPing] Ping return at 3305610.
+20200209-001857<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[21357] LastFrame[20816] NewFrame[21357]
+20200209-001857<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3315545
+20200209-001907<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[21539] LastFrame[21178] NewFrame[21539]
+20200209-001907<INFO :0xf743f700>: [BiShopPing] Ping return at 3325692.
+20200209-001927<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[21898] LastFrame[21357] NewFrame[21898]
+20200209-001927<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3345600
+20200209-001927<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[21900] LastFrame[21539] NewFrame[21900]
+20200209-001927<INFO :0xf743f700>: [BiShopPing] Ping return at 3345723.
+20200209-001946<ERROR:0xf743f700>: ****tagGLOBAL_FUNCTIONS::ExecuteScript5:[305419896][] no src object****
+20200209-001947<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[22261] LastFrame[21900] NewFrame[22261]
+20200209-001947<INFO :0xf743f700>: [BiShopPing] Ping return at 3365804.
+20200209-001957<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[22439] LastFrame[21898] NewFrame[22439]
+20200209-001957<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3375648
+20200209-002007<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[22622] LastFrame[22261] NewFrame[22622]
+20200209-002007<INFO :0xf743f700>: [BiShopPing] Ping return at 3385839.
+20200209-002010<INFO :0xf743f700>: [Frame debug] Frame 22680
+20200209-002027<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[22980] LastFrame[22439] NewFrame[22980]
+20200209-002027<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3405701
+20200209-002027<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[22983] LastFrame[22622] NewFrame[22983]
+20200209-002027<INFO :0xf743f700>: [BiShopPing] Ping return at 3405877.
+20200209-002047<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[23344] LastFrame[22983] NewFrame[23344]
+20200209-002047<INFO :0xf743f700>: [BiShopPing] Ping return at 3425964.
+20200209-002057<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[23521] LastFrame[22980] NewFrame[23521]
+20200209-002057<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3435760
+20200209-002107<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[23705] LastFrame[23344] NewFrame[23705]
+20200209-002107<INFO :0xf743f700>: [BiShopPing] Ping return at 3445997.
+20200209-002127<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[24062] LastFrame[23521] NewFrame[24062]
+20200209-002127<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3465811
+20200209-002127<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[24066] LastFrame[23705] NewFrame[24066]
+20200209-002127<INFO :0xf743f700>: [BiShopPing] Ping return at 3466077.
+20200209-002147<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[24427] LastFrame[24066] NewFrame[24427]
+20200209-002147<INFO :0xf743f700>: [BiShopPing] Ping return at 3486108.
+20200209-002153<ERROR:0xf743f700>: KItemList::Add( ioNaruto nIdx=197, nPlace=[2,-1,-1], bForce=0) fail
+20200209-002153<ERROR:0xf743f700>: KItemList::Add( ioNaruto nIdx=198, nPlace=[2,-1,-1], bForce=0) fail
+20200209-002153<ERROR:0xf743f700>: KItemList::Add( ioNaruto nIdx=198, nPlace=[0,-1,-1], bForce=0) fail
+20200209-002157<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[24603] LastFrame[24062] NewFrame[24603]
+20200209-002157<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3495868
+20200209-002207<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[24788] LastFrame[24427] NewFrame[24788]
+20200209-002207<INFO :0xf743f700>: [BiShopPing] Ping return at 3506139.
+20200209-002227<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[25144] LastFrame[24603] NewFrame[25144]
+20200209-002227<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3525923
+20200209-002228<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[25149] LastFrame[24788] NewFrame[25149]
+20200209-002228<INFO :0xf743f700>: [BiShopPing] Ping return at 3526223.
+20200209-002248<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[25510] LastFrame[25149] NewFrame[25510]
+20200209-002248<INFO :0xf743f700>: [BiShopPing] Ping return at 3546262.
+20200209-002257<INFO :0xf743f700>: gs ping goddess[result=1], CurFrame[25685] LastFrame[25144] NewFrame[25685]
+20200209-002257<INFO :0xf743f700>: receieve goddess ping reply, goddess time = 3555972
+20200209-002308<ERROR:0xf743f700>: gs ping bishop[result=1], CurFrame[25871] LastFrame[25510] NewFrame[25871]
+20200209-002308<INFO :0xf743f700>: [BiShopPing] Ping return at 3566300.
+20200209-002310<INFO :0xf743f700>: [Frame debug] Frame 25920
+20200209-002314<ERROR:0xf743f700>: Recv data error, shutdown(linkindex:0)
+20200209-002314<INFO :0xf743f700>: [LOGIN/OUT] Connection[0] lost, idx:1, acc:an, role:ioNaruto, GameStatus:PlayerPlaying, ExchangeStatus:ExchangeBegin, LastPingTime:[2020-02-09 00:23:13]
+20200209-002314<INFO :0xf743f700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200209-002314<INFO :0xf743f700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=D85F66DB dwDataLen=7995
+20200209-002314<INFO :0xf743f700>: [SavePlayerData] send save request to goddess bUnLock=1, acc:an, role:ioNaruto
+20200209-002314<INFO :0xf743f700>: [LOGIN/OUT] G2B_ROLE_LOGOUT idx:1, acc:an, role:ioNaruto
+20200209-002314<INFO :0xf743f700>: acc:an leave game!
+20200209-002314<INFO :0xf743f700>: Remove player object . acc an, role ioNaruto

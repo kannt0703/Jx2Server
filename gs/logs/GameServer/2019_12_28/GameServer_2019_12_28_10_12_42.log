@@ -1,0 +1,913 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65535 LastTime=1900-1-0 0:0:0
+20191228-101242<INFO :0xf77d0950>: [GameSvr][Version:Nov 14 2014 15:55:00] begin start up...
+20191228-101242<INFO :0xf77d0950>: Succeeded in loading version.ini. Lower Version:341 Upper Version:345
+20191228-101242<INFO :0xf77d0950>: [verify_up2date]...
+20191228-101242<INFO :0xf77d0950>: >Current lang is [gb18030]
+20191228-101242<INFO :0xf77d0950>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191228-101242<INFO :0xf77d0950>: >Time duration: 25.180267ms 
+20191228-101242<INFO :0xf77d0950>: >
+20191228-101242<INFO :0xf77d0950>: >Finish, my exit code is: 0
+20191228-101242<INFO :0xf77d0950>: |shell cmd result is 0
+20191228-101242<INFO :0xf77d0950>: ExecShellCmd [./verify_up2date -op=vef -d="/home/jx2JQ/gs" ] ret=0
+20191228-101242<INFO :0xf77d0950>: [verify_up2date] ok
+20191228-101242<INFO :0xf77d0950>: This ServerIP : 127.0.0.1 : 192.168.136.146
+20191228-101242<INFO :0xf77d0950>: [GameServer Type] RealmType=0, IsMatchRealm=0
+20191228-101242<INFO :0xf77d0950>: IS_KINGSOFT_INNER_VERSION=0|0
+20191228-101242<INFO :0xf77d0950>: IS_EXP_SVR=0|0
+20191228-101242<ERROR:0xf77d0950>: SetSpecialSwitch(Index=3,bOpen=1,AccessCode=1024232298) ok, result=1
+20191228-101242<INFO :0xf77d0950>: [GameServer] ServerCount=1, ServerIndex=1
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarDefaultCriticalHitRate=5
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMinCriticalHitRate=0
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMaxCriticalHitRate=50
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarDefaultCriticalHitDamageAddPct=10
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMinCriticalHitDamageAddPct=0
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMaxCriticalHitDamageAddPct=300
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarPlayerDogeParaA=5
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarPlayerDogeParaB=5
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMinHitRatePlayer=75
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMaxHitRatePlayer=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarNpcDogeParaA=10
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarNpcDogeParaB=10
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMinHitRateNpc=50
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarMaxHitRateNpc=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarTransLife2DogePara=10000
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarLevel2DogePara=1000
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarStrength2DogePara=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarDesterity2DogePara=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarEnergy2DogePara=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarVitality2DogePara=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarObserve2DogePara=100
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarTransLife2HitPara=8500
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarLevel2HitPara=850
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarStrength2HitPara=85
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarDesterity2HitPara=85
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarEnergy2HitPara=85
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarVitality2HitPara=85
+20191228-101242<INFO :0xf77d0950>: [GlovalVariable] gblvarObserve2HitPara=85
+20191228-101242<INFO :0xf77d0950>: [CustomAward] 45 lines loaded from [\settings\item\custom_award\custom_award_group.txt]
+20191228-101242<INFO :0xf77d0950>: [CustomAward] 469 lines loaded from \settings\item\custom_award\custom_award_list.txt
+20191228-101242<INFO :0xf77d0950>: [CustomAward] 5 lines loaded from \settings\item\custom_award\custom_consume_list.txt
+20191228-101242<INFO :0xf77d0950>: [CustomAward] total AwardId=469/474/65534
+20191228-101242<INFO :0xf77d0950>: [CustomAward] RandSeed = 4239775639
+20191228-101245<ERROR:0xf77d0950>: Skill	Unexpected Skill ID 1261 at row SkillSet22, section SkillStateMutex of file \settings\skill\skill_mutex.ini!
+20191228-101245<ERROR:0xf77d0950>: Skill	Unexpected Skill ID 1202 at row SkillSet20, section SkillCDShare of file \settings\skill\skill_mutex.ini!
+20191228-101245<INFO :0xf77d0950>: Loading All Scripts....................
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [3/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [5/1365] packed script file (\settings\static_script\vip_feedback_system\ib_consumme_level.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [11/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap3.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [12/1365] packed script file (\settings\static_script\missions\hunduantongtianding\head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [14/1365] packed script file (\settings\static_script\online\olympic\oly_define.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [16/1365] packed script file (\settings\static_script\meridian\meridian_level_update_4.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [21/1365] packed script file (\settings\static_script\meridian\meridian_level_update_3.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [29/1365] packed script file (\settings\static_script\lib\item_define.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [33/1365] packed script file (\settings\static_script\kf_newbattles\battle_medicine_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [36/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap2.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [40/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\shaqi_box.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [42/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\resourcebattle_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [43/1365] packed script file (\settings\static_script\exchg_server\exchange_server_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [45/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [47/1365] packed script file (\settings\static_script\meridian\meridian_level_update_2.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [51/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap1.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [65/1365] packed script file (\settings\static_script\global\regular_clear_task_byapp.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [68/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mainbattle_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [70/1365] packed script file (\settings\static_script\meridian\meridian_level_update_1.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [75/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\refugee_receive_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [88/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\targetnpc_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [97/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap6.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [99/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\jt_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [111/1365] packed script file (\settings\static_script\misc\observer\observer_ksg_reg.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [112/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_primary_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [113/1365] packed script file (\settings\static_script\meridian\meridian_level_update_6.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [114/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\position.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [118/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [119/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap5.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [122/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_monster.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [123/1365] packed script file (\settings\static_script\kf_newbattles\battleaward.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [125/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\resource_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [126/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap4.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [128/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_front.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [145/1365] packed script file (\settings\static_script\meridian\meridian_level_update_5.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [166/1365] packed script file (\settings\static_script\vip_feedback_system\yinjuan_api.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [174/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\quartermaster_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [182/1365] packed script file (\settings\static_script\exchg_server\exchange_paycoin_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [183/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_louluo_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [194/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\trap.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [195/1365] packed script file (\settings\static_script\online\olympic\oly_award_table.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [205/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\knowmandeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [213/1365] packed script file (\settings\static_script\exchg_server\exchange_server_func.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [239/1365] packed script file (\settings\static_script\kf_newbattles\battlestatistic.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [241/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\box_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [250/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\emplacement_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [251/1365] packed script file (\settings\static_script\kf_newbattles\liao_primary_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [259/1365] packed script file (\settings\static_script\global\tonginfo_task.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [263/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\trigger.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [274/1365] packed script file (\settings\static_script\global\everyday_do.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [284/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\boss_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [285/1365] packed script file (\settings\static_script\meridian\meridian_title.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [320/1365] packed script file (\settings\static_script\missions\base\tmission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [323/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\npc_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [335/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\hoe_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [347/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\position.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [348/1365] packed script file (\settings\static_script\missions\base\missionaward_equip_tbl.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [349/1365] packed script file (\settings\static_script\kf_newbattles\battleactivity_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [354/1365] packed script file (\settings\static_script\gem\imp_item_gem_box.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [359/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\box_jingli.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [360/1365] packed script file (\settings\static_script\kf_newbattles\functions.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [362/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\mission_award.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [369/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\position.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [374/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_jiaoguan.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [390/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [393/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong3.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [400/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\villagebattle_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [401/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\emplacementbattle_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [402/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\header_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [412/1365] packed script file (\settings\static_script\gem\imp_npc_gem.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [438/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_header_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [450/1365] packed script file (\settings\static_script\kf_newbattles\trigger.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [459/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [467/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\druggist_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [472/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\trap.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [478/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\drum_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [482/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\player_cheat_op.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [492/1365] packed script file (\settings\static_script\kf_newbattles\battle_book_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [494/1365] packed script file (\settings\static_script\lib\floyd.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [495/1365] packed script file (\settings\static_script\cheat\gm_item_tifuzhiyin.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [503/1365] packed script file (\settings\static_script\meridian\meridian_level_update_condition.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [521/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [523/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\refugee_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [527/1365] packed script file (\settings\static_script\server_script.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [529/1365] packed script file (\settings\static_script\meridian\item_meridian_restore.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [541/1365] packed script file (\settings\static_script\kf_newbattles\quartermaster_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [543/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [544/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [545/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [547/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [562/1365] packed script file (\settings\static_script\missions\hunduantongtianding\player_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [571/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\playerdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [574/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [575/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\playerdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [579/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_define.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [588/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\playerdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [593/1365] packed script file (\settings\static_script\online\qianhe_tower\qht_define.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [598/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [603/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong2.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [608/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong1.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [617/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\flag_item.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [626/1365] packed script file (\settings\static_script\missions\hunduantongtianding\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [628/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [634/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [641/1365] packed script file (\settings\static_script\meridian\meridian_level_update.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [644/1365] packed script file (\settings\static_script\meridian\item_silingguiyuandan.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [648/1365] packed script file (\settings\static_script\misc\missionaward.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [662/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [663/1365] packed script file (\settings\static_script\meridian\item_peiyuandan.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [667/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [669/1365] packed script file (\settings\static_script\global\regular_clear_task.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [681/1365] packed script file (\settings\static_script\meridian\item_xichendan_imp.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [686/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [697/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [702/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\targetnpcdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [713/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_royal_road.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [714/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [720/1365] packed script file (\settings\static_script\misc\autocleaner\autocleaner_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [739/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\trap_royal_road.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [743/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_caiji.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [746/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\trap.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [751/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [754/1365] packed script file (\settings\static_script\lib\teamfunctions.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [770/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [781/1365] packed script file (\settings\static_script\kf_newbattles\box_effect_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [782/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\playerdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [794/1365] packed script file (\settings\static_script\meridian\npc_meridian_level_update.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [806/1365] packed script file (\settings\static_script\missions\hunduantongtianding\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [809/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\refugee_talk_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [815/1365] packed script file (\settings\static_script\runtime_data_stat\runtime_game_data_stat.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [816/1365] packed script file (\settings\static_script\missions\base\missionbase.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [820/1365] packed script file (\settings\static_script\exchg_server\exchgsvr_player_login.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [827/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [831/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_item_drug.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [833/1365] packed script file (\settings\static_script\missions\base\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [834/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [841/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\assistant_hirer_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [842/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [846/1365] packed script file (\settings\static_script\item\item_jungongzhang_exchg_imp.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [902/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_jungong_or_junxian.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [909/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\playerdeath.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [912/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_smatianmensuipian.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [928/1365] packed script file (\settings\static_script\kf_newbattles\systemtimemessage\sub_battle_signup.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [934/1365] packed script file (\settings\static_script\online\general_award_group.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [935/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [943/1365] packed script file (\settings\static_script\missions\base\mission_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [945/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_main.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [946/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\wrx_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [949/1365] packed script file (\settings\static_script\meridian\meridian_zhenqi_transmission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [955/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\angryvillager_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [963/1365] packed script file (\settings\static_script\missions\base\phasebase.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [964/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\npc_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [969/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\palyer_cheat_detect.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [975/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\environmentalist_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [976/1365] packed script file (\settings\static_script\missions\base\tstage.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [981/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [983/1365] packed script file (\settings\static_script\global\merit.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [991/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trigger.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [994/1365] packed script file (\settings\static_script\missions\hunduantongtianding\ttd_award.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [999/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_jungong.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1011/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\box_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1017/1365] packed script file (\settings\static_script\missions\hunduantongtianding\qrs_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1020/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1045/1365] packed script file (\settings\static_script\meridian\meridian_payer_login.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1046/1365] packed script file (\settings\static_script\misc\missionaward_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1064/1365] packed script file (\settings\static_script\lib\tag.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1074/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\soldier_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1086/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\armyguide_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1087/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1099/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\refugee_receive_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1103/1365] packed script file (\settings\static_script\meridian\vet_jihuo_wuzun.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1113/1365] packed script file (\settings\static_script\missions\base\mission_award_base.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1114/1365] packed script file (\settings\static_script\online\qianhe_tower\qht_award_table.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1132/1365] packed script file (\settings\static_script\misc\autocleaner\autocleaner.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1140/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_bigtianmensuipian.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1147/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_npc_kf.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1150/1365] packed script file (\settings\static_script\missions\base\tphase.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1154/1365] packed script file (\settings\static_script\lib\itemfunctions.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1160/1365] packed script file (\settings\static_script\missions\hunduantongtianding\entrynpc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1165/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1167/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\sp_timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1170/1365] packed script file (\settings\static_script\kf_newbattles\battlepoint_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1178/1365] packed script file (\settings\static_script\global\weekly_do.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1187/1365] packed script file (\settings\static_script\missions\mission_task\ttd_wjz_task.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1191/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mainbattle_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1192/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\npc_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1202/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1218/1365] packed script file (\settings\static_script\kf_newbattles\systemtimemessage\main_battle_signup.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1227/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_item_sdrug.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1228/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap8.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1233/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_mid.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1237/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap7.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1245/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1252/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\box_death.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1254/1365] packed script file (\settings\static_script\global\daily_award_limit_api.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1257/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_back.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1259/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\mission.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1272/1365] packed script file (\settings\static_script\global\bit_task_support.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1276/1365] packed script file (\settings\static_script\missions\hunduantongtianding\wrd_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1278/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_tianmensuipian.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1302/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1304/1365] packed script file (\settings\static_script\kf_newbattles\head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1306/1365] packed script file (\settings\static_script\meridian\item_julingwan.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1307/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_yin.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1315/1365] packed script file (\settings\static_script\misc\data_state\state.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1331/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1333/1365] packed script file (\settings\static_script\kf_newbattles\song_primary_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1339/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\entrynpc.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1342/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\position.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1344/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\position.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1354/1365] packed script file (\settings\static_script\lib\val2str.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1355/1365] packed script file (\settings\static_script\item\item_gutianmenbaoxiang.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1356/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap_head.lua) fail, file maybe in out pack directory****
+20191228-101246<WARN :0xf77d0950>: ****PreOpen [1359/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\refugee_talk_npc.lua) fail, file maybe in out pack directory****
+20191228-101246<INFO :0xf77d0950>: All Scripts Have Been Loaded! ScriptCount = 5614
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\ÆÕÍ¨¹¥»÷\npcÆÕÍ¨¹¥»÷.lua]
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc¼õËÙ¹¥»÷.lua]
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÑ£ÔÎ¹¥»÷.lua]
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÊ©¶¾.lua]
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc¶¨Éí.lua]
+20191228-101247<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÆÆ·À¹¥»÷.lua]
+20191228-101248<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÎüÑª¹¥»÷.lua]
+20191228-101248<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc»÷ÍË¹¥»÷.lua]
+20191228-101248<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc»ìÂÒ.lua]
+20191228-101248<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÑ£ÔÎ.lua]
+20191228-101249<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc·âÕÐ.lua]
+20191228-101249<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcË¯Ãß.lua]
+20191228-101249<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc»ð¹¥»÷.lua]
+20191228-101249<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc³Ù»º¹¥»÷.lua]
+20191228-101249<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npcÇýÉ¢.lua]
+20191228-101250<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\npc»ìÂÒ¹¥»÷.lua]
+20191228-101252<ERROR:0xf77d0950>: [LoadRandomNpc] [\maps\ÊÀ½çµØÍ¼\ÀÅçð¶´¸®.ini] open failed!!!
+20191228-101253<INFO :0xf77d0950>: 192/400 map(s) has been loaded.
+20191228-101253<ERROR:0xf77d0950>: SetSpecialSwitch(Index=1,bOpen=0,AccessCode=1157247768) ok, result=0
+20191228-101253<ERROR:0xf77d0950>: SetSpecialSwitch(Index=2,bOpen=0,AccessCode=3238223681) ok, result=0
+20191228-101253<WARN :0xf77d0950>: *********[/script/global/autoexec.lua]Unable include script file  {\script\online\´º½Ú»î¶¯\newyear_head.lua}
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§»÷ÍË.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§¶¨Éí.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§ÖÐ¶¾.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\bossÆÕÍ¨¹¥»÷.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§·âÕÐ.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§»ìÂÒ.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§»÷µ¹.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\bossÉ¢Éä½£Æø.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\bossÂÒÉä½£Æø.lua]
+20191228-101253<WARN :0xf77d0950>: [Load] Invalid template: template ID=472328933l,
+20191228-101253<WARN :0xf77d0950>: load  npc template [0] fail
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss´ó·¶Î§Ñ£ÔÎ.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\npc¼¼ÄÜ\boss·¶Î§¶¾ÉËº¦.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\³èÎï¼¼ÄÜ\³èÎïÆÕÍ¨¹¥»÷.lua]
+20191228-101253<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\³èÎï¼¼ÄÜ\µ÷ÓÃÕÐÊ½.lua]
+20191228-101253<INFO :0xf77d0950>: [SystimeTask] load 96/96 systemtimetasks from {\settings\systemtimetask.txt}
+20191228-101254<INFO :0xf77d0950>: start to connect Database, IP: 192.168.136.146 - Port: 5001 ... ok!
+20191228-101254<INFO :0xf77d0950>: start to connect RelayHost, IP: 192.168.136.146 - Port: 5003 ... ok!
+20191228-101254<INFO :0xf77d0950>: start to connect RelayChat, IP: 192.168.136.146 - Port: 5004 ... ok!
+20191228-101254<INFO :0xf77d0950>: start to connect RelayTong, IP: 192.168.136.146 - Port: 5005 ... ok!
+20191228-101254<INFO :0xf77d0950>: start to connect Gateway, IP: 192.168.136.146 - Port: 5633 ... ok!
+20191228-101254<INFO :0xf77d0950>: [verify_up2date] send Goddess|Relay|Router version request...
+20191228-101254<INFO :0xf77d0950>: [GameSvr] start up OK----------.
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=0 send=1/39|1 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame -1] total process 0/0=0 trans message
+20191228-101254<INFO :0xf77d0950>: Start init log database.
+20191228-101254<INFO :0xf77d0950>: Init log database end.
+20191228-101254<INFO :0xf77d0950>: [verify_up2date] VerifyUp2dateVersion: Server=Goddess code=8DA68FCD need=8DA68FCD result=1
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=1 send=1/38|2 avg=0 
+20191228-101254<INFO :0xf77d0950>: Recv Bishop time sync(2019-12-28 10:12:54)
+20191228-101254<INFO :0xf77d0950>: [verify_up2date] send Bishop version request...
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=2 send=1/37|3 avg=0 
+20191228-101254<INFO :0xf77d0950>: [SOSever::Breathe] MsgLoop:-755 ,MainLoop:4, TotalMsgLoop:-740, Elapse:4 CurBreathCost:4294966545 BreathCount:3
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=3 send=1/36|4 avg=0 
+20191228-101254<INFO :0xf77d0950>: [verify_up2date] VerifyUp2dateVersion: Server=Bishop code=DCA253A9 need=DCA253A9 result=1
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=4 send=1/35|5 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 0] total process 298/2=74 trans message
+20191228-101254<INFO :0xf77d0950>: [verify_up2date] VerifyUp2dateVersion: Server=Relay code=8DA68FCD need=8DA68FCD result=1
+20191228-101254<DEBUG:0xf77d0950>: [NormalSmallPackPorcess] Received packet MAP_INDEX_INFO from relay
+20191228-101254<INFO :0xf77d0950>: Received map index notification from relay (192 maps)
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=5 send=1/34|6 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=6 send=1/33|7 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 4] total process 1763/9=293 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=7 send=1/32|8 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 6] total process 1883/11=269 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=8 send=1/31|9 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=9 send=1/30|10 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 7] total process 1943/12=215 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=10 send=1/29|11 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 9] total process 2003/13=200 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=11 send=1/28|12 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 10] total process 2063/14=187 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=12 send=1/27|13 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=13 send=1/26|14 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 11] total process 2183/16=167 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=14 send=1/25|15 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 13] total process 2243/17=160 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=15 send=1/24|16 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 14] total process 2303/18=153 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=16 send=1/23|17 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=17 send=1/22|18 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 15] total process 2423/20=142 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=18 send=1/21|19 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 17] total process 2483/21=137 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=19 send=1/20|20 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 18] total process 2543/22=133 trans message
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=20 send=1/19|21 avg=0 
+20191228-101254<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 19] total process 2733/24=136 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=21 send=1/18|22 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=22 send=1/17|23 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 20] total process 2853/26=129 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=23 send=1/16|24 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 22] total process 2913/27=126 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=24 send=1/15|25 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 23] total process 2973/28=123 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=25 send=1/14|26 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=26 send=1/13|27 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 24] total process 3093/30=118 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=27 send=1/12|28 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=28 send=1/11|29 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 26] total process 3213/32=114 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=29 send=1/10|30 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 28] total process 3273/33=112 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=30 send=1/9|31 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 29] total process 3333/34=111 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=31 send=1/8|32 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 30] total process 3393/35=109 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=32 send=1/7|33 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=33 send=1/6|34 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 31] total process 3513/37=106 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=34 send=1/5|35 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 33] total process 3574/38=105 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=35 send=1/4|36 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 34] total process 3635/39=103 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=36 send=1/3|37 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=37 send=1/2|38 avg=0 
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 35] total process 3757/41=101 trans message
+20191228-101255<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=38 send=1/1|39 avg=0 
+20191228-101256<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 37] total process 4009/44=105 trans message
+20191228-101256<DEBUG:0xf77d0950>: [net dbg] [SendNetMsgToTransfer] frame=39 send=1/0|40 avg=0 
+20191228-101256<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 38] total process 4070/45=74 trans message
+20191228-101257<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 55] total process 4200/46=57 trans message
+20191228-101258<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 73] total process 4330/47=47 trans message
+20191228-101259<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 91] total process 4460/48=40 trans message
+20191228-101300<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 109] total process 4590/49=36 trans message
+20191228-101301<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 127] total process 4720/50=32 trans message
+20191228-101302<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 145] total process 4850/51=29 trans message
+20191228-101303<DEBUG:0xf77d0950>: [net dbg] [TransferMessageProcess] [frame 163] total process 4980/52=27 trans message
+20191228-101314<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[363] LastFrame[2] NewFrame[363]
+20191228-101314<INFO :0xf77d0950>: [BiShopPing] Ping return at 171533.
+20191228-101324<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[556] LastFrame[15] NewFrame[556]
+20191228-101324<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 182236
+20191228-101334<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[724] LastFrame[363] NewFrame[724]
+20191228-101334<INFO :0xf77d0950>: [BiShopPing] Ping return at 191564.
+20191228-101336<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101354<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[1085] LastFrame[724] NewFrame[1085]
+20191228-101354<INFO :0xf77d0950>: [BiShopPing] Ping return at 211643.
+20191228-101354<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[1097] LastFrame[556] NewFrame[1097]
+20191228-101354<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 212278
+20191228-101359<INFO :0xf77d0950>: [Gateway Kick] Can't find account jiqinghk
+20191228-101404<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101419<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[1543] LastFrame[1182] NewFrame[1543]
+20191228-101419<INFO :0xf77d0950>: [BiShopPing] Ping return at 237042.
+20191228-101424<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[1638] LastFrame[1097] NewFrame[1638]
+20191228-101424<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 242315
+20191228-101430<INFO :0xf77d0950>: [LOGIN/OUT] G2B_ROLE_LOGIN_PERMIT permit acc:jiqinghk role:JiaXQing.
+20191228-101430<INFO :0xf77d0950>: [LOGIN/OUT] connection created ln:0 from 192.168.136.1.
+20191228-101430<INFO :0xf77d0950>: Found player[1] jiqinghk(JiaXQing) is logging in system!Ip:192.168.136.1 mac:0050-56C0-0008
+20191228-101430<INFO :0xf77d0950>: [CheckCRC] LoadPlayerBaseInfo(jiqinghk, JiaXQing) dwCRC=2F22242C len=4203
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\ÆÕÍ¨¹¥»÷\ÆÕÍ¨¹¥»÷.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ð½·ï¾ÅÌì.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\·ãÎèÐÄ·¨.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÆðÎè.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÁéÃ¨ÔÏ.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÎèÔÆÐÄ·¨.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÃÄ»¨.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\¶ÏÔÆ¾÷.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÇïÔÂ¸³.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\Ììô¥ÐÄ¾­.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\µûÔ¹.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\Ìì»ðÑÞÑô.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\Ì¤ÔÆÇÉ²½.lua]
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\´äÑÌÎèÏÉ\ÃÎÉß.lua]
+20191228-101430<INFO :0xf77d0950>: [PlayerItem] acc=jiqinghk, @svr=0/300000
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\skill\ÃØ¼®Îä¹¦\Áè²¨Î¢²½.lua]
+20191228-101430<INFO :0xf77d0950>: [PlayerItem] load=27/27 acc=jiqinghk @svr=27/300000
+20191228-101430<INFO :0xf77d0950>: PlayerName = JiaXQing, sucess load itemlock head data; 72, 72
+20191228-101430<INFO :0xf77d0950>: PlayerName = JiaXQing, 0, 0, 0, 0
+20191228-101430<ERROR:0xf77d0950>: [Weapon Effect Error]Weapon effect save data of player JiaXQing is INVALID.
+20191228-101430<INFO :0xf77d0950>: [LOGIN/OUT] C2G_ROLE_LOGIN success, idx:1, ln:0, acc:jiqinghk, role:JiaXQing lv:90
+20191228-101430<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\global\´¢ÎïÏä.lua]
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3787278104 RandSeed:1446321279 Lv=10]={Linh §å Giíi (tr¸i) 0 102 30221}]Set Attr0 Lv1365 LineId=402 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:402 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3787278104 RandSeed:1446321279 Lv=10]={Linh §å Giíi (tr¸i) 0 102 30221}]Set Attr1 Lv1411 LineId=13487 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13487 lv1
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3787278104 RandSeed:1446321279]{Linh §å Giíi (tr¸i) 0 102 30221} ResetUnlockAttrs[seed=1446321279] GrowSocket={0,0,0}  UnlockSocket={1020192,60134af,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3761047320 RandSeed:3744197239 Lv=10]={Linh §å Giíi (ph¶i) 0 102 30222}]Set Attr0 Lv1367 LineId=400 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:400 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3761047320 RandSeed:3744197239 Lv=10]={Linh §å Giíi (ph¶i) 0 102 30222}]Set Attr1 Lv1409 LineId=495 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:495 lv1
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3761047320 RandSeed:3744197239 Lv=10]={Linh §å Giíi (ph¶i) 0 102 30222}]Set Attr2 Lv1429 LineId=278 Id=3 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:278 lv3
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3761047320 RandSeed:3744197239]{Linh §å Giíi (ph¶i) 0 102 30222} ResetUnlockAttrs[seed=3744197239] GrowSocket={0,0,0}  UnlockSocket={1020190,60101ef,a030116} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3517017880 RandSeed:3939834116 Lv=10]={Linh §å PhiÕn 0 13 30222}]Set Attr0 Lv1319 LineId=13482 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13482 lv3
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3517017880 RandSeed:3939834116 Lv=10]={Linh §å PhiÕn 0 13 30222}]Set Attr1 Lv1323 LineId=13484 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13484 lv3
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3517017880 RandSeed:3939834116]{Linh §å PhiÕn 0 13 30222 } ResetGrowAttrs[seed=3939834116] GrowSocket={334aa,334ac,0}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3517017880 RandSeed:3939834116 Lv=10]={Linh §å PhiÕn 0 13 30222}]Set Attr1 Lv1348 LineId=251 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:251 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3517017880 RandSeed:3939834116 Lv=10]={Linh §å PhiÕn 0 13 30222}]Set Attr2 Lv1359 LineId=13466 Id=2 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13466 lv2
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3517017880 RandSeed:3939834116]{Linh §å PhiÕn 0 13 30222} ResetUnlockAttrs[seed=1113170287] GrowSocket={334aa,334ac,0}  UnlockSocket={0,10200fb,602349a} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3598171928 RandSeed:2160047054 Lv=10]={Linh §å Trang (th­¬n 0 101 30238}]Set Attr0 Lv1288 LineId=302 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:302 lv3
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3598171928 RandSeed:2160047054 Lv=10]={Linh §å Trang (th­¬n 0 101 30238}]Set Attr1 Lv1290 LineId=563 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:563 lv1
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3598171928 RandSeed:2160047054]{Linh §å Trang (th­¬n 0 101 30238 } ResetGrowAttrs[seed=2160047054] GrowSocket={3012e,10233,0}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3598171928 RandSeed:2160047054 Lv=10]={Linh §å Trang (th­¬n 0 101 30238}]Set Attr0 Lv1342 LineId=399 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:399 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3598171928 RandSeed:2160047054 Lv=10]={Linh §å Trang (th­¬n 0 101 30238}]Set Attr1 Lv1394 LineId=277 Id=5 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:277 lv5
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3598171928 RandSeed:2160047054]{Linh §å Trang (th­¬n 0 101 30238} ResetUnlockAttrs[seed=2700666321] GrowSocket={3012e,10233,0}  UnlockSocket={102018f,6050115,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3680276248 RandSeed:3582873704 Lv=10]={Linh §å Trang (ngo¹i 0 101 30242}]Set Attr0 Lv1288 LineId=302 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:302 lv3
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3680276248 RandSeed:3582873704 Lv=10]={Linh §å Trang (ngo¹i 0 101 30242}]Set Attr1 Lv1296 LineId=13478 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13478 lv2
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3680276248 RandSeed:3582873704]{Linh §å Trang (ngo¹i 0 101 30242 } ResetGrowAttrs[seed=3582873704] GrowSocket={3012e,234a6,0}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3680276248 RandSeed:3582873704 Lv=10]={Linh §å Trang (ngo¹i 0 101 30242}]Set Attr0 Lv1342 LineId=399 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:399 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3680276248 RandSeed:3582873704 Lv=10]={Linh §å Trang (ngo¹i 0 101 30242}]Set Attr1 Lv1400 LineId=13488 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13488 lv1
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3680276248 RandSeed:3582873704 Lv=10]={Linh §å Trang (ngo¹i 0 101 30242}]Set Attr2 Lv1416 LineId=13490 Id=3 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:13490 lv3
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3680276248 RandSeed:3582873704]{Linh §å Trang (ngo¹i 0 101 30242} ResetUnlockAttrs[seed=3945650883] GrowSocket={3012e,234a6,0}  UnlockSocket={102018f,60134b0,a0334b2} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3634618136 RandSeed:1571944786 Lv=10]={Linh §å Trang (néi) 0 101 30246}]Set Attr0 Lv1289 LineId=302 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:302 lv4
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3634618136 RandSeed:1571944786 Lv=10]={Linh §å Trang (néi) 0 101 30246}]Set Attr1 Lv1301 LineId=13479 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13479 lv2
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3634618136 RandSeed:1571944786]{Linh §å Trang (néi) 0 101 30246 } ResetGrowAttrs[seed=1571944786] GrowSocket={4012e,234a7,0}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3634618136 RandSeed:1571944786 Lv=10]={Linh §å Trang (néi) 0 101 30246}]Set Attr0 Lv1338 LineId=394 Id=4 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:394 lv4
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3634618136 RandSeed:1571944786 Lv=10]={Linh §å Trang (néi) 0 101 30246}]Set Attr1 Lv1398 LineId=13486 Id=1 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13486 lv1
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3634618136 RandSeed:1571944786]{Linh §å Trang (néi) 0 101 30246} ResetUnlockAttrs[seed=887591109] GrowSocket={4012e,234a7,0}  UnlockSocket={104018a,60134ae,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3409651480 RandSeed:1007045691 Lv=10]={Linh §å Y 0 100 30238}]Set Attr0 Lv1278 LineId=13477 Id=2 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13477 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3409651480 RandSeed:1007045691 Lv=10]={Linh §å Y 0 100 30238}]Set Attr1 Lv1283 LineId=290 Id=5 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:290 lv5
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3409651480 RandSeed:1007045691]{Linh §å Y 0 100 30238 } ResetGrowAttrs[seed=1007045691] GrowSocket={234a5,50122,0}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3409651480 RandSeed:1007045691 Lv=10]={Linh §å Y 0 100 30238}]Set Attr0 Lv1338 LineId=394 Id=4 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:394 lv4
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3409651480 RandSeed:1007045691 Lv=10]={Linh §å Y 0 100 30238}]Set Attr1 Lv1391 LineId=13206 Id=5 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13206 lv5
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3409651480 RandSeed:1007045691 Lv=10]={Linh §å Y 0 100 30238}]Set Attr2 Lv1419 LineId=613 Id=2 Worth=1000 usExPara=10 usExPara2=0 bIsGrowAttr=0--->new attr:613 lv2
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3409651480 RandSeed:1007045691]{Linh §å Y 0 100 30238} ResetUnlockAttrs[seed=2072485354] GrowSocket={234a5,50122,0}  UnlockSocket={104018a,6053396,a020265} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3180934936 RandSeed:3497891837 Lv=10]={Linh §å M·o 0 103 30238}]Set Attr0 Lv1270 LineId=13476 Id=3 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13476 lv3
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3180934936 RandSeed:3497891837 Lv=10]={Linh §å M·o 0 103 30238}]Set Attr1 Lv1272 LineId=305 Id=4 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:305 lv4
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3180934936 RandSeed:3497891837 Lv=10]={Linh §å M·o 0 103 30238}]Set Attr2 Lv1273 LineId=13491 Id=1 Worth=1000 usExPara=0 usExPara2=0 bIsGrowAttr=1--->new attr:13491 lv1
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3180934936 RandSeed:3497891837]{Linh §å M·o 0 103 30238 } ResetGrowAttrs[seed=3497891837] GrowSocket={334a4,40131,134b3}  UnlockSocket={0,0,0} Exp=10|0
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3180934936 RandSeed:3497891837 Lv=10]={Linh §å M·o 0 103 30238}]Set Attr0 Lv1336 LineId=251 Id=2 Worth=1000 usExPara=1 usExPara2=0 bIsGrowAttr=0--->new attr:251 lv2
+20191228-101444<INFO :0xf77d0950>: [EquipFeed][Item[ID:3180934936 RandSeed:3497891837 Lv=10]={Linh §å M·o 0 103 30238}]Set Attr1 Lv1380 LineId=13240 Id=5 Worth=1000 usExPara=6 usExPara2=0 bIsGrowAttr=0--->new attr:13240 lv5
+20191228-101444<DEBUG:0xf77d0950>: [EQUIP_FEED] acc[jiqinghk] role[JiaXQing] item[ID:3180934936 RandSeed:3497891837]{Linh §å M·o 0 103 30238} ResetUnlockAttrs[seed=3470940260] GrowSocket={334a4,40131,134b3}  UnlockSocket={10200fb,60533b8,0} Exp=10|0
+20191228-101450<WARN :0xf77d0950>: g_GetScript find unpreloaded file [\script\ÖÐÔ­Ò»Çø\ãê¾©\npc\ÃÅÅÉ½ÓÒýÈË.lua]
+20191228-101450<ERROR:0xf77d0950>: ****{JiaXQing}Excute npc[Sø gi¶ m«n ph¸i] script[\script\ÖÐÔ­Ò»Çø\ãê¾©\npc\ÃÅÅÉ½ÓÒýÈË.lua] fail****
+20191228-101450<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[2102] LastFrame[1741] NewFrame[2102]
+20191228-101450<INFO :0xf77d0950>: [BiShopPing] Ping return at 268083.
+20191228-101454<ERROR:0xf77d0950>: Recv data error, shutdown(linkindex:0)
+20191228-101454<INFO :0xf77d0950>: [LOGIN/OUT] Connection[0] lost, idx:1, acc:jiqinghk, role:JiaXQing, GameStatus:PlayerPlaying, ExchangeStatus:ExchangeBegin, LastPingTime:[2019-12-28 10:14:51]
+20191228-101454<INFO :0xf77d0950>: PlayerName = JiaXQing, KItemLockMgr::SaveData, 0, 0, 0
+20191228-101454<INFO :0xf77d0950>: [CheckCRC] UpdateDBPlayerInfo(jiqinghk, JiaXQing) dwCRC=5C3D3C47 dwDataLen=4707
+20191228-101454<INFO :0xf77d0950>: [SavePlayerData] send save request to goddess bUnLock=1, acc:jiqinghk, role:JiaXQing
+20191228-101454<INFO :0xf77d0950>: [LOGIN/OUT] G2B_ROLE_LOGOUT idx:1, acc:jiqinghk, role:JiaXQing
+20191228-101454<INFO :0xf77d0950>: acc:jiqinghk leave game!
+20191228-101454<INFO :0xf77d0950>: Remove player object . acc jiqinghk, role JiaXQing
+20191228-101500<INFO :0xf77d0950>: [SystimeTask] timetask [Ln22 10:15]  is time up [Frame 2272], execute script 1735377831:{\script\online\viet_event\lanhua_boss\create_boss.lua}
+20191228-101514<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[2540] LastFrame[2179] NewFrame[2540]
+20191228-101514<INFO :0xf77d0950>: [BiShopPing] Ping return at 292403.
+20191228-101516<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101524<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[2720] LastFrame[2179] NewFrame[2720]
+20191228-101524<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 302397
+20191228-101535<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[2901] LastFrame[2540] NewFrame[2901]
+20191228-101535<INFO :0xf77d0950>: [BiShopPing] Ping return at 312458.
+20191228-101553<INFO :0xf77d0950>: [Frame debug] Frame 3240
+20191228-101555<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[3261] LastFrame[2720] NewFrame[3261]
+20191228-101555<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 332441
+20191228-101555<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[3262] LastFrame[2901] NewFrame[3262]
+20191228-101555<INFO :0xf77d0950>: [BiShopPing] Ping return at 332520.
+20191228-101558<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101615<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[3623] LastFrame[3262] NewFrame[3623]
+20191228-101615<INFO :0xf77d0950>: [BiShopPing] Ping return at 352559.
+20191228-101625<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[3802] LastFrame[3261] NewFrame[3802]
+20191228-101625<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 362472
+20191228-101627<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101635<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[3984] LastFrame[3623] NewFrame[3984]
+20191228-101635<INFO :0xf77d0950>: [BiShopPing] Ping return at 372588.
+20191228-101655<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[4343] LastFrame[3802] NewFrame[4343]
+20191228-101655<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 392516
+20191228-101655<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[4345] LastFrame[3984] NewFrame[4345]
+20191228-101655<INFO :0xf77d0950>: [BiShopPing] Ping return at 392644.
+20191228-101715<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[4706] LastFrame[4345] NewFrame[4706]
+20191228-101715<INFO :0xf77d0950>: [BiShopPing] Ping return at 412703.
+20191228-101725<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[4884] LastFrame[4343] NewFrame[4884]
+20191228-101725<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 422556
+20191228-101735<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[5067] LastFrame[4706] NewFrame[5067]
+20191228-101735<INFO :0xf77d0950>: [BiShopPing] Ping return at 432747.
+20191228-101752<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101755<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[5425] LastFrame[4884] NewFrame[5425]
+20191228-101755<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 452600
+20191228-101755<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[5428] LastFrame[5067] NewFrame[5428]
+20191228-101755<INFO :0xf77d0950>: [BiShopPing] Ping return at 452793.
+20191228-101815<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[5789] LastFrame[5428] NewFrame[5789]
+20191228-101815<INFO :0xf77d0950>: [BiShopPing] Ping return at 472809.
+20191228-101825<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[5966] LastFrame[5425] NewFrame[5966]
+20191228-101825<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 482644
+20191228-101835<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[6150] LastFrame[5789] NewFrame[6150]
+20191228-101835<INFO :0xf77d0950>: [BiShopPing] Ping return at 492882.
+20191228-101853<INFO :0xf77d0950>: [Frame debug] Frame 6480
+20191228-101855<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[6507] LastFrame[5966] NewFrame[6507]
+20191228-101855<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 512678
+20191228-101855<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[6511] LastFrame[6150] NewFrame[6511]
+20191228-101855<INFO :0xf77d0950>: [BiShopPing] Ping return at 512934.
+20191228-101903<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-101915<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[6872] LastFrame[6511] NewFrame[6872]
+20191228-101915<INFO :0xf77d0950>: [BiShopPing] Ping return at 532991.
+20191228-101925<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[7048] LastFrame[6507] NewFrame[7048]
+20191228-101925<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 542718
+20191228-101935<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[7233] LastFrame[6872] NewFrame[7233]
+20191228-101935<INFO :0xf77d0950>: [BiShopPing] Ping return at 552988.
+20191228-101955<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[7589] LastFrame[7048] NewFrame[7589]
+20191228-101955<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 572759
+20191228-101955<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[7594] LastFrame[7233] NewFrame[7594]
+20191228-101955<INFO :0xf77d0950>: [BiShopPing] Ping return at 573053.
+20191228-102015<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[7955] LastFrame[7594] NewFrame[7955]
+20191228-102015<INFO :0xf77d0950>: [BiShopPing] Ping return at 593119.
+20191228-102025<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[8130] LastFrame[7589] NewFrame[8130]
+20191228-102025<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 602806
+20191228-102035<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[8316] LastFrame[7955] NewFrame[8316]
+20191228-102035<INFO :0xf77d0950>: [BiShopPing] Ping return at 613157.
+20191228-102043<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102055<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[8671] LastFrame[8130] NewFrame[8671]
+20191228-102055<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 632841
+20191228-102055<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[8677] LastFrame[8316] NewFrame[8677]
+20191228-102055<INFO :0xf77d0950>: [BiShopPing] Ping return at 633208.
+20191228-102057<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102115<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[9038] LastFrame[8677] NewFrame[9038]
+20191228-102115<INFO :0xf77d0950>: [BiShopPing] Ping return at 653234.
+20191228-102125<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[9212] LastFrame[8671] NewFrame[9212]
+20191228-102125<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 662887
+20191228-102136<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[9399] LastFrame[9038] NewFrame[9399]
+20191228-102136<INFO :0xf77d0950>: [BiShopPing] Ping return at 673265.
+20191228-102153<INFO :0xf77d0950>: [Frame debug] Frame 9720
+20191228-102154<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102155<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[9753] LastFrame[9212] NewFrame[9753]
+20191228-102155<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 692925
+20191228-102156<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[9760] LastFrame[9399] NewFrame[9760]
+20191228-102156<INFO :0xf77d0950>: [BiShopPing] Ping return at 693340.
+20191228-102216<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[10121] LastFrame[9760] NewFrame[10121]
+20191228-102216<INFO :0xf77d0950>: [BiShopPing] Ping return at 713355.
+20191228-102225<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[10294] LastFrame[9753] NewFrame[10294]
+20191228-102225<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 722963
+20191228-102236<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[10482] LastFrame[10121] NewFrame[10482]
+20191228-102236<INFO :0xf77d0950>: [BiShopPing] Ping return at 733436.
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1800]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[200:BiÖn Kinh].[28835:Th­¬ng nh©n T©y Vùc].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28836:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28837:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28838:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28839:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28840:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28841:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28842:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28843:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28844:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28845:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28846:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28847:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28848:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28849:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28850:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28851:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28852:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28853:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28854:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28855:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28856:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28857:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28858:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28859:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28860:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28861:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28862:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28863:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28864:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28865:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28866:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28867:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28868:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28869:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28870:D­îc Nh©n Th¶o].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28871:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28872:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28873:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28874:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28875:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28876:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28877:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28878:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28879:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28880:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28881:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28882:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28883:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28884:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28885:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28886:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28887:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28888:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28889:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28890:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28891:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28892:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28893:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28894:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28895:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28896:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28897:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28898:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28899:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28900:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28901:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28902:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28903:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28904:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28905:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28906:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28907:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28908:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28909:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28910:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28911:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28912:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28913:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28914:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28915:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28916:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28917:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28918:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28919:TÝch D­¬ng c¨n].
+20191228-102239<ERROR:0xf77d0950>: [Script] [3818529569, 1500]{/script/biwudahui/tournament/callback_function.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28920:TÝch D­¬ng c¨n].
+20191228-102255<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[10835] LastFrame[10294] NewFrame[10835]
+20191228-102255<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 753007
+20191228-102256<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[10843] LastFrame[10482] NewFrame[10843]
+20191228-102256<INFO :0xf77d0950>: [BiShopPing] Ping return at 753485.
+20191228-102316<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[11204] LastFrame[10843] NewFrame[11204]
+20191228-102316<INFO :0xf77d0950>: [BiShopPing] Ping return at 773493.
+20191228-102325<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[11376] LastFrame[10835] NewFrame[11376]
+20191228-102325<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 783043
+20191228-102336<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[11565] LastFrame[11204] NewFrame[11565]
+20191228-102336<INFO :0xf77d0950>: [BiShopPing] Ping return at 793583.
+20191228-102355<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[11917] LastFrame[11376] NewFrame[11917]
+20191228-102355<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 813084
+20191228-102356<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[11926] LastFrame[11565] NewFrame[11926]
+20191228-102356<INFO :0xf77d0950>: [BiShopPing] Ping return at 813616.
+20191228-102416<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[12287] LastFrame[11926] NewFrame[12287]
+20191228-102416<INFO :0xf77d0950>: [BiShopPing] Ping return at 833652.
+20191228-102425<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[12458] LastFrame[11917] NewFrame[12458]
+20191228-102425<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 843128
+20191228-102436<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[12648] LastFrame[12287] NewFrame[12648]
+20191228-102436<INFO :0xf77d0950>: [BiShopPing] Ping return at 853688.
+20191228-102453<INFO :0xf77d0950>: [Frame debug] Frame 12960
+20191228-102456<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[12999] LastFrame[12458] NewFrame[12999]
+20191228-102456<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 873170
+20191228-102456<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[13009] LastFrame[12648] NewFrame[13009]
+20191228-102456<INFO :0xf77d0950>: [BiShopPing] Ping return at 873747.
+20191228-102513<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102516<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[13370] LastFrame[13009] NewFrame[13370]
+20191228-102516<INFO :0xf77d0950>: [BiShopPing] Ping return at 893771.
+20191228-102526<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[13540] LastFrame[12999] NewFrame[13540]
+20191228-102526<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 903206
+20191228-102536<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[13731] LastFrame[13370] NewFrame[13731]
+20191228-102536<INFO :0xf77d0950>: [BiShopPing] Ping return at 913850.
+20191228-102541<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102556<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[14081] LastFrame[13540] NewFrame[14081]
+20191228-102556<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 933253
+20191228-102556<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[14092] LastFrame[13731] NewFrame[14092]
+20191228-102556<INFO :0xf77d0950>: [BiShopPing] Ping return at 933896.
+20191228-102616<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[14453] LastFrame[14092] NewFrame[14453]
+20191228-102616<INFO :0xf77d0950>: [BiShopPing] Ping return at 953951.
+20191228-102626<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[14622] LastFrame[14081] NewFrame[14622]
+20191228-102626<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 963295
+20191228-102636<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[14814] LastFrame[14453] NewFrame[14814]
+20191228-102636<INFO :0xf77d0950>: [BiShopPing] Ping return at 973957.
+20191228-102656<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[15163] LastFrame[14622] NewFrame[15163]
+20191228-102656<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 993334
+20191228-102656<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[15175] LastFrame[14814] NewFrame[15175]
+20191228-102656<INFO :0xf77d0950>: [BiShopPing] Ping return at 994037.
+20191228-102716<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[15536] LastFrame[15175] NewFrame[15536]
+20191228-102716<INFO :0xf77d0950>: [BiShopPing] Ping return at 1014086.
+20191228-102726<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[15704] LastFrame[15163] NewFrame[15704]
+20191228-102726<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1023377
+20191228-102737<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[15897] LastFrame[15536] NewFrame[15897]
+20191228-102737<INFO :0xf77d0950>: [BiShopPing] Ping return at 1034131.
+20191228-102753<INFO :0xf77d0950>: [Frame debug] Frame 16200
+20191228-102756<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[16245] LastFrame[15704] NewFrame[16245]
+20191228-102756<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1053410
+20191228-102757<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[16258] LastFrame[15897] NewFrame[16258]
+20191228-102757<INFO :0xf77d0950>: [BiShopPing] Ping return at 1054152.
+20191228-102804<INFO :0xf77d0950>: # PlayerCount in every subworld:
+20191228-102804<INFO :0xf77d0950>: # TotalPlayerCount in this GameSvr : 0.
+20191228-102804<INFO :0xf77d0950>: # TotalPlayerCount in player list : 0.
+20191228-102804<INFO :0xf77d0950>: # TotalNpcCount in npc list : 28911.
+20191228-102804<INFO :0xf77d0950>: # TotalItemCount in item list : 0.
+20191228-102804<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102817<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[16619] LastFrame[16258] NewFrame[16619]
+20191228-102817<INFO :0xf77d0950>: [BiShopPing] Ping return at 1074176.
+20191228-102826<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[16786] LastFrame[16245] NewFrame[16786]
+20191228-102826<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1083455
+20191228-102837<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[16980] LastFrame[16619] NewFrame[16980]
+20191228-102837<INFO :0xf77d0950>: [BiShopPing] Ping return at 1094246.
+20191228-102856<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[17327] LastFrame[16786] NewFrame[17327]
+20191228-102856<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1113491
+20191228-102857<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[17341] LastFrame[16980] NewFrame[17341]
+20191228-102857<INFO :0xf77d0950>: [BiShopPing] Ping return at 1114273.
+20191228-102917<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[17702] LastFrame[17341] NewFrame[17702]
+20191228-102917<INFO :0xf77d0950>: [BiShopPing] Ping return at 1134314.
+20191228-102926<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[17868] LastFrame[17327] NewFrame[17868]
+20191228-102926<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1143533
+20191228-102937<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[18063] LastFrame[17702] NewFrame[18063]
+20191228-102937<INFO :0xf77d0950>: [BiShopPing] Ping return at 1154356.
+20191228-102943<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-102956<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[18409] LastFrame[17868] NewFrame[18409]
+20191228-102956<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1173576
+20191228-102957<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[18424] LastFrame[18063] NewFrame[18424]
+20191228-102957<INFO :0xf77d0950>: [BiShopPing] Ping return at 1174406.
+20191228-103017<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[18785] LastFrame[18424] NewFrame[18785]
+20191228-103017<INFO :0xf77d0950>: [BiShopPing] Ping return at 1194494.
+20191228-103026<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103026<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[18950] LastFrame[18409] NewFrame[18950]
+20191228-103026<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1203619
+20191228-103037<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[19146] LastFrame[18785] NewFrame[19146]
+20191228-103037<INFO :0xf77d0950>: [BiShopPing] Ping return at 1214504.
+20191228-103053<INFO :0xf77d0950>: [Frame debug] Frame 19440
+20191228-103056<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[19491] LastFrame[18950] NewFrame[19491]
+20191228-103056<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1233658
+20191228-103057<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[19507] LastFrame[19146] NewFrame[19507]
+20191228-103057<INFO :0xf77d0950>: [BiShopPing] Ping return at 1234550.
+20191228-103117<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[19868] LastFrame[19507] NewFrame[19868]
+20191228-103117<INFO :0xf77d0950>: [BiShopPing] Ping return at 1254610.
+20191228-103123<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103126<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[20032] LastFrame[19491] NewFrame[20032]
+20191228-103126<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1263693
+20191228-103137<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[20229] LastFrame[19868] NewFrame[20229]
+20191228-103137<INFO :0xf77d0950>: [BiShopPing] Ping return at 1274668.
+20191228-103156<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[20573] LastFrame[20032] NewFrame[20573]
+20191228-103156<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1293740
+20191228-103157<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[20590] LastFrame[20229] NewFrame[20590]
+20191228-103157<INFO :0xf77d0950>: [BiShopPing] Ping return at 1294687.
+20191228-103217<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[20951] LastFrame[20590] NewFrame[20951]
+20191228-103217<INFO :0xf77d0950>: [BiShopPing] Ping return at 1314736.
+20191228-103226<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[21114] LastFrame[20573] NewFrame[21114]
+20191228-103226<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1323775
+20191228-103237<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[21312] LastFrame[20951] NewFrame[21312]
+20191228-103237<INFO :0xf77d0950>: [BiShopPing] Ping return at 1334782.
+20191228-103256<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[21655] LastFrame[21114] NewFrame[21655]
+20191228-103256<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1353814
+20191228-103257<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[21673] LastFrame[21312] NewFrame[21673]
+20191228-103257<INFO :0xf77d0950>: [BiShopPing] Ping return at 1354826.
+20191228-103317<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[22034] LastFrame[21673] NewFrame[22034]
+20191228-103317<INFO :0xf77d0950>: [BiShopPing] Ping return at 1374870.
+20191228-103326<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[22196] LastFrame[21655] NewFrame[22196]
+20191228-103326<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1383855
+20191228-103338<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[22395] LastFrame[22034] NewFrame[22395]
+20191228-103338<INFO :0xf77d0950>: [BiShopPing] Ping return at 1394942.
+20191228-103353<INFO :0xf77d0950>: [Frame debug] Frame 22680
+20191228-103357<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[22737] LastFrame[22196] NewFrame[22737]
+20191228-103357<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1413904
+20191228-103358<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[22756] LastFrame[22395] NewFrame[22756]
+20191228-103358<INFO :0xf77d0950>: [BiShopPing] Ping return at 1414958.
+20191228-103418<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[23117] LastFrame[22756] NewFrame[23117]
+20191228-103418<INFO :0xf77d0950>: [BiShopPing] Ping return at 1435006.
+20191228-103427<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[23278] LastFrame[22737] NewFrame[23278]
+20191228-103427<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1443940
+20191228-103438<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[23478] LastFrame[23117] NewFrame[23478]
+20191228-103438<INFO :0xf77d0950>: [BiShopPing] Ping return at 1455067.
+20191228-103457<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[23819] LastFrame[23278] NewFrame[23819]
+20191228-103457<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1473979
+20191228-103458<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[23839] LastFrame[23478] NewFrame[23839]
+20191228-103458<INFO :0xf77d0950>: [BiShopPing] Ping return at 1475133.
+20191228-103518<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[24200] LastFrame[23839] NewFrame[24200]
+20191228-103518<INFO :0xf77d0950>: [BiShopPing] Ping return at 1495135.
+20191228-103527<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[24360] LastFrame[23819] NewFrame[24360]
+20191228-103527<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1504025
+20191228-103538<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[24561] LastFrame[24200] NewFrame[24561]
+20191228-103538<INFO :0xf77d0950>: [BiShopPing] Ping return at 1515199.
+20191228-103539<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103557<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[24901] LastFrame[24360] NewFrame[24901]
+20191228-103557<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1534066
+20191228-103558<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[24922] LastFrame[24561] NewFrame[24922]
+20191228-103558<INFO :0xf77d0950>: [BiShopPing] Ping return at 1535267.
+20191228-103607<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103618<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[25283] LastFrame[24922] NewFrame[25283]
+20191228-103618<INFO :0xf77d0950>: [BiShopPing] Ping return at 1555290.
+20191228-103627<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[25442] LastFrame[24901] NewFrame[25442]
+20191228-103627<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1564100
+20191228-103636<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103638<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[25644] LastFrame[25283] NewFrame[25644]
+20191228-103638<INFO :0xf77d0950>: [BiShopPing] Ping return at 1575330.
+20191228-103653<INFO :0xf77d0950>: [Frame debug] Frame 25920
+20191228-103657<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[25983] LastFrame[25442] NewFrame[25983]
+20191228-103657<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1594148
+20191228-103658<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[26005] LastFrame[25644] NewFrame[26005]
+20191228-103658<INFO :0xf77d0950>: [BiShopPing] Ping return at 1595403.
+20191228-103718<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[26366] LastFrame[26005] NewFrame[26366]
+20191228-103718<INFO :0xf77d0950>: [BiShopPing] Ping return at 1615407.
+20191228-103727<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[26524] LastFrame[25983] NewFrame[26524]
+20191228-103727<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1624182
+20191228-103732<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103738<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[26727] LastFrame[26366] NewFrame[26727]
+20191228-103738<INFO :0xf77d0950>: [BiShopPing] Ping return at 1635497.
+20191228-103757<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[27065] LastFrame[26524] NewFrame[27065]
+20191228-103757<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1654218
+20191228-103758<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[27088] LastFrame[26727] NewFrame[27088]
+20191228-103758<INFO :0xf77d0950>: [BiShopPing] Ping return at 1655507.
+20191228-103818<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[27449] LastFrame[27088] NewFrame[27449]
+20191228-103818<INFO :0xf77d0950>: [BiShopPing] Ping return at 1675558.
+20191228-103827<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[27606] LastFrame[27065] NewFrame[27606]
+20191228-103827<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1684263
+20191228-103838<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[27810] LastFrame[27449] NewFrame[27810]
+20191228-103838<INFO :0xf77d0950>: [BiShopPing] Ping return at 1695593.
+20191228-103857<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[28147] LastFrame[27606] NewFrame[28147]
+20191228-103857<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1714308
+20191228-103858<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[28171] LastFrame[27810] NewFrame[28171]
+20191228-103858<INFO :0xf77d0950>: [BiShopPing] Ping return at 1715678.
+20191228-103912<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103918<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[28532] LastFrame[28171] NewFrame[28532]
+20191228-103918<INFO :0xf77d0950>: [BiShopPing] Ping return at 1735686.
+20191228-103927<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[28688] LastFrame[28147] NewFrame[28688]
+20191228-103927<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1744345
+20191228-103939<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[28893] LastFrame[28532] NewFrame[28893]
+20191228-103939<INFO :0xf77d0950>: [BiShopPing] Ping return at 1755739.
+20191228-103940<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-103953<INFO :0xf77d0950>: [Frame debug] Frame 29160
+20191228-103957<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[29229] LastFrame[28688] NewFrame[29229]
+20191228-103957<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1774388
+20191228-103959<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[29254] LastFrame[28893] NewFrame[29254]
+20191228-103959<INFO :0xf77d0950>: [BiShopPing] Ping return at 1775787.
+20191228-104009<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-104019<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[29615] LastFrame[29254] NewFrame[29615]
+20191228-104019<INFO :0xf77d0950>: [BiShopPing] Ping return at 1795840.
+20191228-104027<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[29770] LastFrame[29229] NewFrame[29770]
+20191228-104027<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1804424
+20191228-104039<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[29976] LastFrame[29615] NewFrame[29976]
+20191228-104039<INFO :0xf77d0950>: [BiShopPing] Ping return at 1815900.
+20191228-104057<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[30311] LastFrame[29770] NewFrame[30311]
+20191228-104057<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1834468
+20191228-104059<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[30337] LastFrame[29976] NewFrame[30337]
+20191228-104059<INFO :0xf77d0950>: [BiShopPing] Ping return at 1835940.
+20191228-104119<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[30698] LastFrame[30337] NewFrame[30698]
+20191228-104119<INFO :0xf77d0950>: [BiShopPing] Ping return at 1855998.
+20191228-104127<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[30852] LastFrame[30311] NewFrame[30852]
+20191228-104127<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1864506
+20191228-104139<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[31059] LastFrame[30698] NewFrame[31059]
+20191228-104139<INFO :0xf77d0950>: [BiShopPing] Ping return at 1876044.
+20191228-104148<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-104157<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[31393] LastFrame[30852] NewFrame[31393]
+20191228-104157<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1894546
+20191228-104159<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[31420] LastFrame[31059] NewFrame[31420]
+20191228-104159<INFO :0xf77d0950>: [BiShopPing] Ping return at 1896086.
+20191228-104219<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[31781] LastFrame[31420] NewFrame[31781]
+20191228-104219<INFO :0xf77d0950>: [BiShopPing] Ping return at 1916131.
+20191228-104227<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[31934] LastFrame[31393] NewFrame[31934]
+20191228-104227<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1924590
+20191228-104239<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[32142] LastFrame[31781] NewFrame[32142]
+20191228-104239<INFO :0xf77d0950>: [BiShopPing] Ping return at 1936144.
+20191228-104253<INFO :0xf77d0950>: [Frame debug] Frame 32400
+20191228-104258<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[32475] LastFrame[31934] NewFrame[32475]
+20191228-104258<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1954633
+20191228-104259<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[32503] LastFrame[32142] NewFrame[32503]
+20191228-104259<INFO :0xf77d0950>: [BiShopPing] Ping return at 1956196.
+20191228-104314<INFO :0xf77d0950>: # PlayerCount in every subworld:
+20191228-104314<INFO :0xf77d0950>: # TotalPlayerCount in this GameSvr : 0.
+20191228-104314<INFO :0xf77d0950>: # TotalPlayerCount in player list : 0.
+20191228-104314<INFO :0xf77d0950>: # TotalNpcCount in npc list : 28911.
+20191228-104314<INFO :0xf77d0950>: # TotalItemCount in item list : 0.
+20191228-104314<WARN :0xf77d0950>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20191228-104319<ERROR:0xf77d0950>: gs ping bishop[result=1], CurFrame[32864] LastFrame[32503] NewFrame[32864]
+20191228-104319<INFO :0xf77d0950>: [BiShopPing] Ping return at 1976241.
+20191228-104328<INFO :0xf77d0950>: gs ping goddess[result=1], CurFrame[33016] LastFrame[32475] NewFrame[33016]
+20191228-104328<INFO :0xf77d0950>: receieve goddess ping reply, goddess time = 1984672

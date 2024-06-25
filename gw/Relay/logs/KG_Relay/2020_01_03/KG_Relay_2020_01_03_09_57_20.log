@@ -1,0 +1,17 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200103-095720<INFO :0xf7461700>: [verify_up2date]...
+20200103-095720<INFO :0xf7461700>: >Current lang is [gb18030]
+20200103-095720<INFO :0xf7461700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200103-095720<INFO :0xf7461700>: >Time duration: 9.808635ms 
+20200103-095720<INFO :0xf7461700>: >
+20200103-095720<INFO :0xf7461700>: >Finish, my exit code is: 0
+20200103-095720<INFO :0xf7461700>: |shell cmd result is 0
+20200103-095720<INFO :0xf7461700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Relay" ] ret=0
+20200103-095720<INFO :0xf7461700>: [verify_up2date] ok
+20200103-095720<INFO :0xf7461700>: [Relay][Version:Nov 14 2014 15:55:12] Begin to start ... ...
+20200103-095720<INFO :0xf7461700>: [KG_Relay] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20200103-095720<INFO :0xf7461700>: [KG_Relay] Loading relay.ini
+20200103-095720<DEBUG:0xf7461700>: KGLOG_PROCESS_ERROR(nRetCode && "Unable read \"[Gmc]:Address\"") at line 118 in _LoadConfig
+20200103-095720<INFO :0xf7461700>: Relay load failed, check your config file !
+20200103-095720<DEBUG:0xf7461700>: KGLOG_PROCESS_ERROR(nRetCode) at line 89 in Init
+20200103-095720<DEBUG:0xf7461700>: KGLOG_PROCESS_ERROR(nRetCode) at line 351 in Init

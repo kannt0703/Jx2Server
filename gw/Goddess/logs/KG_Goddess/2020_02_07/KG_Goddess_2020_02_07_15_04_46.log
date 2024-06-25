@@ -1,0 +1,18 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=156/65536 LastTime=2020-2-6 1:4:26
+20200207-150446<ERROR:0xf53ffb40>: [Group 1 Server 01] There are no data arrive during 135596/120 second, auto disconnect!
+20200207-150446<INFO :0xf53ffb40>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20200207-150446<INFO :0xf53ffb40>: [Group 1 Server 01] Stopped
+20200207-150446<ERROR:0xf5dffb40>: [Group 1 Server 00] There are no data arrive during 135607/120 second, auto disconnect!
+20200207-150446<INFO :0xf5dffb40>: [ServerManager] Server 0 will stop, unlock all role [count=0] 
+20200207-150446<INFO :0xf5dffb40>: [Group 1 Server 00] Stopped
+20200207-150446<INFO :0xf67bfb40>: [ServerManager] RemoteServer from (127.0.0.1:40478) connect ok
+20200207-150446<INFO :0xf67bfb40>: [ServerManager] Accept from (127.0.0.1:40478) SocketStream = 0xf5e00528
+20200207-150446<INFO :0xf67bfb40>: [[Group 1 Server 02]] Server 2 created ok!
+20200207-150446<INFO :0xf49ffb40>: [Group 1 Server 02] Started, service for 127.0.0.1:40478
+20200207-150446<INFO :0xf49ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200207-150446<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5406970)->_LoadTable()
+20200207-150446<DEBUG:0xf49ffb40>: [KGD] (0x0xf5406970)->_LoadTable("fightteam")
+20200207-150446<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5406970)->_LoadTable()
+20200207-150446<DEBUG:0xf49ffb40>: [KGD] (0x0xf5406970)->_LoadTable("playerfightteam")
+20200207-150446<DEBUG:0xf49ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200207-150449<DEBUG:0xf49ffb40>: [Group 1 Server 02] Enter _ping(time=1284986)

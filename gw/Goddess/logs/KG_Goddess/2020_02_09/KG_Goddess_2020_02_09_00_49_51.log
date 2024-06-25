@@ -1,0 +1,505 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Loading KG_Goddess.ini
+20200209-004951<INFO :0xf73be700>: [verify_up2date]...
+20200209-004951<INFO :0xf73be700>: >Current lang is [gb18030]
+20200209-004951<INFO :0xf73be700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200209-004951<INFO :0xf73be700>: >Time duration: 6.851184ms 
+20200209-004951<INFO :0xf73be700>: >
+20200209-004951<INFO :0xf73be700>: >Finish, my exit code is: 0
+20200209-004951<INFO :0xf73be700>: |shell cmd result is 0
+20200209-004951<INFO :0xf73be700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20200209-004951<INFO :0xf73be700>: [verify_up2date] ok
+20200209-004951<INFO :0xf73be700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Initializing role database ...
+20200209-004951<INFO :0xf73be700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-004951<DEBUG:0xf73be700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-004951<DEBUG:0xf73be700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9ed7ff0)->_LoadTable()
+20200209-004951<DEBUG:0xf73be700>: [KGD] (0x0x9ed7ff0)->_LoadTable("fightteam")
+20200209-004951<DEBUG:0xf73be700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9ed7ff0)->_LoadTable()
+20200209-004951<DEBUG:0xf73be700>: [KGD] (0x0x9ed7ff0)->_LoadTable("playerfightteam")
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Initializing role statistic ...
+20200209-004951<INFO :0xf73be700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20200209-004951<INFO :0xf73be700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Initializing server manager ...
+20200209-004951<INFO :0xf73be700>: [ServerManager] Listening at 127.0.0.1:5001
+20200209-004951<INFO :0xf73be700>: [KG_Goddess] Started successful
+20200209-004954<INFO :0xf6732b40>: [ServerManager] RemoteServer from (127.0.0.1:60672) connect ok
+20200209-004954<INFO :0xf6732b40>: [ServerManager] Accept from (127.0.0.1:60672) SocketStream = 0xf5e00528
+20200209-004954<INFO :0xf6732b40>: [[Group 1 Server 00]] Server 0 created ok!
+20200209-004954<INFO :0xf5dffb40>: [Group 1 Server 00] Started, service for 127.0.0.1:60672
+20200209-004954<INFO :0xf5dffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-004954<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200209-004954<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("fightteam")
+20200209-004954<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20200209-004954<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("playerfightteam")
+20200209-004954<DEBUG:0xf5dffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-005007<INFO :0xf6732b40>: [ServerManager] RemoteServer from (127.0.0.1:40059) connect ok
+20200209-005007<INFO :0xf6732b40>: [ServerManager] Accept from (127.0.0.1:40059) SocketStream = 0xf5e00a30
+20200209-005007<INFO :0xf6732b40>: [[Group 1 Server 01]] Server 1 created ok!
+20200209-005007<INFO :0xf53ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:40059
+20200209-005007<INFO :0xf53ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-005007<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200209-005007<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("fightteam")
+20200209-005007<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20200209-005007<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("playerfightteam")
+20200209-005007<DEBUG:0xf53ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-005007<INFO :0xf53ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20200209-005007<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20200209-005007<DEBUG:0xf53ffb40>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20200209-005007<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20200209-005013<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=97885)
+20200209-005034<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=117917)
+20200209-005037<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=120793)
+20200209-005052<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an"
+20200209-005052<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an) uRoleCount=1 nResult=1
+20200209-005057<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200209-005057<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=1 nResult=1
+20200209-005059<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "zzzzzzzz" nResult=1
+20200209-005102<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "ioNaruto" nResult=1
+20200209-005102<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" locked by Server 01
+20200209-005102<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=zzzzzzzz, Lock=1) nResult=1
+20200209-005104<DEBUG:0xf53ffb40>: [ServerManager] Role "ioNaruto" locked by Server 01
+20200209-005104<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=ioNaruto, Lock=1) nResult=1
+20200209-005122<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=165661)
+20200209-005134<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=177784)
+20200209-005142<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=185676)
+20200209-005157<DEBUG:0xf53ffb40>: [ServerManager] Role "zzzzzzzz" unlocked by Server 1
+20200209-005157<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[zzzzzzzz], LeaveFlag = 1 nResult=1
+20200209-005200<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200209-005200<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=1 nResult=1
+20200209-005213<INFO :0xf5dffb40>: [Group 1 Server 00] { an1 } Create role "aNgaMi"
+20200209-005213<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _create_role(an1.aNgaMi) nResult=1
+20200209-005215<DEBUG:0xf53ffb40>: [ServerManager] Role "aNgaMi" locked by Server 01
+20200209-005215<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=aNgaMi, Lock=1) nResult=1
+20200209-005222<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an3"
+20200209-005222<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an3) uRoleCount=0 nResult=1
+20200209-005234<INFO :0xf5dffb40>: [Group 1 Server 00] { an3 } Create role "Trangaaa"
+20200209-005234<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _create_role(an3.Trangaaa) nResult=1
+20200209-005236<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" locked by Server 01
+20200209-005236<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Trangaaa, Lock=1) nResult=1
+20200209-005253<DEBUG:0xf53ffb40>: [ServerManager] Role "aNgaMi" unlocked by Server 1
+20200209-005253<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[aNgaMi], LeaveFlag = 1 nResult=1
+20200209-005254<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=257557)
+20200209-005255<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200209-005255<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=2 nResult=1
+20200209-005315<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=278488)
+20200209-005323<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=286274)
+20200209-005329<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" unlocked by Server 1
+20200209-005329<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 1 nResult=1
+20200209-005331<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an3"
+20200209-005331<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an3) uRoleCount=1 nResult=1
+20200209-005333<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "aNgaMi" nResult=1
+20200209-005335<DEBUG:0xf53ffb40>: [ServerManager] Role "aNgaMi" locked by Server 01
+20200209-005335<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=aNgaMi, Lock=1) nResult=1
+20200209-005336<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "Trangaaa" nResult=1
+20200209-005338<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" locked by Server 01
+20200209-005338<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Trangaaa, Lock=1) nResult=1
+20200209-005345<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" unlocked by Server 1
+20200209-005345<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 1 nResult=1
+20200209-005347<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an3"
+20200209-005347<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an3) uRoleCount=1 nResult=1
+20200209-005348<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "Trangaaa" nResult=1
+20200209-005351<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" locked by Server 01
+20200209-005351<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Trangaaa, Lock=1) nResult=1
+20200209-005408<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=331676)
+20200209-005419<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" unlocked by Server 1
+20200209-005419<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 1 nResult=1
+20200209-005422<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an3"
+20200209-005422<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an3) uRoleCount=1 nResult=1
+20200209-005424<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "Trangaaa" nResult=1
+20200209-005426<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" locked by Server 01
+20200209-005426<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Trangaaa, Lock=1) nResult=1
+20200209-005444<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=367196)
+20200209-005456<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=379115)
+20200209-005504<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=387219)
+20200209-005524<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=407234)
+20200209-005526<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=409123)
+20200209-005544<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=427251)
+20200209-005556<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=439143)
+20200209-005604<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=447268)
+20200209-005624<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=467284)
+20200209-005626<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=469219)
+20200209-005644<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=487311)
+20200209-005656<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=499297)
+20200209-005704<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=507336)
+20200209-005724<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=527366)
+20200209-005726<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=529526)
+20200209-005744<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=547380)
+20200209-005756<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=559587)
+20200209-005804<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=567400)
+20200209-005824<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=587429)
+20200209-005826<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=589632)
+20200209-005844<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=607444)
+20200209-005856<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=619690)
+20200209-005904<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=627476)
+20200209-005924<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=647497)
+20200209-005926<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=649737)
+20200209-005944<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=667516)
+20200209-005956<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=679787)
+20200209-010004<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=687543)
+20200209-010023<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010023<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010024<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010024<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010024<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=707560)
+20200209-010024<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010025<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010025<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010026<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010026<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010026<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010027<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010027<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010028<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010028<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010029<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010029<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-010044<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=727583)
+20200209-010059<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=742452)
+20200209-010104<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=747602)
+20200209-010124<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=767623)
+20200209-010129<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=772501)
+20200209-010144<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=787647)
+20200209-010159<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=802552)
+20200209-010204<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=807670)
+20200209-010224<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=827687)
+20200209-010229<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=832614)
+20200209-010244<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=847708)
+20200209-010259<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=862667)
+20200209-010304<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=867732)
+20200209-010324<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=887758)
+20200209-010329<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=892717)
+20200209-010344<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=907780)
+20200209-010359<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=922770)
+20200209-010404<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=927796)
+20200209-010424<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=947810)
+20200209-010429<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=952820)
+20200209-010444<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=967834)
+20200209-010459<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=982869)
+20200209-010504<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=987851)
+20200209-010524<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1007877)
+20200209-010530<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1012921)
+20200209-010544<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1027892)
+20200209-010600<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1042981)
+20200209-010603<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 0 nResult=1
+20200209-010605<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1047913)
+20200209-010625<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1067928)
+20200209-010633<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1076581)
+20200209-010645<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1087955)
+20200209-010703<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1106635)
+20200209-010705<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1107980)
+20200209-010725<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1127997)
+20200209-010733<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1136687)
+20200209-010745<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1148022)
+20200209-010803<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1166746)
+20200209-010805<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1168039)
+20200209-010825<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1188072)
+20200209-010833<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1196791)
+20200209-010834<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[aNgaMi], LeaveFlag = 0 nResult=1
+20200209-010845<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1208090)
+20200209-010904<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1227011)
+20200209-010905<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1228109)
+20200209-010925<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1248129)
+20200209-010934<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1257062)
+20200209-010945<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1268149)
+20200209-011004<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1287110)
+20200209-011005<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1288167)
+20200209-011025<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1308190)
+20200209-011034<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1317165)
+20200209-011045<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1328215)
+20200209-011104<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1347215)
+20200209-011105<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1348233)
+20200209-011125<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1368260)
+20200209-011134<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1377277)
+20200209-011145<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1388284)
+20200209-011204<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1407330)
+20200209-011205<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1408305)
+20200209-011225<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1428322)
+20200209-011234<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1437382)
+20200209-011245<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1448347)
+20200209-011304<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1467432)
+20200209-011305<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1468366)
+20200209-011325<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1488388)
+20200209-011334<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1497485)
+20200209-011345<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1508407)
+20200209-011404<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1527535)
+20200209-011405<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1528428)
+20200209-011425<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1548440)
+20200209-011434<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1557596)
+20200209-011445<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1568466)
+20200209-011504<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1587645)
+20200209-011505<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1588477)
+20200209-011525<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1608493)
+20200209-011529<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-011545<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1628513)
+20200209-011559<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1642415)
+20200209-011605<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1648535)
+20200209-011625<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1668556)
+20200209-011629<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1672467)
+20200209-011645<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1688575)
+20200209-011659<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1702526)
+20200209-011705<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1708596)
+20200209-011725<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1728617)
+20200209-011729<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1732580)
+20200209-011745<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1748637)
+20200209-011759<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1762634)
+20200209-011805<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1768658)
+20200209-011825<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1788677)
+20200209-011829<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1792684)
+20200209-011845<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1808693)
+20200209-011859<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1822735)
+20200209-011905<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1828720)
+20200209-011925<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1848745)
+20200209-011929<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1852791)
+20200209-011945<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1868766)
+20200209-012000<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1882841)
+20200209-012005<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1888789)
+20200209-012025<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1908809)
+20200209-012030<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1912898)
+20200209-012045<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1928829)
+20200209-012100<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1942954)
+20200209-012103<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 0 nResult=1
+20200209-012106<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1948846)
+20200209-012126<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1968873)
+20200209-012133<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=1976563)
+20200209-012146<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=1988892)
+20200209-012203<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2006612)
+20200209-012206<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2008912)
+20200209-012226<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2028930)
+20200209-012233<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2036662)
+20200209-012246<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2048953)
+20200209-012303<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2066719)
+20200209-012306<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2068967)
+20200209-012326<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2088985)
+20200209-012333<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2096767)
+20200209-012334<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[aNgaMi], LeaveFlag = 0 nResult=1
+20200209-012346<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2109006)
+20200209-012404<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2126993)
+20200209-012406<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2129033)
+20200209-012426<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2149045)
+20200209-012434<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2157044)
+20200209-012446<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2169066)
+20200209-012504<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2187097)
+20200209-012506<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2189086)
+20200209-012526<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2209106)
+20200209-012534<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2217149)
+20200209-012546<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2229133)
+20200209-012604<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2247206)
+20200209-012606<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2249147)
+20200209-012626<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2269173)
+20200209-012634<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2277255)
+20200209-012646<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2289193)
+20200209-012704<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2307307)
+20200209-012706<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2309218)
+20200209-012726<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2329233)
+20200209-012734<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2337363)
+20200209-012746<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2349257)
+20200209-012804<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2367419)
+20200209-012806<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2369277)
+20200209-012826<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2389301)
+20200209-012834<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2397472)
+20200209-012846<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2409318)
+20200209-012904<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2427521)
+20200209-012906<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2429338)
+20200209-012926<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2449367)
+20200209-012934<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2457573)
+20200209-012946<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2469381)
+20200209-013004<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2487627)
+20200209-013006<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2489403)
+20200209-013026<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2509427)
+20200209-013029<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-013046<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2529452)
+20200209-013059<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2542399)
+20200209-013106<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2549476)
+20200209-013126<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2569497)
+20200209-013129<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2572448)
+20200209-013146<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2589518)
+20200209-013159<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2602507)
+20200209-013206<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2609536)
+20200209-013226<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2629556)
+20200209-013229<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2632554)
+20200209-013246<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2649577)
+20200209-013259<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2662616)
+20200209-013306<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2669600)
+20200209-013326<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2689625)
+20200209-013329<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2692666)
+20200209-013346<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2709647)
+20200209-013359<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2722717)
+20200209-013406<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2729660)
+20200209-013426<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2749684)
+20200209-013430<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2752775)
+20200209-013446<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2769699)
+20200209-013500<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2782826)
+20200209-013506<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2789719)
+20200209-013526<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2809737)
+20200209-013530<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2812878)
+20200209-013546<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2829753)
+20200209-013600<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2842933)
+20200209-013603<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 0 nResult=1
+20200209-013607<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2849772)
+20200209-013627<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2869789)
+20200209-013633<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2876537)
+20200209-013647<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2889816)
+20200209-013703<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2906590)
+20200209-013707<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2909834)
+20200209-013727<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2929856)
+20200209-013733<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2936646)
+20200209-013747<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2949879)
+20200209-013803<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2966699)
+20200209-013807<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2969892)
+20200209-013827<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=2989915)
+20200209-013834<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=2996744)
+20200209-013834<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[aNgaMi], LeaveFlag = 0 nResult=1
+20200209-013847<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3009936)
+20200209-013904<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3026971)
+20200209-013907<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3029959)
+20200209-013927<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3049980)
+20200209-013934<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3057024)
+20200209-013947<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3069996)
+20200209-014004<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3087070)
+20200209-014007<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3090017)
+20200209-014027<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3110038)
+20200209-014034<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3117126)
+20200209-014047<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3130060)
+20200209-014104<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3147177)
+20200209-014107<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3150091)
+20200209-014127<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3170107)
+20200209-014134<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3177232)
+20200209-014147<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3190126)
+20200209-014204<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3207290)
+20200209-014207<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3210146)
+20200209-014227<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3230167)
+20200209-014234<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3237337)
+20200209-014247<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3250190)
+20200209-014304<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3267391)
+20200209-014307<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3270204)
+20200209-014327<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3290226)
+20200209-014334<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3297444)
+20200209-014347<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3310249)
+20200209-014404<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3327495)
+20200209-014407<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3330267)
+20200209-014427<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3350288)
+20200209-014434<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3357555)
+20200209-014447<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3370310)
+20200209-014504<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3387606)
+20200209-014507<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3390336)
+20200209-014527<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3410353)
+20200209-014529<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-014538<DEBUG:0xf53ffb40>: [ServerManager] Role "aNgaMi" unlocked by Server 1
+20200209-014538<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an1].[aNgaMi], LeaveFlag = 1 nResult=1
+20200209-014541<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an1"
+20200209-014541<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an1) uRoleCount=2 nResult=1
+20200209-014601<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3444154)
+20200209-014608<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3451432)
+20200209-014615<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an4"
+20200209-014615<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an4) uRoleCount=0 nResult=1
+20200209-014629<INFO :0xf5dffb40>: [Group 1 Server 00] { an4 } Create role "DGCnee"
+20200209-014629<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _create_role(an4.DGCnee) nResult=1
+20200209-014631<DEBUG:0xf53ffb40>: [ServerManager] Role "DGCnee" locked by Server 01
+20200209-014631<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=DGCnee, Lock=1) nResult=1
+20200209-014649<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3492300)
+20200209-014653<DEBUG:0xf53ffb40>: [ServerManager] Role "DGCnee" unlocked by Server 1
+20200209-014653<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an4].[DGCnee], LeaveFlag = 1 nResult=1
+20200209-014655<INFO :0xf5dffb40>: [Group 1 Server 00] Query roles list of account "an4"
+20200209-014655<DEBUG:0xf5dffb40>: [Group 1 Server 00] Leave _query_role_list(an4) uRoleCount=1 nResult=1
+20200209-014657<INFO :0xf5dffb40>: [Group 1 Server 00] Get role "DGCnee" nResult=1
+20200209-014658<DEBUG:0xf53ffb40>: [ServerManager] Role "DGCnee" locked by Server 01
+20200209-014658<DEBUG:0xf53ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=DGCnee, Lock=1) nResult=1
+20200209-014717<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3520169)
+20200209-014728<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3531536)
+20200209-014737<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3540194)
+20200209-014757<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3560209)
+20200209-014758<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3561586)
+20200209-014817<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3580226)
+20200209-014828<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3591647)
+20200209-014837<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3600248)
+20200209-014857<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3620276)
+20200209-014859<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3621691)
+20200209-014917<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3640290)
+20200209-014929<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3651753)
+20200209-014937<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3660310)
+20200209-014957<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3680329)
+20200209-014959<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3681805)
+20200209-015017<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3700349)
+20200209-015028<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3710908)
+20200209-015037<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3720368)
+20200209-015057<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3740399)
+20200209-015058<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3740965)
+20200209-015102<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 0 nResult=1
+20200209-015117<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3760420)
+20200209-015132<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3775569)
+20200209-015137<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3780436)
+20200209-015157<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3800455)
+20200209-015202<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3805624)
+20200209-015217<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3820483)
+20200209-015233<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3835683)
+20200209-015237<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3840498)
+20200209-015257<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3860524)
+20200209-015303<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3865735)
+20200209-015317<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3880548)
+20200209-015333<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3895779)
+20200209-015337<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3900558)
+20200209-015357<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3920583)
+20200209-015403<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3925841)
+20200209-015417<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3940607)
+20200209-015433<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3955886)
+20200209-015437<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3960631)
+20200209-015457<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=3980655)
+20200209-015503<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=3985943)
+20200209-015518<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4000681)
+20200209-015533<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4015998)
+20200209-015538<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4020701)
+20200209-015558<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4040718)
+20200209-015603<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4046047)
+20200209-015618<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4060744)
+20200209-015633<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4076099)
+20200209-015638<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4080766)
+20200209-015658<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4100790)
+20200209-015703<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4106157)
+20200209-015718<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4120814)
+20200209-015733<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4136210)
+20200209-015738<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4140831)
+20200209-015751<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an4].[DGCnee], LeaveFlag = 0 nResult=1
+20200209-015752<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an4].[DGCnee], LeaveFlag = 0 nResult=1
+20200209-015758<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4160850)
+20200209-015818<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4180883)
+20200209-015822<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4184692)
+20200209-015838<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4200903)
+20200209-015852<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4214740)
+20200209-015858<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4220924)
+20200209-015918<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4240943)
+20200209-015922<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4244792)
+20200209-015938<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4260957)
+20200209-015952<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4274844)
+20200209-015958<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4280980)
+20200209-020018<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4301001)
+20200209-020022<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4304902)
+20200209-020028<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 0 nResult=1
+20200209-020038<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4321028)
+20200209-020058<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4341042)
+20200209-020058<DEBUG:0xf53ffb40>: [Group 1 Server 01] Enter _ping(time=4341391)
+20200209-020118<DEBUG:0xf5dffb40>: [Group 1 Server 00] Enter _ping(time=4361063)
+20200209-020118<DEBUG:0xf53ffb40>: [ServerManager] Role "DGCnee" unlocked by Server 1
+20200209-020118<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an4].[DGCnee], LeaveFlag = 1 nResult=1
+20200209-020118<DEBUG:0xf53ffb40>: [ServerManager] Role "Trangaaa" unlocked by Server 1
+20200209-020118<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an3].[Trangaaa], LeaveFlag = 1 nResult=1
+20200209-020118<DEBUG:0xf53ffb40>: [ServerManager] Role "ioNaruto" unlocked by Server 1
+20200209-020118<INFO :0xf53ffb40>: [Group 1 Server 01] Save role end [an].[ioNaruto], LeaveFlag = 1 nResult=1
+20200209-152033<ERROR:0xf5dffb40>: [Group 1 Server 00] There are no data arrive during 47955/120 second, auto disconnect!
+20200209-152033<INFO :0xf5dffb40>: [ServerManager] Server 0 will stop, unlock all role [count=0] 
+20200209-152033<INFO :0xf5dffb40>: [Group 1 Server 00] Stopped
+20200209-152033<ERROR:0xf53ffb40>: [Group 1 Server 01] There are no data arrive during 47955/120 second, auto disconnect!
+20200209-152033<INFO :0xf53ffb40>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20200209-152033<INFO :0xf53ffb40>: [Group 1 Server 01] Stopped
+20200209-152033<INFO :0xf6732b40>: [ServerManager] RemoteServer from (127.0.0.1:52065) connect ok
+20200209-152033<INFO :0xf6732b40>: [ServerManager] Accept from (127.0.0.1:52065) SocketStream = 0xf5e00a30
+20200209-152033<INFO :0xf6732b40>: [[Group 1 Server 02]] Server 2 created ok!
+20200209-152033<INFO :0xf49ffb40>: [Group 1 Server 02] Started, service for 127.0.0.1:52065
+20200209-152033<INFO :0xf49ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152033<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a06970)->_LoadTable()
+20200209-152033<DEBUG:0xf49ffb40>: [KGD] (0x0xf4a06970)->_LoadTable("fightteam")
+20200209-152033<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a06970)->_LoadTable()
+20200209-152033<DEBUG:0xf49ffb40>: [KGD] (0x0xf4a06970)->_LoadTable("playerfightteam")
+20200209-152033<DEBUG:0xf49ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1

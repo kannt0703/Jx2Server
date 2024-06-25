@@ -1,0 +1,13 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200104-214014<INFO :0xf73d1700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20200104-214014<INFO :0xf73d1700>: Data OK! Current max Service ID is: 2318756
+20200104-214425<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong4.Demooooo dwCRC=C9E75254/C9E75254 nResult=1
+20200104-214445<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong4.Demooooo dwCRC=D904E92B/D904E92B nResult=1
+20200104-214545<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong4.Demooooo dwCRC=3CA16AC6/3CA16AC6 nResult=1
+20200104-214903<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong4.Demooooo dwCRC=1B97FC23/1B97FC23 nResult=1
+20200104-214907<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong2.12312312312312 dwCRC=44C24095/44C24095 nResult=1
+20200104-214947<INFO :0xf5dffb40>: [PlayerCreator] Created role TungTra, ServerID=2318756
+20200104-215012<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong3.TungTra dwCRC=331951AD/331951AD nResult=1
+20200104-215314<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong3.TungTra dwCRC=ECD4903E/ECD4903E nResult=1
+20200104-215359<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong3.TungTra dwCRC=9A979382/9A979382 nResult=1
+20200104-215609<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData thuong3.TungTra dwCRC=672240A9/672240A9 nResult=1

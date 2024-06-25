@@ -1,0 +1,882 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65535 LastTime=1900-1-0 0:0:0
+20200125-193526<INFO :0xf73fc700>: [GameSvr][Version:Nov 14 2014 15:55:00] begin start up...
+20200125-193526<INFO :0xf73fc700>: Succeeded in loading version.ini. Lower Version:341 Upper Version:345
+20200125-193526<INFO :0xf73fc700>: [verify_up2date]...
+20200125-193526<INFO :0xf73fc700>: >Current lang is [gb18030]
+20200125-193526<INFO :0xf73fc700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200125-193526<INFO :0xf73fc700>: >Time duration: 7.521504ms 
+20200125-193526<INFO :0xf73fc700>: >
+20200125-193526<INFO :0xf73fc700>: >Finish, my exit code is: 0
+20200125-193526<INFO :0xf73fc700>: |shell cmd result is 0
+20200125-193526<INFO :0xf73fc700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gs" ] ret=0
+20200125-193526<INFO :0xf73fc700>: [verify_up2date] ok
+20200125-193526<INFO :0xf73fc700>: This ServerIP : 127.0.0.1 : 192.168.1.8
+20200125-193526<INFO :0xf73fc700>: [GameServer Type] RealmType=0, IsMatchRealm=0
+20200125-193526<INFO :0xf73fc700>: IS_KINGSOFT_INNER_VERSION=0|0
+20200125-193526<INFO :0xf73fc700>: IS_EXP_SVR=0|0
+20200125-193526<ERROR:0xf73fc700>: SetSpecialSwitch(Index=3,bOpen=1,AccessCode=1024232298) ok, result=1
+20200125-193526<INFO :0xf73fc700>: [GameServer] ServerCount=1, ServerIndex=1
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarDefaultCriticalHitRate=5
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMinCriticalHitRate=0
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMaxCriticalHitRate=50
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarDefaultCriticalHitDamageAddPct=10
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMinCriticalHitDamageAddPct=0
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMaxCriticalHitDamageAddPct=300
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarPlayerDogeParaA=5
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarPlayerDogeParaB=5
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMinHitRatePlayer=75
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMaxHitRatePlayer=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarNpcDogeParaA=10
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarNpcDogeParaB=10
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMinHitRateNpc=50
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarMaxHitRateNpc=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarTransLife2DogePara=10000
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarLevel2DogePara=1000
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarStrength2DogePara=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarDesterity2DogePara=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarEnergy2DogePara=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarVitality2DogePara=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarObserve2DogePara=100
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarTransLife2HitPara=8500
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarLevel2HitPara=850
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarStrength2HitPara=85
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarDesterity2HitPara=85
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarEnergy2HitPara=85
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarVitality2HitPara=85
+20200125-193526<INFO :0xf73fc700>: [GlovalVariable] gblvarObserve2HitPara=85
+20200125-193526<INFO :0xf73fc700>: [CustomAward] 174 lines loaded from [\settings\item\custom_award\custom_award_group.txt]
+20200125-193526<INFO :0xf73fc700>: [CustomAward] 1502 lines loaded from \settings\item\custom_award\custom_award_list.txt
+20200125-193526<INFO :0xf73fc700>: [CustomAward] 16 lines loaded from \settings\item\custom_award\custom_consume_list.txt
+20200125-193526<INFO :0xf73fc700>: [CustomAward] total AwardId=1502/1518/65534
+20200125-193526<INFO :0xf73fc700>: [CustomAward] RandSeed = 865015179
+20200125-193528<ERROR:0xf73fc700>: Skill	Unexpected Skill ID 1261 at row SkillSet22, section SkillStateMutex of file \settings\skill\skill_mutex.ini!
+20200125-193528<ERROR:0xf73fc700>: Skill	Unexpected Skill ID 1202 at row SkillSet20, section SkillCDShare of file \settings\skill\skill_mutex.ini!
+20200125-193528<INFO :0xf73fc700>: Loading All Scripts....................
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [3/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [5/1365] packed script file (\settings\static_script\vip_feedback_system\ib_consumme_level.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [11/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap3.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [12/1365] packed script file (\settings\static_script\missions\hunduantongtianding\head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [14/1365] packed script file (\settings\static_script\online\olympic\oly_define.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [16/1365] packed script file (\settings\static_script\meridian\meridian_level_update_4.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [21/1365] packed script file (\settings\static_script\meridian\meridian_level_update_3.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [29/1365] packed script file (\settings\static_script\lib\item_define.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [33/1365] packed script file (\settings\static_script\kf_newbattles\battle_medicine_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [36/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap2.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [40/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\shaqi_box.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [42/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\resourcebattle_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [43/1365] packed script file (\settings\static_script\exchg_server\exchange_server_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [45/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [47/1365] packed script file (\settings\static_script\meridian\meridian_level_update_2.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [51/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap1.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [65/1365] packed script file (\settings\static_script\global\regular_clear_task_byapp.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [68/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mainbattle_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [70/1365] packed script file (\settings\static_script\meridian\meridian_level_update_1.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [75/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\refugee_receive_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [88/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\targetnpc_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [97/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap6.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [99/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\jt_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [111/1365] packed script file (\settings\static_script\misc\observer\observer_ksg_reg.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [112/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_primary_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [113/1365] packed script file (\settings\static_script\meridian\meridian_level_update_6.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [114/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\position.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [118/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [119/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap5.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [122/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_monster.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [123/1365] packed script file (\settings\static_script\kf_newbattles\battleaward.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [125/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\resource_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [126/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap4.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [128/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_front.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [145/1365] packed script file (\settings\static_script\meridian\meridian_level_update_5.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [166/1365] packed script file (\settings\static_script\vip_feedback_system\yinjuan_api.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [174/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\quartermaster_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [182/1365] packed script file (\settings\static_script\exchg_server\exchange_paycoin_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [183/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_louluo_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [194/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\trap.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [195/1365] packed script file (\settings\static_script\online\olympic\oly_award_table.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [205/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\knowmandeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [213/1365] packed script file (\settings\static_script\exchg_server\exchange_server_func.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [239/1365] packed script file (\settings\static_script\kf_newbattles\battlestatistic.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [241/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\box_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [250/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\emplacement_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [251/1365] packed script file (\settings\static_script\kf_newbattles\liao_primary_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [259/1365] packed script file (\settings\static_script\global\tonginfo_task.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [263/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\trigger.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [274/1365] packed script file (\settings\static_script\global\everyday_do.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [284/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\boss_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [285/1365] packed script file (\settings\static_script\meridian\meridian_title.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [320/1365] packed script file (\settings\static_script\missions\base\tmission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [323/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\npc_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [335/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\hoe_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [347/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\position.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [348/1365] packed script file (\settings\static_script\missions\base\missionaward_equip_tbl.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [349/1365] packed script file (\settings\static_script\kf_newbattles\battleactivity_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [354/1365] packed script file (\settings\static_script\gem\imp_item_gem_box.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [359/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\box_jingli.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [360/1365] packed script file (\settings\static_script\kf_newbattles\functions.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [362/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\mission_award.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [369/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\position.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [374/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_jiaoguan.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [390/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [393/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong3.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [400/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\villagebattle_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [401/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\emplacementbattle_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [402/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\header_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [412/1365] packed script file (\settings\static_script\gem\imp_npc_gem.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [438/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_header_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [450/1365] packed script file (\settings\static_script\kf_newbattles\trigger.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [459/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [467/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\druggist_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [472/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\trap.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [478/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\drum_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [482/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\player_cheat_op.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [492/1365] packed script file (\settings\static_script\kf_newbattles\battle_book_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [494/1365] packed script file (\settings\static_script\lib\floyd.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [495/1365] packed script file (\settings\static_script\cheat\gm_item_tifuzhiyin.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [503/1365] packed script file (\settings\static_script\meridian\meridian_level_update_condition.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [521/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [523/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\refugee_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [527/1365] packed script file (\settings\static_script\server_script.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [529/1365] packed script file (\settings\static_script\meridian\item_meridian_restore.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [541/1365] packed script file (\settings\static_script\kf_newbattles\quartermaster_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [543/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [544/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [545/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [547/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [562/1365] packed script file (\settings\static_script\missions\hunduantongtianding\player_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [571/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\playerdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [574/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [575/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\playerdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [579/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_define.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [588/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\playerdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [593/1365] packed script file (\settings\static_script\online\qianhe_tower\qht_define.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [598/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [603/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong2.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [608/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong1.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [617/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\flag_item.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [626/1365] packed script file (\settings\static_script\missions\hunduantongtianding\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [628/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [634/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [641/1365] packed script file (\settings\static_script\meridian\meridian_level_update.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [644/1365] packed script file (\settings\static_script\meridian\item_silingguiyuandan.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [648/1365] packed script file (\settings\static_script\misc\missionaward.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [662/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [663/1365] packed script file (\settings\static_script\meridian\item_peiyuandan.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [667/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [669/1365] packed script file (\settings\static_script\global\regular_clear_task.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [681/1365] packed script file (\settings\static_script\meridian\item_xichendan_imp.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [686/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [697/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [702/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\targetnpcdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [713/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_royal_road.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [714/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [720/1365] packed script file (\settings\static_script\misc\autocleaner\autocleaner_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [739/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\trap_royal_road.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [743/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\npc_caiji.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [746/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\trap.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [751/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\mission\timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [754/1365] packed script file (\settings\static_script\lib\teamfunctions.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [770/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [781/1365] packed script file (\settings\static_script\kf_newbattles\box_effect_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [782/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\playerdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [794/1365] packed script file (\settings\static_script\meridian\npc_meridian_level_update.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [806/1365] packed script file (\settings\static_script\missions\hunduantongtianding\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [809/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\refugee_talk_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [815/1365] packed script file (\settings\static_script\runtime_data_stat\runtime_game_data_stat.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [816/1365] packed script file (\settings\static_script\missions\base\missionbase.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [820/1365] packed script file (\settings\static_script\exchg_server\exchgsvr_player_login.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [827/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [831/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_item_drug.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [833/1365] packed script file (\settings\static_script\missions\base\runtime_data_stat.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [834/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [841/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\assistant_hirer_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [842/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\maingeneral_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [846/1365] packed script file (\settings\static_script\item\item_jungongzhang_exchg_imp.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [902/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_jungong_or_junxian.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [909/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\playerdeath.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [912/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_smatianmensuipian.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [928/1365] packed script file (\settings\static_script\kf_newbattles\systemtimemessage\sub_battle_signup.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [934/1365] packed script file (\settings\static_script\online\general_award_group.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [935/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [943/1365] packed script file (\settings\static_script\missions\base\mission_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [945/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_main.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [946/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\wrx_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [949/1365] packed script file (\settings\static_script\meridian\meridian_zhenqi_transmission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [955/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\angryvillager_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [963/1365] packed script file (\settings\static_script\missions\base\phasebase.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [964/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\npc_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [969/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\anti_cheat\palyer_cheat_detect.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [975/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\environmentalist_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [976/1365] packed script file (\settings\static_script\missions\base\tstage.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [981/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_tong.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [983/1365] packed script file (\settings\static_script\global\merit.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [991/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trigger.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [994/1365] packed script file (\settings\static_script\missions\hunduantongtianding\ttd_award.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [999/1365] packed script file (\settings\static_script\kf_newbattles\battle_equipment_jungong.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1011/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\box_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1017/1365] packed script file (\settings\static_script\missions\hunduantongtianding\qrs_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1020/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1045/1365] packed script file (\settings\static_script\meridian\meridian_payer_login.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1046/1365] packed script file (\settings\static_script\misc\missionaward_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1064/1365] packed script file (\settings\static_script\lib\tag.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1074/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\soldier_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1086/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\armyguide_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1087/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\cateran_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1099/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\refugee_receive_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1103/1365] packed script file (\settings\static_script\meridian\vet_jihuo_wuzun.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1113/1365] packed script file (\settings\static_script\missions\base\mission_award_base.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1114/1365] packed script file (\settings\static_script\online\qianhe_tower\qht_award_table.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1132/1365] packed script file (\settings\static_script\misc\autocleaner\autocleaner.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1140/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_bigtianmensuipian.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1147/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_npc_kf.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1150/1365] packed script file (\settings\static_script\missions\base\tphase.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1154/1365] packed script file (\settings\static_script\lib\itemfunctions.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1160/1365] packed script file (\settings\static_script\missions\hunduantongtianding\entrynpc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1165/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1167/1365] packed script file (\settings\static_script\kf_newbattles\resourcebattle\mission\sp_timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1170/1365] packed script file (\settings\static_script\kf_newbattles\battlepoint_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1178/1365] packed script file (\settings\static_script\global\weekly_do.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1187/1365] packed script file (\settings\static_script\missions\mission_task\ttd_wjz_task.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1191/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mainbattle_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1192/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\npc_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1202/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\soldier_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1218/1365] packed script file (\settings\static_script\kf_newbattles\systemtimemessage\main_battle_signup.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1227/1365] packed script file (\settings\static_script\vip_feedback_system\vfs_item_sdrug.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1228/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap8.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1233/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_mid.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1237/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap7.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1245/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\mission\injure_timer.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1252/1365] packed script file (\settings\static_script\kf_newbattles\emplacementbattle\box_death.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1254/1365] packed script file (\settings\static_script\global\daily_award_limit_api.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1257/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\trap_back.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1259/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\mission\mission.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1272/1365] packed script file (\settings\static_script\global\bit_task_support.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1276/1365] packed script file (\settings\static_script\missions\hunduantongtianding\wrd_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1278/1365] packed script file (\settings\static_script\missions\hunduantongtianding\item\item_tianmensuipian.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1302/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1304/1365] packed script file (\settings\static_script\kf_newbattles\head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1306/1365] packed script file (\settings\static_script\meridian\item_julingwan.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1307/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\npc\box_yin.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1315/1365] packed script file (\settings\static_script\misc\data_state\state.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1331/1365] packed script file (\settings\static_script\kf_newbattles\sign_up_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1333/1365] packed script file (\settings\static_script\kf_newbattles\song_primary_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1339/1365] packed script file (\settings\static_script\missions\cangjianshanzhuang\entrynpc.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1342/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle\position.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1344/1365] packed script file (\settings\static_script\kf_newbattles\villagebattle\position.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1354/1365] packed script file (\settings\static_script\lib\val2str.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1355/1365] packed script file (\settings\static_script\item\item_gutianmenbaoxiang.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1356/1365] packed script file (\settings\static_script\missions\hunduantongtianding\trap\trap_head.lua) fail, file maybe in out pack directory****
+20200125-193528<WARN :0xf73fc700>: ****PreOpen [1359/1365] packed script file (\settings\static_script\kf_newbattles\mainbattle_primary\refugee_talk_npc.lua) fail, file maybe in out pack directory****
+20200125-193528<INFO :0xf73fc700>: All Scripts Have Been Loaded! ScriptCount = 8272
+20200125-193530<ERROR:0xf73fc700>: [LoadRandomNpc] [\maps\ÊÀ½çµØÍ¼\ÀÅçð¶´¸®.ini] open failed!!!
+20200125-193531<INFO :0xf73fc700>: 290/400 map(s) has been loaded.
+20200125-193531<ERROR:0xf73fc700>: SetSpecialSwitch(Index=1,bOpen=0,AccessCode=1157247768) ok, result=0
+20200125-193531<ERROR:0xf73fc700>: SetSpecialSwitch(Index=2,bOpen=0,AccessCode=3238223681) ok, result=0
+20200125-193531<WARN :0xf73fc700>: [Load] Invalid template: template ID=472328933l,
+20200125-193531<WARN :0xf73fc700>: load  npc template [0] fail
+20200125-193531<INFO :0xf73fc700>: [SystimeTask] load 96/96 systemtimetasks from {\settings\systemtimetask.txt}
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:24 enhance level:0 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:25 enhance level:1 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:26 enhance level:2 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:27 enhance level:3 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:28 enhance level:4 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:29 enhance level:5 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:30 enhance level:6 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:31 enhance level:7 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:32 enhance level:8 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:33 enhance level:9 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:34 enhance level:10 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:35 enhance level:11 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:36 enhance level:12 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:37 enhance level:13 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:38 enhance level:14 repeat!
+20200125-193532<INFO :0xf73fc700>: [LoadEnhanceCfg] equip_recycle_enhance.txt line:39 enhance level:15 repeat!
+20200125-193532<INFO :0xf73fc700>: start to connect Database, IP: 127.0.0.1 - Port: 5001 ... ok!
+20200125-193532<INFO :0xf73fc700>: start to connect RelayHost, IP: 127.0.0.1 - Port: 5003 ... ok!
+20200125-193532<INFO :0xf73fc700>: start to connect RelayChat, IP: 127.0.0.1 - Port: 5004 ... ok!
+20200125-193532<INFO :0xf73fc700>: start to connect RelayTong, IP: 127.0.0.1 - Port: 5005 ... ok!
+20200125-193532<INFO :0xf73fc700>: start to connect Gateway, IP: 127.0.0.1 - Port: 5633 ... ok!
+20200125-193532<INFO :0xf73fc700>: [verify_up2date] send Goddess|Relay|Router version request...
+20200125-193532<INFO :0xf73fc700>: [GameSvr] start up OK----------.
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=0 send=1/39|1 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame -1] total process 0/0=0 trans message
+20200125-193532<INFO :0xf73fc700>: Start init log database.
+20200125-193532<INFO :0xf73fc700>: Init log database end.
+20200125-193532<INFO :0xf73fc700>: [verify_up2date] VerifyUp2dateVersion: Server=Goddess code=8DA68FCD need=8DA68FCD result=1
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=1 send=1/38|2 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=2 send=1/37|3 avg=0 
+20200125-193532<INFO :0xf73fc700>: Recv Bishop time sync(2020-1-25 19:35:32)
+20200125-193532<INFO :0xf73fc700>: [verify_up2date] send Bishop version request...
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=3 send=1/36|4 avg=0 
+20200125-193532<INFO :0xf73fc700>: [SOSever::Breathe] MsgLoop:-501 ,MainLoop:3, TotalMsgLoop:-499, Elapse:3 CurBreathCost:4294966798 BreathCount:4
+20200125-193532<INFO :0xf73fc700>: [verify_up2date] VerifyUp2dateVersion: Server=Bishop code=DCA253A9 need=DCA253A9 result=1
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=4 send=1/35|5 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=5 send=1/34|6 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 0] total process 298/2=59 trans message
+20200125-193532<INFO :0xf73fc700>: [verify_up2date] VerifyUp2dateVersion: Server=Relay code=8DA68FCD need=8DA68FCD result=1
+20200125-193532<DEBUG:0xf73fc700>: [NormalSmallPackPorcess] Received packet MAP_INDEX_INFO from relay
+20200125-193532<INFO :0xf73fc700>: Received map index notification from relay (290 maps)
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=6 send=1/33|7 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=7 send=1/32|8 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 5] total process 2411/10=344 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=8 send=1/31|9 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 7] total process 2471/11=308 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=9 send=1/30|10 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 8] total process 2531/12=281 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=10 send=1/29|11 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=11 send=1/28|12 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 9] total process 2651/14=241 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=12 send=1/27|13 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 11] total process 2711/15=225 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=13 send=1/26|14 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 12] total process 2771/16=213 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=14 send=1/25|15 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 13] total process 2831/17=202 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=15 send=1/24|16 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=16 send=1/23|17 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 14] total process 2951/19=184 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=17 send=1/22|18 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 16] total process 3011/20=177 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=18 send=1/21|19 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 17] total process 3071/21=170 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=19 send=1/20|20 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 18] total process 3261/23=171 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=20 send=1/19|21 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 19] total process 3321/24=166 trans message
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=21 send=1/18|22 avg=0 
+20200125-193532<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 20] total process 3499/26=166 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=22 send=1/17|23 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=23 send=1/16|24 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 21] total process 3559/27=154 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=24 send=1/15|25 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 23] total process 3619/28=150 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=25 send=1/14|26 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 24] total process 3679/29=147 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=26 send=1/13|27 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=27 send=1/12|28 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 25] total process 3799/31=140 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=28 send=1/11|29 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 27] total process 3859/32=137 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=29 send=1/10|30 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 28] total process 3919/33=135 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=30 send=1/9|31 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=31 send=1/8|32 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 29] total process 4039/35=130 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=32 send=1/7|33 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 31] total process 4159/37=129 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=33 send=1/6|34 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=34 send=1/5|35 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 32] total process 4220/38=124 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=35 send=1/4|36 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 34] total process 4281/39=122 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=36 send=1/3|37 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 35] total process 4342/40=120 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=37 send=1/2|38 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 36] total process 4533/42=122 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=38 send=1/1|39 avg=0 
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 37] total process 4594/43=120 trans message
+20200125-193533<DEBUG:0xf73fc700>: [net dbg] [SendNetMsgToTransfer] frame=39 send=1/0|40 avg=0 
+20200125-193534<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 38] total process 4716/45=87 trans message
+20200125-193535<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 54] total process 4846/46=67 trans message
+20200125-193536<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 72] total process 4976/47=55 trans message
+20200125-193537<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 90] total process 5106/48=47 trans message
+20200125-193538<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 108] total process 5236/49=41 trans message
+20200125-193539<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 126] total process 5366/50=37 trans message
+20200125-193540<DEBUG:0xf73fc700>: [net dbg] [TransferMessageProcess] [frame 144] total process 5496/51=33 trans message
+20200125-193552<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[364] LastFrame[3] NewFrame[364]
+20200125-193552<INFO :0xf73fc700>: [BiShopPing] Ping return at 174553.
+20200125-193600<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-193602<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[556] LastFrame[15] NewFrame[556]
+20200125-193602<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 185201
+20200125-193611<INFO :0xf73fc700>: [Gateway Kick] Can't find account an
+20200125-193621<INFO :0xf73fc700>: [LOGIN/OUT] G2B_ROLE_LOGIN_PERMIT permit acc:an role:ioNaruto.
+20200125-193622<INFO :0xf73fc700>: [LOGIN/OUT] connection created ln:0 from 192.168.1.9.
+20200125-193622<INFO :0xf73fc700>: Found player[1] an(ioNaruto) is logging in system!Ip:192.168.1.9 mac:0050-56C0-0001
+20200125-193622<INFO :0xf73fc700>: [CheckCRC] LoadPlayerBaseInfo(an, ioNaruto) dwCRC=AD057BBC len=3734
+20200125-193622<INFO :0xf73fc700>: [PlayerItem] acc=an, @svr=0/10000000
+20200125-193622<INFO :0xf73fc700>: [PlayerItem] load=16/16 acc=an @svr=16/10000000
+20200125-193622<INFO :0xf73fc700>: PlayerName = ioNaruto, sucess load itemlock head data; 72, 72
+20200125-193622<INFO :0xf73fc700>: PlayerName = ioNaruto, 0, 0, 0, 0
+20200125-193622<ERROR:0xf73fc700>: [Weapon Effect Error]Weapon effect save data of player ioNaruto is INVALID.
+20200125-193622<INFO :0xf73fc700>: [LOGIN/OUT] C2G_ROLE_LOGIN success, idx:1, ln:0, acc:an, role:ioNaruto lv:99
+20200125-193642<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[1275] LastFrame[914] NewFrame[1275]
+20200125-193642<INFO :0xf73fc700>: [BiShopPing] Ping return at 224097.
+20200125-193653<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[1465] LastFrame[924] NewFrame[1465]
+20200125-193653<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 234618
+20200125-193702<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[1636] LastFrame[1275] NewFrame[1636]
+20200125-193702<INFO :0xf73fc700>: [BiShopPing] Ping return at 244141.
+20200125-193722<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[1997] LastFrame[1636] NewFrame[1997]
+20200125-193722<INFO :0xf73fc700>: [BiShopPing] Ping return at 264101.
+20200125-193723<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[2006] LastFrame[1465] NewFrame[2006]
+20200125-193723<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 264592
+20200125-193739<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-193742<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[2358] LastFrame[1997] NewFrame[2358]
+20200125-193742<INFO :0xf73fc700>: [BiShopPing] Ping return at 284085.
+20200125-193753<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[2547] LastFrame[2006] NewFrame[2547]
+20200125-193753<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 294491
+20200125-193802<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[2719] LastFrame[2358] NewFrame[2719]
+20200125-193802<INFO :0xf73fc700>: [BiShopPing] Ping return at 304010.
+20200125-193822<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[3080] LastFrame[2719] NewFrame[3080]
+20200125-193822<INFO :0xf73fc700>: [BiShopPing] Ping return at 324054.
+20200125-193823<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[3088] LastFrame[2547] NewFrame[3088]
+20200125-193823<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 324454
+20200125-193831<INFO :0xf73fc700>: [Frame debug] Frame 3240
+20200125-193836<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-193842<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[3441] LastFrame[3080] NewFrame[3441]
+20200125-193842<INFO :0xf73fc700>: [BiShopPing] Ping return at 344090.
+20200125-193853<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[3629] LastFrame[3088] NewFrame[3629]
+20200125-193853<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 354513
+20200125-193903<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[3802] LastFrame[3441] NewFrame[3802]
+20200125-193903<INFO :0xf73fc700>: [BiShopPing] Ping return at 364133.
+20200125-193905<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-193923<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[4163] LastFrame[3802] NewFrame[4163]
+20200125-193923<INFO :0xf73fc700>: [BiShopPing] Ping return at 384168.
+20200125-193923<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[4170] LastFrame[3629] NewFrame[4170]
+20200125-193923<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 384557
+20200125-193943<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[4524] LastFrame[4163] NewFrame[4524]
+20200125-193943<INFO :0xf73fc700>: [BiShopPing] Ping return at 404233.
+20200125-193953<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[4711] LastFrame[4170] NewFrame[4711]
+20200125-193953<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 414583
+20200125-194003<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[4885] LastFrame[4524] NewFrame[4885]
+20200125-194003<INFO :0xf73fc700>: [BiShopPing] Ping return at 424245.
+20200125-194023<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[5246] LastFrame[4885] NewFrame[5246]
+20200125-194023<INFO :0xf73fc700>: [BiShopPing] Ping return at 444302.
+20200125-194023<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[5252] LastFrame[4711] NewFrame[5252]
+20200125-194023<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 444619
+20200125-194043<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[5607] LastFrame[5246] NewFrame[5607]
+20200125-194043<INFO :0xf73fc700>: [BiShopPing] Ping return at 464314.
+20200125-194053<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[5793] LastFrame[5252] NewFrame[5793]
+20200125-194053<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 474643
+20200125-194103<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[5968] LastFrame[5607] NewFrame[5968]
+20200125-194103<INFO :0xf73fc700>: [BiShopPing] Ping return at 484368.
+20200125-194123<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[6329] LastFrame[5968] NewFrame[6329]
+20200125-194123<INFO :0xf73fc700>: [BiShopPing] Ping return at 504427.
+20200125-194123<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[6334] LastFrame[5793] NewFrame[6334]
+20200125-194123<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 504668
+20200125-194131<INFO :0xf73fc700>: [Frame debug] Frame 6480
+20200125-194143<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[6690] LastFrame[6329] NewFrame[6690]
+20200125-194143<INFO :0xf73fc700>: [BiShopPing] Ping return at 524460.
+20200125-194153<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[6875] LastFrame[6334] NewFrame[6875]
+20200125-194153<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 534717
+20200125-194203<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[7051] LastFrame[6690] NewFrame[7051]
+20200125-194203<INFO :0xf73fc700>: [BiShopPing] Ping return at 544503.
+20200125-194223<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[7412] LastFrame[7051] NewFrame[7412]
+20200125-194223<INFO :0xf73fc700>: [BiShopPing] Ping return at 564589.
+20200125-194223<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[7416] LastFrame[6875] NewFrame[7416]
+20200125-194223<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 564775
+20200125-194243<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[7773] LastFrame[7412] NewFrame[7773]
+20200125-194243<INFO :0xf73fc700>: [BiShopPing] Ping return at 584898.
+20200125-194252<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194253<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[7957] LastFrame[7416] NewFrame[7957]
+20200125-194253<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 595108
+20200125-194303<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[8134] LastFrame[7773] NewFrame[8134]
+20200125-194303<INFO :0xf73fc700>: [BiShopPing] Ping return at 604952.
+20200125-194323<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[8495] LastFrame[8134] NewFrame[8495]
+20200125-194323<INFO :0xf73fc700>: [BiShopPing] Ping return at 624999.
+20200125-194323<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[8498] LastFrame[7957] NewFrame[8498]
+20200125-194323<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 625167
+20200125-194343<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[8856] LastFrame[8495] NewFrame[8856]
+20200125-194343<INFO :0xf73fc700>: [BiShopPing] Ping return at 645055.
+20200125-194353<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[9039] LastFrame[8498] NewFrame[9039]
+20200125-194353<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 655219
+20200125-194403<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[9217] LastFrame[8856] NewFrame[9217]
+20200125-194403<INFO :0xf73fc700>: [BiShopPing] Ping return at 665115.
+20200125-194423<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[9578] LastFrame[9217] NewFrame[9578]
+20200125-194423<INFO :0xf73fc700>: [BiShopPing] Ping return at 685176.
+20200125-194424<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[9580] LastFrame[9039] NewFrame[9580]
+20200125-194424<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 685269
+20200125-194431<INFO :0xf73fc700>: [Frame debug] Frame 9720
+20200125-194432<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194443<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[9939] LastFrame[9578] NewFrame[9939]
+20200125-194443<INFO :0xf73fc700>: [BiShopPing] Ping return at 705230.
+20200125-194454<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[10121] LastFrame[9580] NewFrame[10121]
+20200125-194454<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 715319
+20200125-194504<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[10300] LastFrame[9939] NewFrame[10300]
+20200125-194504<INFO :0xf73fc700>: [BiShopPing] Ping return at 725280.
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1800]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[100:TuyÒn Ch©u].[28832:Th­¬ng nh©n T©y Vùc].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28833:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28834:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28835:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28836:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28837:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28838:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28839:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28840:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28841:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28842:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28843:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28844:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28845:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28846:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28847:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28848:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28849:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28850:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28851:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28852:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28853:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28854:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28855:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28856:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28857:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28858:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28859:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28860:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28861:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28862:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28863:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28864:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28865:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28866:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[510:D­îc V­¬ng ®éng].[28867:D­îc Nh©n Th¶o].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28868:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28869:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28870:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28871:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28872:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28873:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28874:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28875:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28876:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28877:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28878:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28879:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28880:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28881:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28882:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28883:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28884:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28885:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28886:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28887:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28888:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28889:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28890:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28891:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28892:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28893:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28894:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28895:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28896:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28897:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28898:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28899:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28900:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28901:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28902:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28903:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28904:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28905:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28906:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28907:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28908:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28909:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28910:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28911:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28912:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28913:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28914:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28915:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28916:TÝch D­¬ng c¨n].
+20200125-194521<ERROR:0xf73fc700>: [Script] [4042852611, 1500]{/script/online_activites/treasure_box/trigger.lua}remove a none copy map dialog npc[506:Mª cung sa m¹c].[28917:TÝch D­¬ng c¨n].
+20200125-194524<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[10661] LastFrame[10300] NewFrame[10661]
+20200125-194524<INFO :0xf73fc700>: [BiShopPing] Ping return at 745332.
+20200125-194524<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[10662] LastFrame[10121] NewFrame[10662]
+20200125-194524<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 745372
+20200125-194529<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194544<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[11022] LastFrame[10661] NewFrame[11022]
+20200125-194544<INFO :0xf73fc700>: [BiShopPing] Ping return at 765372.
+20200125-194554<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[11203] LastFrame[10662] NewFrame[11203]
+20200125-194554<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 775428
+20200125-194604<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[11383] LastFrame[11022] NewFrame[11383]
+20200125-194604<INFO :0xf73fc700>: [BiShopPing] Ping return at 785458.
+20200125-194624<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[11744] LastFrame[11203] NewFrame[11744]
+20200125-194624<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[11744] LastFrame[11383] NewFrame[11744]
+20200125-194624<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 805481
+20200125-194624<INFO :0xf73fc700>: [BiShopPing] Ping return at 805495.
+20200125-194640<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194644<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[12105] LastFrame[11744] NewFrame[12105]
+20200125-194644<INFO :0xf73fc700>: [BiShopPing] Ping return at 825533.
+20200125-194654<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[12285] LastFrame[11744] NewFrame[12285]
+20200125-194654<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 835529
+20200125-194704<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[12466] LastFrame[12105] NewFrame[12466]
+20200125-194704<INFO :0xf73fc700>: [BiShopPing] Ping return at 845616.
+20200125-194724<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[12826] LastFrame[12285] NewFrame[12826]
+20200125-194724<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 865586
+20200125-194724<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[12827] LastFrame[12466] NewFrame[12827]
+20200125-194724<INFO :0xf73fc700>: [BiShopPing] Ping return at 865656.
+20200125-194731<INFO :0xf73fc700>: [Frame debug] Frame 12960
+20200125-194744<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[13188] LastFrame[12827] NewFrame[13188]
+20200125-194744<INFO :0xf73fc700>: [BiShopPing] Ping return at 885693.
+20200125-194754<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[13367] LastFrame[12826] NewFrame[13367]
+20200125-194754<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 895642
+20200125-194804<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[13549] LastFrame[13188] NewFrame[13549]
+20200125-194804<INFO :0xf73fc700>: [BiShopPing] Ping return at 905776.
+20200125-194805<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194824<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[13908] LastFrame[13367] NewFrame[13908]
+20200125-194824<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 925683
+20200125-194824<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[13910] LastFrame[13549] NewFrame[13910]
+20200125-194824<INFO :0xf73fc700>: [BiShopPing] Ping return at 925811.
+20200125-194844<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[14271] LastFrame[13910] NewFrame[14271]
+20200125-194844<INFO :0xf73fc700>: [BiShopPing] Ping return at 945854.
+20200125-194854<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[14449] LastFrame[13908] NewFrame[14449]
+20200125-194854<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 955732
+20200125-194904<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[14632] LastFrame[14271] NewFrame[14632]
+20200125-194904<INFO :0xf73fc700>: [BiShopPing] Ping return at 965926.
+20200125-194916<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194924<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[14990] LastFrame[14449] NewFrame[14990]
+20200125-194924<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 985784
+20200125-194924<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[14993] LastFrame[14632] NewFrame[14993]
+20200125-194924<INFO :0xf73fc700>: [BiShopPing] Ping return at 985971.
+20200125-194944<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[15354] LastFrame[14993] NewFrame[15354]
+20200125-194944<INFO :0xf73fc700>: [BiShopPing] Ping return at 1006015.
+20200125-194945<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-194954<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[15531] LastFrame[14990] NewFrame[15531]
+20200125-194954<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1015842
+20200125-195004<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[15715] LastFrame[15354] NewFrame[15715]
+20200125-195004<INFO :0xf73fc700>: [BiShopPing] Ping return at 1026057.
+20200125-195024<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[16072] LastFrame[15531] NewFrame[16072]
+20200125-195024<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1045896
+20200125-195024<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[16076] LastFrame[15715] NewFrame[16076]
+20200125-195024<INFO :0xf73fc700>: [BiShopPing] Ping return at 1046152.
+20200125-195027<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195031<INFO :0xf73fc700>: [Frame debug] Frame 16200
+20200125-195042<INFO :0xf73fc700>: # PlayerCount in every subworld:
+20200125-195042<INFO :0xf73fc700>:  200-BiÖn Kinh : 1
+20200125-195042<INFO :0xf73fc700>: # TotalPlayerCount in this GameSvr : 1.
+20200125-195042<INFO :0xf73fc700>: # TotalPlayerCount in player list : 1.
+20200125-195042<INFO :0xf73fc700>: # TotalNpcCount in npc list : 28912.
+20200125-195042<INFO :0xf73fc700>: # TotalItemCount in item list : 20.
+20200125-195044<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[16437] LastFrame[16076] NewFrame[16437]
+20200125-195044<INFO :0xf73fc700>: [BiShopPing] Ping return at 1066194.
+20200125-195054<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[16613] LastFrame[16072] NewFrame[16613]
+20200125-195054<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1075950
+20200125-195105<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[16798] LastFrame[16437] NewFrame[16798]
+20200125-195105<INFO :0xf73fc700>: [BiShopPing] Ping return at 1086237.
+20200125-195121<INFO :0xf73fc700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200125-195121<INFO :0xf73fc700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=6CD776F0 dwDataLen=4068
+20200125-195121<INFO :0xf73fc700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200125-195125<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[17159] LastFrame[16798] NewFrame[17159]
+20200125-195125<INFO :0xf73fc700>: [BiShopPing] Ping return at 1106323.
+20200125-195145<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[17520] LastFrame[17159] NewFrame[17520]
+20200125-195145<INFO :0xf73fc700>: [BiShopPing] Ping return at 1126362.
+20200125-195151<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[17636] LastFrame[17095] NewFrame[17636]
+20200125-195151<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1132776
+20200125-195205<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[17881] LastFrame[17520] NewFrame[17881]
+20200125-195205<INFO :0xf73fc700>: [BiShopPing] Ping return at 1146416.
+20200125-195221<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195221<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[18177] LastFrame[17636] NewFrame[18177]
+20200125-195221<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1162835
+20200125-195225<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[18242] LastFrame[17881] NewFrame[18242]
+20200125-195225<INFO :0xf73fc700>: [BiShopPing] Ping return at 1166448.
+20200125-195245<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[18603] LastFrame[18242] NewFrame[18603]
+20200125-195245<INFO :0xf73fc700>: [BiShopPing] Ping return at 1186539.
+20200125-195251<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[18718] LastFrame[18177] NewFrame[18718]
+20200125-195251<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1192882
+20200125-195305<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[18964] LastFrame[18603] NewFrame[18964]
+20200125-195305<INFO :0xf73fc700>: [BiShopPing] Ping return at 1206594.
+20200125-195318<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195321<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[19259] LastFrame[18718] NewFrame[19259]
+20200125-195321<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1222934
+20200125-195325<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[19325] LastFrame[18964] NewFrame[19325]
+20200125-195325<INFO :0xf73fc700>: [BiShopPing] Ping return at 1226632.
+20200125-195331<INFO :0xf73fc700>: [Frame debug] Frame 19440
+20200125-195345<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[19686] LastFrame[19325] NewFrame[19686]
+20200125-195345<INFO :0xf73fc700>: [BiShopPing] Ping return at 1246680.
+20200125-195351<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[19800] LastFrame[19259] NewFrame[19800]
+20200125-195351<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1252995
+20200125-195401<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195405<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[20047] LastFrame[19686] NewFrame[20047]
+20200125-195405<INFO :0xf73fc700>: [BiShopPing] Ping return at 1266722.
+20200125-195421<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[20341] LastFrame[19800] NewFrame[20341]
+20200125-195421<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1283046
+20200125-195425<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[20408] LastFrame[20047] NewFrame[20408]
+20200125-195425<INFO :0xf73fc700>: [BiShopPing] Ping return at 1286810.
+20200125-195429<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195445<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[20769] LastFrame[20408] NewFrame[20769]
+20200125-195445<INFO :0xf73fc700>: [BiShopPing] Ping return at 1306842.
+20200125-195451<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[20882] LastFrame[20341] NewFrame[20882]
+20200125-195451<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1313099
+20200125-195505<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[21130] LastFrame[20769] NewFrame[21130]
+20200125-195505<INFO :0xf73fc700>: [BiShopPing] Ping return at 1326885.
+20200125-195521<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[21423] LastFrame[20882] NewFrame[21423]
+20200125-195521<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1343146
+20200125-195525<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[21491] LastFrame[21130] NewFrame[21491]
+20200125-195525<INFO :0xf73fc700>: [BiShopPing] Ping return at 1346930.
+20200125-195540<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195545<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[21852] LastFrame[21491] NewFrame[21852]
+20200125-195545<INFO :0xf73fc700>: [BiShopPing] Ping return at 1366998.
+20200125-195552<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[21964] LastFrame[21423] NewFrame[21964]
+20200125-195552<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1373205
+20200125-195605<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[22213] LastFrame[21852] NewFrame[22213]
+20200125-195605<INFO :0xf73fc700>: [BiShopPing] Ping return at 1387033.
+20200125-195622<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[22505] LastFrame[21964] NewFrame[22505]
+20200125-195622<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1403252
+20200125-195625<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[22574] LastFrame[22213] NewFrame[22574]
+20200125-195625<INFO :0xf73fc700>: [BiShopPing] Ping return at 1407119.
+20200125-195631<INFO :0xf73fc700>: [Frame debug] Frame 22680
+20200125-195637<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195645<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[22935] LastFrame[22574] NewFrame[22935]
+20200125-195645<INFO :0xf73fc700>: [BiShopPing] Ping return at 1427164.
+20200125-195652<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[23046] LastFrame[22505] NewFrame[23046]
+20200125-195652<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1433314
+20200125-195706<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[23296] LastFrame[22935] NewFrame[23296]
+20200125-195706<INFO :0xf73fc700>: [BiShopPing] Ping return at 1447199.
+20200125-195722<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[23587] LastFrame[23046] NewFrame[23587]
+20200125-195722<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1463364
+20200125-195726<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[23657] LastFrame[23296] NewFrame[23657]
+20200125-195726<INFO :0xf73fc700>: [BiShopPing] Ping return at 1467292.
+20200125-195746<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[24018] LastFrame[23657] NewFrame[24018]
+20200125-195746<INFO :0xf73fc700>: [BiShopPing] Ping return at 1487337.
+20200125-195752<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[24128] LastFrame[23587] NewFrame[24128]
+20200125-195752<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1493421
+20200125-195800<INFO :0xf73fc700>: [SystimeTask] timetask [Ln66 19:58]  is time up [Frame 24272], execute script 3645770026:{\script\online\tong_feast\tf_sysmsg.lua}
+20200125-195806<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[24379] LastFrame[24018] NewFrame[24379]
+20200125-195806<INFO :0xf73fc700>: [BiShopPing] Ping return at 1507378.
+20200125-195817<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195822<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[24669] LastFrame[24128] NewFrame[24669]
+20200125-195822<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1523464
+20200125-195826<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[24740] LastFrame[24379] NewFrame[24740]
+20200125-195826<INFO :0xf73fc700>: [BiShopPing] Ping return at 1527427.
+20200125-195846<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[25101] LastFrame[24740] NewFrame[25101]
+20200125-195846<INFO :0xf73fc700>: [BiShopPing] Ping return at 1547491.
+20200125-195852<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[25210] LastFrame[24669] NewFrame[25210]
+20200125-195852<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1553521
+20200125-195859<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195900<INFO :0xf73fc700>: [SystimeTask] timetask [Ln67 19:59]  is time up [Frame 25360], execute script 3813914652:{\script\gongcheng\conf_res_protect_msg.lua}
+20200125-195906<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[25462] LastFrame[25101] NewFrame[25462]
+20200125-195906<INFO :0xf73fc700>: [BiShopPing] Ping return at 1567556.
+20200125-195914<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-195922<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[25751] LastFrame[25210] NewFrame[25751]
+20200125-195922<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1583581
+20200125-195926<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[25823] LastFrame[25462] NewFrame[25823]
+20200125-195926<INFO :0xf73fc700>: [BiShopPing] Ping return at 1587604.
+20200125-195931<INFO :0xf73fc700>: [Frame debug] Frame 25920
+20200125-195946<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[26184] LastFrame[25823] NewFrame[26184]
+20200125-195946<INFO :0xf73fc700>: [BiShopPing] Ping return at 1607655.
+20200125-195952<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[26292] LastFrame[25751] NewFrame[26292]
+20200125-195952<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1613633
+20200125-195956<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200000<INFO :0xf73fc700>: [SystimeTask] timetask [Ln68 20:00]  is time up [Frame 26432], execute script 297637250:{\script\task\weekend\weekend_timer.lua}
+20200125-200006<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[26545] LastFrame[26184] NewFrame[26545]
+20200125-200006<INFO :0xf73fc700>: [BiShopPing] Ping return at 1627701.
+20200125-200022<INFO :0xf73fc700>: SetNpcRemoveScript([Ngäc S¬n Chi Linh Thiªn Cöu], [\script\function\world_boss\wb_boss_remove.lua]) = 175754078
+20200125-200022<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[26833] LastFrame[26292] NewFrame[26833]
+20200125-200022<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1643679
+20200125-200025<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200026<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[26906] LastFrame[26545] NewFrame[26906]
+20200125-200026<INFO :0xf73fc700>: [BiShopPing] Ping return at 1647750.
+20200125-200046<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[27267] LastFrame[26906] NewFrame[27267]
+20200125-200046<INFO :0xf73fc700>: [BiShopPing] Ping return at 1667809.
+20200125-200052<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[27374] LastFrame[26833] NewFrame[27374]
+20200125-200052<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1673731
+20200125-200100<INFO :0xf73fc700>: [SystimeTask] timetask [Ln69 20:01]  is time up [Frame 27520], execute script 2834089862:{\script\newbattles\systemtimemessage\main_battle_signup.lua}
+20200125-200106<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[27628] LastFrame[27267] NewFrame[27628]
+20200125-200106<INFO :0xf73fc700>: [BiShopPing] Ping return at 1687850.
+20200125-200122<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[27915] LastFrame[27374] NewFrame[27915]
+20200125-200122<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1703793
+20200125-200126<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[27989] LastFrame[27628] NewFrame[27989]
+20200125-200126<INFO :0xf73fc700>: [BiShopPing] Ping return at 1707939.
+20200125-200146<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[28350] LastFrame[27989] NewFrame[28350]
+20200125-200146<INFO :0xf73fc700>: [BiShopPing] Ping return at 1727968.
+20200125-200152<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[28456] LastFrame[27915] NewFrame[28456]
+20200125-200152<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1733844
+20200125-200200<INFO :0xf73fc700>: [SystimeTask] timetask [Ln70 20:02]  is time up [Frame 28592], execute script 3583112118:{\script\²Ø½£É½×¯\task_script\ontimer_notify.lua}
+20200125-200206<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[28711] LastFrame[28350] NewFrame[28711]
+20200125-200206<INFO :0xf73fc700>: [BiShopPing] Ping return at 1748015.
+20200125-200222<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[28997] LastFrame[28456] NewFrame[28997]
+20200125-200222<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1763892
+20200125-200226<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[29072] LastFrame[28711] NewFrame[29072]
+20200125-200226<INFO :0xf73fc700>: [BiShopPing] Ping return at 1768102.
+20200125-200231<INFO :0xf73fc700>: [Frame debug] Frame 29160
+20200125-200246<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[29433] LastFrame[29072] NewFrame[29433]
+20200125-200246<INFO :0xf73fc700>: [BiShopPing] Ping return at 1788158.
+20200125-200247<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200252<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[29538] LastFrame[28997] NewFrame[29538]
+20200125-200252<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1793948
+20200125-200300<INFO :0xf73fc700>: [SystimeTask] timetask [Ln71 20:03]  is time up [Frame 29680], execute script 2788397894:{\script\function\lucky_box\lb_head.lua}
+20200125-200307<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[29794] LastFrame[29433] NewFrame[29794]
+20200125-200307<INFO :0xf73fc700>: [BiShopPing] Ping return at 1808197.
+20200125-200322<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[30079] LastFrame[29538] NewFrame[30079]
+20200125-200322<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1824001
+20200125-200327<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[30155] LastFrame[29794] NewFrame[30155]
+20200125-200327<INFO :0xf73fc700>: [BiShopPing] Ping return at 1828384.
+20200125-200330<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200347<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[30516] LastFrame[30155] NewFrame[30516]
+20200125-200347<INFO :0xf73fc700>: [BiShopPing] Ping return at 1848271.
+20200125-200352<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[30620] LastFrame[30079] NewFrame[30620]
+20200125-200352<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1854054
+20200125-200407<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[30877] LastFrame[30516] NewFrame[30877]
+20200125-200407<INFO :0xf73fc700>: [BiShopPing] Ping return at 1868364.
+20200125-200422<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[31161] LastFrame[30620] NewFrame[31161]
+20200125-200422<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1884106
+20200125-200426<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200427<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[31238] LastFrame[30877] NewFrame[31238]
+20200125-200427<INFO :0xf73fc700>: [BiShopPing] Ping return at 1888410.
+20200125-200447<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[31599] LastFrame[31238] NewFrame[31599]
+20200125-200447<INFO :0xf73fc700>: [BiShopPing] Ping return at 1908447.
+20200125-200453<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[31702] LastFrame[31161] NewFrame[31702]
+20200125-200453<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1914153
+20200125-200507<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[31960] LastFrame[31599] NewFrame[31960]
+20200125-200507<INFO :0xf73fc700>: [BiShopPing] Ping return at 1928499.
+20200125-200523<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[32243] LastFrame[31702] NewFrame[32243]
+20200125-200523<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1944201
+20200125-200527<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[32321] LastFrame[31960] NewFrame[32321]
+20200125-200527<INFO :0xf73fc700>: [BiShopPing] Ping return at 1948578.
+20200125-200531<INFO :0xf73fc700>: [Frame debug] Frame 32400
+20200125-200547<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[32682] LastFrame[32321] NewFrame[32682]
+20200125-200547<INFO :0xf73fc700>: [BiShopPing] Ping return at 1968611.
+20200125-200552<INFO :0xf73fc700>: # PlayerCount in every subworld:
+20200125-200552<INFO :0xf73fc700>:  200-BiÖn Kinh : 1
+20200125-200552<INFO :0xf73fc700>: # TotalPlayerCount in this GameSvr : 1.
+20200125-200552<INFO :0xf73fc700>: # TotalPlayerCount in player list : 1.
+20200125-200552<INFO :0xf73fc700>: # TotalNpcCount in npc list : 28913.
+20200125-200552<INFO :0xf73fc700>: # TotalItemCount in item list : 20.
+20200125-200553<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[32784] LastFrame[32243] NewFrame[32784]
+20200125-200553<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 1974259
+20200125-200607<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[33043] LastFrame[32682] NewFrame[33043]
+20200125-200607<INFO :0xf73fc700>: [BiShopPing] Ping return at 1988652.
+20200125-200621<INFO :0xf73fc700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200125-200621<INFO :0xf73fc700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=91FED250 dwDataLen=4068
+20200125-200621<INFO :0xf73fc700>: [SavePlayerData] send save request to goddess bUnLock=0, acc:an, role:ioNaruto
+20200125-200627<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[33404] LastFrame[33043] NewFrame[33404]
+20200125-200627<INFO :0xf73fc700>: [BiShopPing] Ping return at 2008697.
+20200125-200647<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[33765] LastFrame[33404] NewFrame[33765]
+20200125-200647<INFO :0xf73fc700>: [BiShopPing] Ping return at 2028777.
+20200125-200651<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[33837] LastFrame[33296] NewFrame[33837]
+20200125-200651<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 2032757
+20200125-200703<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200707<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[34126] LastFrame[33765] NewFrame[34126]
+20200125-200707<INFO :0xf73fc700>: [BiShopPing] Ping return at 2048824.
+20200125-200721<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[34378] LastFrame[33837] NewFrame[34378]
+20200125-200721<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 2062805
+20200125-200727<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[34487] LastFrame[34126] NewFrame[34487]
+20200125-200727<INFO :0xf73fc700>: [BiShopPing] Ping return at 2068868.
+20200125-200731<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200746<WARN :0xf73fc700>: # GameLogicSpeed : 17 fps.(abnormal!!!)
+20200125-200747<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[34848] LastFrame[34487] NewFrame[34848]
+20200125-200747<INFO :0xf73fc700>: [BiShopPing] Ping return at 2088930.
+20200125-200751<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[34919] LastFrame[34378] NewFrame[34919]
+20200125-200751<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 2092855
+20200125-200807<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[35209] LastFrame[34848] NewFrame[35209]
+20200125-200807<INFO :0xf73fc700>: [BiShopPing] Ping return at 2109013.
+20200125-200821<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[35460] LastFrame[34919] NewFrame[35460]
+20200125-200821<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 2122911
+20200125-200827<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[35570] LastFrame[35209] NewFrame[35570]
+20200125-200827<INFO :0xf73fc700>: [BiShopPing] Ping return at 2129036.
+20200125-200831<INFO :0xf73fc700>: [Frame debug] Frame 35640
+20200125-200847<ERROR:0xf73fc700>: gs ping bishop[result=1], CurFrame[35931] LastFrame[35570] NewFrame[35931]
+20200125-200847<INFO :0xf73fc700>: [BiShopPing] Ping return at 2149079.
+20200125-200851<INFO :0xf73fc700>: gs ping goddess[result=1], CurFrame[36001] LastFrame[35460] NewFrame[36001]
+20200125-200851<INFO :0xf73fc700>: receieve goddess ping reply, goddess time = 2152965
+20200125-200856<ERROR:0xf73fc700>: Recv data error, shutdown(linkindex:0)
+20200125-200856<INFO :0xf73fc700>: [LOGIN/OUT] Connection[0] lost, idx:1, acc:an, role:ioNaruto, GameStatus:PlayerPlaying, ExchangeStatus:ExchangeBegin, LastPingTime:[2020-01-25 20:08:55]
+20200125-200856<INFO :0xf73fc700>: PlayerName = ioNaruto, KItemLockMgr::SaveData, 0, 0, 0
+20200125-200856<INFO :0xf73fc700>: [CheckCRC] UpdateDBPlayerInfo(an, ioNaruto) dwCRC=1831342E dwDataLen=3994
+20200125-200856<INFO :0xf73fc700>: [SavePlayerData] send save request to goddess bUnLock=1, acc:an, role:ioNaruto
+20200125-200856<INFO :0xf73fc700>: [LOGIN/OUT] G2B_ROLE_LOGOUT idx:1, acc:an, role:ioNaruto
+20200125-200856<INFO :0xf73fc700>: acc:an leave game!
+20200125-200856<INFO :0xf73fc700>: Remove player object . acc an, role ioNaruto
+20200125-213632<ERROR:0xf73fc700>: gamesvr disconnect with Database, shutdown gamesvr now! last breath diff time 130000 ms
+20200125-213632<ERROR:0xf73fc700>: Database connection lost nCurrentGameLogicFrameTime=36084 m_nLastSentPackageTime=36081 diff=3/540
+20200125-213632<INFO :0xf73fc700>: [SOSever::Breathe] MsgLoop:0 ,MainLoop:5256383, TotalMsgLoop:15218, Elapse:7260852 CurBreathCost:5256383 BreathCount:1315265
+20200125-213632<INFO :0xf73fc700>: main thread exit

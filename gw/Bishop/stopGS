@@ -1,0 +1,43 @@
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 10 phut nua"
+echo "Server se bao tri trong vong 10 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 9 phut nua"
+echo "Server se bao tri trong vong 9 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 8 phut nua"
+echo "Server se bao tri trong vong 8 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 7 phut nua"
+echo "Server se bao tri trong vong 7 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 6 phut nua"
+echo "Server se bao tri trong vong 6 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 5 phut nua"
+echo "Server se bao tri trong vong 5 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 4 phut nua"
+echo "Server se bao tri trong vong 4 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 3 phut nua"
+echo "Server se bao tri trong vong 3 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 2 phut nua"
+echo "Server se bao tri trong vong 2 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs to-players all "Server se bao tri trong vong 1 phut nua"
+echo "Server se bao tri trong vong 1 phut nua"
+sleep 60
+
+./KG_BishopD send-msg-to-gs close-game-server all "Server stop de bao tri"
+echo "Server stop de bao tri"
+sleep 10

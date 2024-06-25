@@ -1,0 +1,108 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65535 LastTime=1900-1-0 0:0:0
+20191228-074015<INFO :0xf77a5950>: [GameSvr][Version:Nov 14 2014 15:55:00] begin start up...
+20191228-074015<INFO :0xf77a5950>: Succeeded in loading version.ini. Lower Version:341 Upper Version:345
+20191228-074015<INFO :0xf77a5950>: [verify_up2date]...
+20191228-074015<INFO :0xf77a5950>: >Current lang is [gb18030]
+20191228-074015<INFO :0xf77a5950>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191228-074015<INFO :0xf77a5950>: >Time duration: 7.196505ms 
+20191228-074015<INFO :0xf77a5950>: >
+20191228-074015<INFO :0xf77a5950>: >Finish, my exit code is: 0
+20191228-074015<INFO :0xf77a5950>: |shell cmd result is 0
+20191228-074015<INFO :0xf77a5950>: ExecShellCmd [./verify_up2date -op=vef -d="/home/jx2JQ/gs" ] ret=0
+20191228-074015<INFO :0xf77a5950>: [verify_up2date] ok
+20191228-074015<INFO :0xf77a5950>: This ServerIP : 127.0.0.1 : 192.168.100.1
+20191228-074015<INFO :0xf77a5950>: [GameServer Type] RealmType=0, IsMatchRealm=0
+20191228-074015<INFO :0xf77a5950>: IS_KINGSOFT_INNER_VERSION=0|0
+20191228-074015<INFO :0xf77a5950>: IS_EXP_SVR=0|0
+20191228-074015<ERROR:0xf77a5950>: SetSpecialSwitch(Index=3,bOpen=1,AccessCode=1024232298) ok, result=1
+20191228-074015<INFO :0xf77a5950>: [GameServer] ServerCount=1, ServerIndex=1
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarDefaultCriticalHitRate=5
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMinCriticalHitRate=0
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMaxCriticalHitRate=50
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarDefaultCriticalHitDamageAddPct=10
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMinCriticalHitDamageAddPct=0
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMaxCriticalHitDamageAddPct=300
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarPlayerDogeParaA=5
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarPlayerDogeParaB=5
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMinHitRatePlayer=75
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMaxHitRatePlayer=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarNpcDogeParaA=10
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarNpcDogeParaB=10
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMinHitRateNpc=50
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarMaxHitRateNpc=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarTransLife2DogePara=10000
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarLevel2DogePara=1000
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarStrength2DogePara=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarDesterity2DogePara=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarEnergy2DogePara=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarVitality2DogePara=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarObserve2DogePara=100
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarTransLife2HitPara=8500
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarLevel2HitPara=850
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarStrength2HitPara=85
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarDesterity2HitPara=85
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarEnergy2HitPara=85
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarVitality2HitPara=85
+20191228-074015<INFO :0xf77a5950>: [GlovalVariable] gblvarObserve2HitPara=85
+20191228-074015<INFO :0xf77a5950>: [CustomAward] 45 lines loaded from [\settings\item\custom_award\custom_award_group.txt]
+20191228-074015<INFO :0xf77a5950>: [CustomAward] 469 lines loaded from \settings\item\custom_award\custom_award_list.txt
+20191228-074015<INFO :0xf77a5950>: [CustomAward] 5 lines loaded from \settings\item\custom_award\custom_consume_list.txt
+20191228-074015<INFO :0xf77a5950>: [CustomAward] total AwardId=469/474/65534
+20191228-074015<INFO :0xf77a5950>: [CustomAward] RandSeed = 4190355520
+20191228-074016<ERROR:0xf77a5950>: Skill	Unexpected Skill ID 1261 at row SkillSet22, section SkillStateMutex of file \settings\skill\skill_mutex.ini!
+20191228-074016<ERROR:0xf77a5950>: Skill	Unexpected Skill ID 1202 at row SkillSet20, section SkillCDShare of file \settings\skill\skill_mutex.ini!
+20191228-074016<INFO :0xf77a5950>: Loading All Scripts....................
+20191228-074017<INFO :0xf77a5950>: All Scripts Have Been Loaded! ScriptCount = 5614
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\普通攻击\npc普通攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc减速攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc眩晕攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc施毒.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc定身.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc破防攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc吸血攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc击退攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc混乱.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc眩晕.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc封招.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc睡眠.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc火攻击.lua]
+20191228-074017<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc迟缓攻击.lua]
+20191228-074018<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc驱散.lua]
+20191228-074018<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\npc混乱攻击.lua]
+20191228-074019<ERROR:0xf77a5950>: [LoadRandomNpc] [\maps\世界地图\琅琊洞府.ini] open failed!!!
+20191228-074019<INFO :0xf77a5950>: 192/400 map(s) has been loaded.
+20191228-074019<ERROR:0xf77a5950>: SetSpecialSwitch(Index=1,bOpen=0,AccessCode=1157247768) ok, result=0
+20191228-074019<ERROR:0xf77a5950>: SetSpecialSwitch(Index=2,bOpen=0,AccessCode=3238223681) ok, result=0
+20191228-074019<WARN :0xf77a5950>: *********[/script/global/autoexec.lua]Unable include script file  {\script\online\春节活动\newyear_head.lua}
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围击退.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围定身.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围中毒.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss普通攻击.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围封招.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围混乱.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围击倒.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss散射剑气.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss乱射剑气.lua]
+20191228-074019<WARN :0xf77a5950>: [Load] Invalid template: template ID=472328933l,
+20191228-074019<WARN :0xf77a5950>: load  npc template [0] fail
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss大范围眩晕.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\npc技能\boss范围毒伤害.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\宠物技能\宠物普通攻击.lua]
+20191228-074019<WARN :0xf77a5950>: g_GetScript find unpreloaded file [\script\skill\宠物技能\调用招式.lua]
+20191228-074019<INFO :0xf77a5950>: [SystimeTask] load 96/96 systemtimetasks from {\settings\systemtimetask.txt}
+20191228-074020<INFO :0xf77a5950>: start to connect Database, IP: 192.168.100.105 - Port: 5001 ... ok!
+20191228-074020<INFO :0xf77a5950>: start to connect RelayHost, IP: 192.168.100.105 - Port: 5003 ... ok!
+20191228-074020<INFO :0xf77a5950>: start to connect RelayChat, IP: 192.168.100.105 - Port: 5004 ... ok!
+20191228-074020<INFO :0xf77a5950>: start to connect RelayTong, IP: 192.168.100.105 - Port: 5005 ... ok!
+20191228-074020<INFO :0xf77a5950>: start to connect Gateway, IP: 192.168.100.105 - Port: 5633 ... ok!
+20191228-074020<INFO :0xf77a5950>: [verify_up2date] send Goddess|Relay|Router version request...
+20191228-074020<INFO :0xf77a5950>: [GameSvr] start up OK----------.
+20191228-074020<DEBUG:0xf77a5950>: [net dbg] [SendNetMsgToTransfer] frame=0 send=1/39|1 avg=0 
+20191228-074020<DEBUG:0xf77a5950>: [net dbg] [TransferMessageProcess] [frame -1] total process 0/0=0 trans message
+20191228-074020<INFO :0xf77a5950>: Start init log database.
+20191228-074040<DEBUG:0xf77a5950>: KGLOG_PROCESS_ERROR(false) at line 109 in Connect
+20191228-074040<DEBUG:0xf77a5950>: KGLOG_PROCESS_ERROR(nRetCode) at line 36 in CreateLogDB
+20191228-074040<ERROR:0xf77a5950>: Init Log DB Failed, Close GameServer...
+20191228-074040<INFO :0xf77a5950>: Init log database end.
+20191228-074040<INFO :0xf77a5950>: [verify_up2date] VerifyUp2dateVersion: Server=Relay code=8DA68FCD need=8DA68FCD result=1
+20191228-074040<INFO :0xf77a5950>: main thread exit

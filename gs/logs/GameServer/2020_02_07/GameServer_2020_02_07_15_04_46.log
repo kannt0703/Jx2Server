@@ -1,0 +1,5 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=714/65535 LastTime=2020-2-6 1:4:35
+20200207-150446<ERROR:0xf739d700>: gamesvr disconnect with Database, shutdown gamesvr now! last breath diff time 210000 ms
+20200207-150446<ERROR:0xf739d700>: Database connection lost nCurrentGameLogicFrameTime=21880 m_nLastSentPackageTime=21764 diff=116/540
+20200207-150446<INFO :0xf739d700>: [SOSever::Breathe] MsgLoop:0 ,MainLoop:135590276, TotalMsgLoop:11029, Elapse:136805745 CurBreathCost:135590276 BreathCount:798317
+20200207-150446<INFO :0xf739d700>: main thread exit

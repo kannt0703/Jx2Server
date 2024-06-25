@@ -1,0 +1,26 @@
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib64/libthread_db.so.1".
+
+Program received signal SIGABRT, Aborted.
+0xf7ffb430 in __kernel_vsyscall ()
+$1 = "crash time:"
+2018年 05月 04日 星期五 17:28:32 +07
+$2 = "crash frame:"
+Stack level 0, frame at 0xffffacf4:
+ eip = 0xf7ffb430 in __kernel_vsyscall; saved eip 0xf7cd62d7
+ called by frame at 0xffffad00
+ Arglist at 0xffffacec, args: 
+ Locals at 0xffffacec, Previous frame's sp is 0xffffacf4
+ Saved registers:
+  ebp at 0xfffface4, eip at 0xffffacf0
+$3 = "crash locals:"
+No symbol table info available.
+$4 = "crash callstack:"
+#0  0xf7ffb430 in __kernel_vsyscall ()
+#1  0xf7cd62d7 in raise () from /lib/libc.so.6
+#2  0xf7cd7b13 in abort () from /lib/libc.so.6
+#3  0xf7ccf357 in __assert_fail_base () from /lib/libc.so.6
+#4  0xf7ccf407 in __assert_fail () from /lib/libc.so.6
+#5  0x083a4330 in g_InitStrTable () at ./SourceCode/LocalizationLib/LocString.cpp:84
+#6  0x0804eb4a in KSwordOnLineSever::Initialize (this=0x8595d60 <g_SOServer>) at ./SourceCode/Server/GameServer/KSOServer.cpp:122
+#7  0x0804bc9e in main (argc=2, argv=0xffffd694) at ./SourceCode/Server/GameServer/GameServer.cpp:87

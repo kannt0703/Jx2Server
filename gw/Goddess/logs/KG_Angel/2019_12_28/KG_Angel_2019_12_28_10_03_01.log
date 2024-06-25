@@ -1,0 +1,7 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191228-100301<INFO :0xf774f6d0>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20191228-100301<INFO :0xf774f6d0>: Data OK! Current max Service ID is: 2318756
+20191228-100511<INFO :0xf53ffb70>: [CheckCRC] CheckRoleData jiqinghk.JiaXQing dwCRC=58A910D1/58A910D1 nResult=1
+20191228-100553<INFO :0xf53ffb70>: [CheckCRC] CheckRoleData jiqinghk.JiaXQing dwCRC=9C4ECFEE/9C4ECFEE nResult=1
+20191228-100648<INFO :0xf53ffb70>: [CheckCRC] CheckRoleData jiqinghk.JiaXQing dwCRC=283106B8/283106B8 nResult=1
+20191228-100908<INFO :0xf53ffb70>: [CheckCRC] CheckRoleData jiqinghk.JiaXQing dwCRC=2F22242C/2F22242C nResult=1

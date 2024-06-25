@@ -1,0 +1,218 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Loading KG_Goddess.ini
+20191228-101234<INFO :0xf77a26d0>: [verify_up2date]...
+20191228-101234<INFO :0xf77a26d0>: >Current lang is [gb18030]
+20191228-101234<INFO :0xf77a26d0>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191228-101234<INFO :0xf77a26d0>: >Time duration: 12.175926ms 
+20191228-101234<INFO :0xf77a26d0>: >
+20191228-101234<INFO :0xf77a26d0>: >Finish, my exit code is: 0
+20191228-101234<INFO :0xf77a26d0>: |shell cmd result is 0
+20191228-101234<INFO :0xf77a26d0>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20191228-101234<INFO :0xf77a26d0>: [verify_up2date] ok
+20191228-101234<INFO :0xf77a26d0>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Initializing role database ...
+20191228-101234<INFO :0xf77a26d0>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-101234<DEBUG:0xf77a26d0>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-101234<DEBUG:0xf77a26d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x96f9e18)->_LoadTable()
+20191228-101234<DEBUG:0xf77a26d0>: [KGD] (0x0x96f9e18)->_LoadTable("fightteam")
+20191228-101234<DEBUG:0xf77a26d0>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x96f9e18)->_LoadTable()
+20191228-101234<DEBUG:0xf77a26d0>: [KGD] (0x0x96f9e18)->_LoadTable("playerfightteam")
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Initializing role statistic ...
+20191228-101234<INFO :0xf77a26d0>: [RoleStatistic] listen 192.168.136.146 : 6001 result=1
+20191228-101234<INFO :0xf77a26d0>: [RoleStatistic] Listening at 192.168.136.146:6001
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Initializing server manager ...
+20191228-101234<INFO :0xf77a26d0>: [ServerManager] Listening at 192.168.136.146:5001
+20191228-101234<INFO :0xf77a26d0>: [KG_Goddess] Started successful
+20191228-101236<INFO :0xf6b9fb70>: [ServerManager] RemoteServer from (192.168.136.146:54086) connect ok
+20191228-101236<INFO :0xf6b9fb70>: [ServerManager] Accept from (192.168.136.146:54086) SocketStream = 0xf6000528
+20191228-101236<INFO :0xf6b9fb70>: [[Group 1 Server 00]] Server 0 created ok!
+20191228-101236<INFO :0xf5fffb70>: [Group 1 Server 00] Started, service for 192.168.136.146:54086
+20191228-101236<INFO :0xf5fffb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-101236<DEBUG:0xf5fffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20191228-101236<DEBUG:0xf5fffb70>: [KGD] (0x0xf5400470)->_LoadTable("fightteam")
+20191228-101236<DEBUG:0xf5fffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20191228-101236<DEBUG:0xf5fffb70>: [KGD] (0x0xf5400470)->_LoadTable("playerfightteam")
+20191228-101236<DEBUG:0xf5fffb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-101254<INFO :0xf6b9fb70>: [ServerManager] RemoteServer from (127.0.0.1:36619) connect ok
+20191228-101254<INFO :0xf6b9fb70>: [ServerManager] Accept from (127.0.0.1:36619) SocketStream = 0xf6000a30
+20191228-101254<INFO :0xf6b9fb70>: [[Group 1 Server 01]] Server 1 created ok!
+20191228-101254<INFO :0xf53ffb70>: [Group 1 Server 01] Started, service for 127.0.0.1:36619
+20191228-101254<INFO :0xf53ffb70>: [KGD] Mysql info: client[5.1.69] host[192.168.136.146 via TCP/IP] server[5.1.73]
+20191228-101254<DEBUG:0xf53ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4800470)->_LoadTable()
+20191228-101254<DEBUG:0xf53ffb70>: [KGD] (0x0xf4800470)->_LoadTable("fightteam")
+20191228-101254<DEBUG:0xf53ffb70>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4800470)->_LoadTable()
+20191228-101254<DEBUG:0xf53ffb70>: [KGD] (0x0xf4800470)->_LoadTable("playerfightteam")
+20191228-101254<DEBUG:0xf53ffb70>: [KGD] Success connect to 192.168.136.146:3306, character set switch to latin1
+20191228-101254<INFO :0xf53ffb70>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191228-101254<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _query_statistic_info()
+20191228-101254<DEBUG:0xf53ffb70>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20191228-101254<DEBUG:0xf53ffb70>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20191228-101255<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=152780)
+20191228-101315<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=172792)
+20191228-101324<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=182236)
+20191228-101335<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=192827)
+20191228-101354<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=212278)
+20191228-101355<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=212844)
+20191228-101400<INFO :0xf5fffb70>: [Group 1 Server 00] Query roles list of account "jiqinghk"
+20191228-101400<DEBUG:0xf5fffb70>: [Group 1 Server 00] Leave _query_role_list(jiqinghk) uRoleCount=2 nResult=1
+20191228-101420<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=238205)
+20191228-101424<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=242315)
+20191228-101428<INFO :0xf5fffb70>: [Group 1 Server 00] Get role "JiaXQing" nResult=1
+20191228-101430<DEBUG:0xf53ffb70>: [ServerManager] Role "JiaXQing" locked by Server 01
+20191228-101430<DEBUG:0xf53ffb70>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=JiaXQing, Lock=1) nResult=1
+20191228-101448<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=266422)
+20191228-101454<DEBUG:0xf53ffb70>: [ServerManager] Role "JiaXQing" unlocked by Server 1
+20191228-101454<INFO :0xf53ffb70>: [Group 1 Server 01] Save role end [jiqinghk].[JiaXQing], LeaveFlag = 1 nResult=1
+20191228-101509<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=286463)
+20191228-101524<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=302397)
+20191228-101529<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=306478)
+20191228-101549<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=326493)
+20191228-101555<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=332441)
+20191228-101609<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=346487)
+20191228-101625<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=362472)
+20191228-101629<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=366522)
+20191228-101649<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=386570)
+20191228-101655<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=392516)
+20191228-101709<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=406611)
+20191228-101725<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=422556)
+20191228-101729<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=426660)
+20191228-101749<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=446701)
+20191228-101755<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=452600)
+20191228-101809<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=466719)
+20191228-101825<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=482644)
+20191228-101829<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=486762)
+20191228-101849<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=506795)
+20191228-101855<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=512678)
+20191228-101909<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=526826)
+20191228-101925<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=542718)
+20191228-101929<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=546863)
+20191228-101949<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=566883)
+20191228-101955<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=572759)
+20191228-102009<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=586908)
+20191228-102025<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=602806)
+20191228-102029<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=606940)
+20191228-102049<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=626962)
+20191228-102055<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=632841)
+20191228-102109<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=647006)
+20191228-102125<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=662887)
+20191228-102129<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=667009)
+20191228-102149<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=687046)
+20191228-102155<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=692925)
+20191228-102209<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=707063)
+20191228-102225<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=722963)
+20191228-102229<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=727087)
+20191228-102249<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=747130)
+20191228-102255<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=753007)
+20191228-102309<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=767176)
+20191228-102325<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=783043)
+20191228-102329<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=787182)
+20191228-102350<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=807220)
+20191228-102355<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=813084)
+20191228-102410<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=827261)
+20191228-102425<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=843128)
+20191228-102430<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=847275)
+20191228-102450<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=867302)
+20191228-102456<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=873170)
+20191228-102510<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=887311)
+20191228-102526<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=903206)
+20191228-102530<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=907307)
+20191228-102550<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=927351)
+20191228-102556<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=933253)
+20191228-102610<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=947359)
+20191228-102626<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=963295)
+20191228-102630<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=967409)
+20191228-102650<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=987453)
+20191228-102656<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=993334)
+20191228-102710<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1007463)
+20191228-102726<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1023377)
+20191228-102730<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1027478)
+20191228-102750<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1047476)
+20191228-102756<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1053410)
+20191228-102810<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1067489)
+20191228-102826<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1083455)
+20191228-102830<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1087504)
+20191228-102850<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1107516)
+20191228-102856<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1113491)
+20191228-102910<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1127558)
+20191228-102926<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1143533)
+20191228-102930<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1147593)
+20191228-102950<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1167592)
+20191228-102956<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1173576)
+20191228-103010<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1187636)
+20191228-103026<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1203619)
+20191228-103030<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1207660)
+20191228-103050<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1227710)
+20191228-103056<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1233658)
+20191228-103110<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1247733)
+20191228-103126<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1263693)
+20191228-103130<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1267778)
+20191228-103150<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1287800)
+20191228-103156<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1293740)
+20191228-103210<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1307822)
+20191228-103226<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1323775)
+20191228-103230<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1327860)
+20191228-103250<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1347891)
+20191228-103256<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1353814)
+20191228-103311<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1367929)
+20191228-103326<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1383855)
+20191228-103331<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1387972)
+20191228-103351<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1408014)
+20191228-103357<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1413904)
+20191228-103411<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1428061)
+20191228-103427<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1443940)
+20191228-103431<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1448062)
+20191228-103451<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1468113)
+20191228-103457<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1473979)
+20191228-103511<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1488122)
+20191228-103527<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1504025)
+20191228-103531<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1508134)
+20191228-103551<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1528149)
+20191228-103557<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1534066)
+20191228-103611<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1548178)
+20191228-103627<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1564100)
+20191228-103631<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1568194)
+20191228-103651<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1588204)
+20191228-103657<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1594148)
+20191228-103711<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1608210)
+20191228-103727<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1624182)
+20191228-103731<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1628249)
+20191228-103751<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1648256)
+20191228-103757<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1654218)
+20191228-103811<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1668274)
+20191228-103827<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1684263)
+20191228-103831<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1688313)
+20191228-103851<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1708319)
+20191228-103857<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1714308)
+20191228-103911<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1728336)
+20191228-103927<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1744345)
+20191228-103931<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1748361)
+20191228-103951<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1768388)
+20191228-103957<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1774388)
+20191228-104011<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1788404)
+20191228-104027<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1804424)
+20191228-104031<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1808445)
+20191228-104051<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1828487)
+20191228-104057<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1834468)
+20191228-104111<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1848494)
+20191228-104127<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1864506)
+20191228-104131<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1868500)
+20191228-104151<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1888539)
+20191228-104157<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1894546)
+20191228-104211<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1908573)
+20191228-104227<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1924590)
+20191228-104231<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1928578)
+20191228-104251<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1948588)
+20191228-104258<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1954633)
+20191228-104312<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1968618)
+20191228-104328<DEBUG:0xf53ffb70>: [Group 1 Server 01] Enter _ping(time=1984672)
+20191228-104332<DEBUG:0xf5fffb70>: [Group 1 Server 00] Enter _ping(time=1988675)
+20191228-104334<DEBUG:0xf53ffb70>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191228-104334<ERROR:0xf53ffb70>: [Group 1 Server 01] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191228-104334<WARN :0xf53ffb70>: [[Group 1 Server 01]] RemoteServer 127.0.0.1:36619 crashed
+20191228-104334<INFO :0xf53ffb70>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20191228-104336<DEBUG:0xf5fffb70>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191228-104336<ERROR:0xf5fffb70>: [Group 1 Server 00] Connection with 192.168.136.146 have been disconnected, wait for being reconnectted!
+20191228-104336<WARN :0xf5fffb70>: [[Group 1 Server 00]] RemoteServer 192.168.136.146:54086 crashed
+20191228-104336<INFO :0xf5fffb70>: [ServerManager] Server 0 will stop, unlock all role [count=0] 

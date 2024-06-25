@@ -1,0 +1,12 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=116/65536 LastTime=2020-2-6 1:4:31
+20200207-150446<INFO :0xf7420700>: set runtime statistic result path is [runtime_stat_result/2020_02_06/stat_result_ksg_2020_02_06_@SONGLONG_GW.txt]
+20200207-150446<WARN :0xf7420700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_06/stat_result_ksg_2020_02_06_@SONGLONG_GW.txt Count=368
+20200207-150446<WARN :0xf7420700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_06/stat_result_vng_2020-02-06_@SONGLONG_GW.txt Count=1
+20200207-150446<INFO :0xf7420700>: set runtime statistic result path is [runtime_stat_result/2020_02_07/stat_result_ksg_2020_02_07_@SONGLONG_GW.txt]
+20200207-150446<INFO :0xf7420700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20200207-150446<WARN :0xf7420700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_07/stat_result_ksg_2020_02_07_@SONGLONG_GW.txt Count=363
+20200207-150446<WARN :0xf7420700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_07/stat_result_vng_2020-02-07_@SONGLONG_GW.txt Count=1
+20200207-150451<INFO :0xf7420700>: Connection lost: 1(127.0.0.1, 1)
+20200207-150451<DEBUG:0xf7420700>: gs(100007f) crashed
+20200207-150451<INFO :0xf7420700>: Connection lost: 1(127.0.0.1, 1)
+20200207-150451<INFO :0xf7420700>: Connection lost: 1(127.0.0.1, 1)

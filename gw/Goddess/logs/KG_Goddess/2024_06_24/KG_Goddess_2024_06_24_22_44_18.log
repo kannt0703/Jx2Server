@@ -1,0 +1,410 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Loading KG_Goddess.ini
+20240624-224418<INFO :0xf7385700>: [verify_up2date]...
+20240624-224418<INFO :0xf7385700>: >Current lang is [gb18030]
+20240624-224418<INFO :0xf7385700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240624-224418<INFO :0xf7385700>: >Time duration: 16.487989ms 
+20240624-224418<INFO :0xf7385700>: >
+20240624-224418<INFO :0xf7385700>: >Finish, my exit code is: 0
+20240624-224418<INFO :0xf7385700>: |shell cmd result is 0
+20240624-224418<INFO :0xf7385700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20240624-224418<INFO :0xf7385700>: [verify_up2date] ok
+20240624-224418<INFO :0xf7385700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Initializing role database ...
+20240624-224418<INFO :0xf7385700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20240624-224418<DEBUG:0xf7385700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240624-224418<DEBUG:0xf7385700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8300ff0)->_LoadTable()
+20240624-224418<DEBUG:0xf7385700>: [KGD] (0x0x8300ff0)->_LoadTable("fightteam")
+20240624-224418<DEBUG:0xf7385700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8300ff0)->_LoadTable()
+20240624-224418<DEBUG:0xf7385700>: [KGD] (0x0x8300ff0)->_LoadTable("playerfightteam")
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Initializing role statistic ...
+20240624-224418<INFO :0xf7385700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20240624-224418<INFO :0xf7385700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Initializing server manager ...
+20240624-224418<INFO :0xf7385700>: [ServerManager] Listening at 127.0.0.1:5001
+20240624-224418<INFO :0xf7385700>: [KG_Goddess] Started successful
+20240624-224420<INFO :0xf66f9b40>: [ServerManager] RemoteServer from (127.0.0.1:59038) connect ok
+20240624-224420<INFO :0xf66f9b40>: [ServerManager] Accept from (127.0.0.1:59038) SocketStream = 0xf5d00528
+20240624-224420<INFO :0xf66f9b40>: [[Group 1 Server 00]] Server 0 created ok!
+20240624-224420<INFO :0xf5cffb40>: [Group 1 Server 00] Started, service for 127.0.0.1:59038
+20240624-224420<INFO :0xf5cffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20240624-224420<DEBUG:0xf5cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20240624-224420<DEBUG:0xf5cffb40>: [KGD] (0x0xf5300470)->_LoadTable("fightteam")
+20240624-224420<DEBUG:0xf5cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20240624-224420<DEBUG:0xf5cffb40>: [KGD] (0x0xf5300470)->_LoadTable("playerfightteam")
+20240624-224420<DEBUG:0xf5cffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240624-224439<INFO :0xf66f9b40>: [ServerManager] RemoteServer from (127.0.0.1:42994) connect ok
+20240624-224439<INFO :0xf66f9b40>: [ServerManager] Accept from (127.0.0.1:42994) SocketStream = 0xf5d00a30
+20240624-224439<INFO :0xf66f9b40>: [[Group 1 Server 01]] Server 1 created ok!
+20240624-224439<INFO :0xf52ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:42994
+20240624-224439<INFO :0xf52ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20240624-224440<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=58706)
+20240624-224440<DEBUG:0xf52ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4900470)->_LoadTable()
+20240624-224440<DEBUG:0xf52ffb40>: [KGD] (0x0xf4900470)->_LoadTable("fightteam")
+20240624-224440<DEBUG:0xf52ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4900470)->_LoadTable()
+20240624-224440<DEBUG:0xf52ffb40>: [KGD] (0x0xf4900470)->_LoadTable("playerfightteam")
+20240624-224440<DEBUG:0xf52ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240624-224440<INFO :0xf52ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240624-224440<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20240624-224440<DEBUG:0xf52ffb40>: KGLOG_PROCESS_ERROR(piStatistic) at line 2088 in _query_statistic_info
+20240624-224440<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =0 ret=0
+20240624-224442<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-224442<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-224443<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-224447<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-224447<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-224503<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=82609)
+20240624-224516<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=95626)
+20240624-224523<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=102624)
+20240624-224544<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=122632)
+20240624-224546<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=125208)
+20240624-224604<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=142678)
+20240624-224616<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=155156)
+20240624-224624<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=162697)
+20240624-224644<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=182715)
+20240624-224647<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=185212)
+20240624-224704<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=202713)
+20240624-224717<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=215254)
+20240624-224724<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=222726)
+20240624-224744<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=242725)
+20240624-224747<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=245306)
+20240624-224804<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=262739)
+20240624-224817<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=275321)
+20240624-224824<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=282772)
+20240624-224844<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=302808)
+20240624-224847<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=305346)
+20240624-224904<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=322819)
+20240624-224917<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=335390)
+20240624-224924<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=342866)
+20240624-224944<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=362895)
+20240624-224947<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=365442)
+20240624-225004<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=382925)
+20240624-225017<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=395502)
+20240624-225024<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=402961)
+20240624-225044<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=422979)
+20240624-225046<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-225046<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-225047<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-225047<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-225050<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-225052<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-225052<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-225110<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=448585)
+20240624-225122<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=460378)
+20240624-225130<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=468596)
+20240624-225150<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=488608)
+20240624-225152<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=490440)
+20240624-225210<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=508615)
+20240624-225222<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=520490)
+20240624-225230<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=528642)
+20240624-225250<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=548678)
+20240624-225252<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=550549)
+20240624-225310<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=568702)
+20240624-225322<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=580595)
+20240624-225330<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=588713)
+20240624-225350<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=608722)
+20240624-225352<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=610652)
+20240624-225410<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=628759)
+20240624-225422<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=640707)
+20240624-225430<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=648786)
+20240624-225450<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=668796)
+20240624-225452<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=670761)
+20240624-225510<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=688818)
+20240624-225522<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=700828)
+20240624-225530<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=708858)
+20240624-225550<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=728886)
+20240624-225552<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=730875)
+20240624-225610<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=748911)
+20240624-225622<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=760932)
+20240624-225630<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=768936)
+20240624-225650<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=788951)
+20240624-225652<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=790989)
+20240624-225710<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=808963)
+20240624-225722<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=821045)
+20240624-225729<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225730<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225730<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225730<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225730<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=828970)
+20240624-225731<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225731<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225731<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225731<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225732<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225732<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225732<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225733<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225733<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225733<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225734<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225734<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225734<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225735<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225735<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225736<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225736<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225736<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225736<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225737<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225737<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225738<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225750<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=849005)
+20240624-225808<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=866481)
+20240624-225810<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=869020)
+20240624-225812<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225812<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225813<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225813<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225813<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225814<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225814<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225814<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225815<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225815<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225815<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225816<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225816<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-225829<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-225829<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-225830<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=889060)
+20240624-225832<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-225832<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-225838<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-225839<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-225839<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-225858<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=916396)
+20240624-225909<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=927875)
+20240624-225918<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=936409)
+20240624-225938<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=956431)
+20240624-225939<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=957930)
+20240624-225958<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=976428)
+20240624-230009<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=987984)
+20240624-230018<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=996467)
+20240624-230022<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-230022<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-230025<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-230025<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-230045<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1023936)
+20240624-230052<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1030763)
+20240624-230102<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-230105<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-230105<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-230122<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-230122<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-230122<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1061136)
+20240624-230124<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-230124<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-230126<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-230129<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-230129<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-230146<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1084939)
+20240624-230149<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230149<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230150<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230150<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230151<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230151<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230151<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230152<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230152<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230152<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230153<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230153<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230206<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1104969)
+20240624-230223<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1121537)
+20240624-230226<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1124969)
+20240624-230246<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1144982)
+20240624-230253<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1151596)
+20240624-230306<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1165001)
+20240624-230323<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1181654)
+20240624-230326<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1185045)
+20240624-230346<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1205064)
+20240624-230353<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1211703)
+20240624-230406<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1225073)
+20240624-230423<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1241761)
+20240624-230426<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1245078)
+20240624-230446<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1265086)
+20240624-230453<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1271820)
+20240624-230506<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1285097)
+20240624-230523<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1301867)
+20240624-230526<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1305104)
+20240624-230546<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1325123)
+20240624-230553<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1331930)
+20240624-230606<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1345134)
+20240624-230623<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1361997)
+20240624-230625<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230625<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230626<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1365164)
+20240624-230646<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1385187)
+20240624-230656<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1394197)
+20240624-230707<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1405198)
+20240624-230721<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230721<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230727<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1425211)
+20240624-230747<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1445227)
+20240624-230752<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1450196)
+20240624-230807<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1465252)
+20240624-230817<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230817<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230827<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1485267)
+20240624-230847<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1505274)
+20240624-230847<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1505700)
+20240624-230907<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1525285)
+20240624-230909<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230910<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-230927<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1545302)
+20240624-230940<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1558536)
+20240624-230947<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1565318)
+20240624-231005<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231006<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231006<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231007<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1585327)
+20240624-231027<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1605344)
+20240624-231036<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1615030)
+20240624-231047<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1625357)
+20240624-231106<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1645089)
+20240624-231107<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1645388)
+20240624-231119<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231120<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231120<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231127<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1665396)
+20240624-231147<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1685412)
+20240624-231150<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1688758)
+20240624-231207<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1705430)
+20240624-231220<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1718805)
+20240624-231226<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231226<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231227<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1725453)
+20240624-231227<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231227<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231247<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1745458)
+20240624-231257<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1755926)
+20240624-231307<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1765464)
+20240624-231327<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1785476)
+20240624-231327<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1785981)
+20240624-231347<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1805526)
+20240624-231357<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1816030)
+20240624-231406<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231406<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231407<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231407<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1825568)
+20240624-231407<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231407<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231408<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231427<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1845586)
+20240624-231438<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1856533)
+20240624-231447<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1865594)
+20240624-231507<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1885634)
+20240624-231508<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1886587)
+20240624-231527<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1905658)
+20240624-231538<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1916648)
+20240624-231547<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1925692)
+20240624-231607<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1945700)
+20240624-231608<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1946692)
+20240624-231627<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1965713)
+20240624-231638<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=1976757)
+20240624-231647<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=1985726)
+20240624-231700<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231701<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231701<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231701<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231702<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231702<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231702<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231703<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231703<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231704<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231704<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231704<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231705<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231705<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231705<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231706<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231706<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231707<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231707<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231707<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2005743)
+20240624-231707<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231707<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231708<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231708<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 0 nResult=1
+20240624-231727<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2025747)
+20240624-231738<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2036757)
+20240624-231747<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2045749)
+20240624-231807<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2065765)
+20240624-231808<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2066804)
+20240624-231827<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2085790)
+20240624-231838<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2096869)
+20240624-231847<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2105804)
+20240624-231907<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2125818)
+20240624-231908<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2126914)
+20240624-231927<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2145836)
+20240624-231938<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2156970)
+20240624-231947<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2165841)
+20240624-232007<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2185854)
+20240624-232008<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2187033)
+20240624-232027<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2205882)
+20240624-232038<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2217090)
+20240624-232047<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2225887)
+20240624-232107<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2245931)
+20240624-232108<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2247144)
+20240624-232127<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2265966)
+20240624-232139<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2277204)
+20240624-232147<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2285974)
+20240624-232207<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2306000)
+20240624-232209<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2307253)
+20240624-232227<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2326025)
+20240624-232239<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2337311)
+20240624-232247<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2346074)
+20240624-232307<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2366074)
+20240624-232309<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2367358)
+20240624-232327<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2386114)
+20240624-232339<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2397414)
+20240624-232347<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2406127)
+20240624-232407<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2426176)
+20240624-232409<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2427467)
+20240624-232428<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2446211)
+20240624-232439<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2457529)
+20240624-232448<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2466221)
+20240624-232508<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2486228)
+20240624-232509<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2487585)
+20240624-232528<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2506251)
+20240624-232539<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2517639)
+20240624-232548<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2526269)
+20240624-232608<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2546273)
+20240624-232609<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2547696)
+20240624-232628<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2566279)
+20240624-232639<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2577752)
+20240624-232648<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2586290)
+20240624-232708<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2606293)
+20240624-232709<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2607808)
+20240624-232712<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-232712<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-232715<INFO :0xf5cffb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240624-232715<DEBUG:0xf5cffb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240624-232716<INFO :0xf5cffb40>: [Group 1 Server 00] Get role "Jx2iiTieuKan" nResult=1
+20240624-232718<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" locked by Server 01
+20240624-232718<DEBUG:0xf52ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKan, Lock=1) nResult=1
+20240624-232736<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2634431)
+20240624-232748<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2646197)
+20240624-232756<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2654436)
+20240624-232816<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2674445)
+20240624-232818<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2676246)
+20240624-232836<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2694468)
+20240624-232848<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2706305)
+20240624-232856<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2714485)
+20240624-232916<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2734501)
+20240624-232918<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2736354)
+20240624-232936<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2754518)
+20240624-232948<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2766411)
+20240624-232956<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2774519)
+20240624-233016<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2794529)
+20240624-233018<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2796466)
+20240624-233036<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2814539)
+20240624-233048<DEBUG:0xf52ffb40>: [Group 1 Server 01] Enter _ping(time=2826529)
+20240624-233056<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2834550)
+20240624-233112<DEBUG:0xf52ffb40>: [ServerManager] Role "Jx2iiTieuKan" unlocked by Server 1
+20240624-233112<INFO :0xf52ffb40>: [Group 1 Server 01] Save role end [kan].[Jx2iiTieuKan], LeaveFlag = 1 nResult=1
+20240624-233116<DEBUG:0xf5cffb40>: [Group 1 Server 00] Enter _ping(time=2854563)

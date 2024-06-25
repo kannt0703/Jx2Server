@@ -1,0 +1,108 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200209-152334<INFO :0xf7413700>: [verify_up2date]...
+20200209-152334<INFO :0xf7413700>: >Current lang is [gb18030]
+20200209-152334<INFO :0xf7413700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20200209-152334<INFO :0xf7413700>: >Time duration: 7.716931ms 
+20200209-152334<INFO :0xf7413700>: >
+20200209-152334<INFO :0xf7413700>: >Finish, my exit code is: 0
+20200209-152334<INFO :0xf7413700>: |shell cmd result is 0
+20200209-152334<INFO :0xf7413700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Relay" ] ret=0
+20200209-152334<INFO :0xf7413700>: [verify_up2date] ok
+20200209-152334<INFO :0xf7413700>: [Relay][Version:Nov 14 2014 15:55:12] Begin to start ... ...
+20200209-152334<INFO :0xf7413700>: [KG_Relay] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20200209-152334<INFO :0xf7413700>: [KG_Relay] Loading relay.ini
+20200209-152334<INFO :0xf7413700>: Run without GMC!
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8b8fba0)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8b8fba0)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8b8fba0)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8b8fba0)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<INFO :0xf70e1b40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf70e1b40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf6700470)->_LoadTable()
+20200209-152334<DEBUG:0xf70e1b40>: [KGD] (0x0xf6700470)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bbe5d8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bbe5d8)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf70e1b40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf6700470)->_LoadTable()
+20200209-152334<DEBUG:0xf70e1b40>: [KGD] (0x0xf6700470)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bbe5d8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bbe5d8)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf70e1b40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf66ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf66ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5d00470)->_LoadTable()
+20200209-152334<DEBUG:0xf66ffb40>: [KGD] (0x0xf5d00470)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf66ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5d00470)->_LoadTable()
+20200209-152334<DEBUG:0xf66ffb40>: [KGD] (0x0xf5d00470)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf66ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bbd1c8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bbd1c8)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bbd1c8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bbd1c8)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<INFO :0xf5cffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bd1788)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bd1788)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bd1788)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bd1788)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf5cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20200209-152334<DEBUG:0xf5cffb40>: [KGD] (0x0xf5300470)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<DEBUG:0xf5cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5300470)->_LoadTable()
+20200209-152334<DEBUG:0xf5cffb40>: [KGD] (0x0xf5300470)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf5cffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf52ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf52ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4900470)->_LoadTable()
+20200209-152334<DEBUG:0xf52ffb40>: [KGD] (0x0xf4900470)->_LoadTable("fightteam")
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf52ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4900470)->_LoadTable()
+20200209-152334<DEBUG:0xf52ffb40>: [KGD] (0x0xf4900470)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf52ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bf47a8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bf47a8)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8bf47a8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8bf47a8)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8c1a858)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8c1a858)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8c1a858)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8c1a858)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf48ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf48ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3f00470)->_LoadTable()
+20200209-152334<DEBUG:0xf48ffb40>: [KGD] (0x0xf3f00470)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf48ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3f00470)->_LoadTable()
+20200209-152334<DEBUG:0xf48ffb40>: [KGD] (0x0xf3f00470)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf48ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.64-MariaDB]
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8dd9ab8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8dd9ab8)->_LoadTable("fightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x8dd9ab8)->_LoadTable()
+20200209-152334<DEBUG:0xf7413700>: [KGD] (0x0x8dd9ab8)->_LoadTable("playerfightteam")
+20200209-152334<DEBUG:0xf7413700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20200209-152334<INFO :0xf7413700>: [MySQLDatabase] Connecting to `127.0.0.1`, database `jx2ib_database`...
+20200209-152334<INFO :0xf7413700>: [MySQLDatabase] Connecting to `127.0.0.1`, database `jx2ib_database`...
+20200209-152334<INFO :0xf7413700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20200209-152334<INFO :0xf7413700>: set runtime statistic result path is [runtime_stat_result/2020_02_09/stat_result_ksg_2020_02_09_@SONGLONG_GW.txt]
+20200209-152334<WARN :0xf7413700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_09/stat_result_ksg_2020_02_09_@SONGLONG_GW.txt Count=377
+20200209-152334<WARN :0xf7413700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_02_09/stat_result_vng_2020-02-09_@SONGLONG_GW.txt Count=1
+20200209-152343<INFO :0xf7413700>: New connection from 127.0.0.1:33671, index = 0
+20200209-152343<DEBUG:0xf7413700>: Send log info to gs(100007f) when connect ret=1
+20200209-152343<INFO :0xf7413700>: New connection from 127.0.0.1:17556, index = 0
+20200209-152344<INFO :0xf7413700>: New connection from 127.0.0.1:22953, index = 0
+20200209-152344<INFO :0xf7413700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20200209-152344<ERROR:0xf7413700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20200209-152344<DEBUG:0xf7413700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20200209-152344<ERROR:0xf7413700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20200209-152344<DEBUG:0xf7413700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20200209-152344<ERROR:0xf7413700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20200209-152344<DEBUG:0xf7413700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20200209-152344<INFO :0xf7413700>: Proc0_GameSvrLogin
+20200209-152344<INFO :0xf7413700>: [MAP_INDEX_INFO] Notify map count 290 for gs: 0100007F
+20200209-152346<WARN :0xf7413700>: Router NOT connected
