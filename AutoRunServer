@@ -7,9 +7,9 @@ start_app() {
 
 start_app /root/Desktop/pay/ wine vzopaysys.exe 
 sleep 3
-start_app /home/server/gw/Goodess KG_Goodess
+start_app /home/server/gw/Goodess KG_GoodessD
 sleep 3
-start_app /home/server/gw/Bishop KG_Bishop
+start_app /home/server/gw/Bishop KG_BishopD
 sleep 3
 start_app /home/server/gw/Relay SO2RelayD
 sleep 3
