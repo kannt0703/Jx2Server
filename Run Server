@@ -1,0 +1,22 @@
+#!/bin/bash
+cd /root/Desktop/pay/ && ./wine zasyspay.exe &
+sleep 3
+cd /home/server/gw/Goodess && ./KG_Goodess &
+sleep 3
+cd /home/server/gw/Bishop && ./KG_Bishop &
+sleep 3
+cd /home/server/gw/Relay && ./SO2RelayD &
+sleep 3
+cd /home/server/gs0/ && ./SO2GameSrvD0 &
+sleep 3
+cd /home/server/gs1/ && ./SO2GameSrvD1 &
+sleep 3
+cd /home/server/gs2/ && ./SO2GameSrvD2 &
+sleep 3
+cd /home/server/gs3/ && ./SO2GameSrvD3 &
+sleep 3
+cd /home/server/gs4/ && ./SO2GameSrvD4 &
+sleep 3
+cd /home/server/gs5/ && ./SO2GameSrvD5 &
+sleep 3
+cd /home/server/gs6/ && ./SO2GameSrvD6 &
