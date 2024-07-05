@@ -1,3 +1,9 @@
+6660-6666: Các cổng dành cho server game (SO2GameSvrD0 đến SO2GameSvrD6).
+5001, 6001, 60094: Các cổng được sử dụng bởi KG_GoddessD.
+5003, 5004, 5005, 62205: Các cổng được sử dụng bởi SO2RelayD.
+5622, 60859, 5632, 5633: Các cổng được sử dụng bởi KG_BishopD.
+Lưu ý: Cổng 3306 (MariaDB/MySQL) có thể cũng được sử dụng cho server game, nhưng nó không phải là một cổng dành riêng cho game.
+
 Cổng 6660-6666: Đây là các cổng dành cho server game Võ Lâm Truyền Kỳ của bạn (SO2GameSvrD0 đến SO2GameSvrD6).
 Cổng 5001, 6001, 60094: Các cổng này được sử dụng bởi KG_GoddessD, một thành phần khác của server game Võ Lâm Truyền Kỳ.
 Cổng 3306: Cổng mặc định của MySQL/MariaDB, có thể bạn đang chạy một máy chủ cơ sở dữ liệu để hỗ trợ server game.
