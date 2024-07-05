@@ -1,28 +1,32 @@
 #!/bin/bash
 
-start_app() {
-  cd "$1" && nohup "$2" > /dev/null 2>&1 &
-  echo "Started $2 in $1"
+# Hàm để chạy server và in thông báo hoàn thành
+run_server() {
+  local dir=$1
+  local server=$2
+
+  cd "$dir" || exit 1 # Kiểm tra thư mục, thoát nếu lỗi
+  ./"$server" &       # Chạy server ở chế độ nền
+  echo "$server đã chạy xong"
 }
 
-start_app /root/Desktop/pay/ wine vzopaysys.exe 
-sleep 3
-start_app /home/server/gw/Goodess KG_GoodessD
-sleep 3
-start_app /home/server/gw/Bishop KG_BishopD
-sleep 3
-start_app /home/server/gw/Relay SO2RelayD
-sleep 3
-start_app /home/server/gs0/ SO2GameSrvD0
-sleep 3
-start_app /home/server/gs1/ SO2GameSrvD1
-sleep 3
-start_app /home/server/gs2/ SO2GameSrvD2
-sleep 3
-start_app /home/server/gs3/ SO2GameSrvD3
-sleep 3
-start_app /home/server/gs4/ SO2GameSrvD4
-sleep 3
-start_app /home/server/gs5/ SO2GameSrvD5
-sleep 3
-start_app /home/server/gs6/ SO2GameSrvD6
+# Chạy các server
+run_server "/home/server/gw/Goddess" "KG_GoddessD"
+sleep 10
+run_server "/home/server/gw/Bishop" "KG_BishopD"
+sleep 10
+run_server "/home/server/gw/Relay" "SO2RelayD"
+sleep 10
+run_server "/home/server/gs0" "SO2GameSvrD0"
+sleep 10
+run_server "/home/server/gs1" "SO2GameSvrD1"
+sleep 10
+run_server "/home/server/gs2" "SO2GameSvrD2"
+sleep 10
+run_server "/home/server/gs3" "SO2GameSvrD3"
+sleep 10
+run_server "/home/server/gs4" "SO2GameSvrD4"
+sleep 10
+run_server "/home/server/gs5" "SO2GameSvrD5"
+sleep 10
+run_server "/home/server/gs6" "SO2GameSvrD6"
