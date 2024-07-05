@@ -1,3 +1,32 @@
+# Mở cổng cho server Võ Lâm Truyền Kỳ
+sudo firewall-cmd --permanent --add-port=6660-6666/tcp
+sudo firewall-cmd --permanent --add-port=3306/tcp
+sudo firewall-cmd --permanent --add-port=5001/tcp
+sudo firewall-cmd --permanent --add-port=6001/tcp
+sudo firewall-cmd --permanent --add-port=60094/tcp
+sudo firewall-cmd --permanent --add-port=5003/tcp
+sudo firewall-cmd --permanent --add-port=5004/tcp
+sudo firewall-cmd --permanent --add-port=5005/tcp
+sudo firewall-cmd --permanent --add-port=62205/tcp
+sudo firewall-cmd --permanent --add-port=5622/tcp
+sudo firewall-cmd --permanent --add-port=60859/tcp
+sudo firewall-cmd --permanent --add-port=5632/tcp
+sudo firewall-cmd --permanent --add-port=5633/tcp
+
+# Mở cổng UDP (nếu cần)
+sudo firewall-cmd --permanent --add-port=1500-1600/udp
+sudo firewall-cmd --permanent --add-port=50000-65535/udp
+
+# Mở cổng SSH
+sudo firewall-cmd --permanent --add-port=22/tcp
+
+# Mở cổng XRDP
+sudo firewall-cmd --permanent --add-port=3389/tcp
+
+# Áp dụng các thay đổi
+sudo firewall-cmd --reload
+
+
 6660-6666: Các cổng dành cho server game (SO2GameSvrD0 đến SO2GameSvrD6).
 5001, 6001, 60094: Các cổng được sử dụng bởi KG_GoddessD.
 5003, 5004, 5005, 62205: Các cổng được sử dụng bởi SO2RelayD.
