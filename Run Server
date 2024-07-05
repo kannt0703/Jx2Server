@@ -1,22 +1,13 @@
-#!/bin/bash
-cd /root/Desktop/pay/ && ./wine zasyspay.exe &
-sleep 3
-cd /home/server/gw/Goodess && ./KG_Goodess &
-sleep 3
-cd /home/server/gw/Bishop && ./KG_Bishop &
-sleep 3
-cd /home/server/gw/Relay && ./SO2RelayD &
-sleep 3
-cd /home/server/gs0/ && ./SO2GameSrvD0 &
-sleep 3
-cd /home/server/gs1/ && ./SO2GameSrvD1 &
-sleep 3
-cd /home/server/gs2/ && ./SO2GameSrvD2 &
-sleep 3
-cd /home/server/gs3/ && ./SO2GameSrvD3 &
-sleep 3
-cd /home/server/gs4/ && ./SO2GameSrvD4 &
-sleep 3
-cd /home/server/gs5/ && ./SO2GameSrvD5 &
-sleep 3
-cd /home/server/gs6/ && ./SO2GameSrvD6 &
+Cổng 6660-6666: Đây là các cổng dành cho server game Võ Lâm Truyền Kỳ của bạn (SO2GameSvrD0 đến SO2GameSvrD6).
+Cổng 5001, 6001, 60094: Các cổng này được sử dụng bởi KG_GoddessD, một thành phần khác của server game Võ Lâm Truyền Kỳ.
+Cổng 3306: Cổng mặc định của MySQL/MariaDB, có thể bạn đang chạy một máy chủ cơ sở dữ liệu để hỗ trợ server game.
+Cổng 5003, 5004, 5005, 62205: Các cổng này được sử dụng bởi SO2RelayD, một thành phần khác của server game.
+Cổng 111, 988: Các cổng này được sử dụng bởi rpcbind, một dịch vụ cung cấp thông tin về các chương trình RPC (Remote Procedure Call) đang chạy trên hệ thống.
+Cổng 53: Cổng DNS (Domain Name System), được sử dụng bởi dnsmasq để phân giải tên miền.
+Cổng 5622, 60859, 5632, 5633: Các cổng này được sử dụng bởi KG_BishopD, một thành phần khác của server game.
+Cổng 22: Cổng SSH (Secure Shell), được sử dụng để đăng nhập từ xa vào máy chủ.
+Cổng 631: Cổng IPP (Internet Printing Protocol), được sử dụng để chia sẻ máy in qua mạng.
+Cổng 5913: Cổng VNC (Virtual Network Computing), được sử dụng để điều khiển máy tính từ xa qua giao diện đồ họa.
+Cổng 25: Cổng SMTP (Simple Mail Transfer Protocol), được sử dụng để gửi email.
+Cổng 8000: Cổng được sử dụng bởi wineserver, có thể liên quan đến Wine (một chương trình cho phép chạy các ứng dụng Windows trên Linux).
+Cổng 3350, 3389: Các cổng này liên quan đến dịch vụ Xrdp, một dịch vụ cho phép kết nối máy tính từ xa thông qua giao thức Remote Desktop Protocol (RDP).
