@@ -70,6 +70,15 @@ else
     echo "Không có IP trùng."
 fi
 
+# Hiển thị LocalIPAddress của Bishop.ini
+bishop_config_file="$config_dir/gw/Bishop/bishop.ini"
+if [ -f "$bishop_config_file" ]; then
+    bishop_local_ip=$(grep -oP '(?<=^LocalIPAddress=).*' "$bishop_config_file")
+    echo "LocalIPAddress trong file $bishop_config_file là: $bishop_local_ip"
+else
+    echo "Không tìm thấy file cấu hình: $bishop_config_file"
+fi
+
 # Hỏi xác nhận thay đổi tất cả các IP cũ
 read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new_ip không? (y/n): " confirm
 
