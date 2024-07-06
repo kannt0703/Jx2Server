@@ -1,6 +1,7 @@
 # Jx2Server
 Server Võ Lâm 2
 
+
 Trò chuyện với Gemini
 expand_more
 ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Relay" ] ret=0
@@ -1001,4 +1002,4 @@ Port Forwarding (chuyển tiếp cổng): Định tuyến các yêu cầu từ i
 DMZ (Demilitarized Zone): Khu vực mạng riêng biệt để đặt các server cần truy cập từ internet.
 DDNS (Dynamic DNS): Dịch vụ cung cấp tên miền cố định cho các máy chủ có địa chỉ IP động.
 Loopback address (127.0.0.1): Địa chỉ IP đặc biệt dùng để giao tiếp nội bộ trong máy chủ.
-Hy vọng danh sách này giúp bạn tổng hợp lại các công cụ và khái niệm đã sử dụng trong quá trình cấu hình server game Võ Lâm Truyền Kỳ 2.
+Hy vọng danh sách này giúp bạn tổng hợp lại các công cụ và khái niệm đã sử dụng trong quá trình cấu hình server game Võ Lâm Truyền Kỳ 2
