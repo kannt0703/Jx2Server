@@ -11,8 +11,9 @@ fi
 
 echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
 
+
 # Nhập địa chỉ IP mới
-echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguy$
+echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
 read new_ip
 
 # Nếu không nhập gì, giữ nguyên IP cũ
