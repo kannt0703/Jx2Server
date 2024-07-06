@@ -1,0 +1,77 @@
+#!/bin/bash
+
+# Nhập địa chỉ IP mới
+echo "Nhập địa chỉ IP mới cho ExternalIP: "
+read new_ip
+
+# Kiểm tra định dạng địa chỉ IP (đơn giản)
+if [[ ! $new_ip =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+    echo "Địa chỉ IP không hợp lệ!"
+    exit 1
+fi
+
+# Thư mục chứa các file cấu hình
+config_dir="/home/server"
+
+# Danh sách các thư mục cần kiểm tra
+subdirs_gs=("gs0" "gs1" "gs2" "gs3" "gs4" "gs5" "gs6")
+subdirs_other=("gw/Bishop" "gw/Goddess" "gw/Relay")
+
+# Hiển thị ExternalIP cũ của các server game mini (gs0 - gs6)
+echo "ExternalIP cũ của các server game mini:"
+for subdir in "${subdirs_gs[@]}"; do
+    config_file="$config_dir/$subdir/servercfg.ini"
+    if [ -f "$config_file" ]; then
+        old_ip=$(grep -oP '(?<=^ExternalIP=).*' "$config_file")
+        if [ -n "$old_ip" ]; then
+            echo "- $config_file: $old_ip"
+        fi
+    fi
+done
+
+# Kiểm tra IP trùng trong các file .ini khác
+echo "Kiểm tra IP trùng trong các file .ini khác:"
+found_duplicate=false  # Biến để theo dõi có IP trùng hay không
+duplicate_files=()     # Mảng để lưu trữ các file có IP trùng
+for subdir in "${subdirs_other[@]}"; do
+    for config_file in "$config_dir/$subdir"/*.ini; do
+        if [ -f "$config_file" ] && grep -q "^ExternalIP=$old_ip" "$config_file"; then
+            duplicate_files+=("$config_file")  # Thêm file vào mảng nếu tìm thấy IP trùng
+            found_duplicate=true
+        fi
+    done
+done
+
+# Hiển thị kết quả kiểm tra IP trùng
+if $found_duplicate; then
+    echo "Có IP trùng, vui lòng kiểm tra lại các file sau:"
+    for file in "${duplicate_files[@]}"; do
+        echo "- $file"
+    done
+else
+    echo "Không có IP trùng."
+fi
+
+# Hỏi xác nhận thay đổi tất cả các IP cũ
+read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new_ip không? (y/n): " confirm
+
+# Nếu xác nhận là "y" thì thay đổi
+if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
+    # Duyệt qua tất cả các thư mục
+    for subdir in "${subdirs_gs[@]}" "${subdirs_other[@]}"; do  
+        for config_file in "$subdir"/*.ini; do
+            # Kiểm tra xem file có tồn tại không
+            if [ -f "$config_file" ]; then
+                # Lấy giá trị ExternalIP cũ (nếu có)
+                old_ip=$(grep -oP '(?<=^ExternalIP=).*' "$config_file")
+                if [ -n "$old_ip" ]; then
+                    # Thay thế giá trị cũ bằng giá trị mới
+                    sed -i "s/^ExternalIP=.*/ExternalIP=$new_ip/" "$config_file"
+                    echo "Đã cập nhật ExternalIP thành $new_ip trong file $config_file"
+                fi
+            fi
+        done
+    done
+else
+    echo "Đã giữ nguyên tất cả các ExternalIP"
+fi
