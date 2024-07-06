@@ -1,13 +1,15 @@
 #!/bin/bash
 
-# Lấy tên giao diện mạng chính xác
-interface=$(ip route get 8.8.8.8 | awk -F"dev " 'NR==1{split($2,a," ");print a[1]}')
+# Lấy địa chỉ IP hiện tại từ DDNS (thay thế eth0 bằng giao diện mạng của bạn nếu cần)
+current_ip=$(dig +short kannt.ddns.net)
 
-# Lấy địa chỉ IP hiện tại của máy chủ
-current_ip=$(ip addr show $interface | grep -oP 'inet \K[\d.]+')
+# Nếu không lấy được IP từ DDNS, sử dụng IP của giao diện mạng
+if [ -z "$current_ip" ]; then
+    interface=$(ip route get 8.8.8.8 | awk -F"dev " 'NR==1{split($2,a," ");print a[1]}')
+    current_ip=$(ip addr show $interface | grep -oP 'inet \K[\d.]+')
+fi
 
 echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
-
 
 # Nhập địa chỉ IP mới
 echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
