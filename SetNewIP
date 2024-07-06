@@ -33,14 +33,17 @@ done
 echo "Kiểm tra IP trùng trong các file .ini khác:"
 found_duplicate=false  # Biến để theo dõi có IP trùng hay không
 duplicate_files=()     # Mảng để lưu trữ các file có IP trùng
-for subdir in "${subdirs_other[@]}"; do
-    for config_file in "$config_dir/$subdir"/*.ini; do
-        if [ -f "$config_file" ] && grep -q "^ExternalIP=$old_ip" "$config_file"; then
-            duplicate_files+=("$config_file")  # Thêm file vào mảng nếu tìm thấy IP trùng
-            found_duplicate=true
-        fi
+for old_ip in "${old_ips[@]}"; do
+    for subdir in "${subdirs_other[@]}"; do
+        for config_file in "$config_dir/$subdir"/*.ini; do
+            if [ -f "$config_file" ] && grep -q "$old_ip" "$config_file"; then
+                duplicate_files+=("$config_file")  # Thêm file vào mảng nếu tìm thấy IP trùng
+                found_duplicate=true
+            fi
+        done
     done
 done
+
 
 # Hiển thị kết quả kiểm tra IP trùng
 if $found_duplicate; then
@@ -59,7 +62,7 @@ read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new
 if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
     # Duyệt qua tất cả các thư mục
     for subdir in "${subdirs_gs[@]}" "${subdirs_other[@]}"; do  
-        for config_file in "$subdir"/*.ini; do
+        for config_file in "$config_dir/$subdir"/*.ini; do
             # Kiểm tra xem file có tồn tại không
             if [ -f "$config_file" ]; then
                 # Lấy giá trị ExternalIP cũ (nếu có)
