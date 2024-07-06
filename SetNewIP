@@ -1,8 +1,22 @@
 #!/bin/bash
 
+# Lấy tên giao diện mạng chính xác
+interface=$(ip route get 8.8.8.8 | awk -F"dev " 'NR==1{split($2,a," ");print a[1]}')
+
+# Lấy địa chỉ IP hiện tại của máy chủ
+current_ip=$(ip addr show $interface | grep -oP 'inet \K[\d.]+')
+
+echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
+
+
 # Nhập địa chỉ IP mới
-echo "Nhập địa chỉ IP mới cho ExternalIP: "
+echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
 read new_ip
+
+# Nếu không nhập gì, giữ nguyên IP cũ
+if [ -z "$new_ip" ]; then
+    new_ip=$current_ip
+fi
 
 # Kiểm tra định dạng địa chỉ IP (đơn giản)
 if [[ ! $new_ip =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
@@ -44,7 +58,6 @@ for old_ip in "${old_ips[@]}"; do
     done
 done
 
-
 # Hiển thị kết quả kiểm tra IP trùng
 if $found_duplicate; then
     echo "Có IP trùng, vui lòng kiểm tra lại các file sau:"
@@ -62,7 +75,7 @@ read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new
 if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
     # Duyệt qua tất cả các thư mục
     for subdir in "${subdirs_gs[@]}" "${subdirs_other[@]}"; do  
-        for config_file in "$config_dir/$subdir"/*.ini; do
+        for config_file in "$subdir"/*.ini; do
             # Kiểm tra xem file có tồn tại không
             if [ -f "$config_file" ]; then
                 # Lấy giá trị ExternalIP cũ (nếu có)
