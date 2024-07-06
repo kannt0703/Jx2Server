@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Nhập địa chỉ IP mới
-echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
-read new_ip
-
 # Lấy địa chỉ IP hiện tại từ DDNS (thay thế eth0 bằng giao diện mạng của bạn nếu cần)
 current_ip=$(dig +short kannt.ddns.net)
 
@@ -14,6 +10,10 @@ if [ -z "$current_ip" ]; then
 fi
 
 echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
+
+# Nhập địa chỉ IP mới
+echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguy$
+read new_ip
 
 # Nếu không nhập gì, giữ nguyên IP cũ
 if [ -z "$new_ip" ]; then
