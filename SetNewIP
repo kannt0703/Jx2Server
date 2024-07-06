@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Nhập địa chỉ IP mới
+echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
+read new_ip
+
 # Lấy địa chỉ IP hiện tại từ DDNS (thay thế eth0 bằng giao diện mạng của bạn nếu cần)
 current_ip=$(dig +short kannt.ddns.net)
 
@@ -10,10 +14,6 @@ if [ -z "$current_ip" ]; then
 fi
 
 echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
-
-# Nhập địa chỉ IP mới
-echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
-read new_ip
 
 # Nếu không nhập gì, giữ nguyên IP cũ
 if [ -z "$new_ip" ]; then
@@ -70,11 +70,17 @@ else
     echo "Không có IP trùng."
 fi
 
-# Hiển thị LocalIPAddress của Bishop.ini
+# Hiển thị LocalIPAddress của Bishop.ini trong phần [Player]
 bishop_config_file="$config_dir/gw/Bishop/bishop.ini"
 if [ -f "$bishop_config_file" ]; then
-    bishop_local_ip=$(grep -oP '(?<=^LocalIPAddress=).*' "$bishop_config_file")
-    echo "LocalIPAddress trong file $bishop_config_file là: $bishop_local_ip"
+    # Tìm kiếm dòng chứa LocalIPAddress trong phần [Player]
+    local_ip_line=$(grep -A1 '^\[Player\]$' "$bishop_config_file" | grep 'LocalIPAddress=')
+    if [ -n "$local_ip_line" ];then
+        bishop_local_ip=$(echo "$local_ip_line" | cut -d '=' -f 2)
+        echo "LocalIPAddress trong phần [Player] của file $bishop_config_file là: $bishop_local_ip"
+    else
+        echo "Không tìm thấy LocalIPAddress trong phần [Player] của file $bishop_config_file"
+    fi
 else
     echo "Không tìm thấy file cấu hình: $bishop_config_file"
 fi
@@ -102,3 +108,4 @@ if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
 else
     echo "Đã giữ nguyên tất cả các ExternalIP"
 fi
+
