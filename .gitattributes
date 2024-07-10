@@ -1,2 +1,7 @@
 gs/SO2GameSvrD345 filter=lfs diff=lfs merge=lfs -text
 GameServer/SO2GameSvrD345 filter=lfs diff=lfs merge=lfs -text
+Comment-jx2/Km6/* filter=lfs diff=lfs merge=lfs -text
+Comment-jx2/battle_equipment_item.lua filter=lfs diff=lfs merge=lfs -text
+Comment-jx2/gm_item_tifuzhiyin.lua filter=lfs diff=lfs merge=lfs -text
+Comment-jx2/gm_item_tifuzhiyin1.lua filter=lfs diff=lfs merge=lfs -text
+Comment-jx2/worldset_1.ini filter=lfs diff=lfs merge=lfs -text

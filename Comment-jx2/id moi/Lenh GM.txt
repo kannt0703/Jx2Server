@@ -1,0 +1,128 @@
+?gm ds AddItem(0,101,30207,1,1,-1,-1,-1,-1,-1,-1,-1,15) l?y qu?n Thiên h? vô song NTC.
+?gm ds AddItem(0,105,30332,1,4,-1,-1,-1,-1,-1,-1,-1)-Thú cu?i
+?gm ds AddItem(0,101,30207,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Qu?n THVS
+?gm ds AddItem(0,103,30207,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Nón THVS
+?gm ds AddItem(0,100,30207,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Áo THVS
+?gm ds AddItem(0,101,30227,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Qu?n LHT
+?gm ds AddItem(0,103,30227,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Nón LHT
+?gm ds AddItem(0,100,30227,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Áo LHT
+?gm ds AddItem(0,101,30219,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Qu?n tHS
+?gm ds AddItem(0,103,30219,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Nón tHS
+?gm ds AddItem(0,100,30219,1,1,-1,-1,-1,-1,-1,-1,-1,15)-Áo tHS
+?gm ds AddItem(0,102,30219,1,1,-1,-1,-1,-1,-1,-1,-1,15)-NB tHS
+?gm ds AddItem(0,102,8846,1,1,7,484,7,844,7,844,-1,15)-NB huy hoang
+?gm ds AddItem(0,102,8847,1,1,7,484,7,844,7,844,-1,15) - Nb vINH dU
+--TRANG BI
+?gm ds AddItem(0,0,16,1,1,7,252,7,252,7,252,-1,15)-Bao tay h?t nhân nguyên t?
+?gm ds AddItem(0,2,30235,1,1,7,252,7,252,7,252,1,15) kiem hh nm
+?gm ds AddItem(0,4,30258,1,1,-1,-1,-1,-1,-1,-1,-1,15) vk hh dgc
+?gm ds AddItem(0,0,30228,1,1,-1,-1,-1,-1,-1,-1,-1,15) vk hh tlq
++ Nga Mi
+?gm ds AddItem(0,2,30154,1,1,7		KIEM CHIEN CUONG NM
+?gm ds AddItem(0,2,20759,1,1,7,852,7,14084,7,14523,1,15)	UH Soai kiem
+?gm ds AddItem(0,103,20759,1,1,7,14487,7,416,7,406,1,15)      	UH Non
+?gm ds AddItem(0,101,20759,1,1,7,13355,7,416,7,13066,1,15)	UH Quan
+?gm ds AddItem(0,100,20759,1,1,7,13355,7,416,7,406,1,15)	UH Ao
+?gm ds AddItem(0,102,11039,1,1,7,13355,7,416,7,13066,1,15)	UH LB
+?gm ds AddItem(0,102,10975,1,1,7,13355,7,416,7,13067,1,15)	UH Ky
+?gm ds AddItem(0,108,716,1,1,7,13355,7,416,7,13067,1,15)	Ntrang non
+?gm ds AddItem(0,109,716,1,1,7,416,7,416,7,416,1,15)	Ntrang ao
++TLQ
+?gm ds AddItem(0,103,20624,1,1,-1,-1,-1,-1,-1,-1,-1,15)	UH Non
+?gm ds AddItem(0,100,20624,1,1,-1,-1,-1,-1,-1,-1,-1,15)	UH AO
+?gm ds AddItem(0,101,20624,1,1,-1,-1,-1,-1,-1,-1,-1,15)	UH Quan
+
+--HET VU KHI
+?gm ds AddTitle(65, 2)-Danh hi?u
+?gm ds AddItem(0,110,51,1,1,7,842,7,842,7,842,7,15)-Ngo?i trang kh?ng
+?gm ds SetTask(701, GetTask(701) + 250000) -Tang công trAng TONG
+?gm ds SetTask(701, GetTask(701) - 250000) 	- TANG CONG TRANG LIEU
+?gm ds SetTask(704,6) --Add Quân Ham Nguyên Soái TONG 
+?gm ds ModifyExp(2000000000)-Tang kinh nghi?m
+?gm ds AwardGenuineQi()-Tang chan khi
+?gm ds SetLevel(99, 1);-Tang c?p 99
+?gm ds ModifyReputation(10,0)-Tang danh vOng
+?gm ds SetTask(336,GetTask(336) + 10)-Tang su môn
+?gm ds Earn(55000)-Tang vAng
+?gm ds PlayerReborn(2, random(4));-Chuy?n sinh 7
+?gm ds DoWait(31,29,1)-Ruong quý t?
+?gm ds SetTask(TASK_VNG_PET, GetTask(TASK_VNG_PET) + (10000 * 100))-Tang di?m nâng c?p pet
+?gm ds SetTask(1535, 10000*100)-Tang di?m linh l?c pet
+?gm ds MeridianUpdateLevel()-Võ Tôn
+?gm ds AddItem(0,112,158,1,4)- Lang 3 TT
+?gm ds AddItem(2,1,3386,10)
+?gm ds ClearItemInPos()-Xóa ruong
+?gm ds AddItem(0,105,30039,1,1,-1,-1,-1,-1,-1,-1,-1,0) = tho den thu cuoi
+?gm ds AddItem(2,1,30370,1)- TMKL
+?gm ds AddItem(2,95,204,1)- TCL
+?gm ds AddItem(2,1,30499,3)-HCAH
+?gm ds AddItem( 2, 1, 30524, 1)-T?y t?m 4
+?gm ds AddItem(2,1,30728,1)-Tr?ng pet
+?gm ds AddItem(2,1,9977,2) 	QUAN CHUONG HH
+kx van du
+?gm ds AddItem(0, 153, 28, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15, 0, 0)
+?gm ds AddItem(0, 152, 28, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15, 0, 0)
+?gm ds AddItem(0, 154, 28, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15, 0, 0)
+?gm ds AddItem(0,102,23,1,1,7,485,7,841,7,841,0,0) NB nhu y
+{1,300,"T©y B¾c Väng",{1,1,19,2},0},
+{1,300,"B¸nh Bét vµng",{1,1,15,2},0},
+{1,100,"B¸nh Ýt B¸t B¶o",{2,1,1123,2},0},
+{1,100,"B¸nh Ýt ch©n gµ",{2,1,1124,2},0},
+{1,100,"B¸nh Ýt H*¬ng Ng·i",{2,1,1125,2},0},
+{1,400,"ThÊt Hoa Tô Nguyªn T¸n (néi ®æng)",{1,0,272,2},0},
+?gm ds AddItem(2, 22, 107, 100, 4)
+?gm ds AddItem(2, 22, 207, 100, 4)
+?gm ds AddItem(2, 22, 307, 100, 4)
+?gm ds AddItem(2, 22, 407, 100, 4)
+----MAT TICH
+?gm ds AddItem(0,112,224,1) -- M?t T?ch Tiêu Dao
+?gm ds AddItem(0,107,30019,1) --MAt TAch Siêu CAp
+?gm ds AddItem(0,107,30019,1) -- NM
+?gm ds AddItem(0,107,30024,1) --CB TINH Y
+?gm ds AddItem(0,107,30028,1) -- DGT
+---HET MAT TICH
+?gm ds AddItem(0,108,30029,1,4,3,13075,7,102) = non nt st
+?gm ds AddItem(0,109,30029,1,4,5,342,2,346,7,102) = ao nt st
+?gm ds AddItem(0,110,30029,1,4,4,282,7,250,7,10) = quan nt st
+?gm ds AddItem(0,108,109,1,1,7,13519,7,13519,7,13519) non noel nt
+?gm ds AddItem(2, 0, 1 + 606, 1, 1)
+?gm ds SetPlayerRoute(ID)-- Vào Phái
+?gm ds SetTask(704,6) --Add Quân Ham Nguyên Soái
+?gm ds AddItem(0,0,30145,1,1,-1,-1,-1,-1,-1,-1,-1,15) = bt chien cuong
+?gm ds AddItem(2,0,30006,1,1)
+?gm ds AddItem(2,0,125,1) lenh bai bang hoi
+?gm ds AddPet(IDPet) -- Add Pet
+?gm ds CastState ("state_add_book_attribute_value",700,-1,1) = cong diem mat ttich
+?gm ds AddItem(0,100,30219,1,1,7,824,7,824,7,824,-1,15) = Ao Loi ho
+?gm ds AddItem(0,101,30219,1,1,7,824,7,824,7,824,-1,15) = Quan loi ho
+?gm ds AddItem(0,103,30219,1,1,7,824,7,824,7,824,-1,15) = non loi ho
+?gm ds AddItem(0,108,514,1,1,7,844,7,844,7,484,-1,15) = non st
+?gm ds AddItem(0,109,514,1,1,7,844,7,844,7,484,-1,15) = ao st
+?gm ds AddItem(0,110,514,1,1,7,844,7,844,7,484,-1,15) = quan st
+?gm ds AddItem(0,105,37,1,1,7,841,7,13075,7,403,7,15)  = ngua duong gia
+?gm ds AddItem(0,110,221,1,4,4,282,7,250,7,10) = nt thanh do quan
+?gm ds AddItem(0,109,491,1,4,4,282,7,250,7,10) = nt thanh do ao
+?gm ds AddItem(0,108,481,1,4,4,282,7,250,7,10) = nt thanh do non
+?gm ds AddItem(0,109,141,1,4,4,282,7,250,7,10) = nt messi
+?gm ds AddItem(0,109,157,1,4,4,282,7,250,7,10) = nt ha lan
+?gm ds AddItem(0,110,725,1,4,4,282,7,250,7,10) = nt thuong kiem
+---THUOC TINH TRANG BI
+14487 tdxc 85 + ktt 4xx
+403 toc do di chuyen 140
+14525 ngoai cong tang 140
+14526 noi cong tang 140
+252 bo qua phong ngu
+484 ktt 140
+852 0% sen tght 140
+13581 ho tro 80% noi kich 40
+14523 gtt 165% sl 44000
+14524 tdttvc 92% ktt 280 tylechiudon 55%
+416 hoi phuc sinh luc dong doi
+406 tranh trang thai phu 70%
+13355  ktt 240 + nn phong 900
+--- ITEM
+?gm ds AddItem(2,1,203,1,1) (Pháo hoa dua tin - G?i STD? du?ng ? ngoài thành th?)
+?gm ds AddItem(2,1,204,1,1) (Gói th?n bí c?a boss sát th?)
+?gm ds AddItem(2,1,205,1,1) (Gói th?n bí c?a boss sát th?)
+?gm ds AddItem(2,1,206,1,1) (Gói th?n bí c?a boss sát th?)
+?gm ds AddItem(2,1,207,1,1) (Gói th?n bí c?a STD?)
