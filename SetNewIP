@@ -82,16 +82,27 @@ else
     echo "Không tìm thấy file cấu hình: $bishop_config_file"
 fi
 
-# Xác nhận thay đổi IP
-read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new_ip không? (y/n): " confirm
+# Xác nhận thay đổi IP và GM
+read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new_ip và GM thành bao nhiêu (0 hoặc 1)? " confirm gm_value
 
 if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
-    for config_file in "${config_files[@]}"; do
-        if [ -f "$config_file" ]; then
-            sed -i "s/^ExternalIP=.*/ExternalIP=$new_ip/" "$config_file"
-            echo "Đã cập nhật ExternalIP thành $new_ip trong file $config_file"
-        fi
-    done
+  # Kiểm tra giá trị GM hợp lệ
+  if [[ $gm_value != "0" && $gm_value != "1" ]]; then
+    echo "Giá trị GM không hợp lệ! Chỉ được nhập 0 hoặc 1."
+    exit 1
+  fi
+
+  for config_file in "${config_files[@]}"; do
+    if [ -f "$config_file" ]; then
+      # Thay đổi ExternalIP
+      sed -i "s/^ExternalIP=.*/ExternalIP=$new_ip/" "$config_file"
+      echo "Đã cập nhật ExternalIP thành $new_ip trong file $config_file"
+
+      # Thay đổi GM
+      sed -i "s/^GM=.*/GM=$gm_value/" "$config_file"
+      echo "Đã cập nhật GM thành $gm_value trong file $config_file"
+    fi
+  done
 else
-    echo "Đã giữ nguyên tất cả các ExternalIP."
+  echo "Đã giữ nguyên tất cả các ExternalIP và GM."
 fi
