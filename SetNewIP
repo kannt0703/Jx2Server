@@ -1,28 +1,25 @@
 #!/bin/bash
 
-# Lấy địa chỉ IP hiện tại từ DDNS (thay thế eth0 bằng giao diện mạng của bạn nếu cần)
+# Lấy địa chỉ IP hiện tại từ DDNS (thay thế 'kannt.ddns.net' bằng tên miền DDNS của bạn)
 current_ip=$(dig +short kannt.ddns.net)
 
-# Nếu không lấy được IP từ DDNS, sử dụng IP của giao diện mạng
+# Nếu không lấy được IP từ DDNS, sử dụng IP của giao diện mạng mặc định
 if [ -z "$current_ip" ]; then
-    interface=$(ip route get 8.8.8.8 | awk -F"dev " 'NR==1{split($2,a," ");print a[1]}')
-    current_ip=$(ip addr show $interface | grep -oP 'inet \K[\d.]+')
+    current_ip=$(ip route get 1 | awk '{print $NF;exit}')
 fi
 
 echo "Địa chỉ IP hiện tại của máy chủ là: $current_ip"
 
-
-# Nhập địa chỉ IP mới
-echo "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): "
-read new_ip
+# Nhập địa chỉ IP mới (hoặc nhấn Enter để giữ nguyên)
+read -p "Nhập địa chỉ IP mới cho ExternalIP (hoặc nhấn Enter để giữ nguyên): " new_ip
 
 # Nếu không nhập gì, giữ nguyên IP cũ
 if [ -z "$new_ip" ]; then
     new_ip=$current_ip
 fi
 
-# Kiểm tra định dạng địa chỉ IP (đơn giản)
-if [[ ! $new_ip =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+# Kiểm tra định dạng địa chỉ IP 
+if ! [[ $new_ip =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
     echo "Địa chỉ IP không hợp lệ!"
     exit 1
 fi
@@ -30,14 +27,34 @@ fi
 # Thư mục chứa các file cấu hình
 config_dir="/home/server"
 
-# Danh sách các thư mục cần kiểm tra
-subdirs_gs=("gs0" "gs1" "gs2" "gs3" "gs4" "gs5" "gs6")
-subdirs_other=("gw/Bishop" "gw/Goddess" "gw/Relay")
+# Danh sách các thư mục và file cấu hình cần kiểm tra
+config_files=(
+    "$config_dir/gs0/servercfg.ini"
+    "$config_dir/gs1/servercfg.ini"
+    "$config_dir/gs2/servercfg.ini"
+    "$config_dir/gs3/servercfg.ini"
+    "$config_dir/gs4/servercfg.ini"
+    "$config_dir/gs5/servercfg.ini"
+    "$config_dir/gs6/servercfg.ini"
+    "$config_dir/gw/Bishop/bishop.ini"
+    "$config_dir/gw/Goddess/goddess.ini"
+    "$config_dir/gw/Relay/relay.ini"
+)
 
-# Hiển thị ExternalIP cũ của các server game mini (gs0 - gs6)
-echo "ExternalIP cũ của các server game mini:"
-for subdir in "${subdirs_gs[@]}"; do
-    config_file="$config_dir/$subdir/servercfg.ini"
+# Lưu các ExternalIP cũ vào một mảng
+old_ips=()
+for config_file in "${config_files[@]}"; do
+    if [ -f "$config_file" ]; then
+        old_ip=$(grep -oP '(?<=^ExternalIP=).*' "$config_file")
+        if [ -n "$old_ip" ]; then
+            old_ips+=("$old_ip")
+        fi
+    fi
+done
+
+# Hiển thị ExternalIP cũ và kiểm tra IP trùng
+echo "ExternalIP cũ:"
+for config_file in "${config_files[@]}"; do
     if [ -f "$config_file" ]; then
         old_ip=$(grep -oP '(?<=^ExternalIP=).*' "$config_file")
         if [ -n "$old_ip" ]; then
@@ -46,38 +63,17 @@ for subdir in "${subdirs_gs[@]}"; do
     fi
 done
 
-# Kiểm tra IP trùng trong các file .ini khác
-echo "Kiểm tra IP trùng trong các file .ini khác:"
-found_duplicate=false  # Biến để theo dõi có IP trùng hay không
-duplicate_files=()     # Mảng để lưu trữ các file có IP trùng
-for old_ip in "${old_ips[@]}"; do
-    for subdir in "${subdirs_other[@]}"; do
-        for config_file in "$config_dir/$subdir"/*.ini; do
-            if [ -f "$config_file" ] && grep -q "$old_ip" "$config_file"; then
-                duplicate_files+=("$config_file")  # Thêm file vào mảng nếu tìm thấy IP trùng
-                found_duplicate=true
-            fi
-        done
-    done
-done
-
-# Hiển thị kết quả kiểm tra IP trùng
-if $found_duplicate; then
-    echo "Có IP trùng, vui lòng kiểm tra lại các file sau:"
-    for file in "${duplicate_files[@]}"; do
-        echo "- $file"
-    done
+if [[ "${old_ips[@]}" =~ $(printf "%s|" "${old_ips[@]}")$(printf "%s|" "${old_ips[@]}") ]]; then  
+    echo "Có IP trùng lặp trong các file cấu hình."
 else
-    echo "Không có IP trùng."
+    echo "Không có IP trùng lặp."
 fi
 
-# Hiển thị LocalIPAddress của Bishop.ini trong phần [Player]
+# Hiển thị LocalIPAddress trong phần [Player] của Bishop.ini
 bishop_config_file="$config_dir/gw/Bishop/bishop.ini"
 if [ -f "$bishop_config_file" ]; then
-    # Tìm kiếm dòng chứa LocalIPAddress trong phần [Player]
-    local_ip_line=$(grep -A1 '^\[Player\]$' "$bishop_config_file" | grep 'LocalIPAddress=')
-    if [ -n "$local_ip_line" ];then
-        bishop_local_ip=$(echo "$local_ip_line" | cut -d '=' -f 2)
+    bishop_local_ip=$(awk -F'=' '/^\[Player\]/{f=1} f && /^LocalIPAddress=/{print $2; exit}' "$bishop_config_file")
+    if [ -n "$bishop_local_ip" ]; then
         echo "LocalIPAddress trong phần [Player] của file $bishop_config_file là: $bishop_local_ip"
     else
         echo "Không tìm thấy LocalIPAddress trong phần [Player] của file $bishop_config_file"
@@ -86,27 +82,16 @@ else
     echo "Không tìm thấy file cấu hình: $bishop_config_file"
 fi
 
-# Hỏi xác nhận thay đổi tất cả các IP cũ
+# Xác nhận thay đổi IP
 read -p "Bạn có muốn thay đổi tất cả các ExternalIP cũ thành $new_ip không? (y/n): " confirm
 
-# Nếu xác nhận là "y" thì thay đổi
 if [ "$confirm" == "y" ] || [ "$confirm" == "Y" ]; then
-    # Duyệt qua tất cả các thư mục
-    for subdir in "${subdirs_gs[@]}" "${subdirs_other[@]}"; do  
-        for config_file in "$subdir"/*.ini; do
-            # Kiểm tra xem file có tồn tại không
-            if [ -f "$config_file" ]; then
-                # Lấy giá trị ExternalIP cũ (nếu có)
-                old_ip=$(grep -oP '(?<=^ExternalIP=).*' "$config_file")
-                if [ -n "$old_ip" ]; then
-                    # Thay thế giá trị cũ bằng giá trị mới
-                    sed -i "s/^ExternalIP=.*/ExternalIP=$new_ip/" "$config_file"
-                    echo "Đã cập nhật ExternalIP thành $new_ip trong file $config_file"
-                fi
-            fi
-        done
+    for config_file in "${config_files[@]}"; do
+        if [ -f "$config_file" ]; then
+            sed -i "s/^ExternalIP=.*/ExternalIP=$new_ip/" "$config_file"
+            echo "Đã cập nhật ExternalIP thành $new_ip trong file $config_file"
+        fi
     done
 else
-    echo "Đã giữ nguyên tất cả các ExternalIP"
+    echo "Đã giữ nguyên tất cả các ExternalIP."
 fi
-
