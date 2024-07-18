@@ -88,7 +88,7 @@ def replacepath():
 mainprogram = tk.Tk()
 mainprogram.title('Get files path - @Copyright by Jackie Gaming')
 mainprogram.geometry('324x70')
-mainprogram.iconbitmap(os.getcwd() + "\\ball.ico")
+mainprogram.iconbitmap(os.getcwd() + "\\vltk.ico")
 
 #Create button in window, with name, size and function to call
 btn_folder_path = tk.Button(mainprogram, text="Chọn đường dẫn Folder", width=25, command=loadfolder)
