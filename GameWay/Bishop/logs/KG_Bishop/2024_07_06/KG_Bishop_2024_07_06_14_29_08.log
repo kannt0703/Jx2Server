@@ -1,0 +1,29 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20240706-142908<INFO :0xf7426700>: [verify_up2date]...
+20240706-142908<INFO :0xf7426700>: >Current lang is [gb18030]
+20240706-142908<INFO :0xf7426700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240706-142908<INFO :0xf7426700>: >Time duration: 11.282205ms 
+20240706-142908<INFO :0xf7426700>: >
+20240706-142908<INFO :0xf7426700>: >Finish, my exit code is: 0
+20240706-142908<INFO :0xf7426700>: |shell cmd result is 0
+20240706-142908<INFO :0xf7426700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20240706-142908<INFO :0xf7426700>: [verify_up2date] ok
+20240706-142908<INFO :0xf7426700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20240706-142908<INFO :0xf7426700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20240706-142908<INFO :0xf7426700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x9802098
+20240706-142908<INFO :0xf7426700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240706-142908<INFO :0xf7426700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240706-142908<DEBUG:0xf7426700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20240706-142908<DEBUG:0xf7426700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20240706-142908<INFO :0xf7426700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20240706-142908<INFO :0xf7426700>: [Paysys] Login() nResult = 1
+20240706-142908<INFO :0xf7426700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x98023a8
+20240706-142908<INFO :0xf7426700>: [Goddess] Login() nResult = 1
+20240706-142908<INFO :0xf7426700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20240706-142908<INFO :0xf7426700>: [PlayerManager] Init() Acceptor Open(113.180.204.14: 5622), nRetCode = 0
+20240706-142908<DEBUG:0xf7426700>: KGLOG_PROCESS_ERROR(nRetCode) at line 76 in Init
+20240706-142908<DEBUG:0xf7426700>: KGLOG_PROCESS_ERROR(nRetCode) at line 348 in Init
+20240706-142908<INFO :0xf7426700>: [Goddess] Logout() nResult = 1
+20240706-142908<INFO :0xf7426700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240706-142908<INFO :0xf7426700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240706-142910<INFO :0xf7426700>: [Paysys] Logout() nResult = 1

@@ -1,0 +1,447 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Loading KG_Goddess.ini
+20191005-191617<INFO :0xf7453700>: [verify_up2date]...
+20191005-191617<INFO :0xf7453700>: >Current lang is [gb18030]
+20191005-191617<INFO :0xf7453700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191005-191617<INFO :0xf7453700>: >Time duration: 14.523425ms 
+20191005-191617<INFO :0xf7453700>: >
+20191005-191617<INFO :0xf7453700>: >Finish, my exit code is: 0
+20191005-191617<INFO :0xf7453700>: |shell cmd result is 0
+20191005-191617<INFO :0xf7453700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20191005-191617<INFO :0xf7453700>: [verify_up2date] ok
+20191005-191617<INFO :0xf7453700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Initializing role database ...
+20191005-191617<INFO :0xf7453700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191617<DEBUG:0xf7453700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191617<DEBUG:0xf7453700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x845dfc8)->_LoadTable()
+20191005-191617<DEBUG:0xf7453700>: [KGD] (0x0x845dfc8)->_LoadTable("fightteam")
+20191005-191617<DEBUG:0xf7453700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x845dfc8)->_LoadTable()
+20191005-191617<DEBUG:0xf7453700>: [KGD] (0x0x845dfc8)->_LoadTable("playerfightteam")
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Initializing role statistic ...
+20191005-191617<INFO :0xf7453700>: load Top10_KG_RoleStatistic.dat when init: size=10792
+20191005-191617<INFO :0xf7453700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20191005-191617<INFO :0xf7453700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Initializing server manager ...
+20191005-191617<INFO :0xf7453700>: [ServerManager] Listening at 127.0.0.1:5001
+20191005-191617<INFO :0xf7453700>: [KG_Goddess] Started successful
+20191005-191637<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.1:35351) connect ok
+20191005-191637<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.1:35351) SocketStream = 0xf5f00528
+20191005-191637<INFO :0xf68deb40>: [[Group 1 Server 00]] Server 0 created ok!
+20191005-191637<INFO :0xf5effb40>: [Group 1 Server 00] Started, service for 127.0.0.1:35351
+20191005-191637<INFO :0xf5effb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191637<DEBUG:0xf5effb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5500470)->_LoadTable()
+20191005-191637<DEBUG:0xf5effb40>: [KGD] (0x0xf5500470)->_LoadTable("fightteam")
+20191005-191637<DEBUG:0xf5effb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5500470)->_LoadTable()
+20191005-191637<DEBUG:0xf5effb40>: [KGD] (0x0xf5500470)->_LoadTable("playerfightteam")
+20191005-191637<DEBUG:0xf5effb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191657<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2326085)
+20191005-191708<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.1:44001) connect ok
+20191005-191708<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.1:44001) SocketStream = 0xf5f00a30
+20191005-191708<INFO :0xf68deb40>: [[Group 1 Server 01]] Server 1 created ok!
+20191005-191708<INFO :0xf54ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:44001
+20191005-191708<INFO :0xf54ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191708<DEBUG:0xf54ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4b00470)->_LoadTable()
+20191005-191708<DEBUG:0xf54ffb40>: [KGD] (0x0xf4b00470)->_LoadTable("fightteam")
+20191005-191708<DEBUG:0xf54ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4b00470)->_LoadTable()
+20191005-191708<DEBUG:0xf54ffb40>: [KGD] (0x0xf4b00470)->_LoadTable("playerfightteam")
+20191005-191708<DEBUG:0xf54ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191708<INFO :0xf54ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191708<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20191005-191708<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =10792 ret=1
+20191005-191716<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2346128)
+20191005-191724<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.2:59238) connect ok
+20191005-191724<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.2:59238) SocketStream = 0xf5f00f38
+20191005-191724<INFO :0xf68deb40>: [[Group 1 Server 02]] Server 2 created ok!
+20191005-191724<INFO :0xf4affb40>: [Group 1 Server 02] Started, service for 127.0.0.2:59238
+20191005-191724<INFO :0xf4affb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191724<DEBUG:0xf4affb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4100470)->_LoadTable()
+20191005-191724<DEBUG:0xf4affb40>: [KGD] (0x0xf4100470)->_LoadTable("fightteam")
+20191005-191724<DEBUG:0xf4affb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4100470)->_LoadTable()
+20191005-191724<DEBUG:0xf4affb40>: [KGD] (0x0xf4100470)->_LoadTable("playerfightteam")
+20191005-191724<DEBUG:0xf4affb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191724<INFO :0xf4affb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191724<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _query_statistic_info()
+20191005-191724<DEBUG:0xf4affb40>: [Group 1 Server 02] Leave _query_statistic_info() size =10792 ret=1
+20191005-191733<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.3:50409) connect ok
+20191005-191733<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.3:50409) SocketStream = 0xf5f01440
+20191005-191733<INFO :0xf68deb40>: [[Group 1 Server 03]] Server 3 created ok!
+20191005-191733<INFO :0xf40ffb40>: [Group 1 Server 03] Started, service for 127.0.0.3:50409
+20191005-191733<INFO :0xf40ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191733<DEBUG:0xf40ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3700470)->_LoadTable()
+20191005-191733<DEBUG:0xf40ffb40>: [KGD] (0x0xf3700470)->_LoadTable("fightteam")
+20191005-191733<DEBUG:0xf40ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3700470)->_LoadTable()
+20191005-191733<DEBUG:0xf40ffb40>: [KGD] (0x0xf3700470)->_LoadTable("playerfightteam")
+20191005-191733<DEBUG:0xf40ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191733<INFO :0xf40ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191733<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _query_statistic_info()
+20191005-191733<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _query_statistic_info() size =10792 ret=1
+20191005-191734<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2366172)
+20191005-191734<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-191734<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=0 nResult=1
+20191005-191737<INFO :0xf5effb40>: [Group 1 Server 00] { test } Create role "321312323a3a"
+20191005-191737<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _create_role(test.321312323a3a) nResult=1
+20191005-191738<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2370641)
+20191005-191741<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" locked by Server 03
+20191005-191741<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191754<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2386646)
+20191005-191755<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[321312323a3a], LeaveFlag = 0 nResult=1
+20191005-191756<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 3
+20191005-191756<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-191757<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2389707)
+20191005-191800<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-191800<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=1 nResult=1
+20191005-191801<INFO :0xf5effb40>: [Group 1 Server 00] Get role "321312323a3a" nResult=1
+20191005-191803<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" locked by Server 03
+20191005-191803<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191808<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2400697)
+20191005-191817<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 3
+20191005-191817<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-191818<DEBUG:0xf54ffb40>: [ServerManager] Role "321312323a3a" locked by Server 01
+20191005-191818<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191821<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2413646)
+20191005-191824<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2416706)
+20191005-191841<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2433689)
+20191005-191844<DEBUG:0xf54ffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 1
+20191005-191844<INFO :0xf54ffb40>: [Group 1 Server 01] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-191844<DEBUG:0xf54ffb40>: [ServerManager] Role "321312323a3a" locked by Server 01
+20191005-191844<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191847<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2439479)
+20191005-191854<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2446751)
+20191005-191901<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2453721)
+20191005-191914<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2466420)
+20191005-191914<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.4:57404) connect ok
+20191005-191914<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.4:57404) SocketStream = 0xf5f01948
+20191005-191914<INFO :0xf68deb40>: [[Group 1 Server 04]] Server 4 created ok!
+20191005-191914<INFO :0xf36ffb40>: [Group 1 Server 04] Started, service for 127.0.0.4:57404
+20191005-191914<INFO :0xf36ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191914<DEBUG:0xf36ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf2d00470)->_LoadTable()
+20191005-191914<DEBUG:0xf36ffb40>: [KGD] (0x0xf2d00470)->_LoadTable("fightteam")
+20191005-191914<DEBUG:0xf36ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf2d00470)->_LoadTable()
+20191005-191914<DEBUG:0xf36ffb40>: [KGD] (0x0xf2d00470)->_LoadTable("playerfightteam")
+20191005-191914<DEBUG:0xf36ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191914<INFO :0xf36ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191914<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _query_statistic_info()
+20191005-191914<DEBUG:0xf36ffb40>: [Group 1 Server 04] Leave _query_statistic_info() size =10792 ret=1
+20191005-191917<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2470531)
+20191005-191920<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2473767)
+20191005-191924<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2477807)
+20191005-191925<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.5:51654) connect ok
+20191005-191925<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.5:51654) SocketStream = 0xf5f01e50
+20191005-191925<INFO :0xf68deb40>: [[Group 1 Server 05]] Server 5 created ok!
+20191005-191925<INFO :0xf2cffb40>: [Group 1 Server 05] Started, service for 127.0.0.5:51654
+20191005-191925<INFO :0xf2cffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191925<DEBUG:0xf2cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf2300470)->_LoadTable()
+20191005-191925<DEBUG:0xf2cffb40>: [KGD] (0x0xf2300470)->_LoadTable("fightteam")
+20191005-191925<DEBUG:0xf2cffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf2300470)->_LoadTable()
+20191005-191925<DEBUG:0xf2cffb40>: [KGD] (0x0xf2300470)->_LoadTable("playerfightteam")
+20191005-191925<DEBUG:0xf2cffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191925<INFO :0xf2cffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191925<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _query_statistic_info()
+20191005-191925<DEBUG:0xf2cffb40>: [Group 1 Server 05] Leave _query_statistic_info() size =10792 ret=1
+20191005-191939<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.6:49699) connect ok
+20191005-191939<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.6:49699) SocketStream = 0xf5f02358
+20191005-191939<INFO :0xf68deb40>: [[Group 1 Server 06]] Server 6 created ok!
+20191005-191939<INFO :0xf22ffb40>: [Group 1 Server 06] Started, service for 127.0.0.6:49699
+20191005-191939<INFO :0xf22ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191939<DEBUG:0xf22ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf1900470)->_LoadTable()
+20191005-191939<DEBUG:0xf22ffb40>: [KGD] (0x0xf1900470)->_LoadTable("fightteam")
+20191005-191939<DEBUG:0xf22ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf1900470)->_LoadTable()
+20191005-191939<DEBUG:0xf22ffb40>: [KGD] (0x0xf1900470)->_LoadTable("playerfightteam")
+20191005-191939<DEBUG:0xf22ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191939<INFO :0xf22ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191939<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _query_statistic_info()
+20191005-191939<DEBUG:0xf22ffb40>: [Group 1 Server 06] Leave _query_statistic_info() size =10792 ret=1
+20191005-191940<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2493807)
+20191005-191944<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2498404)
+20191005-191944<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2498571)
+20191005-191947<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2501506)
+20191005-191947<DEBUG:0xf54ffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 1
+20191005-191947<INFO :0xf54ffb40>: [Group 1 Server 01] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-191949<DEBUG:0xf2cffb40>: [ServerManager] Role "321312323a3a" locked by Server 05
+20191005-191949<DEBUG:0xf2cffb40>: [Group 1 Server 05] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191950<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.7:46675) connect ok
+20191005-191950<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.7:46675) SocketStream = 0xf5f02860
+20191005-191950<INFO :0xf68deb40>: [[Group 1 Server 07]] Server 7 created ok!
+20191005-191950<INFO :0xf18ffb40>: [Group 1 Server 07] Started, service for 127.0.0.7:46675
+20191005-191950<INFO :0xf18ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.6.45]
+20191005-191950<DEBUG:0xf18ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf0f00470)->_LoadTable()
+20191005-191950<DEBUG:0xf18ffb40>: [KGD] (0x0xf0f00470)->_LoadTable("fightteam")
+20191005-191950<DEBUG:0xf18ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf0f00470)->_LoadTable()
+20191005-191950<DEBUG:0xf18ffb40>: [KGD] (0x0xf0f00470)->_LoadTable("playerfightteam")
+20191005-191950<DEBUG:0xf18ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20191005-191950<INFO :0xf18ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-191950<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _query_statistic_info()
+20191005-191950<DEBUG:0xf18ffb40>: [Group 1 Server 07] Leave _query_statistic_info() size =10792 ret=1
+20191005-191954<DEBUG:0xf2cffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 5
+20191005-191954<INFO :0xf2cffb40>: [Group 1 Server 05] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-191955<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2509547)
+20191005-191955<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" locked by Server 03
+20191005-191955<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=321312323a3a, Lock=1) nResult=1
+20191005-191959<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2513879)
+20191005-192009<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2524327)
+20191005-192014<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2529384)
+20191005-192017<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2532380)
+20191005-192019<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2533907)
+20191005-192020<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2535322)
+20191005-192024<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2539163)
+20191005-192025<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2539606)
+20191005-192025<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2539823)
+20191005-192039<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2553953)
+20191005-192039<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2554380)
+20191005-192044<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2559434)
+20191005-192047<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2562436)
+20191005-192050<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2565383)
+20191005-192054<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2569217)
+20191005-192055<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2569666)
+20191005-192055<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2569879)
+20191005-192059<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2573990)
+20191005-192109<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2584441)
+20191005-192114<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2589492)
+20191005-192117<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2592492)
+20191005-192119<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2594022)
+20191005-192120<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2595436)
+20191005-192124<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2599268)
+20191005-192125<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2599711)
+20191005-192125<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2599933)
+20191005-192139<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2614045)
+20191005-192139<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2614497)
+20191005-192145<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2619555)
+20191005-192148<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2622553)
+20191005-192151<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2625560)
+20191005-192154<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2629326)
+20191005-192155<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2629775)
+20191005-192155<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2629991)
+20191005-192159<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2634087)
+20191005-192210<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2644545)
+20191005-192215<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2649606)
+20191005-192218<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2652607)
+20191005-192219<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2654125)
+20191005-192221<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2655549)
+20191005-192224<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2659382)
+20191005-192225<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2659827)
+20191005-192225<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2660049)
+20191005-192239<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2674171)
+20191005-192240<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2674605)
+20191005-192245<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2679658)
+20191005-192248<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2682661)
+20191005-192251<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2685608)
+20191005-192254<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2689440)
+20191005-192255<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2689888)
+20191005-192255<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2690106)
+20191005-192259<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2694216)
+20191005-192309<DEBUG:0xf40ffb40>: [ServerManager] Role "321312323a3a" unlocked by Server 3
+20191005-192309<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[321312323a3a], LeaveFlag = 1 nResult=1
+20191005-192310<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2704661)
+20191005-192315<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2709718)
+20191005-192318<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2712712)
+20191005-192319<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2714267)
+20191005-192321<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2715661)
+20191005-192324<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2719494)
+20191005-192325<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2719941)
+20191005-192332<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192332<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=1 nResult=1
+20191005-192334<INFO :0xf5effb40>: [Group 1 Server 00] Get role "321312323a3a" nResult=1
+20191005-192339<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2734381)
+20191005-192340<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2734718)
+20191005-192345<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2739777)
+20191005-192348<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2742768)
+20191005-192351<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2745713)
+20191005-192354<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2748797)
+20191005-192355<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2749546)
+20191005-192355<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2749994)
+20191005-192357<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192357<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=1 nResult=1
+20191005-192359<INFO :0xf5effb40>: [Group 1 Server 00] Get role "321312323a3a" nResult=1
+20191005-192409<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2764442)
+20191005-192410<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2764766)
+20191005-192415<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2769831)
+20191005-192418<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2772832)
+20191005-192419<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2774247)
+20191005-192421<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2775774)
+20191005-192424<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192424<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=1 nResult=1
+20191005-192425<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2779606)
+20191005-192425<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2780054)
+20191005-192428<INFO :0xf5effb40>: [Group 1 Server 00] { test } Create role "3a3a3a3"
+20191005-192428<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _create_role(test.3a3a3a3) nResult=1
+20191005-192431<DEBUG:0xf40ffb40>: [ServerManager] Role "3a3a3a3" locked by Server 03
+20191005-192431<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=3a3a3a3, Lock=1) nResult=1
+20191005-192440<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2794821)
+20191005-192445<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2799882)
+20191005-192448<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2802883)
+20191005-192448<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2803420)
+20191005-192451<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2805823)
+20191005-192454<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[3a3a3a3], LeaveFlag = 0 nResult=1
+20191005-192455<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2809659)
+20191005-192455<DEBUG:0xf40ffb40>: [ServerManager] Role "3a3a3a3" unlocked by Server 3
+20191005-192455<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[3a3a3a3], LeaveFlag = 1 nResult=1
+20191005-192455<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2810105)
+20191005-192457<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192457<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192501<INFO :0xf5effb40>: [Group 1 Server 00] Get role "3a3a3a3" nResult=1
+20191005-192503<DEBUG:0xf40ffb40>: [ServerManager] Role "3a3a3a3" locked by Server 03
+20191005-192503<DEBUG:0xf40ffb40>: [Group 1 Server 03] Leave _lock_or_unlock_role(Role=3a3a3a3, Lock=1) nResult=1
+20191005-192510<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2824882)
+20191005-192514<DEBUG:0xf40ffb40>: [ServerManager] Role "3a3a3a3" unlocked by Server 3
+20191005-192514<INFO :0xf40ffb40>: [Group 1 Server 03] Save role end [test].[3a3a3a3], LeaveFlag = 1 nResult=1
+20191005-192515<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2829940)
+20191005-192518<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2832937)
+20191005-192521<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2835885)
+20191005-192521<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2836393)
+20191005-192525<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2839719)
+20191005-192525<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2840165)
+20191005-192538<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192538<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192539<INFO :0xf5effb40>: [Group 1 Server 00] Get role "3a3a3a3" nResult=1
+20191005-192540<DEBUG:0xf22ffb40>: [Group 1 Server 06] Enter _ping(time=2854933)
+20191005-192544<DEBUG:0xf40ffb40>: [Group 1 Server 03] Enter _ping(time=2859218)
+20191005-192545<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2859999)
+20191005-192548<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2862996)
+20191005-192551<DEBUG:0xf18ffb40>: [Group 1 Server 07] Enter _ping(time=2865939)
+20191005-192553<DEBUG:0xf18ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192553<ERROR:0xf18ffb40>: [Group 1 Server 07] Connection with 127.0.0.7 have been disconnected, wait for being reconnectted!
+20191005-192553<WARN :0xf18ffb40>: [[Group 1 Server 07]] RemoteServer 127.0.0.7:46675 crashed
+20191005-192553<INFO :0xf18ffb40>: [ServerManager] Server 7 will stop, unlock all role [count=0] 
+20191005-192554<DEBUG:0xf22ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192554<ERROR:0xf22ffb40>: [Group 1 Server 06] Connection with 127.0.0.6 have been disconnected, wait for being reconnectted!
+20191005-192554<WARN :0xf22ffb40>: [[Group 1 Server 06]] RemoteServer 127.0.0.6:49699 crashed
+20191005-192554<INFO :0xf22ffb40>: [ServerManager] Server 6 will stop, unlock all role [count=0] 
+20191005-192555<DEBUG:0xf2cffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192555<ERROR:0xf2cffb40>: [Group 1 Server 05] Connection with 127.0.0.5 have been disconnected, wait for being reconnectted!
+20191005-192555<WARN :0xf2cffb40>: [[Group 1 Server 05]] RemoteServer 127.0.0.5:51654 crashed
+20191005-192555<INFO :0xf2cffb40>: [ServerManager] Server 5 will stop, unlock all role [count=0] 
+20191005-192555<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2870214)
+20191005-192556<DEBUG:0xf36ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192556<ERROR:0xf36ffb40>: [Group 1 Server 04] Connection with 127.0.0.4 have been disconnected, wait for being reconnectted!
+20191005-192556<WARN :0xf36ffb40>: [[Group 1 Server 04]] RemoteServer 127.0.0.4:57404 crashed
+20191005-192556<INFO :0xf36ffb40>: [ServerManager] Server 4 will stop, unlock all role [count=0] 
+20191005-192557<DEBUG:0xf40ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192557<ERROR:0xf40ffb40>: [Group 1 Server 03] Connection with 127.0.0.3 have been disconnected, wait for being reconnectted!
+20191005-192557<WARN :0xf40ffb40>: [[Group 1 Server 03]] RemoteServer 127.0.0.3:50409 crashed
+20191005-192557<INFO :0xf40ffb40>: [ServerManager] Server 3 will stop, unlock all role [count=0] 
+20191005-192559<DEBUG:0xf4affb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192559<ERROR:0xf4affb40>: [Group 1 Server 02] Connection with 127.0.0.2 have been disconnected, wait for being reconnectted!
+20191005-192559<WARN :0xf4affb40>: [[Group 1 Server 02]] RemoteServer 127.0.0.2:59238 crashed
+20191005-192559<INFO :0xf4affb40>: [ServerManager] Server 2 will stop, unlock all role [count=0] 
+20191005-192600<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2874554)
+20191005-192600<DEBUG:0xf54ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-192600<ERROR:0xf54ffb40>: [Group 1 Server 01] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191005-192600<WARN :0xf54ffb40>: [[Group 1 Server 01]] RemoteServer 127.0.0.1:44001 crashed
+20191005-192600<INFO :0xf54ffb40>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20191005-192620<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2894623)
+20191005-192626<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.1:34181) connect ok
+20191005-192626<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.1:34181) SocketStream = 0xf5f00a30
+20191005-192626<INFO :0xf68deb40>: Server 1 reconnect ok!
+20191005-192626<INFO :0xf54ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-192626<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20191005-192626<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =10792 ret=1
+20191005-192633<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192633<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192634<INFO :0xf5effb40>: [Group 1 Server 00] Get role "3a3a3a3" nResult=1
+20191005-192635<DEBUG:0xf5effb40>: [Group 1 Server 00] Unsupported protocol: 39, size: 42
+20191005-192640<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.2:60543) connect ok
+20191005-192640<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.2:60543) SocketStream = 0xf5f00f38
+20191005-192640<INFO :0xf68deb40>: Server 2 reconnect ok!
+20191005-192640<INFO :0xf4affb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-192640<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _query_statistic_info()
+20191005-192640<DEBUG:0xf4affb40>: [Group 1 Server 02] Leave _query_statistic_info() size =10792 ret=1
+20191005-192648<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192648<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192648<INFO :0xf5effb40>: [Group 1 Server 00] Get role "3a3a3a3" nResult=1
+20191005-192650<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.4:40651) connect ok
+20191005-192650<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.4:40651) SocketStream = 0xf5f01440
+20191005-192650<INFO :0xf68deb40>: Server 4 reconnect ok!
+20191005-192651<INFO :0xf36ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-192651<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _query_statistic_info()
+20191005-192651<DEBUG:0xf36ffb40>: [Group 1 Server 04] Leave _query_statistic_info() size =10792 ret=1
+20191005-192656<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2932836)
+20191005-192708<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2944635)
+20191005-192710<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2946843)
+20191005-192714<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192714<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192715<INFO :0xf68deb40>: [ServerManager] RemoteServer from (127.0.0.5:44133) connect ok
+20191005-192715<INFO :0xf68deb40>: [ServerManager] Accept from (127.0.0.5:44133) SocketStream = 0xf5f01948
+20191005-192715<INFO :0xf68deb40>: Server 5 reconnect ok!
+20191005-192715<INFO :0xf2cffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20191005-192715<INFO :0xf5effb40>: [Group 1 Server 00] Get role "3a3a3a3" nResult=1
+20191005-192715<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _query_statistic_info()
+20191005-192715<DEBUG:0xf2cffb40>: [Group 1 Server 05] Leave _query_statistic_info() size =10792 ret=1
+20191005-192721<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2958390)
+20191005-192726<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2963443)
+20191005-192735<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=2972396)
+20191005-192740<ERROR:0xf22ffb40>: [Group 1 Server 06] There are no data arrive during 120/120 second, auto disconnect!
+20191005-192740<INFO :0xf22ffb40>: [ServerManager] Server 6 will stop, unlock all role [count=0] 
+20191005-192740<INFO :0xf22ffb40>: [Group 1 Server 06] Stopped
+20191005-192740<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=2977451)
+20191005-192744<ERROR:0xf40ffb40>: [Group 1 Server 03] There are no data arrive during 120/120 second, auto disconnect!
+20191005-192744<INFO :0xf40ffb40>: [ServerManager] Server 3 will stop, unlock all role [count=0] 
+20191005-192744<INFO :0xf40ffb40>: [Group 1 Server 03] Stopped
+20191005-192745<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=2982395)
+20191005-192751<ERROR:0xf18ffb40>: [Group 1 Server 07] There are no data arrive during 120/120 second, auto disconnect!
+20191005-192751<INFO :0xf18ffb40>: [ServerManager] Server 7 will stop, unlock all role [count=0] 
+20191005-192751<INFO :0xf18ffb40>: [Group 1 Server 07] Stopped
+20191005-192751<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test"
+20191005-192751<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test) uRoleCount=2 nResult=1
+20191005-192751<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=2988454)
+20191005-192754<INFO :0xf5effb40>: [Group 1 Server 00] { test } Create role "32323a"
+20191005-192754<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _create_role(test.32323a) nResult=1
+20191005-192756<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=2993504)
+20191005-192810<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=3007501)
+20191005-192814<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test03"
+20191005-192814<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test03) uRoleCount=0 nResult=1
+20191005-192815<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=3012450)
+20191005-192817<INFO :0xf5effb40>: [Group 1 Server 00] { test03 } Create role "32323aa3a3a3"
+20191005-192817<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _create_role(test03.32323aa3a3a3) nResult=1
+20191005-192821<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=3018504)
+20191005-192826<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=3023555)
+20191005-192837<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3034117)
+20191005-192840<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=3037559)
+20191005-192844<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test03"
+20191005-192844<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test03) uRoleCount=1 nResult=1
+20191005-192845<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=3042499)
+20191005-192851<INFO :0xf5effb40>: [Group 1 Server 00] { test03 } Create role "312323a3a"
+20191005-192851<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _create_role(test03.312323a3a) nResult=1
+20191005-192851<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=3048562)
+20191005-192852<DEBUG:0xf5effb40>: [Group 1 Server 00] Unsupported protocol: 39, size: 42
+20191005-192857<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=3053611)
+20191005-192905<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "test03"
+20191005-192905<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(test03) uRoleCount=2 nResult=1
+20191005-192911<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=3067617)
+20191005-192915<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=3072557)
+20191005-192922<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=3078616)
+20191005-192925<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3081930)
+20191005-192927<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=3083668)
+20191005-192941<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=3097675)
+20191005-192945<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3101970)
+20191005-192946<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=3102613)
+20191005-192952<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=3108669)
+20191005-192957<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=3113726)
+20191005-193005<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3122015)
+20191005-193011<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _ping(time=3127727)
+20191005-193016<DEBUG:0xf2cffb40>: [Group 1 Server 05] Enter _ping(time=3132676)
+20191005-193022<DEBUG:0xf36ffb40>: [Group 1 Server 04] Enter _ping(time=3138725)
+20191005-193025<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3142052)
+20191005-193027<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _ping(time=3143784)
+20191005-193034<DEBUG:0xf2cffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-193034<ERROR:0xf2cffb40>: [Group 1 Server 05] Connection with 127.0.0.5 have been disconnected, wait for being reconnectted!
+20191005-193034<WARN :0xf2cffb40>: [[Group 1 Server 05]] RemoteServer 127.0.0.5:51654 crashed
+20191005-193034<INFO :0xf2cffb40>: [ServerManager] Server 5 will stop, unlock all role [count=0] 
+20191005-193035<DEBUG:0xf36ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-193035<ERROR:0xf36ffb40>: [Group 1 Server 04] Connection with 127.0.0.4 have been disconnected, wait for being reconnectted!
+20191005-193035<WARN :0xf36ffb40>: [[Group 1 Server 04]] RemoteServer 127.0.0.4:57404 crashed
+20191005-193035<INFO :0xf36ffb40>: [ServerManager] Server 4 will stop, unlock all role [count=0] 
+20191005-193036<DEBUG:0xf4affb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-193036<ERROR:0xf4affb40>: [Group 1 Server 02] Connection with 127.0.0.2 have been disconnected, wait for being reconnectted!
+20191005-193036<WARN :0xf4affb40>: [[Group 1 Server 02]] RemoteServer 127.0.0.2:59238 crashed
+20191005-193036<INFO :0xf4affb40>: [ServerManager] Server 2 will stop, unlock all role [count=0] 
+20191005-193038<DEBUG:0xf54ffb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-193038<ERROR:0xf54ffb40>: [Group 1 Server 01] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191005-193038<WARN :0xf54ffb40>: [[Group 1 Server 01]] RemoteServer 127.0.0.1:44001 crashed
+20191005-193038<INFO :0xf54ffb40>: [ServerManager] Server 1 will stop, unlock all role [count=0] 
+20191005-193045<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=3162081)
+20191005-193057<DEBUG:0xf5effb40>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 978 in ProcessRequest
+20191005-193057<ERROR:0xf5effb40>: [Group 1 Server 00] Connection with 127.0.0.1 have been disconnected, wait for being reconnectted!
+20191005-193057<WARN :0xf5effb40>: [[Group 1 Server 00]] RemoteServer 127.0.0.1:35351 crashed
+20191005-193057<INFO :0xf5effb40>: [ServerManager] Server 0 will stop, unlock all role [count=0] 

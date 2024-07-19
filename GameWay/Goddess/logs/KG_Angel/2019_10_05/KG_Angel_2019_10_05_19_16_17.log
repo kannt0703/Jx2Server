@@ -1,0 +1,18 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20191005-191617<INFO :0xf7453700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20191005-191617<INFO :0xf7453700>: Data OK! Current max Service ID is: 2325366
+20191005-191737<INFO :0xf5effb40>: [PlayerCreator] Created role 321312323a3a, ServerID=2325366
+20191005-191755<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=888744EE/888744EE nResult=1
+20191005-191756<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=1EA3FC99/1EA3FC99 nResult=1
+20191005-191817<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=AE371890/AE371890 nResult=1
+20191005-191844<INFO :0xf54ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=9FB794C1/9FB794C1 nResult=1
+20191005-191947<INFO :0xf54ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=25C8C32C/25C8C32C nResult=1
+20191005-191954<INFO :0xf2cffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=6FCAFB5D/6FCAFB5D nResult=1
+20191005-192309<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.321312323a3a dwCRC=92573C18/92573C18 nResult=1
+20191005-192428<INFO :0xf5effb40>: [PlayerCreator] Created role 3a3a3a3, ServerID=2325367
+20191005-192454<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.3a3a3a3 dwCRC=85BED0D3/85BED0D3 nResult=1
+20191005-192455<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.3a3a3a3 dwCRC=57F27FA6/57F27FA6 nResult=1
+20191005-192514<INFO :0xf40ffb40>: [CheckCRC] CheckRoleData test.3a3a3a3 dwCRC=E335F23B/E335F23B nResult=1
+20191005-192754<INFO :0xf5effb40>: [PlayerCreator] Created role 32323a, ServerID=2325368
+20191005-192817<INFO :0xf5effb40>: [PlayerCreator] Created role 32323aa3a3a3, ServerID=2325369
+20191005-192851<INFO :0xf5effb40>: [PlayerCreator] Created role 312323a3a, ServerID=2325370

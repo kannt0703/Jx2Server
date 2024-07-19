@@ -1,0 +1,18 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200107-052241<INFO :0xf7374700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20200107-052241<INFO :0xf7374700>: Data OK! Current max Service ID is: 2325366
+20200107-052839<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData tinykidpro.Meowww dwCRC=13DADB1A/13DADB1A nResult=1
+20200107-053102<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData tinykidpro.Meowww dwCRC=56CF6D11/56CF6D11 nResult=1
+20200107-130659<INFO :0xf5cffb40>: [PlayerCreator] Created role ShinCode, ServerID=2325366
+20200107-131018<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData shincode.ShinCode dwCRC=B62309CF/B62309CF nResult=1
+20200107-132417<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData shincode.ShinCode dwCRC=8883C5C9/8883C5C9 nResult=1
+20200107-135347<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData shincode.ShinCode dwCRC=E4CC4B10/E4CC4B10 nResult=1
+20200107-135543<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData shincode.ShinCode dwCRC=149C7BC3/149C7BC3 nResult=1
+20200107-145510<INFO :0xf5cffb40>: [PlayerCreator] Created role NhÊtTiÔnSong§iªu, ServerID=2325367
+20200107-145551<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=88AC173A/88AC173A nResult=1
+20200107-145713<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=68906435/68906435 nResult=1
+20200107-151213<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=027C94C7/027C94C7 nResult=1
+20200107-151356<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=25D2819C/25D2819C nResult=1
+20200107-151714<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=44F75C70/44F75C70 nResult=1
+20200107-152149<INFO :0xf16ffb40>: [CheckCRC] CheckRoleData ender.NhÊtTiÔnSong§iªu dwCRC=8B1E20FE/8B1E20FE nResult=1
+20200107-153940<INFO :0xf52ffb40>: [CheckCRC] CheckRoleData tinykidpro.Meowww dwCRC=DCED05DC/DCED05DC nResult=1

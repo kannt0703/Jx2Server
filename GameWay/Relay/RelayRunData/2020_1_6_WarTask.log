@@ -1,490 +1,1502 @@
-[20200106-001140]NhËp Settings File cña nhiÖm vô ®Şnh giê: /RelaySetting/Task/TaskList.ini
-[20200106-001140]Sè l­îng nhiÖm vô ®Şnh giê: 46
-[20200106-001140]NhiÖm vô ®Şnh giê 0: CollectionTaskStart.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thi ®Êu thuyÒn rång
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 5400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 21 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:21! 1578244900
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CollectionTaskStart.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 1: CollectionTaskClose.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thi ®Êu thuyÒn rång
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 5400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 51 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:51! 1578246700
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CollectionTaskClose.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 2: CallBoss_13.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 13 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 13:0! 1578290440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_13.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 3: CallBoss_21.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:0! 1578319240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_21.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 4: CallBoss_23.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 23:0! 1578326440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_23.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 5: random_shop_npc.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: NPC nhiÖm vô Th­¬ng Héi sÏ thay ®æi c¸c vŞ trİ xuÊt hiÖn
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 1800 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 21 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:21! 1578244900
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: random_shop_npc.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 6: faction_boss_task.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: NhiÖm vô BOSS m«n ph¸i
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:0! 1578319240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: faction_boss_task.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 7: gest_convention_rank.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: XÕp h¹ng t­ c¸ch ®¹i héi tû vâ
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 23:30! 1578328240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: gest_convention_rank.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 8: taixu_jwl_liu_crt.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Th¨n cÊp nhiÖm vô Trang søc Th¸i H­
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 2 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:2! 1578319360
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: taixu_jwl_liu_crt.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 9: WeeklyBackupBR.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: WeeklyBackupBR
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 1 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:1! 1578319300
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: WeeklyBackupBR.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 10: north_west_task.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 1800 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 21 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:21! 1578244900
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: north_west_task.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 11: biwudahuiqianzou.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: GhĞp ®«i tr­íc ®¹i héi tû vâ
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 60 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 12 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:12! 1578244360
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: biwudahuiqianzou.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 12: daliytask.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: nhiÖm vô th­êng nhËt c¸ nh©nnhiÖm vô th­êng nhËt tæ ®éi
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:0! 1578330040
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: daliytask.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 13: silingding_11.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 11 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 11:0! 1578283240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_11.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 14: silingding_18.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 18 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 18:0! 1578308440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_18.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 15: silingding_23.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 23:0! 1578326440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_23.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 16: EventBoss_201103.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss Giæ tæ Hïng V­¬ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 1 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 1:0! 1578247240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: EventBoss_201103.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 17: lsb_callboss1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 12:30! 1578288640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 18: lsb_callboss2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 15 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 15:30! 1578299440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 19: lsb_callboss3.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 19 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 19:30! 1578313840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss3.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 20: lsb_callboss4.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 22:30! 1578324640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss4.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 21: oly_generate_lucknum.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: ThiÕt lËp ch÷ sè may m¾n ho¹t ®éng Olympic
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 58 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 20:58! 1578319120
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: oly_generate_lucknum.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 22: oly_clean_data.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: CËp nhËt d÷ liÖu ho¹t ®éng Olympic
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 58 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 23:58! 1578329920
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: oly_clean_data.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 23: qht_timer_clean.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: ThiÕt lËp thêi gian Thiªn TÇm Th¸p
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:30! 1578245440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_timer_clean.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 24: dzt_create_boss.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §¹i t¸c chiÕn truy t×m l¹i ch÷ viÕt
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 10:0! 1578279640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: dzt_create_boss.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 25: dzt_close.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §¹i t¸c chiÕn truy t×m l¹i ch÷ viÕt
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 10:30! 1578281440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: dzt_close.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 26: cc_call_boss1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 8 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 8:30! 1578274240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 27: cc_call_boss2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 12:30! 1578288640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 28: cc_call_boss3.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 17 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 17:30! 1578306640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss3.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 29: cc_call_boss4.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 22:30! 1578324640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss4.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 30: qht_create_gold_boss1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thiªn TÇm Th¸p Hoµng Kim BOSS xuÊt hiÖn!
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 12:30! 1578288640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_create_gold_boss1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 31: qht_create_gold_boss2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thiªn TÇm Th¸p Hoµng Kim BOSS xuÊt hiÖn!
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 22:0! 1578322840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_create_gold_boss2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 32: sp2014_createnpc_1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Niªn Thó 2014
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 12:0! 1578286840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: sp2014_createnpc_1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 33: sp2014_createnpc_2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Niªn Thó 2014
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:0! 1578319240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: sp2014_createnpc_2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 34: clear_gest_jiaoyi.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Xãa bá h¹ng tû vâ
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 11 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 0:11! 1578244300
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: clear_gest_jiaoyi.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 35: world_boss.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: T¹o míi BOSS ThÕ Giíi
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 14 giê 30 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 14:30! 1578295840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: world_boss.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 36: world_boss1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: T¹o míi BOSS ThÕ Giíi
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 20:0! 1578315640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: world_boss1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 37: hua_deng1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 10:0! 1578279640
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 38: hua_deng2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 11 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 11:0! 1578283240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 39: hua_deng3.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 16 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 16:0! 1578301240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng3.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 40: hua_deng4.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 17 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 17:0! 1578304840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng4.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 41: hua_deng5.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 21:0! 1578319240
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng5.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 42: hua_deng6.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 22:0! 1578322840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng6.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 43: ibc_boss1.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 13 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 13:0! 1578290440
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss1.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 44: ibc_boss2.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 19 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 19:0! 1578312040
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss2.lua
-[20200106-001140]NhiÖm vô ®Şnh giê 45: ibc_boss3.lua, Sè lÇn: 0
-[20200106-001140]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
-[20200106-001140]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
-[20200106-001140]Thêi gian tr­íc m¾t lµ: 0 giê 11 phót!
-[20200106-001140]Thêi gian thùc thi lÇn tíi: 22:0! 1578322840
-[20200106-001140]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
-[20200106-001140]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss3.lua
-[20200106-001141]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
-[20200106-001141]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001240]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001240]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001340]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001340]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001440]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001440]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001540]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001540]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001640]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001640]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001740]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001740]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001840]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001840]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-001940]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-001940]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002040]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002040]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002140]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
-[20200106-002140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002140]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
-[20200106-002140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002140]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
-[20200106-002140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002140]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002240]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002240]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002340]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002340]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002440]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002440]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002540]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002540]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002640]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002640]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002740]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002740]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002840]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002840]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-002940]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-002940]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003040]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003040]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003040]Thùc thi NhiÖm vô ®Şnh giê: qht_timer_clean.lua
-[20200106-003040]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003140]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003240]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003240]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003340]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003340]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003440]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003440]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003540]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003540]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003640]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003640]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003740]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003740]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003840]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003840]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-003940]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-003940]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004040]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004040]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004140]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004140]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004240]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004240]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004340]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004340]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004440]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004440]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004540]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
-[20200106-004540]Thêi gian thùc thi lÇn sau: 1578322840!
-[20200106-004601]Hñy bá tÊt c¶ nhiÖm vô!
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: CollectionTaskStart.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: CollectionTaskClose.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_13.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_21.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_23.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: random_shop_npc.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: faction_boss_task.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: gest_convention_rank.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: taixu_jwl_liu_crt.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: WeeklyBackupBR.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: north_west_task.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: biwudahuiqianzou.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: daliytask.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: silingding_11.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: silingding_18.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: silingding_23.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: EventBoss_201103.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: oly_generate_lucknum.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: oly_clean_data.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: qht_timer_clean.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: dzt_create_boss.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: dzt_close.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: qht_create_gold_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: qht_create_gold_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: sp2014_createnpc_1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: sp2014_createnpc_2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: world_boss.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: world_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng5.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: hua_deng6.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
-[20200106-004601]Hñy bá tÊt c¶ nhiÖm vô!
+[20200106-201723]NhËp Settings File cña nhiÖm vô ®Şnh giê: /RelaySetting/Task/TaskList.ini
+[20200106-201723]Sè l­îng nhiÖm vô ®Şnh giê: 46
+[20200106-201723]NhiÖm vô ®Şnh giê 0: CollectionTaskStart.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thi ®Êu thuyÒn rång
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 5400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 27 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:27! 1578338843
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CollectionTaskStart.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 1: CollectionTaskClose.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thi ®Êu thuyÒn rång
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 5400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 57 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:57! 1578340643
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CollectionTaskClose.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 2: CallBoss_13.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 13 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 13:0! 1578398423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_13.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 3: CallBoss_21.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:0! 1578340823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_21.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 4: CallBoss_23.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: BOSS buæi tr­a
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 23:0! 1578348023
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: CallBoss_23.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 5: random_shop_npc.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: NPC nhiÖm vô Th­¬ng Héi sÏ thay ®æi c¸c vŞ trİ xuÊt hiÖn
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 1800 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 27 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:27! 1578338843
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: random_shop_npc.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 6: faction_boss_task.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: NhiÖm vô BOSS m«n ph¸i
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:0! 1578340823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: faction_boss_task.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 7: gest_convention_rank.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: XÕp h¹ng t­ c¸ch ®¹i héi tû vâ
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 23:30! 1578349823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: gest_convention_rank.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 8: taixu_jwl_liu_crt.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Th¨n cÊp nhiÖm vô Trang søc Th¸i H­
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 4 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:4! 1578341063
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: taixu_jwl_liu_crt.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 9: WeeklyBackupBR.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: WeeklyBackupBR
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 1 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:1! 1578340883
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: WeeklyBackupBR.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 10: north_west_task.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 1800 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 27 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:27! 1578338843
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: north_west_task.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 11: biwudahuiqianzou.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: GhĞp ®«i tr­íc ®¹i héi tû vâ
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 60 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 18 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:18! 1578338303
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: biwudahuiqianzou.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 12: daliytask.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: nhiÖm vô th­êng nhËt c¸ nh©nnhiÖm vô th­êng nhËt tæ ®éi
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 0:0! 1578351623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: daliytask.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 13: silingding_11.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 11 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 11:0! 1578391223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_11.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 14: silingding_18.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 18 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 18:0! 1578416423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_18.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 15: silingding_23.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 23:0! 1578348023
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: silingding_23.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 16: EventBoss_201103.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss Giæ tæ Hïng V­¬ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:0! 1578340823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: EventBoss_201103.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 17: lsb_callboss1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 12:30! 1578396623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 18: lsb_callboss2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 15 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 15:30! 1578407423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 19: lsb_callboss3.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 19 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 19:30! 1578421823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss3.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 20: lsb_callboss4.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Boss L­¬ng S¬n Hoµng Kim
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 22:30! 1578346223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: lsb_callboss4.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 21: oly_generate_lucknum.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: ThiÕt lËp ch÷ sè may m¾n ho¹t ®éng Olympic
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 58 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:58! 1578340703
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: oly_generate_lucknum.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 22: oly_clean_data.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: CËp nhËt d÷ liÖu ho¹t ®éng Olympic
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 23 giê 58 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 23:58! 1578351503
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: oly_clean_data.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 23: qht_timer_clean.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: ThiÕt lËp thêi gian Thiªn TÇm Th¸p
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 0 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 0:30! 1578353423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_timer_clean.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 24: dzt_create_boss.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §¹i t¸c chiÕn truy t×m l¹i ch÷ viÕt
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 10:0! 1578387623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: dzt_create_boss.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 25: dzt_close.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §¹i t¸c chiÕn truy t×m l¹i ch÷ viÕt
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 10:30! 1578389423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: dzt_close.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 26: cc_call_boss1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 8 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 8:30! 1578382223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 27: cc_call_boss2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 12:30! 1578396623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 28: cc_call_boss3.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 17 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 17:30! 1578414623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss3.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 29: cc_call_boss4.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Lµm míi ThÎ Tù BOSS 
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 22:30! 1578346223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: cc_call_boss4.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 30: qht_create_gold_boss1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thiªn TÇm Th¸p Hoµng Kim BOSS xuÊt hiÖn!
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 12:30! 1578396623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_create_gold_boss1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 31: qht_create_gold_boss2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Thiªn TÇm Th¸p Hoµng Kim BOSS xuÊt hiÖn!
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 22:0! 1578344423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: qht_create_gold_boss2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 32: sp2014_createnpc_1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Niªn Thó 2014
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 12 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 12:0! 1578394823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: sp2014_createnpc_1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 33: sp2014_createnpc_2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Niªn Thó 2014
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:0! 1578340823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: sp2014_createnpc_2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 34: clear_gest_jiaoyi.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: Xãa bá h¹ng tû vâ
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 3600 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 17 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:17! 1578338243
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: clear_gest_jiaoyi.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 35: world_boss.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: T¹o míi BOSS ThÕ Giíi
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 14 giê 30 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 14:30! 1578403823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: world_boss.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 36: world_boss1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: T¹o míi BOSS ThÕ Giíi
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 20 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 20:0! 1578423623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: world_boss1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 37: hua_deng1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 10 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 10:0! 1578387623
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 38: hua_deng2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 11 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 11:0! 1578391223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 39: hua_deng3.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 16 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 16:0! 1578409223
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng3.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 40: hua_deng4.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 17 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 17:0! 1578412823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng4.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 41: hua_deng5.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 21 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 21:0! 1578340823
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng5.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 42: hua_deng6.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp tªn nhiÖm vô ®Şnh giê: §Ìn Hoa §¨ng
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 22:0! 1578344423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: hua_deng6.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 43: ibc_boss1.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 13 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 13:0! 1578398423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss1.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 44: ibc_boss2.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 19 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]H«m nay sÏ kh«ng thùc thi: ®· qu¸ thêi gian!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 19:0! 1578420023
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss2.lua
+[20200106-201723]NhiÖm vô ®Şnh giê 45: ibc_boss3.lua, Sè lÇn: 0
+[20200106-201723]ThiÕt lËp thêi gian gi¸n c¸ch nhiÖm vô ®Şnh giê: 86400 gi©y mét lÇn!
+[20200106-201723]ThiÕt lËp thêi gian nhiÖm vô ®Şnh giê: 22 giê 0 phót!
+[20200106-201723]Thêi gian tr­íc m¾t lµ: 20 giê 17 phót!
+[20200106-201723]Thêi gian thùc thi lÇn tíi: 22:0! 1578344423
+[20200106-201723]Sè lÇn ®Şnh giê nhiÖm vô: 0 !
+[20200106-201723]§Æt nÒn mãng nhiÖm vô ®Şnh giê thµnh c«ng: ibc_boss3.lua
+[20200106-201724]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200106-201724]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-201823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-201823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-201923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-201923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
+[20200106-202723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-202723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-202723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-202923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-202923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-203923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-203923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-204923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-204923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskClose.lua
+[20200106-205723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-205723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-205723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205823]Thùc thi NhiÖm vô ®Şnh giê: oly_generate_lucknum.lua
+[20200106-205823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-205923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-205923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: CallBoss_21.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: faction_boss_task.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: sp2014_createnpc_2.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210023]Thùc thi NhiÖm vô ®Şnh giê: hua_deng5.lua
+[20200106-210023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200106-210123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210423]Thùc thi NhiÖm vô ®Şnh giê: taixu_jwl_liu_crt.lua
+[20200106-210423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-210923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-210923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200106-211723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-211923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-211923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-212723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-212723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-212923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-212923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213224]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213224]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-213923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-213923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-214923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-214923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
+[20200106-215723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-215723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-215723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-215923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-215923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200106-220023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220023]Thùc thi NhiÖm vô ®Şnh giê: qht_create_gold_boss2.lua
+[20200106-220023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220023]Thùc thi NhiÖm vô ®Şnh giê: hua_deng6.lua
+[20200106-220023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220023]Thùc thi NhiÖm vô ®Şnh giê: ibc_boss3.lua
+[20200106-220023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200106-220123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-220923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-220923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200106-221723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-221923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-221923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskClose.lua
+[20200106-222723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-222723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-222723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-222923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-222923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223023]Thùc thi NhiÖm vô ®Şnh giê: lsb_callboss4.lua
+[20200106-223023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223023]Thùc thi NhiÖm vô ®Şnh giê: cc_call_boss4.lua
+[20200106-223023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-223923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-223923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-224923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-224923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-225723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-225723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-225923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-225923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230023]Thùc thi NhiÖm vô ®Şnh giê: CallBoss_23.lua
+[20200106-230023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230023]Thùc thi NhiÖm vô ®Şnh giê: silingding_23.lua
+[20200106-230023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200106-230023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200106-230123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-230923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-230923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231324]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200106-231723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-231923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-231923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
+[20200106-232723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-232723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-232723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-232923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-232923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233023]Thùc thi NhiÖm vô ®Şnh giê: gest_convention_rank.lua
+[20200106-233023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-233923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-233923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-234923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-234923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskClose.lua
+[20200106-235723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200106-235723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200106-235723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235823]Thùc thi NhiÖm vô ®Şnh giê: oly_clean_data.lua
+[20200106-235823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200106-235923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200106-235923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000023]Thùc thi NhiÖm vô ®Şnh giê: daliytask.lua
+[20200107-000023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200107-000023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200107-000123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-000923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-000923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200107-001723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-001923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-001923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-002723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-002723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-002923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-002923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003023]Thùc thi NhiÖm vô ®Şnh giê: gest_convention_rank.lua
+[20200107-003023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003023]Thùc thi NhiÖm vô ®Şnh giê: qht_timer_clean.lua
+[20200107-003023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-003923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-003923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-004923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-004923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
+[20200107-005723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-005723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-005723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-005923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-005923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200107-010023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200107-010123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-010923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-010923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200107-011723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-011923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-011923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskClose.lua
+[20200107-012723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-012723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-012723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-012923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-012923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013023]Thùc thi NhiÖm vô ®Şnh giê: gest_convention_rank.lua
+[20200107-013023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-013923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-013923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-014923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-014923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-015723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-015723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-015923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-015923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200107-020023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200107-020123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-020923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-020923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200107-021723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-021923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-021923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskStart.lua
+[20200107-022723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-022723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-022723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-022923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-022923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023023]Thùc thi NhiÖm vô ®Şnh giê: gest_convention_rank.lua
+[20200107-023023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-023923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-023923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-024923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-024923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025723]Thùc thi NhiÖm vô ®Şnh giê: CollectionTaskClose.lua
+[20200107-025723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-025723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-025723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-025923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-025923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030023]Thùc thi NhiÖm vô ®Şnh giê: EventBoss_201103.lua
+[20200107-030023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030123]Thùc thi NhiÖm vô ®Şnh giê: WeeklyBackupBR.lua
+[20200107-030123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-030923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-030923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031723]Thùc thi NhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua
+[20200107-031723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-031923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-031923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032723]Thùc thi NhiÖm vô ®Şnh giê: random_shop_npc.lua
+[20200107-032723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032723]Thùc thi NhiÖm vô ®Şnh giê: north_west_task.lua
+[20200107-032723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-032923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-032923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033023]Thùc thi NhiÖm vô ®Şnh giê: gest_convention_rank.lua
+[20200107-033023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-033923]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-033923]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034023]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034023]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034123]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034123]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034223]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034223]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034323]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034323]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034423]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034423]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034523]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034523]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034623]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034623]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034723]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034723]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034823]Thùc thi NhiÖm vô ®Şnh giê: biwudahuiqianzou.lua
+[20200107-034823]Thêi gian thùc thi lÇn sau: 1578344423!
+[20200107-034900]Hñy bá tÊt c¶ nhiÖm vô!
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: CollectionTaskStart.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: CollectionTaskClose.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_13.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_21.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: CallBoss_23.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: random_shop_npc.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: faction_boss_task.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: gest_convention_rank.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: taixu_jwl_liu_crt.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: WeeklyBackupBR.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: north_west_task.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: biwudahuiqianzou.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: daliytask.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: silingding_11.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: silingding_18.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: silingding_23.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: EventBoss_201103.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: lsb_callboss4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: oly_generate_lucknum.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: oly_clean_data.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: qht_timer_clean.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: dzt_create_boss.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: dzt_close.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: cc_call_boss4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: qht_create_gold_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: qht_create_gold_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: sp2014_createnpc_1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: sp2014_createnpc_2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: clear_gest_jiaoyi.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: world_boss.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: world_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng4.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng5.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: hua_deng6.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss1.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss2.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá nhiÖm vô ®Şnh giê: ibc_boss3.lua, Sè lÇn thiÕt lËp nhiÖm vô: 0  Sè lÇn ®· thùc thi: 0
+[20200107-034900]Hñy bá tÊt c¶ nhiÖm vô!

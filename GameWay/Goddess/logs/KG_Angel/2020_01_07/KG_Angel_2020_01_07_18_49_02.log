@@ -1,0 +1,6 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20200107-184902<INFO :0xf7429700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20200107-184902<INFO :0xf7429700>: Data OK! Current max Service ID is: 2325366
+20200107-185053<INFO :0xf53ffb40>: [PlayerCreator] Created role MinhZao, ServerID=2325366
+20200107-185126<INFO :0xf3fffb40>: [CheckCRC] CheckRoleData tinykidpro.MinhZao dwCRC=487C3580/487C3580 nResult=1
+20200107-185303<INFO :0xf3fffb40>: [CheckCRC] CheckRoleData tinykidpro.MinhZao dwCRC=DACF9D2C/DACF9D2C nResult=1

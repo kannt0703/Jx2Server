@@ -1,0 +1,13 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=209/65536 LastTime=2024-7-13 1:10:46
+20240714-000005<DEBUG:0xf7397700>: [Tong_Operation] Update Tong Competition List Start...
+20240714-000005<DEBUG:0xf7397700>: [Tong_Operation] Update Tong Competition List Step1.
+20240714-000005<DEBUG:0xf7397700>: [Tong_Operation] Update Tong Competition List Step2.
+20240714-000005<DEBUG:0xf7397700>: [Tong_Operation] Update Tong Competition List Step3.
+20240714-000005<DEBUG:0xf7397700>: [Tong_Operation] Update Tong Competition List Finished.
+20240714-000046<INFO :0xf7397700>: set runtime statistic result path is [runtime_stat_result/2024_07_13/stat_result_ksg_2024_07_13_@SONGLONG_GW.txt]
+20240714-000046<WARN :0xf7397700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_13/stat_result_ksg_2024_07_13_@SONGLONG_GW.txt Count=364
+20240714-000046<WARN :0xf7397700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_13/stat_result_vng_2024-07-13_@SONGLONG_GW.txt Count=1
+20240714-000046<INFO :0xf7397700>: set runtime statistic result path is [runtime_stat_result/2024_07_14/stat_result_ksg_2024_07_14_@SONGLONG_GW.txt]
+20240714-000046<INFO :0xf7397700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20240714-000046<WARN :0xf7397700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_ksg_2024_07_14_@SONGLONG_GW.txt Count=363
+20240714-000046<WARN :0xf7397700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_vng_2024-07-14_@SONGLONG_GW.txt Count=1

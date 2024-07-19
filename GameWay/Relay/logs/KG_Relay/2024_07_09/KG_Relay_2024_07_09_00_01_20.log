@@ -1,0 +1,13 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=199/65536 LastTime=2024-7-8 18:31:20
+20240709-000120<INFO :0xf73d1700>: set runtime statistic result path is [runtime_stat_result/2024_07_08/stat_result_ksg_2024_07_08_@SONGLONG_GW.txt]
+20240709-000120<WARN :0xf73d1700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_08/stat_result_ksg_2024_07_08_@SONGLONG_GW.txt Count=373
+20240709-000120<WARN :0xf73d1700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_08/stat_result_vng_2024-07-08_@SONGLONG_GW.txt Count=1
+20240709-000120<INFO :0xf73d1700>: set runtime statistic result path is [runtime_stat_result/2024_07_09/stat_result_ksg_2024_07_09_@SONGLONG_GW.txt]
+20240709-000120<INFO :0xf73d1700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20240709-000120<WARN :0xf73d1700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_09/stat_result_ksg_2024_07_09_@SONGLONG_GW.txt Count=363
+20240709-000120<WARN :0xf73d1700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_09/stat_result_vng_2024-07-09_@SONGLONG_GW.txt Count=1
+20240709-065156<DEBUG:0xf73d1700>: [RelationMgr] SomeoneLogout("Jx2iiTieuKanNT")
+20240709-065157<DEBUG:0xf73d1700>: [RelationMgr] SomeoneLogin("Jx2iiTieuKanNT")
+20240709-065157<WARN :0xf73d1700>: Router NOT connected
+20240709-071131<INFO :0xf73d1700>: [Relay] Get quit signal!
+20240709-071131<INFO :0xf73d1700>: Relay stopping!

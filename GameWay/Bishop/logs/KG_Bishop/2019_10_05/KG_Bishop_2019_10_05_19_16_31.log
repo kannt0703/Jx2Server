@@ -1,0 +1,1063 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20191005-191631<INFO :0xf73b0700>: [verify_up2date]...
+20191005-191631<INFO :0xf73b0700>: >Current lang is [gb18030]
+20191005-191631<INFO :0xf73b0700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20191005-191631<INFO :0xf73b0700>: >Time duration: 12.486917ms 
+20191005-191631<INFO :0xf73b0700>: >
+20191005-191631<INFO :0xf73b0700>: >Finish, my exit code is: 0
+20191005-191631<INFO :0xf73b0700>: |shell cmd result is 0
+20191005-191631<INFO :0xf73b0700>: ExecShellCmd [./verify_up2date -op=vef -d="/root/jx2/xmission/gw/Bishop" ] ret=0
+20191005-191631<INFO :0xf73b0700>: [verify_up2date] ok
+20191005-191631<INFO :0xf73b0700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20191005-191631<INFO :0xf73b0700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20191005-191631<INFO :0xf73b0700>: [Paysys] Login() Connect to (103.90.225.134 : 8000) SocketStream = 0x8721ef0
+20191005-191631<INFO :0xf73b0700>: [Local machine info] InternalMacAddress: 00-50-56-b1-14-35, InternalIPAddress: 192.168.53.115
+20191005-191631<INFO :0xf73b0700>: [Local machine info] ExternalMacAddress: 00-50-56-b1-14-35, ExternalIPAddress: 192.168.53.115
+20191005-191631<DEBUG:0xf73b0700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20191005-191631<DEBUG:0xf73b0700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20191005-191631<INFO :0xf73b0700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20191005-191637<INFO :0xf73b0700>: [Paysys] Login() nResult = 1
+20191005-191637<INFO :0xf73b0700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x87223b8
+20191005-191637<INFO :0xf73b0700>: [Goddess] Login() nResult = 1
+20191005-191637<INFO :0xf73b0700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20191005-191637<INFO :0xf73b0700>: [PlayerManager] Init() Acceptor Open(192.168.53.115: 5622), nRetCode = 1
+20191005-191647<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191647<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191650<INFO :0xf6053b40>: [Relay] ThreadFunction() Accept from (127.0.0.1: 46754) SocketStream = 0xdb5004c8
+20191005-191650<INFO :0xf6053b40>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20191005-191657<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2326085
+20191005-191657<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191657<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191707<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191707<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191708<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 36826) SocketStream = 0xdb3004c8
+20191005-191708<INFO :0xdb2ffb40>: [GameServer 0] Connected from 127.0.0.1, internet address = 103.90.225.115, open port = 6660, protocol version (341-->345)
+20191005-191708<DEBUG:0xdb2ffb40>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20191005-191708<INFO :0xdb2ffb40>: [GameServer 0] from [127.0.0.1 : 55951] === Start ===
+20191005-191708<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 405; Key = 1
+20191005-191708<INFO :0xdb2ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191716<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191716<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191716<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2346128
+20191005-191724<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.2: 42940) SocketStream = 0xdb303c60
+20191005-191724<INFO :0xdaafeb40>: [GameServer 1] Connected from 127.0.0.2, internet address = 103.92.25.220, open port = 6661, protocol version (341-->345)
+20191005-191724<DEBUG:0xdaafeb40>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20191005-191724<INFO :0xdaafeb40>: [GameServer 1] from [127.0.0.2 : 48295] === Start ===
+20191005-191724<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 441; Key = 2
+20191005-191724<INFO :0xdaafeb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191725<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191725<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191730<DEBUG:0xf204bb40>: [Player 6] ThreadFunction() Accept from (42.116.67.219 : 52282) SocketStream = 0xd9f004c8
+20191005-191730<DEBUG:0xf204bb40>: [Player 6] Account test login bishop ... ... [OK]
+20191005-191730<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-191730<DEBUG:0xf204bb40>: [Player 6] Push request package into paysys module OK, package id = 1, cost time 0 ms
+20191005-191730<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 1
+20191005-191730<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 1
+20191005-191731<DEBUG:0xf204bb40>: [Player 6] Pop respond package from paysys module OK, package id = 1, cost time 821 ms
+20191005-191731<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-191731<INFO :0xf204bb40>: [Player 6] Player verify to paysys, result = 3, Account test
+20191005-191731<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20191005-191733<DEBUG:0xf184ab40>: [Player 7] ThreadFunction() Accept from (42.116.67.219 : 52288) SocketStream = 0xda0004c8
+20191005-191733<DEBUG:0xf184ab40>: [Player 7] Account test login bishop ... ... [OK]
+20191005-191733<DEBUG:0xf184ab40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-191733<DEBUG:0xf184ab40>: [Player 7] Push request package into paysys module OK, package id = 2, cost time 0 ms
+20191005-191733<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 2
+20191005-191733<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 2
+20191005-191733<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.3: 33273) SocketStream = 0xdb3073e0
+20191005-191733<INFO :0xd9effb40>: [GameServer 2] Connected from 127.0.0.3, internet address = 103.90.225.115, open port = 6662, protocol version (341-->345)
+20191005-191733<DEBUG:0xd9effb40>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20191005-191733<INFO :0xd9effb40>: [GameServer 2] from [127.0.0.3 : 63873] === Start ===
+20191005-191733<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 405; Key = 3
+20191005-191733<INFO :0xd9effb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191733<DEBUG:0xf184ab40>: [Player 7] Pop respond package from paysys module OK, package id = 2, cost time 1316 ms
+20191005-191733<DEBUG:0xf184ab40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-191733<INFO :0xf184ab40>: [Player 7] Player verify to paysys, result = 1, Account test
+20191005-191733<INFO :0xf184ab40>: [Player 7] Account test EndOfDayTime = 2349501622, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779223768
+20191005-191733<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-191733<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-191733<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-191734<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2366172
+20191005-191734<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 1
+20191005-191734<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 1
+20191005-191735<DEBUG:0xf184ab40>: [Player 7] ProcessRoleList() RoleCount = 0!
+20191005-191737<DEBUG:0xf184ab40>: [Player 7] ReadPlayerRequest() Protocol = 33, Size = 17!
+20191005-191737<DEBUG:0xf184ab40>: [Player 7] Account test create role 321312323a3a to goddess ... ... [OK]
+20191005-191737<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 2
+20191005-191737<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 2
+20191005-191738<DEBUG:0xf184ab40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-191738<DEBUG:0xf184ab40>: [Player 7] Request enter game: ask for permission, account = test, role name = 321312323a3a ... ... [OK]
+20191005-191738<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 834; Key = 2
+20191005-191739<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_login_permission() , Account = test, Role = 321312323a3a, Permit = true
+20191005-191740<DEBUG:0xf184ab40>: [Player 7] Notify player login game: ip = 103.90.225.115, port = 6662, account = test, role = 321312323a3a
+20191005-191740<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_enter_game() AccountName = test
+20191005-191742<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191742<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191752<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191752<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] Player change ext point: Account = test , PlayerDataIndex = 0 ... ... [OK]
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_leave_game() , Account test 
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] _LeaveGame_Normal() AccountName = test
+20191005-191756<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] Unregister account test in game server ... ... [OK]
+20191005-191756<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-191756<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-191756<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 3
+20191005-191756<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 4
+20191005-191756<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 3
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20191005-191756<DEBUG:0xd9effb40>: [GameServer 2] Process ext point operate result: Account = test, PlayerDataIndex = 0, ResultFlag = 1 ... ... [OK]
+20191005-191756<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 4
+20191005-191757<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2389707
+20191005-191757<DEBUG:0xee844b40>: [Player 13] ThreadFunction() Accept from (42.116.67.219 : 52317) SocketStream = 0xd9300528
+20191005-191757<DEBUG:0xee844b40>: [Player 13] Account test login bishop ... ... [OK]
+20191005-191757<DEBUG:0xee844b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-191757<DEBUG:0xee844b40>: [Player 13] Push request package into paysys module OK, package id = 5, cost time 0 ms
+20191005-191758<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 5
+20191005-191758<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 5
+20191005-191758<DEBUG:0xee844b40>: [Player 13] Pop respond package from paysys module OK, package id = 5, cost time 843 ms
+20191005-191758<DEBUG:0xee844b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-191758<INFO :0xee844b40>: [Player 13] Player verify to paysys, result = 1, Account test
+20191005-191758<INFO :0xee844b40>: [Player 13] Account test EndOfDayTime = 2349527050, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779249171
+20191005-191758<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-191758<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-191758<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-191800<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 3
+20191005-191800<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 3
+20191005-191801<DEBUG:0xee844b40>: [Player 13] ProcessRoleList() RoleCount = 1!
+20191005-191801<DEBUG:0xee844b40>: [Player 13] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-191801<DEBUG:0xee844b40>: [Player 13] EnterGame_QueryRoleData() RoleName = 321312323a3a
+20191005-191801<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 23; Key = 4
+20191005-191801<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3111; Key = 4
+20191005-191802<DEBUG:0xee844b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-191802<DEBUG:0xee844b40>: [Player 13] Request enter game: ask for permission, account = test, role name = 321312323a3a ... ... [OK]
+20191005-191802<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3209; Key = 4
+20191005-191802<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_login_permission() , Account = test, Role = 321312323a3a, Permit = true
+20191005-191803<DEBUG:0xee844b40>: [Player 13] Notify player login game: ip = 103.90.225.115, port = 6662, account = test, role = 321312323a3a
+20191005-191803<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_enter_game() AccountName = test
+20191005-191808<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191808<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191818<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_pre_transfer_server() AccountName = test
+20191005-191818<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_leave_game() , Account test 
+20191005-191818<DEBUG:0xd9effb40>: [GameServer 2] Unregister account test in game server ... ... [OK]
+20191005-191818<DEBUG:0xd9effb40>: [GameServer 2] Account test leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20191005-191818<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191818<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191821<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2413646
+20191005-191828<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191828<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191838<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191838<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191841<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2433689
+20191005-191848<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191848<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191858<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191858<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191901<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2453721
+20191005-191908<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191908<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191914<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.4: 33377) SocketStream = 0xdb30ab60
+20191005-191914<INFO :0xd92ffb40>: [GameServer 3] Connected from 127.0.0.4, internet address = 103.90.225.115, open port = 6663, protocol version (341-->345)
+20191005-191914<DEBUG:0xd92ffb40>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20191005-191914<INFO :0xd92ffb40>: [GameServer 3] from [127.0.0.4 : 24962] === Start ===
+20191005-191914<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 445; Key = 4
+20191005-191914<INFO :0xd92ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191917<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191917<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191920<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2473767
+20191005-191925<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.5: 48446) SocketStream = 0xdb30e2e0
+20191005-191925<INFO :0xd8afeb40>: [GameServer 4] Connected from 127.0.0.5, internet address = 103.90.225.115, open port = 6664, protocol version (341-->345)
+20191005-191925<DEBUG:0xd8afeb40>: [GameServer 4] GameServerConnectedInit() nResult = 1
+20191005-191925<INFO :0xd8afeb40>: [GameServer 4] from [127.0.0.5 : 16061] === Start ===
+20191005-191925<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 309; Key = 5
+20191005-191925<INFO :0xd8afeb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191926<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191926<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191936<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191936<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191939<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.6: 53987) SocketStream = 0xdb311a88
+20191005-191939<INFO :0xd80ffb40>: [GameServer 5] Connected from 127.0.0.6, internet address = 103.90.225.115, open port = 6665, protocol version (341-->345)
+20191005-191939<DEBUG:0xd80ffb40>: [GameServer 5] GameServerConnectedInit() nResult = 1
+20191005-191939<INFO :0xd80ffb40>: [GameServer 5] from [127.0.0.6 : 58322] === Start ===
+20191005-191939<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 29; Key = 6
+20191005-191939<INFO :0xd80ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191940<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2493807
+20191005-191946<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191946<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191948<DEBUG:0xd8afeb40>: [GameServer 4] g2b_pre_transfer_server() AccountName = test
+20191005-191948<DEBUG:0xdb2ffb40>: [GameServer 0] g2b_player_leave_game() , Account test 
+20191005-191948<DEBUG:0xdb2ffb40>: [GameServer 0] Unregister account test in game server ... ... [OK]
+20191005-191948<DEBUG:0xdb2ffb40>: [GameServer 0] Account test leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20191005-191950<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.7: 39152) SocketStream = 0xdb315208
+20191005-191950<INFO :0xd76ffb40>: [GameServer 6] Connected from 127.0.0.7, internet address = 103.90.225.115, open port = 6666, protocol version (341-->345)
+20191005-191950<DEBUG:0xd76ffb40>: [GameServer 6] GameServerConnectedInit() nResult = 1
+20191005-191950<INFO :0xd76ffb40>: [GameServer 6] from [127.0.0.7 : 61592] === Start ===
+20191005-191950<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 45; Key = 7
+20191005-191950<INFO :0xd76ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-191955<DEBUG:0xd9effb40>: [GameServer 2] g2b_pre_transfer_server() AccountName = test
+20191005-191955<DEBUG:0xd8afeb40>: [GameServer 4] g2b_player_leave_game() , Account test 
+20191005-191955<DEBUG:0xd8afeb40>: [GameServer 4] Unregister account test in game server ... ... [OK]
+20191005-191955<DEBUG:0xd8afeb40>: [GameServer 4] Account test leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20191005-191955<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-191955<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-191959<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2513879
+20191005-192005<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192005<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192015<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192015<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192019<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2533907
+20191005-192025<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192025<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192035<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192035<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192039<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2553953
+20191005-192045<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192045<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192055<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192055<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192059<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2573990
+20191005-192105<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192105<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192115<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192115<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192119<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2594022
+20191005-192125<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192125<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192135<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192135<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192139<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2614045
+20191005-192145<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192145<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192155<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192155<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192159<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2634087
+20191005-192206<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192206<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192215<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192215<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192219<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2654125
+20191005-192225<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192225<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192235<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192235<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192239<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2674171
+20191005-192246<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192246<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192256<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192256<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192259<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2694216
+20191005-192306<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192306<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192310<DEBUG:0xdaafeb40>: [GameServer 1] g2b_pre_transfer_server() AccountName = test
+20191005-192310<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_leave_game() , Account test 
+20191005-192310<DEBUG:0xd9effb40>: [GameServer 2] Unregister account test in game server ... ... [OK]
+20191005-192310<DEBUG:0xd9effb40>: [GameServer 2] Account test leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20191005-192315<DEBUG:0xe382eb40>: [Player 35] ThreadFunction() Accept from (42.116.67.219 : 52738) SocketStream = 0xd6b004c8
+20191005-192315<DEBUG:0xe382eb40>: [Player 35] Account test login bishop ... ... [OK]
+20191005-192315<DEBUG:0xe382eb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192315<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192315<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192316<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192316<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192319<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2714267
+20191005-192320<DEBUG:0xed842b40>: [Player 15] ThreadFunction() Accept from (42.116.67.219 : 52744) SocketStream = 0x872c830
+20191005-192320<DEBUG:0xed842b40>: [Player 15] Account test login bishop ... ... [OK]
+20191005-192320<DEBUG:0xed842b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192320<DEBUG:0xed842b40>: [Player 15] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192320<DEBUG:0xed842b40>: [Player 15] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192325<DEBUG:0xf184ab40>: [Player 7] ThreadFunction() Accept from (42.116.67.219 : 52750) SocketStream = 0xda0004c8
+20191005-192325<DEBUG:0xf184ab40>: [Player 7] Account test login bishop ... ... [OK]
+20191005-192325<DEBUG:0xf184ab40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192325<DEBUG:0xf184ab40>: [Player 7] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192325<DEBUG:0xf184ab40>: [Player 7] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192326<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192326<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192330<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_leave_game() , Account test 
+20191005-192330<DEBUG:0xdaafeb40>: [GameServer 1] _LeaveGame_Normal() AccountName = test
+20191005-192330<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192330<DEBUG:0xdaafeb40>: [GameServer 1] Unregister account test in game server ... ... [OK]
+20191005-192330<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192330<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192330<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 6
+20191005-192330<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 6
+20191005-192330<DEBUG:0xe7836b40>: [Player 27] ThreadFunction() Accept from (42.116.67.219 : 52757) SocketStream = 0xd6b004c8
+20191005-192330<DEBUG:0xe7836b40>: [Player 27] Account test login bishop ... ... [OK]
+20191005-192330<DEBUG:0xe7836b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192330<DEBUG:0xe7836b40>: [Player 27] Push request package into paysys module OK, package id = 7, cost time 0 ms
+20191005-192330<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 7
+20191005-192330<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 7
+20191005-192331<DEBUG:0xe7836b40>: [Player 27] Pop respond package from paysys module OK, package id = 7, cost time 1094 ms
+20191005-192331<DEBUG:0xe7836b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192331<INFO :0xe7836b40>: [Player 27] Player verify to paysys, result = 1, Account test
+20191005-192331<INFO :0xe7836b40>: [Player 27] Account test EndOfDayTime = 2349862031, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779583819
+20191005-192331<DEBUG:0xd92ffb40>: [GameServer 3] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192331<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192331<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192331<DEBUG:0xd80ffb40>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192331<DEBUG:0xd8afeb40>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192331<DEBUG:0xd76ffb40>: [GameServer 6] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192331<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192332<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 5
+20191005-192333<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 5
+20191005-192334<DEBUG:0xe7836b40>: [Player 27] ProcessRoleList() RoleCount = 1!
+20191005-192334<DEBUG:0xe7836b40>: [Player 27] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192334<DEBUG:0xe7836b40>: [Player 27] EnterGame_QueryRoleData() RoleName = 321312323a3a
+20191005-192334<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 23; Key = 6
+20191005-192334<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3628; Key = 6
+20191005-192335<DEBUG:0xe7836b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192335<DEBUG:0xe7836b40>: [Player 27] Request enter game: ask for permission, account = test, role name = 321312323a3a ... ... [OK]
+20191005-192335<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3726; Key = 4
+20191005-192335<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_login_permission() , Account = test, Role = 321312323a3a, Permit = true
+20191005-192335<DEBUG:0xe7836b40>: [Player 27] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 321312323a3a
+20191005-192340<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192340<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192346<DEBUG:0xe5031b40>: [Player 32] ThreadFunction() Accept from (42.116.67.219 : 52776) SocketStream = 0xd6d004a0
+20191005-192346<DEBUG:0xe5031b40>: [Player 32] Account test login bishop ... ... [OK]
+20191005-192346<DEBUG:0xe5031b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192346<DEBUG:0xe5031b40>: [Player 32] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192346<DEBUG:0xe5031b40>: [Player 32] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192348<DEBUG:0xdd021b40>: [Player 48] ThreadFunction() Accept from (42.116.67.219 : 52781) SocketStream = 0xd7700548
+20191005-192348<DEBUG:0xdd021b40>: [Player 48] Account test login bishop ... ... [OK]
+20191005-192348<DEBUG:0xdd021b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192348<DEBUG:0xdd021b40>: [Player 48] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192348<DEBUG:0xdd021b40>: [Player 48] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192349<DEBUG:0xf404fb40>: [Player 2] ThreadFunction() Accept from (42.116.67.219 : 52783) SocketStream = 0xd8100558
+20191005-192349<DEBUG:0xf404fb40>: [Player 2] Account test login bishop ... ... [OK]
+20191005-192349<DEBUG:0xf404fb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192349<DEBUG:0xf404fb40>: [Player 2] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192349<DEBUG:0xf404fb40>: [Player 2] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192350<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192350<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192350<DEBUG:0xf304db40>: [Player 4] ThreadFunction() Accept from (42.116.67.219 : 52785) SocketStream = 0xd94004e0
+20191005-192350<DEBUG:0xf304db40>: [Player 4] Account test login bishop ... ... [OK]
+20191005-192350<DEBUG:0xf304db40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192350<DEBUG:0xf304db40>: [Player 4] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192350<DEBUG:0xf304db40>: [Player 4] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192352<DEBUG:0xee844b40>: [Player 13] ThreadFunction() Accept from (42.116.67.219 : 52787) SocketStream = 0xd9300528
+20191005-192352<DEBUG:0xee844b40>: [Player 13] Account test login bishop ... ... [OK]
+20191005-192352<DEBUG:0xee844b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192352<DEBUG:0xee844b40>: [Player 13] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192352<DEBUG:0xee844b40>: [Player 13] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192353<DEBUG:0xf0848b40>: [Player 9] ThreadFunction() Accept from (42.116.67.219 : 52789) SocketStream = 0xd9301680
+20191005-192353<DEBUG:0xf0848b40>: [Player 9] Account test login bishop ... ... [OK]
+20191005-192353<DEBUG:0xf0848b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192353<DEBUG:0xf0848b40>: [Player 9] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192353<DEBUG:0xf0848b40>: [Player 9] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192354<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2748797
+20191005-192354<DEBUG:0xf5051b40>: [Player 0] ThreadFunction() Accept from (42.116.67.219 : 52792) SocketStream = 0xd95005b0
+20191005-192354<DEBUG:0xf5051b40>: [Player 0] Account test login bishop ... ... [OK]
+20191005-192354<DEBUG:0xf5051b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192354<DEBUG:0xf5051b40>: [Player 0] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192354<DEBUG:0xf5051b40>: [Player 0] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192355<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_leave_game() , Account test 
+20191005-192355<DEBUG:0xdaafeb40>: [GameServer 1] _LeaveGame_Normal() AccountName = test
+20191005-192355<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192355<DEBUG:0xdaafeb40>: [GameServer 1] Unregister account test in game server ... ... [OK]
+20191005-192355<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192355<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192355<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 8
+20191005-192355<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 8
+20191005-192356<DEBUG:0xef846b40>: [Player 11] ThreadFunction() Accept from (42.116.67.219 : 52794) SocketStream = 0xda0004c8
+20191005-192356<DEBUG:0xef846b40>: [Player 11] Account test login bishop ... ... [OK]
+20191005-192356<DEBUG:0xef846b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192356<DEBUG:0xef846b40>: [Player 11] Push request package into paysys module OK, package id = 9, cost time 0 ms
+20191005-192356<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 9
+20191005-192356<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 9
+20191005-192356<DEBUG:0xef846b40>: [Player 11] Pop respond package from paysys module OK, package id = 9, cost time 517 ms
+20191005-192356<DEBUG:0xef846b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192356<INFO :0xef846b40>: [Player 11] Player verify to paysys, result = 1, Account test
+20191005-192356<INFO :0xef846b40>: [Player 11] Account test EndOfDayTime = 2349887849, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779609612
+20191005-192356<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192356<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 6
+20191005-192356<DEBUG:0xd80ffb40>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192356<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192356<DEBUG:0xd8afeb40>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192356<DEBUG:0xd76ffb40>: [GameServer 6] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192356<DEBUG:0xd92ffb40>: [GameServer 3] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192357<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 7
+20191005-192357<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 7
+20191005-192359<DEBUG:0xef846b40>: [Player 11] ProcessRoleList() RoleCount = 1!
+20191005-192359<DEBUG:0xef846b40>: [Player 11] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192359<DEBUG:0xef846b40>: [Player 11] EnterGame_QueryRoleData() RoleName = 321312323a3a
+20191005-192359<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 23; Key = 8
+20191005-192359<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3628; Key = 8
+20191005-192400<DEBUG:0xef846b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192400<DEBUG:0xef846b40>: [Player 11] Request enter game: ask for permission, account = test, role name = 321312323a3a ... ... [OK]
+20191005-192400<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3726; Key = 6
+20191005-192400<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_login_permission() , Account = test, Role = 321312323a3a, Permit = true
+20191005-192401<DEBUG:0xef846b40>: [Player 11] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 321312323a3a
+20191005-192403<DEBUG:0xed041b40>: [Player 16] ThreadFunction() Accept from (42.116.67.219 : 52803) SocketStream = 0xd9f004c8
+20191005-192403<DEBUG:0xed041b40>: [Player 16] Account test login bishop ... ... [OK]
+20191005-192403<DEBUG:0xed041b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192403<DEBUG:0xed041b40>: [Player 16] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192403<DEBUG:0xed041b40>: [Player 16] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192406<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192406<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192407<DEBUG:0xed842b40>: [Player 15] ThreadFunction() Accept from (42.116.67.219 : 52810) SocketStream = 0x872c830
+20191005-192407<DEBUG:0xed842b40>: [Player 15] Account test login bishop ... ... [OK]
+20191005-192407<DEBUG:0xed842b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192407<DEBUG:0xed842b40>: [Player 15] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192407<DEBUG:0xed842b40>: [Player 15] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192408<DEBUG:0xe6834b40>: [Player 29] ThreadFunction() Accept from (42.116.67.219 : 52812) SocketStream = 0xda100558
+20191005-192408<DEBUG:0xe6834b40>: [Player 29] Account test login bishop ... ... [OK]
+20191005-192408<DEBUG:0xe6834b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192408<DEBUG:0xe6834b40>: [Player 29] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192408<DEBUG:0xe6834b40>: [Player 29] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192410<DEBUG:0xf184ab40>: [Player 7] ThreadFunction() Accept from (42.116.67.219 : 52815) SocketStream = 0xda0004c8
+20191005-192410<DEBUG:0xf184ab40>: [Player 7] Account test login bishop ... ... [OK]
+20191005-192410<DEBUG:0xf184ab40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192410<DEBUG:0xf184ab40>: [Player 7] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192410<DEBUG:0xf184ab40>: [Player 7] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192411<DEBUG:0xe5832b40>: [Player 31] ThreadFunction() Accept from (42.116.67.219 : 52817) SocketStream = 0xdb401698
+20191005-192411<DEBUG:0xe5832b40>: [Player 31] Account test login bishop ... ... [OK]
+20191005-192411<DEBUG:0xe5832b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192411<DEBUG:0xe5832b40>: [Player 31] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192411<DEBUG:0xe5832b40>: [Player 31] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192412<DEBUG:0xf204bb40>: [Player 6] ThreadFunction() Accept from (42.116.67.219 : 52819) SocketStream = 0xd9f004c8
+20191005-192412<DEBUG:0xf204bb40>: [Player 6] Account test login bishop ... ... [OK]
+20191005-192412<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192412<DEBUG:0xf204bb40>: [Player 6] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192412<DEBUG:0xf204bb40>: [Player 6] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192413<DEBUG:0xe4830b40>: [Player 33] ThreadFunction() Accept from (42.116.67.219 : 52820) SocketStream = 0xdb318988
+20191005-192413<DEBUG:0xe4830b40>: [Player 33] Account test login bishop ... ... [OK]
+20191005-192413<DEBUG:0xe4830b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192413<DEBUG:0xe4830b40>: [Player 33] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192413<DEBUG:0xe4830b40>: [Player 33] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192414<DEBUG:0xe202bb40>: [Player 38] ThreadFunction() Accept from (42.116.67.219 : 52822) SocketStream = 0xdb601828
+20191005-192414<DEBUG:0xe202bb40>: [Player 38] Account test login bishop ... ... [OK]
+20191005-192414<DEBUG:0xe202bb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192414<DEBUG:0xe202bb40>: [Player 38] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192414<DEBUG:0xe202bb40>: [Player 38] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192415<DEBUG:0xe1029b40>: [Player 40] ThreadFunction() Accept from (42.116.67.219 : 52824) SocketStream = 0xdb500538
+20191005-192415<DEBUG:0xe1029b40>: [Player 40] Account test login bishop ... ... [OK]
+20191005-192415<DEBUG:0xe1029b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192415<DEBUG:0xe1029b40>: [Player 40] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192415<DEBUG:0xe1029b40>: [Player 40] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192416<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192416<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192416<DEBUG:0xe0828b40>: [Player 41] ThreadFunction() Accept from (42.116.67.219 : 52826) SocketStream = 0xdb700580
+20191005-192416<DEBUG:0xe0828b40>: [Player 41] Account test login bishop ... ... [OK]
+20191005-192416<DEBUG:0xe0828b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192416<DEBUG:0xe0828b40>: [Player 41] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192416<DEBUG:0xe0828b40>: [Player 41] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192418<DEBUG:0xdf826b40>: [Player 43] ThreadFunction() Accept from (42.116.67.219 : 52828) SocketStream = 0x872c830
+20191005-192418<DEBUG:0xdf826b40>: [Player 43] Account test login bishop ... ... [OK]
+20191005-192418<DEBUG:0xdf826b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192418<DEBUG:0xdf826b40>: [Player 43] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192418<DEBUG:0xdf826b40>: [Player 43] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192419<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2774247
+20191005-192420<DEBUG:0xe6033b40>: [Player 30] ThreadFunction() Accept from (42.116.67.219 : 52831) SocketStream = 0xd6b004c8
+20191005-192420<DEBUG:0xe6033b40>: [Player 30] Account test login bishop ... ... [OK]
+20191005-192420<DEBUG:0xe6033b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192420<DEBUG:0xe6033b40>: [Player 30] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192420<DEBUG:0xe6033b40>: [Player 30] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192420<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_leave_game() , Account test 
+20191005-192420<DEBUG:0xdaafeb40>: [GameServer 1] _LeaveGame_Normal() AccountName = test
+20191005-192420<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192420<DEBUG:0xdaafeb40>: [GameServer 1] Unregister account test in game server ... ... [OK]
+20191005-192420<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192420<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192421<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 10
+20191005-192421<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 10
+20191005-192421<DEBUG:0xde023b40>: [Player 46] ThreadFunction() Accept from (42.116.67.219 : 52833) SocketStream = 0xd6d004a0
+20191005-192421<DEBUG:0xde023b40>: [Player 46] Account test login bishop ... ... [OK]
+20191005-192421<DEBUG:0xde023b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192421<DEBUG:0xde023b40>: [Player 46] Push request package into paysys module OK, package id = 11, cost time 0 ms
+20191005-192421<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 11
+20191005-192421<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 11
+20191005-192422<DEBUG:0xde023b40>: [Player 46] Pop respond package from paysys module OK, package id = 11, cost time 1464 ms
+20191005-192422<DEBUG:0xde023b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192422<INFO :0xde023b40>: [Player 46] Player verify to paysys, result = 1, Account test
+20191005-192422<INFO :0xde023b40>: [Player 46] Account test EndOfDayTime = 2349913121, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779634858
+20191005-192422<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192422<DEBUG:0xd76ffb40>: [GameServer 6] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192422<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 7
+20191005-192422<DEBUG:0xd80ffb40>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192422<DEBUG:0xd8afeb40>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192422<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 7
+20191005-192422<DEBUG:0xd92ffb40>: [GameServer 3] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192424<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 9
+20191005-192424<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 9
+20191005-192425<DEBUG:0xde023b40>: [Player 46] ProcessRoleList() RoleCount = 1!
+20191005-192428<DEBUG:0xde023b40>: [Player 46] ReadPlayerRequest() Protocol = 33, Size = 12!
+20191005-192428<DEBUG:0xde023b40>: [Player 46] Account test create role 3a3a3a3 to goddess ... ... [OK]
+20191005-192428<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 10
+20191005-192428<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 10
+20191005-192430<DEBUG:0xde023b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192430<DEBUG:0xde023b40>: [Player 46] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [OK]
+20191005-192430<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 834; Key = 8
+20191005-192430<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_login_permission() , Account = test, Role = 3a3a3a3, Permit = true
+20191005-192431<DEBUG:0xde023b40>: [Player 46] Notify player login game: ip = 103.90.225.115, port = 6662, account = test, role = 3a3a3a3
+20191005-192431<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_enter_game() AccountName = test
+20191005-192431<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192431<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192441<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192441<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192448<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2803420
+20191005-192451<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192451<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] Player change ext point: Account = test , PlayerDataIndex = 1 ... ... [OK]
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_leave_game() , Account test 
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] _LeaveGame_Normal() AccountName = test
+20191005-192455<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] Unregister account test in game server ... ... [OK]
+20191005-192455<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192455<DEBUG:0xd9effb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192455<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 12
+20191005-192455<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 13
+20191005-192455<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 40; Size = 55; Key = 12
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] RecvReplysFromPaySys() From Paysys to GameServer Protocol = 40; Size = 55
+20191005-192455<DEBUG:0xd9effb40>: [GameServer 2] Process ext point operate result: Account = test, PlayerDataIndex = 1, ResultFlag = 1 ... ... [OK]
+20191005-192455<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 13
+20191005-192456<DEBUG:0xe8838b40>: [Player 25] ThreadFunction() Accept from (42.116.67.219 : 52877) SocketStream = 0xd7700548
+20191005-192456<DEBUG:0xe8838b40>: [Player 25] Account test login bishop ... ... [OK]
+20191005-192456<DEBUG:0xe8838b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192456<DEBUG:0xe8838b40>: [Player 25] Push request package into paysys module OK, package id = 14, cost time 0 ms
+20191005-192456<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 14
+20191005-192456<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 14
+20191005-192457<DEBUG:0xe8838b40>: [Player 25] Pop respond package from paysys module OK, package id = 14, cost time 719 ms
+20191005-192457<DEBUG:0xe8838b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192457<INFO :0xe8838b40>: [Player 25] Player verify to paysys, result = 1, Account test
+20191005-192457<INFO :0xe8838b40>: [Player 25] Account test EndOfDayTime = 2349948097, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779669799
+20191005-192457<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 8
+20191005-192457<DEBUG:0xd8afeb40>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192457<DEBUG:0xd92ffb40>: [GameServer 3] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192457<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 6
+20191005-192457<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 9
+20191005-192457<DEBUG:0xd76ffb40>: [GameServer 6] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192457<DEBUG:0xd80ffb40>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192457<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 11
+20191005-192457<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 11
+20191005-192458<DEBUG:0xe8838b40>: [Player 25] ProcessRoleList() RoleCount = 2!
+20191005-192501<DEBUG:0xe8838b40>: [Player 25] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192501<DEBUG:0xe8838b40>: [Player 25] EnterGame_QueryRoleData() RoleName = 3a3a3a3
+20191005-192501<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 12
+20191005-192501<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3056; Key = 12
+20191005-192502<DEBUG:0xe8838b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192502<DEBUG:0xe8838b40>: [Player 25] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [OK]
+20191005-192502<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3154; Key = 10
+20191005-192502<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_login_permission() , Account = test, Role = 3a3a3a3, Permit = true
+20191005-192503<DEBUG:0xe8838b40>: [Player 25] Notify player login game: ip = 103.90.225.115, port = 6662, account = test, role = 3a3a3a3
+20191005-192503<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_enter_game() AccountName = test
+20191005-192506<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192506<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192514<DEBUG:0xdaafeb40>: [GameServer 1] g2b_pre_transfer_server() AccountName = test
+20191005-192515<DEBUG:0xd9effb40>: [GameServer 2] g2b_player_leave_game() , Account test 
+20191005-192515<DEBUG:0xd9effb40>: [GameServer 2] Unregister account test in game server ... ... [OK]
+20191005-192515<DEBUG:0xd9effb40>: [GameServer 2] Account test leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20191005-192516<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192516<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192520<DEBUG:0xe302db40>: [Player 36] ThreadFunction() Accept from (42.116.67.219 : 52906) SocketStream = 0xd8100558
+20191005-192520<DEBUG:0xe302db40>: [Player 36] Account test login bishop ... ... [OK]
+20191005-192520<DEBUG:0xe302db40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192520<DEBUG:0xe302db40>: [Player 36] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192520<DEBUG:0xe302db40>: [Player 36] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192521<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2836393
+20191005-192525<DEBUG:0xde023b40>: [Player 46] ThreadFunction() Accept from (42.116.67.219 : 52911) SocketStream = 0xd6d004a0
+20191005-192525<DEBUG:0xde023b40>: [Player 46] Account test login bishop ... ... [OK]
+20191005-192525<DEBUG:0xde023b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192525<DEBUG:0xde023b40>: [Player 46] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192525<DEBUG:0xde023b40>: [Player 46] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192526<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192526<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192531<DEBUG:0xec03fb40>: [Player 18] ThreadFunction() Accept from (42.116.67.219 : 52919) SocketStream = 0xd94004e0
+20191005-192531<DEBUG:0xec03fb40>: [Player 18] Account test login bishop ... ... [OK]
+20191005-192531<DEBUG:0xec03fb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192531<DEBUG:0xec03fb40>: [Player 18] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192531<DEBUG:0xec03fb40>: [Player 18] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192535<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_leave_game() , Account test 
+20191005-192535<DEBUG:0xdaafeb40>: [GameServer 1] _LeaveGame_Normal() AccountName = test
+20191005-192535<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192535<DEBUG:0xdaafeb40>: [GameServer 1] Unregister account test in game server ... ... [OK]
+20191005-192535<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192535<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192535<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 15
+20191005-192535<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 15
+20191005-192536<DEBUG:0xe983ab40>: [Player 23] ThreadFunction() Accept from (42.116.67.219 : 52928) SocketStream = 0xd9301680
+20191005-192536<DEBUG:0xe983ab40>: [Player 23] Account test login bishop ... ... [OK]
+20191005-192536<DEBUG:0xe983ab40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192536<DEBUG:0xe983ab40>: [Player 23] Push request package into paysys module OK, package id = 16, cost time 0 ms
+20191005-192536<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 16
+20191005-192536<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 16
+20191005-192537<DEBUG:0xe983ab40>: [Player 23] Pop respond package from paysys module OK, package id = 16, cost time 1530 ms
+20191005-192537<DEBUG:0xe983ab40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192537<INFO :0xe983ab40>: [Player 23] Player verify to paysys, result = 1, Account test
+20191005-192537<INFO :0xe983ab40>: [Player 23] Account test EndOfDayTime = 2349987799, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779709461
+20191005-192537<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 9
+20191005-192537<DEBUG:0xdb2ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 7
+20191005-192537<DEBUG:0xd92ffb40>: [GameServer 3] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192537<DEBUG:0xd76ffb40>: [GameServer 6] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192537<DEBUG:0xd8afeb40>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192537<DEBUG:0xd9effb40>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 11
+20191005-192537<DEBUG:0xd80ffb40>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192538<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 13
+20191005-192538<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 13
+20191005-192539<DEBUG:0xe983ab40>: [Player 23] ProcessRoleList() RoleCount = 2!
+20191005-192539<DEBUG:0xe983ab40>: [Player 23] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192539<DEBUG:0xe983ab40>: [Player 23] EnterGame_QueryRoleData() RoleName = 3a3a3a3
+20191005-192539<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 14
+20191005-192540<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3469; Key = 14
+20191005-192541<DEBUG:0xe983ab40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192541<DEBUG:0xe983ab40>: [Player 23] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [OK]
+20191005-192541<DEBUG:0xdaafeb40>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3567; Key = 10
+20191005-192541<DEBUG:0xdaafeb40>: [GameServer 1] g2b_player_login_permission() , Account = test, Role = 3a3a3a3, Permit = true
+20191005-192542<DEBUG:0xe983ab40>: [Player 23] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 3a3a3a3
+20191005-192546<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192546<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192552<DEBUG:0xdc820b40>: [Player 49] ThreadFunction() Accept from (42.116.67.219 : 52948) SocketStream = 0xd95005b0
+20191005-192552<DEBUG:0xdc820b40>: [Player 49] Account test login bishop ... ... [OK]
+20191005-192552<DEBUG:0xdc820b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192552<DEBUG:0xdc820b40>: [Player 49] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192552<DEBUG:0xdc820b40>: [Player 49] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192553<DEBUG:0xd76ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192553<DEBUG:0xd76ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192553<INFO :0xd76ffb40>: [GameServer 6] from [127.0.0.7 : 61592] === End ===
+20191005-192553<INFO :0xd76ffb40>: [GameServer 6] unlock  accounts in game server,count=0 
+20191005-192554<DEBUG:0xd80ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192554<DEBUG:0xd80ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192554<INFO :0xd80ffb40>: [GameServer 5] from [127.0.0.6 : 58322] === End ===
+20191005-192554<INFO :0xd80ffb40>: [GameServer 5] unlock  accounts in game server,count=0 
+20191005-192555<DEBUG:0xd8afeb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192555<DEBUG:0xd8afeb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192555<INFO :0xd8afeb40>: [GameServer 4] from [127.0.0.5 : 16061] === End ===
+20191005-192555<INFO :0xd8afeb40>: [GameServer 4] unlock  accounts in game server,count=0 
+20191005-192556<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192556<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192556<DEBUG:0xd92ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192556<DEBUG:0xd92ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192556<INFO :0xd92ffb40>: [GameServer 3] from [127.0.0.4 : 24962] === End ===
+20191005-192556<INFO :0xd92ffb40>: [GameServer 3] unlock  accounts in game server,count=0 
+20191005-192557<DEBUG:0xd9effb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192557<DEBUG:0xd9effb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192557<INFO :0xd9effb40>: [GameServer 2] from [127.0.0.3 : 63873] === End ===
+20191005-192557<INFO :0xd9effb40>: [GameServer 2] unlock  accounts in game server,count=0 
+20191005-192559<DEBUG:0xdaafeb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192559<DEBUG:0xdaafeb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192559<INFO :0xdaafeb40>: [GameServer 1] from [127.0.0.2 : 48295] === End ===
+20191005-192559<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192559<DEBUG:0xdaafeb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192559<INFO :0xdaafeb40>: [GameServer 1] unlock  account test in game server 
+20191005-192559<INFO :0xdaafeb40>: [GameServer 1] unlock No.0 accounts in game server : [test] ... ... [OK]
+20191005-192559<INFO :0xdaafeb40>: [GameServer 1] unlock  accounts in game server,count=1 
+20191005-192559<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 17
+20191005-192559<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 17
+20191005-192600<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2874554
+20191005-192600<DEBUG:0xdb2ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-192600<DEBUG:0xdb2ffb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-192600<INFO :0xdb2ffb40>: [GameServer 0] from [127.0.0.1 : 55951] === End ===
+20191005-192600<INFO :0xdb2ffb40>: [GameServer 0] unlock  accounts in game server,count=0 
+20191005-192602<DEBUG:0xdf826b40>: [Player 43] ThreadFunction() Accept from (42.116.67.219 : 52959) SocketStream = 0x872c830
+20191005-192602<DEBUG:0xdf826b40>: [Player 43] Login denied: game server protocol version is unknown now, account test
+20191005-192602<DEBUG:0xdf826b40>: [Player 43] Account test login bishop ... ... [Failed]
+20191005-192609<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192609<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192612<DEBUG:0xf0047b40>: [Player 10] ThreadFunction() Accept from (42.116.67.219 : 52974) SocketStream = 0xda0004c8
+20191005-192612<DEBUG:0xf0047b40>: [Player 10] Login denied: game server protocol version is unknown now, account test
+20191005-192612<DEBUG:0xf0047b40>: [Player 10] Account test login bishop ... ... [Failed]
+20191005-192619<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192619<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192620<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2894623
+20191005-192622<DEBUG:0xde023b40>: [Player 46] ThreadFunction() Accept from (42.116.67.219 : 52989) SocketStream = 0xd6d004a0
+20191005-192622<DEBUG:0xde023b40>: [Player 46] Login denied: game server protocol version is unknown now, account test
+20191005-192622<DEBUG:0xde023b40>: [Player 46] Account test login bishop ... ... [Failed]
+20191005-192626<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 39794) SocketStream = 0xdb3004c8
+20191005-192626<INFO :0xd6affb40>: [GameServer 7] Connected from 127.0.0.1, internet address = 103.90.225.115, open port = 6660, protocol version (341-->345)
+20191005-192626<DEBUG:0xd6affb40>: [GameServer 7] GameServerConnectedInit() nResult = 1
+20191005-192626<INFO :0xd6affb40>: [GameServer 7] from [127.0.0.1 : 29339] === Start ===
+20191005-192626<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 405; Key = 8
+20191005-192626<INFO :0xd6affb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-192628<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192628<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192632<DEBUG:0xe282cb40>: [Player 37] ThreadFunction() Accept from (42.116.67.219 : 53003) SocketStream = 0xda100558
+20191005-192632<DEBUG:0xe282cb40>: [Player 37] Account test login bishop ... ... [OK]
+20191005-192632<DEBUG:0xe282cb40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192632<DEBUG:0xe282cb40>: [Player 37] Push request package into paysys module OK, package id = 18, cost time 0 ms
+20191005-192632<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 18
+20191005-192632<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 18
+20191005-192633<DEBUG:0xe282cb40>: [Player 37] Pop respond package from paysys module OK, package id = 18, cost time 1065 ms
+20191005-192633<DEBUG:0xe282cb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192633<INFO :0xe282cb40>: [Player 37] Player verify to paysys, result = 1, Account test
+20191005-192633<INFO :0xe282cb40>: [Player 37] Account test EndOfDayTime = 2350044724, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779766330
+20191005-192633<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192633<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 15
+20191005-192633<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 15
+20191005-192634<DEBUG:0xe282cb40>: [Player 37] ProcessRoleList() RoleCount = 2!
+20191005-192634<DEBUG:0xe282cb40>: [Player 37] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192634<DEBUG:0xe282cb40>: [Player 37] EnterGame_QueryRoleData() RoleName = 3a3a3a3
+20191005-192634<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 16
+20191005-192635<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3469; Key = 16
+20191005-192635<DEBUG:0xe282cb40>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 534 in QueryGameServer
+20191005-192635<DEBUG:0xe282cb40>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 534 in QueryGameServer
+20191005-192635<DEBUG:0xe282cb40>: KGLOG_PROCESS_ERROR(m_pKG_BishopGameServer && "Failed to query game server.") at line 2159 in EnterGame_AskForPermission
+20191005-192635<DEBUG:0xe282cb40>: [Player 37] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [Failed]
+20191005-192635<DEBUG:0xe282cb40>: [Player 37] Ask for enter game failed, unlock role data, send msg to goddess, result = 1
+20191005-192635<DEBUG:0xe282cb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 527 in OnPlayerRequest
+20191005-192635<DEBUG:0xe282cb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192635<DEBUG:0xe282cb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20191005-192635<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 39; Size = 42; Key = 17
+20191005-192635<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 19
+20191005-192635<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 19
+20191005-192640<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.2: 46212) SocketStream = 0xdb3073e0
+20191005-192640<INFO :0xd62feb40>: [GameServer 8] Connected from 127.0.0.2, internet address = 103.92.25.220, open port = 6661, protocol version (341-->345)
+20191005-192640<DEBUG:0xd62feb40>: [GameServer 8] GameServerConnectedInit() nResult = 1
+20191005-192640<INFO :0xd62feb40>: [GameServer 8] from [127.0.0.2 : 33972] === Start ===
+20191005-192640<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 441; Key = 9
+20191005-192640<INFO :0xd62feb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-192645<DEBUG:0xdf025b40>: [Player 44] ThreadFunction() Accept from (42.116.67.219 : 53019) SocketStream = 0xdb30e2e0
+20191005-192645<DEBUG:0xdf025b40>: [Player 44] Account test login bishop ... ... [OK]
+20191005-192645<DEBUG:0xdf025b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192645<DEBUG:0xdf025b40>: [Player 44] Push request package into paysys module OK, package id = 20, cost time 0 ms
+20191005-192645<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 20
+20191005-192645<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 20
+20191005-192646<DEBUG:0xdf025b40>: [Player 44] Pop respond package from paysys module OK, package id = 20, cost time 1469 ms
+20191005-192646<DEBUG:0xdf025b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192646<INFO :0xdf025b40>: [Player 44] Player verify to paysys, result = 1, Account test
+20191005-192646<INFO :0xdf025b40>: [Player 44] Account test EndOfDayTime = 2350058202, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779779795
+20191005-192646<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192646<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192648<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 18
+20191005-192648<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 18
+20191005-192648<DEBUG:0xdf025b40>: [Player 44] ProcessRoleList() RoleCount = 2!
+20191005-192648<DEBUG:0xdf025b40>: [Player 44] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192648<DEBUG:0xdf025b40>: [Player 44] EnterGame_QueryRoleData() RoleName = 3a3a3a3
+20191005-192648<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 19
+20191005-192648<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3469; Key = 19
+20191005-192649<DEBUG:0xdf025b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192649<DEBUG:0xdf025b40>: [Player 44] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [OK]
+20191005-192650<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3567; Key = 2
+20191005-192650<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_login_permission() , Account = test, Role = 3a3a3a3, Permit = true
+20191005-192651<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.4: 40450) SocketStream = 0xdb303c48
+20191005-192651<INFO :0xd5afdb40>: [GameServer 9] Connected from 127.0.0.4, internet address = 103.90.225.115, open port = 6663, protocol version (341-->345)
+20191005-192651<DEBUG:0xd5afdb40>: [GameServer 9] GameServerConnectedInit() nResult = 1
+20191005-192651<INFO :0xd5afdb40>: [GameServer 9] from [127.0.0.4 : 670] === Start ===
+20191005-192651<DEBUG:0xdf025b40>: [Player 44] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 3a3a3a3
+20191005-192651<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 445; Key = 10
+20191005-192651<INFO :0xd5afdb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-192654<DEBUG:0xf1049b40>: [Player 8] ThreadFunction() Accept from (42.116.67.219 : 53032) SocketStream = 0xdb500538
+20191005-192654<DEBUG:0xf1049b40>: [Player 8] Account test login bishop ... ... [OK]
+20191005-192654<DEBUG:0xf1049b40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192654<DEBUG:0xf1049b40>: [Player 8] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192654<DEBUG:0xf1049b40>: [Player 8] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192655<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192655<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192704<DEBUG:0xe382eb40>: [Player 35] ThreadFunction() Accept from (42.116.67.219 : 53043) SocketStream = 0xd6b004c8
+20191005-192704<DEBUG:0xe382eb40>: [Player 35] Account test login bishop ... ... [OK]
+20191005-192704<DEBUG:0xe382eb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192704<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192704<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192705<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192705<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192708<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2944635
+20191005-192710<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_leave_game() , Account test 
+20191005-192710<DEBUG:0xd62feb40>: [GameServer 8] _LeaveGame_Normal() AccountName = test
+20191005-192710<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192710<DEBUG:0xd62feb40>: [GameServer 8] Unregister account test in game server ... ... [OK]
+20191005-192710<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192710<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192710<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 21
+20191005-192710<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 21
+20191005-192713<DEBUG:0xe7035b40>: [Player 28] ThreadFunction() Accept from (42.116.67.219 : 53060) SocketStream = 0xdb700580
+20191005-192713<DEBUG:0xe7035b40>: [Player 28] Account test login bishop ... ... [OK]
+20191005-192713<DEBUG:0xe7035b40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192713<DEBUG:0xe7035b40>: [Player 28] Push request package into paysys module OK, package id = 22, cost time 0 ms
+20191005-192713<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 22
+20191005-192713<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 22
+20191005-192713<DEBUG:0xe7035b40>: [Player 28] Pop respond package from paysys module OK, package id = 22, cost time 528 ms
+20191005-192713<DEBUG:0xe7035b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192713<INFO :0xe7035b40>: [Player 28] Player verify to paysys, result = 1, Account test
+20191005-192713<INFO :0xe7035b40>: [Player 28] Account test EndOfDayTime = 2350086454, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779808020
+20191005-192713<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192713<DEBUG:0xd5afdb40>: [GameServer 9] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192713<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192714<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 20
+20191005-192715<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 20
+20191005-192715<INFO :0xf5852b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.5: 46146) SocketStream = 0xdb30e2e0
+20191005-192715<INFO :0xd52fcb40>: [GameServer 10] Connected from 127.0.0.5, internet address = 103.90.225.115, open port = 6664, protocol version (341-->345)
+20191005-192715<DEBUG:0xd52fcb40>: [GameServer 10] GameServerConnectedInit() nResult = 1
+20191005-192715<INFO :0xd52fcb40>: [GameServer 10] from [127.0.0.5 : 17076] === Start ===
+20191005-192715<DEBUG:0xf6053b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 309; Key = 11
+20191005-192715<INFO :0xd52fcb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20191005-192715<DEBUG:0xe7035b40>: [Player 28] ProcessRoleList() RoleCount = 2!
+20191005-192715<DEBUG:0xe7035b40>: [Player 28] ReadPlayerRequest() Protocol = 35, Size = 37!
+20191005-192715<DEBUG:0xe7035b40>: [Player 28] EnterGame_QueryRoleData() RoleName = 3a3a3a3
+20191005-192715<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 21
+20191005-192715<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3469; Key = 21
+20191005-192716<DEBUG:0xe7035b40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192716<DEBUG:0xe7035b40>: [Player 28] Request enter game: ask for permission, account = test, role name = 3a3a3a3 ... ... [OK]
+20191005-192716<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3567; Key = 4
+20191005-192716<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_login_permission() , Account = test, Role = 3a3a3a3, Permit = true
+20191005-192717<DEBUG:0xe7035b40>: [Player 28] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 3a3a3a3
+20191005-192722<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192722<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192727<DEBUG:0xe983ab40>: [Player 23] ThreadFunction() Accept from (42.116.67.219 : 53082) SocketStream = 0xd9301680
+20191005-192727<DEBUG:0xe983ab40>: [Player 23] Account test login bishop ... ... [OK]
+20191005-192727<DEBUG:0xe983ab40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192727<DEBUG:0xe983ab40>: [Player 23] SendVerifyRequestToPaysys() Error! because test Account already in state = 2
+20191005-192727<DEBUG:0xe983ab40>: [Player 23] SendVerifyRequestToPaysys() Error! Account test State is 0
+20191005-192732<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192732<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192735<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 2972396
+20191005-192736<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_leave_game() , Account test 
+20191005-192736<DEBUG:0xd62feb40>: [GameServer 8] _LeaveGame_Normal() AccountName = test
+20191005-192736<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192736<DEBUG:0xd62feb40>: [GameServer 8] Unregister account test in game server ... ... [OK]
+20191005-192736<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192736<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192736<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 23
+20191005-192736<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 23
+20191005-192746<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192746<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192749<DEBUG:0xf284cb40>: [Player 5] ThreadFunction() Accept from (42.116.67.219 : 53107) SocketStream = 0xd6b004c8
+20191005-192749<DEBUG:0xf284cb40>: [Player 5] Account test login bishop ... ... [OK]
+20191005-192749<DEBUG:0xf284cb40>: [InterlockedAccountStateTable] test, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192749<DEBUG:0xf284cb40>: [Player 5] Push request package into paysys module OK, package id = 24, cost time 0 ms
+20191005-192749<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 24
+20191005-192749<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 24
+20191005-192750<DEBUG:0xf284cb40>: [Player 5] Pop respond package from paysys module OK, package id = 24, cost time 839 ms
+20191005-192750<DEBUG:0xf284cb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192750<INFO :0xf284cb40>: [Player 5] Player verify to paysys, result = 1, Account test
+20191005-192750<INFO :0xf284cb40>: [Player 5] Account test EndOfDayTime = 2350123114, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779844643
+20191005-192750<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192750<DEBUG:0xd52fcb40>: [GameServer 10] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20191005-192750<DEBUG:0xd5afdb40>: [GameServer 9] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192750<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192751<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 16; Key = 22
+20191005-192751<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 22
+20191005-192752<DEBUG:0xf284cb40>: [Player 5] ProcessRoleList() RoleCount = 2!
+20191005-192754<DEBUG:0xf284cb40>: [Player 5] ReadPlayerRequest() Protocol = 33, Size = 11!
+20191005-192754<DEBUG:0xf284cb40>: [Player 5] Account test create role 32323a to goddess ... ... [OK]
+20191005-192754<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 23
+20191005-192755<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 23
+20191005-192755<DEBUG:0xf284cb40>: [InterlockedAccountStateTable] test, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192755<DEBUG:0xf284cb40>: [Player 5] Request enter game: ask for permission, account = test, role name = 32323a ... ... [OK]
+20191005-192755<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 834; Key = 6
+20191005-192755<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_login_permission() , Account = test, Role = 32323a, Permit = true
+20191005-192756<DEBUG:0xf284cb40>: [Player 5] Notify player login game: ip = 103.92.25.220, port = 6661, account = test, role = 32323a
+20191005-192759<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192759<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192809<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192809<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192812<DEBUG:0xe8037b40>: [Player 26] ThreadFunction() Accept from (42.116.67.219 : 53136) SocketStream = 0xd6d004a0
+20191005-192812<DEBUG:0xe8037b40>: [Player 26] Account test03 login bishop ... ... [OK]
+20191005-192812<DEBUG:0xe8037b40>: [InterlockedAccountStateTable] test03, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192812<DEBUG:0xe8037b40>: [Player 26] Push request package into paysys module OK, package id = 25, cost time 0 ms
+20191005-192812<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 25
+20191005-192812<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 25
+20191005-192813<DEBUG:0xe8037b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 988 in ProcessVerifyReplyFromPaysys
+20191005-192813<DEBUG:0xe8037b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192813<DEBUG:0xe8037b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20191005-192813<DEBUG:0xe8037b40>: [Player 26] ProcessVerifyReplyFromPaysys() Error :  verify failed, Account test03 ,current state = 0 
+20191005-192813<DEBUG:0xe8037b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 409 in OnLoginProcess
+20191005-192813<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 26
+20191005-192813<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 26
+20191005-192813<DEBUG:0xf4850b40>: [Player 1] ThreadFunction() Accept from (42.116.67.219 : 53138) SocketStream = 0xd7700548
+20191005-192813<DEBUG:0xf4850b40>: [Player 1] Account test03 login bishop ... ... [OK]
+20191005-192813<DEBUG:0xf4850b40>: [InterlockedAccountStateTable] test03, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192813<DEBUG:0xf4850b40>: [Player 1] Push request package into paysys module OK, package id = 27, cost time 0 ms
+20191005-192813<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 27
+20191005-192813<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 27
+20191005-192813<DEBUG:0xf4850b40>: [Player 1] Pop respond package from paysys module OK, package id = 27, cost time 653 ms
+20191005-192813<DEBUG:0xf4850b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192813<INFO :0xf4850b40>: [Player 1] Player verify to paysys, result = 1, Account test03
+20191005-192813<INFO :0xf4850b40>: [Player 1] Account test03 EndOfDayTime = 2350147045, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779868551
+20191005-192813<DEBUG:0xd52fcb40>: [GameServer 10] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 2
+20191005-192813<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192813<DEBUG:0xd5afdb40>: [GameServer 9] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192814<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 7
+20191005-192814<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 24
+20191005-192814<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 24
+20191005-192815<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_leave_game() , Account test 
+20191005-192815<DEBUG:0xd62feb40>: [GameServer 8] _LeaveGame_Normal() AccountName = test
+20191005-192815<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192815<DEBUG:0xd62feb40>: [GameServer 8] Unregister account test in game server ... ... [OK]
+20191005-192815<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192815<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192815<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 28
+20191005-192815<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 28
+20191005-192816<DEBUG:0xf4850b40>: [Player 1] ProcessRoleList() RoleCount = 0!
+20191005-192817<DEBUG:0xf4850b40>: [Player 1] ReadPlayerRequest() Protocol = 33, Size = 17!
+20191005-192817<DEBUG:0xf4850b40>: [Player 1] Account test03 create role 32323aa3a3a3 to goddess ... ... [OK]
+20191005-192817<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 25
+20191005-192817<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 25
+20191005-192818<DEBUG:0xf4850b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20191005-192818<DEBUG:0xf4850b40>: [Player 1] Request enter game: ask for permission, account = test03, role name = 32323aa3a3a3 ... ... [OK]
+20191005-192818<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 834; Key = 8
+20191005-192818<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_login_permission() , Account = test03, Role = 32323aa3a3a3, Permit = true
+20191005-192818<DEBUG:0xf4850b40>: [Player 1] Notify player login game: ip = 103.92.25.220, port = 6661, account = test03, role = 32323aa3a3a3
+20191005-192821<DEBUG:0xf384eb40>: [Player 3] ThreadFunction() Accept from (42.116.67.219 : 53149) SocketStream = 0xd8100558
+20191005-192821<DEBUG:0xf384eb40>: [Player 3] Account test03 login bishop ... ... [OK]
+20191005-192821<DEBUG:0xf384eb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192821<DEBUG:0xf384eb40>: [Player 3] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192821<DEBUG:0xf384eb40>: [Player 3] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192823<DEBUG:0xee043b40>: [Player 14] ThreadFunction() Accept from (42.116.67.219 : 53152) SocketStream = 0xd94004e0
+20191005-192823<DEBUG:0xee043b40>: [Player 14] Account test03 login bishop ... ... [OK]
+20191005-192823<DEBUG:0xee043b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192823<DEBUG:0xee043b40>: [Player 14] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192823<DEBUG:0xee043b40>: [Player 14] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192824<DEBUG:0xdf025b40>: [Player 44] ThreadFunction() Accept from (42.116.67.219 : 53154) SocketStream = 0xdb315208
+20191005-192824<DEBUG:0xdf025b40>: [Player 44] Account test03 login bishop ... ... [OK]
+20191005-192824<DEBUG:0xdf025b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192824<DEBUG:0xdf025b40>: [Player 44] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192824<DEBUG:0xdf025b40>: [Player 44] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192825<DEBUG:0xeb83eb40>: [Player 19] ThreadFunction() Accept from (42.116.67.219 : 53156) SocketStream = 0xd9301680
+20191005-192825<DEBUG:0xeb83eb40>: [Player 19] Account test03 login bishop ... ... [OK]
+20191005-192825<DEBUG:0xeb83eb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192825<DEBUG:0xeb83eb40>: [Player 19] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192825<DEBUG:0xeb83eb40>: [Player 19] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192825<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192825<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192826<DEBUG:0xea83cb40>: [Player 21] ThreadFunction() Accept from (42.116.67.219 : 53159) SocketStream = 0xd95005b0
+20191005-192826<DEBUG:0xea83cb40>: [Player 21] Account test03 login bishop ... ... [OK]
+20191005-192826<DEBUG:0xea83cb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192826<DEBUG:0xea83cb40>: [Player 21] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192826<DEBUG:0xea83cb40>: [Player 21] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192827<DEBUG:0xeb03db40>: [Player 20] ThreadFunction() Accept from (42.116.67.219 : 53161) SocketStream = 0xda0004c8
+20191005-192827<DEBUG:0xeb03db40>: [Player 20] Account test03 login bishop ... ... [OK]
+20191005-192827<DEBUG:0xeb03db40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192827<DEBUG:0xeb03db40>: [Player 20] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192827<DEBUG:0xeb03db40>: [Player 20] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192828<DEBUG:0xf0047b40>: [Player 10] ThreadFunction() Accept from (42.116.67.219 : 53165) SocketStream = 0xda0008e0
+20191005-192828<DEBUG:0xf0047b40>: [Player 10] Account test03 login bishop ... ... [OK]
+20191005-192828<DEBUG:0xf0047b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192828<DEBUG:0xf0047b40>: [Player 10] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192828<DEBUG:0xf0047b40>: [Player 10] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192829<DEBUG:0xe9039b40>: [Player 24] ThreadFunction() Accept from (42.116.67.219 : 53167) SocketStream = 0xd9f007d0
+20191005-192829<DEBUG:0xe9039b40>: [Player 24] Account test03 login bishop ... ... [OK]
+20191005-192829<DEBUG:0xe9039b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192829<DEBUG:0xe9039b40>: [Player 24] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192829<DEBUG:0xe9039b40>: [Player 24] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192830<DEBUG:0xec03fb40>: [Player 18] ThreadFunction() Accept from (42.116.67.219 : 53170) SocketStream = 0xd94004e0
+20191005-192830<DEBUG:0xec03fb40>: [Player 18] Account test03 login bishop ... ... [OK]
+20191005-192830<DEBUG:0xec03fb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192830<DEBUG:0xec03fb40>: [Player 18] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192830<DEBUG:0xec03fb40>: [Player 18] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192831<DEBUG:0xe6834b40>: [Player 29] ThreadFunction() Accept from (42.116.67.219 : 53172) SocketStream = 0xda100558
+20191005-192831<DEBUG:0xe6834b40>: [Player 29] Account test03 login bishop ... ... [OK]
+20191005-192831<DEBUG:0xe6834b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192831<DEBUG:0xe6834b40>: [Player 29] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192831<DEBUG:0xe6834b40>: [Player 29] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192834<DEBUG:0xe382eb40>: [Player 35] ThreadFunction() Accept from (42.116.67.219 : 53176) SocketStream = 0xd6b004c8
+20191005-192834<DEBUG:0xe382eb40>: [Player 35] Account test03 login bishop ... ... [OK]
+20191005-192834<DEBUG:0xe382eb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192834<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192834<DEBUG:0xe382eb40>: [Player 35] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192835<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192835<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192836<DEBUG:0xde023b40>: [Player 46] ThreadFunction() Accept from (42.116.67.219 : 53178) SocketStream = 0xd6d004a0
+20191005-192836<DEBUG:0xde023b40>: [Player 46] Account test03 login bishop ... ... [OK]
+20191005-192836<DEBUG:0xde023b40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = INGAETWAY, Comperand = NONE
+20191005-192836<DEBUG:0xde023b40>: [Player 46] SendVerifyRequestToPaysys() Error! because test03 Account already in state = 2
+20191005-192836<DEBUG:0xde023b40>: [Player 46] SendVerifyRequestToPaysys() Error! Account test03 State is 0
+20191005-192837<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3034117
+20191005-192838<DEBUG:0xd62feb40>: [GameServer 8] g2b_player_leave_game() , Account test03 
+20191005-192838<DEBUG:0xd62feb40>: [GameServer 8] _LeaveGame_Normal() AccountName = test03
+20191005-192838<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20191005-192838<DEBUG:0xd62feb40>: [GameServer 8] Unregister account test03 in game server ... ... [OK]
+20191005-192838<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20191005-192838<DEBUG:0xd62feb40>: [InterlockedAccountStateTable] test03, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20191005-192838<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 29
+20191005-192838<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 29
+20191005-192838<DEBUG:0xf204bb40>: [Player 6] ThreadFunction() Accept from (42.116.67.219 : 53183) SocketStream = 0xd9f007d0
+20191005-192838<DEBUG:0xf204bb40>: [Player 6] Account test03 login bishop ... ... [OK]
+20191005-192838<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test03, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192838<DEBUG:0xf204bb40>: [Player 6] Push request package into paysys module OK, package id = 30, cost time 0 ms
+20191005-192838<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 30
+20191005-192838<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 30
+20191005-192840<DEBUG:0xf204bb40>: [Player 6] Pop respond package from paysys module OK, package id = 30, cost time 1184 ms
+20191005-192840<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192840<INFO :0xf204bb40>: [Player 6] Player verify to paysys, result = 3, Account test03
+20191005-192840<DEBUG:0xf204bb40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20191005-192841<DEBUG:0xe4830b40>: [Player 33] ThreadFunction() Accept from (42.116.67.219 : 53188) SocketStream = 0xdb315208
+20191005-192842<DEBUG:0xe4830b40>: [Player 33] Account test03 login bishop ... ... [OK]
+20191005-192842<DEBUG:0xe4830b40>: [InterlockedAccountStateTable] test03, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192842<DEBUG:0xe4830b40>: [Player 33] Push request package into paysys module OK, package id = 31, cost time 0 ms
+20191005-192842<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 31
+20191005-192842<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 31
+20191005-192843<DEBUG:0xe4830b40>: [Player 33] Pop respond package from paysys module OK, package id = 31, cost time 1251 ms
+20191005-192843<DEBUG:0xe4830b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192843<INFO :0xe4830b40>: [Player 33] Player verify to paysys, result = 1, Account test03
+20191005-192843<INFO :0xe4830b40>: [Player 33] Account test03 EndOfDayTime = 2350175811, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779897287
+20191005-192843<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 9
+20191005-192843<DEBUG:0xd52fcb40>: [GameServer 10] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 3
+20191005-192843<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 6
+20191005-192843<DEBUG:0xd5afdb40>: [GameServer 9] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192844<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 26
+20191005-192844<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 26
+20191005-192844<DEBUG:0xe4830b40>: [Player 33] ProcessRoleList() RoleCount = 1!
+20191005-192851<DEBUG:0xe4830b40>: [Player 33] ReadPlayerRequest() Protocol = 33, Size = 14!
+20191005-192851<DEBUG:0xe4830b40>: [Player 33] Account test03 create role 312323a3a to goddess ... ... [OK]
+20191005-192851<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 79; Key = 27
+20191005-192851<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 736; Key = 27
+20191005-192851<DEBUG:0xe4830b40>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 534 in QueryGameServer
+20191005-192851<DEBUG:0xe4830b40>: KGLOG_PROCESS_ERROR(m_pKG_BishopGameServer) at line 2176 in EnterGame_AskForPermission
+20191005-192851<DEBUG:0xe4830b40>: [Player 33] Request enter game: ask for permission, account = test03, role name = 312323a3a ... ... [Failed]
+20191005-192851<DEBUG:0xe4830b40>: [Player 33] Ask for enter game failed, unlock role data, send msg to goddess, result = 1
+20191005-192851<DEBUG:0xe4830b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 550 in OnPlayerRequest
+20191005-192851<DEBUG:0xe4830b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192851<DEBUG:0xe4830b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20191005-192851<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 32
+20191005-192852<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 39; Size = 42; Key = 28
+20191005-192852<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 35; Size = 47; Key = 32
+20191005-192902<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192902<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192902<DEBUG:0xe1029b40>: [Player 40] ThreadFunction() Accept from (42.116.67.219 : 53214) SocketStream = 0xdb500538
+20191005-192902<DEBUG:0xe1029b40>: [Player 40] Account test03 login bishop ... ... [OK]
+20191005-192902<DEBUG:0xe1029b40>: [InterlockedAccountStateTable] test03, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20191005-192902<DEBUG:0xe1029b40>: [Player 40] Push request package into paysys module OK, package id = 33, cost time 0 ms
+20191005-192902<DEBUG:0xf7055b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 33
+20191005-192902<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 33
+20191005-192903<DEBUG:0xe1029b40>: [Player 40] Pop respond package from paysys module OK, package id = 33, cost time 1175 ms
+20191005-192903<DEBUG:0xe1029b40>: [InterlockedAccountStateTable] test03, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20191005-192903<INFO :0xe1029b40>: [Player 40] Player verify to paysys, result = 1, Account test03
+20191005-192903<INFO :0xe1029b40>: [Player 40] Account test03 EndOfDayTime = 2350196513, LeftTimeOfPoint = 4294967295, TotalLeftTime = 779917969
+20191005-192903<DEBUG:0xd62feb40>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 10
+20191005-192903<DEBUG:0xd52fcb40>: [GameServer 10] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 4
+20191005-192903<DEBUG:0xd6affb40>: [GameServer 7] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 7
+20191005-192903<DEBUG:0xd5afdb40>: [GameServer 9] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 5
+20191005-192905<DEBUG:0xf6854b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 29
+20191005-192905<DEBUG:0xf6854b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 187; Key = 29
+20191005-192906<DEBUG:0xe1029b40>: [Player 40] ProcessRoleList() RoleCount = 2!
+20191005-192912<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192912<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192922<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192922<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192925<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3081930
+20191005-192932<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192932<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192942<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192942<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-192945<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3101970
+20191005-192953<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-192953<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193003<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193003<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193005<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3122015
+20191005-193013<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193013<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193023<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193023<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193025<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3142052
+20191005-193033<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193033<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193034<DEBUG:0xd52fcb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-193034<DEBUG:0xd52fcb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-193034<INFO :0xd52fcb40>: [GameServer 10] from [127.0.0.5 : 17076] === End ===
+20191005-193034<INFO :0xd52fcb40>: [GameServer 10] unlock  accounts in game server,count=0 
+20191005-193035<DEBUG:0xd5afdb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-193035<DEBUG:0xd5afdb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-193035<INFO :0xd5afdb40>: [GameServer 9] from [127.0.0.4 : 670] === End ===
+20191005-193035<INFO :0xd5afdb40>: [GameServer 9] unlock  accounts in game server,count=0 
+20191005-193036<DEBUG:0xd62feb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-193036<DEBUG:0xd62feb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-193036<INFO :0xd62feb40>: [GameServer 8] from [127.0.0.2 : 33972] === End ===
+20191005-193036<INFO :0xd62feb40>: [GameServer 8] unlock  accounts in game server,count=0 
+20191005-193038<DEBUG:0xd6affb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 1608 in RecvRequestsReplysFromGameServer
+20191005-193038<DEBUG:0xd6affb40>: KGLOG_PROCESS_ERROR(nRetCode) at line 2903 in ThreadFunction
+20191005-193038<INFO :0xd6affb40>: [GameServer 7] from [127.0.0.1 : 29339] === End ===
+20191005-193038<INFO :0xd6affb40>: [GameServer 7] unlock  accounts in game server,count=0 
+20191005-193043<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193043<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193045<INFO :0xf6854b40>: receive goddess ping reply, goddess time = 3162081
+20191005-193053<DEBUG:0xf7055b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20191005-193053<DEBUG:0xf7055b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20191005-193056<DEBUG:0xf6053b40>: KGLOG_PROCESS_ERROR(nRetCode) at line 275 in ReceivePackages
+20191005-193056<INFO :0xf6053b40>: [Relay] === End ===

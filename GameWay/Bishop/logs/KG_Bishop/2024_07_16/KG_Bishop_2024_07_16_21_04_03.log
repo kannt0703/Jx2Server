@@ -1,0 +1,28 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20240716-210403<INFO :0xf73ee700>: [verify_up2date]...
+20240716-210403<INFO :0xf73ee700>: >Current lang is [gb18030]
+20240716-210403<INFO :0xf73ee700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240716-210403<INFO :0xf73ee700>: >Time duration: 6.854745ms 
+20240716-210403<INFO :0xf73ee700>: >
+20240716-210403<INFO :0xf73ee700>: >Finish, my exit code is: 0
+20240716-210403<INFO :0xf73ee700>: |shell cmd result is 0
+20240716-210403<INFO :0xf73ee700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20240716-210403<INFO :0xf73ee700>: [verify_up2date] ok
+20240716-210403<INFO :0xf73ee700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20240716-210403<INFO :0xf73ee700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20240716-210403<INFO :0xf73ee700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x8a25f78
+20240716-210403<INFO :0xf73ee700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240716-210403<INFO :0xf73ee700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240716-210403<DEBUG:0xf73ee700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20240716-210403<DEBUG:0xf73ee700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20240716-210403<INFO :0xf73ee700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20240716-210403<INFO :0xf73ee700>: [Paysys] Login() nResult = 1
+20240716-210403<INFO :0xf73ee700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x8a26440
+20240716-210403<INFO :0xf73ee700>: [Goddess] Login() nResult = 1
+20240716-210403<INFO :0xf73ee700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 0
+20240716-210403<DEBUG:0xf73ee700>: KGLOG_PROCESS_ERROR(nRetCode) at line 45 in Init
+20240716-210403<DEBUG:0xf73ee700>: KGLOG_PROCESS_ERROR(nRetCode) at line 338 in Init
+20240716-210403<INFO :0xf73ee700>: [Goddess] Logout() nResult = 1
+20240716-210403<INFO :0xf73ee700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240716-210403<INFO :0xf73ee700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240716-210405<INFO :0xf73ee700>: [Paysys] Logout() nResult = 1

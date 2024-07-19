@@ -1,0 +1,5 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20240718-211918<INFO :0xf7412700>: [KG_Angel][Version:Oct 31 2014 15:04:45] begin initial...
+20240718-211918<INFO :0xf7412700>: Data OK! Current max Service ID is: 2325366
+20240718-213214<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData kan.Jx2iiTieuKanNT dwCRC=D4E7B0F3/D4E7B0F3 nResult=1
+20240718-214419<INFO :0xf53ffb40>: [CheckCRC] CheckRoleData kan.Jx2iiTieuKanNT dwCRC=B7C426AB/B7C426AB nResult=1

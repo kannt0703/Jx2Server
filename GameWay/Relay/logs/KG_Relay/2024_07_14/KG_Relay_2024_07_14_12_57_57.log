@@ -1,0 +1,252 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20240714-125757<INFO :0xf7396700>: [verify_up2date]...
+20240714-125757<INFO :0xf7396700>: >Current lang is [gb18030]
+20240714-125757<INFO :0xf7396700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240714-125757<INFO :0xf7396700>: >Time duration: 11.059138ms 
+20240714-125757<INFO :0xf7396700>: >
+20240714-125757<INFO :0xf7396700>: >Finish, my exit code is: 0
+20240714-125757<INFO :0xf7396700>: |shell cmd result is 0
+20240714-125757<INFO :0xf7396700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Relay" ] ret=0
+20240714-125757<INFO :0xf7396700>: [verify_up2date] ok
+20240714-125757<INFO :0xf7396700>: [Relay][Version:Nov 14 2014 15:55:12] Begin to start ... ...
+20240714-125757<INFO :0xf7396700>: [KG_Relay] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20240714-125757<INFO :0xf7396700>: [KG_Relay] Loading relay.ini
+20240714-125757<INFO :0xf7396700>: Run without GMC!
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e46b80)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e46b80)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e46b80)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e46b80)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<INFO :0xf7194b40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e755b8)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e755b8)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e755b8)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e755b8)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7194b40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf6800470)->_LoadTable()
+20240714-125757<DEBUG:0xf7194b40>: [KGD] (0x0xf6800470)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<DEBUG:0xf7194b40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf6800470)->_LoadTable()
+20240714-125757<DEBUG:0xf7194b40>: [KGD] (0x0xf6800470)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7194b40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf67ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf67ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5e00470)->_LoadTable()
+20240714-125757<DEBUG:0xf67ffb40>: [KGD] (0x0xf5e00470)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf67ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5e00470)->_LoadTable()
+20240714-125757<DEBUG:0xf67ffb40>: [KGD] (0x0xf5e00470)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf67ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e741a8)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e741a8)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e741a8)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e741a8)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf5dffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20240714-125757<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf5dffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5400470)->_LoadTable()
+20240714-125757<DEBUG:0xf5dffb40>: [KGD] (0x0xf5400470)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf5dffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e88768)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e88768)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9e88768)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9e88768)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf53ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20240714-125757<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf53ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4a00470)->_LoadTable()
+20240714-125757<DEBUG:0xf53ffb40>: [KGD] (0x0xf4a00470)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf53ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9eab788)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9eab788)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9eab788)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9eab788)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9ed1838)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9ed1838)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x9ed1838)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0x9ed1838)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf49ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4000470)->_LoadTable()
+20240714-125757<DEBUG:0xf49ffb40>: [KGD] (0x0xf4000470)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf49ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4000470)->_LoadTable()
+20240714-125757<DEBUG:0xf49ffb40>: [KGD] (0x0xf4000470)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf49ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xa074a18)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0xa074a18)->_LoadTable("fightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xa074a18)->_LoadTable()
+20240714-125757<DEBUG:0xf7396700>: [KGD] (0x0xa074a18)->_LoadTable("playerfightteam")
+20240714-125757<DEBUG:0xf7396700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240714-125757<INFO :0xf7396700>: [MySQLDatabase] Connecting to `127.0.0.1`, database `jx2ib_database`...
+20240714-125757<INFO :0xf7396700>: [MySQLDatabase] Connecting to `127.0.0.1`, database `jx2ib_database`...
+20240714-125757<INFO :0xf7396700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20240714-125757<INFO :0xf7396700>: set runtime statistic result path is [runtime_stat_result/2024_07_14/stat_result_ksg_2024_07_14_@SONGLONG_GW.txt]
+20240714-125757<WARN :0xf7396700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_ksg_2024_07_14_@SONGLONG_GW.txt Count=363
+20240714-125757<WARN :0xf7396700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_vng_2024-07-14_@SONGLONG_GW.txt Count=1
+20240714-125810<INFO :0xf7396700>: New connection from 127.0.0.1:53662, index = 0
+20240714-125810<DEBUG:0xf7396700>: Send log info to gs(100007f) when connect ret=1
+20240714-125810<INFO :0xf7396700>: New connection from 127.0.0.1:38330, index = 0
+20240714-125810<INFO :0xf7396700>: New connection from 127.0.0.1:7646, index = 0
+20240714-125810<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125810<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125810<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125810<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125810<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125810<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125810<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125810<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125810<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 98 for gs: 0100007F
+20240714-125812<WARN :0xf7396700>: Router NOT connected
+20240714-125819<INFO :0xf7396700>: New connection from 127.0.0.2:47277, index = 1
+20240714-125819<DEBUG:0xf7396700>: Send log info to gs(200007f) when connect ret=1
+20240714-125819<INFO :0xf7396700>: New connection from 127.0.0.2:54942, index = 1
+20240714-125819<INFO :0xf7396700>: New connection from 127.0.0.2:39656, index = 1
+20240714-125819<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125819<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125819<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125819<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125819<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125819<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125819<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125819<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125819<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 107 for gs: 0200007F
+20240714-125821<WARN :0xf7396700>: Router NOT connected
+20240714-125821<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogin("Jx2iiTieuKanNT")
+20240714-125821<DEBUG:0xf7396700>: [RelationMgr] SomeoneLoad("Jx2iiTieuKanNT")
+20240714-125821<DEBUG:0xf7396700>: [Relation Database] Load "Jx2iiTieuKanNT"
+20240714-125823<WARN :0xf7396700>: Router NOT connected
+20240714-125828<INFO :0xf7396700>: New connection from 127.0.0.3:34720, index = 2
+20240714-125828<DEBUG:0xf7396700>: Send log info to gs(300007f) when connect ret=1
+20240714-125828<INFO :0xf7396700>: New connection from 127.0.0.3:22191, index = 2
+20240714-125828<INFO :0xf7396700>: New connection from 127.0.0.3:48071, index = 2
+20240714-125828<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125828<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125828<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125828<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125828<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125828<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125828<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125828<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125828<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 98 for gs: 0300007F
+20240714-125830<WARN :0xf7396700>: Router NOT connected
+20240714-125838<INFO :0xf7396700>: New connection from 127.0.0.4:33424, index = 3
+20240714-125838<DEBUG:0xf7396700>: Send log info to gs(400007f) when connect ret=1
+20240714-125838<INFO :0xf7396700>: New connection from 127.0.0.4:62613, index = 3
+20240714-125838<INFO :0xf7396700>: New connection from 127.0.0.4:11651, index = 3
+20240714-125838<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125838<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125838<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125838<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125838<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125838<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125838<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125838<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125838<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 108 for gs: 0400007F
+20240714-125840<WARN :0xf7396700>: Router NOT connected
+20240714-125847<INFO :0xf7396700>: New connection from 127.0.0.5:54250, index = 4
+20240714-125847<DEBUG:0xf7396700>: Send log info to gs(500007f) when connect ret=1
+20240714-125847<INFO :0xf7396700>: New connection from 127.0.0.5:55943, index = 4
+20240714-125847<INFO :0xf7396700>: New connection from 127.0.0.5:57770, index = 4
+20240714-125847<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125847<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125847<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125847<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125847<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125847<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125847<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125847<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125847<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 74 for gs: 0500007F
+20240714-125849<WARN :0xf7396700>: Router NOT connected
+20240714-125856<INFO :0xf7396700>: New connection from 127.0.0.6:46260, index = 5
+20240714-125856<DEBUG:0xf7396700>: Send log info to gs(600007f) when connect ret=1
+20240714-125856<INFO :0xf7396700>: New connection from 127.0.0.6:61855, index = 5
+20240714-125856<INFO :0xf7396700>: New connection from 127.0.0.6:36277, index = 5
+20240714-125856<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125856<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125856<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125856<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125856<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125856<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125856<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125856<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125856<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 4 for gs: 0600007F
+20240714-125858<WARN :0xf7396700>: Router NOT connected
+20240714-125905<INFO :0xf7396700>: New connection from 127.0.0.7:34795, index = 6
+20240714-125905<DEBUG:0xf7396700>: Send log info to gs(700007f) when connect ret=1
+20240714-125905<INFO :0xf7396700>: New connection from 127.0.0.7:7304, index = 6
+20240714-125906<INFO :0xf7396700>: New connection from 127.0.0.7:59116, index = 6
+20240714-125906<INFO :0xf7396700>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240714-125906<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125906<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125906<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125906<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125906<ERROR:0xf7396700>: [KG_RelayTongGameSvr] [Error Protocol] [Protocol=52]
+20240714-125906<DEBUG:0xf7396700>: KGLOG_PROCESS_ERROR(false) at line 83 in ProcessMessage
+20240714-125906<INFO :0xf7396700>: Proc0_GameSvrLogin
+20240714-125906<INFO :0xf7396700>: [MAP_INDEX_INFO] Notify map count 8 for gs: 0700007F
+20240714-125908<WARN :0xf7396700>: Router NOT connected
+20240714-130757<WARN :0xf7396700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_ksg_2024_07_14_@SONGLONG_GW.txt Count=365
+20240714-130757<WARN :0xf7396700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_14/stat_result_vng_2024-07-14_@SONGLONG_GW.txt Count=1
+20240714-131425<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogout("Jx2iiTieuKanNT")
+20240714-131425<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogin("Jx2iiTieuKanNT")
+20240714-131425<WARN :0xf7396700>: Router NOT connected
+20240714-131513<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogout("Jx2iiTieuKanNT")
+20240714-152128<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogin("Jx2iiTieuKanNT")
+20240714-152128<WARN :0xf7396700>: Router NOT connected
+20240714-153000<WARN :0xf7396700>: Router NOT connected
+20240714-153118<DEBUG:0xf7396700>: [RelationMgr] SomeoneLogout("Jx2iiTieuKanNT")
+20240714-213100<WARN :0xf7396700>: Router NOT connected
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 0)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 1)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 2)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 3)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 4)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 5)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 6)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 7)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 8)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 9)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 10)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 11)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 12)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 13)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 14)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 15)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 16)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 17)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 18)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 19)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 20)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 21)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 22)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 23)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 24)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 25)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 26)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 27)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 28)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 29)
+20240714-233057<INFO :0xf7396700>: [GestConventionRank] event=make zige no data, (1, 30)
+20240714-233057<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233058<WARN :0xf7396700>: Router NOT connected
+20240714-233511<WARN :0xf7396700>: Router NOT connected
+20240714-233520<WARN :0xf7396700>: Router NOT connected
+20240714-233529<WARN :0xf7396700>: Router NOT connected
+20240714-233539<WARN :0xf7396700>: Router NOT connected
+20240714-233548<WARN :0xf7396700>: Router NOT connected
+20240714-233557<WARN :0xf7396700>: Router NOT connected
+20240714-233607<WARN :0xf7396700>: Router NOT connected

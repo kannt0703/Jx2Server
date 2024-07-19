@@ -1,0 +1,9 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=15/65536 LastTime=2024-7-10 0:1:32
+20240711-000132<INFO :0xf7458700>: set runtime statistic result path is [runtime_stat_result/2024_07_10/stat_result_ksg_2024_07_10_@SONGLONG_GW.txt]
+20240711-000132<WARN :0xf7458700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_10/stat_result_ksg_2024_07_10_@SONGLONG_GW.txt Count=363
+20240711-000132<WARN :0xf7458700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_10/stat_result_vng_2024-07-10_@SONGLONG_GW.txt Count=1
+20240711-000132<INFO :0xf7458700>: set runtime statistic result path is [runtime_stat_result/2024_07_11/stat_result_ksg_2024_07_11_@SONGLONG_GW.txt]
+20240711-000132<INFO :0xf7458700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20240711-000132<WARN :0xf7458700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_11/stat_result_ksg_2024_07_11_@SONGLONG_GW.txt Count=363
+20240711-000132<WARN :0xf7458700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_11/stat_result_vng_2024-07-11_@SONGLONG_GW.txt Count=1
+20240711-093100<WARN :0xf7458700>: Router NOT connected

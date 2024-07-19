@@ -1,0 +1,23 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20240707-123911<INFO :0xf73af700>: [verify_up2date]...
+20240707-123911<INFO :0xf73af700>: >Current lang is [gb18030]
+20240707-123911<INFO :0xf73af700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240707-123911<INFO :0xf73af700>: >Time duration: 11.333346ms 
+20240707-123911<INFO :0xf73af700>: >
+20240707-123911<INFO :0xf73af700>: >Finish, my exit code is: 0
+20240707-123911<INFO :0xf73af700>: |shell cmd result is 0
+20240707-123911<INFO :0xf73af700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20240707-123911<INFO :0xf73af700>: [verify_up2date] ok
+20240707-123911<INFO :0xf73af700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20240707-123911<INFO :0xf73af700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20240707-123911<INFO :0xf73af700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x8213098
+20240707-123911<INFO :0xf73af700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240707-123911<INFO :0xf73af700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240707-123911<DEBUG:0xf73af700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20240707-123911<DEBUG:0xf73af700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20240707-123911<INFO :0xf73af700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20240707-123911<INFO :0xf73af700>: [Paysys] Login() nResult = 1
+20240707-123911<INFO :0xf73af700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x82133a8
+20240707-123911<INFO :0xf73af700>: [Goddess] Login() nResult = 1
+20240707-123911<INFO :0xf73af700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20240707-123911<INFO :0xf73af700>: [PlayerManager] Init() Acceptor Open(kannt.ddns.net: 5622), nRetCode = 1

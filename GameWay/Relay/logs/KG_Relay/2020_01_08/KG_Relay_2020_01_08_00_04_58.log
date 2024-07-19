@@ -1,0 +1,46 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=1534/65536 LastTime=2020-1-7 18:59:58
+20200108-000458<INFO :0xf7399700>: set runtime statistic result path is [runtime_stat_result/2020_01_07/stat_result_ksg_2020_01_07_@SONGLONG_GW.txt]
+20200108-000458<WARN :0xf7399700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_07/stat_result_ksg_2020_01_07_@SONGLONG_GW.txt Count=381
+20200108-000458<WARN :0xf7399700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_07/stat_result_vng_2020-01-07_@SONGLONG_GW.txt Count=1
+20200108-000458<INFO :0xf7399700>: set runtime statistic result path is [runtime_stat_result/2020_01_08/stat_result_ksg_2020_01_08_@SONGLONG_GW.txt]
+20200108-000458<INFO :0xf7399700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20200108-000458<WARN :0xf7399700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_08/stat_result_ksg_2020_01_08_@SONGLONG_GW.txt Count=363
+20200108-000458<WARN :0xf7399700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2020_01_08/stat_result_vng_2020-01-08_@SONGLONG_GW.txt Count=1
+20200108-033715<DEBUG:0xf7399700>: [RelationMgr] SomeoneLogin("zTrung")
+20200108-033715<DEBUG:0xf7399700>: [RelationMgr] SomeoneLoad("zTrung")
+20200108-033715<DEBUG:0xf7399700>: [Relation Database] Load "zTrung"
+20200108-033715<WARN :0xf7399700>: Router NOT connected
+20200108-033806<DEBUG:0xf7399700>: [RelationMgr] SomeoneLogout("zTrung")
+20200108-033835<DEBUG:0xf7399700>: [RelationMgr] SomeoneLogin("zTrung")
+20200108-033835<WARN :0xf7399700>: Router NOT connected
+20200108-034237<DEBUG:0xf7399700>: [RelationMgr] SomeoneLogout("zTrung")
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.7, 1)
+20200108-065720<DEBUG:0xf7399700>: gs(700007f) crashed
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.7, 1)
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.7, 1)
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.6, 1)
+20200108-065720<DEBUG:0xf7399700>: gs(600007f) crashed
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.6, 1)
+20200108-065720<INFO :0xf7399700>: Connection lost: 72(127.0.0.6, 1)
+20200108-065721<INFO :0xf7399700>: Connection lost: 72(127.0.0.5, 1)
+20200108-065721<DEBUG:0xf7399700>: gs(500007f) crashed
+20200108-065721<INFO :0xf7399700>: Connection lost: 72(127.0.0.5, 1)
+20200108-065721<INFO :0xf7399700>: Connection lost: 72(127.0.0.5, 1)
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.4, 1)
+20200108-065722<DEBUG:0xf7399700>: gs(400007f) crashed
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.4, 1)
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.4, 1)
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.3, 1)
+20200108-065722<DEBUG:0xf7399700>: gs(300007f) crashed
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.3, 1)
+20200108-065722<INFO :0xf7399700>: Connection lost: 72(127.0.0.3, 1)
+20200108-065726<INFO :0xf7399700>: Connection lost: 72(127.0.0.2, 1)
+20200108-065726<DEBUG:0xf7399700>: gs(200007f) crashed
+20200108-065726<INFO :0xf7399700>: Connection lost: 72(127.0.0.2, 1)
+20200108-065726<INFO :0xf7399700>: Connection lost: 72(127.0.0.2, 1)
+20200108-065727<INFO :0xf7399700>: Connection lost: 72(127.0.0.1, 1)
+20200108-065727<DEBUG:0xf7399700>: gs(100007f) crashed
+20200108-065727<INFO :0xf7399700>: Connection lost: 72(127.0.0.1, 1)
+20200108-065727<INFO :0xf7399700>: Connection lost: 72(127.0.0.1, 1)
+20200108-065728<INFO :0xf7399700>: [Relay] Get quit signal!
+20200108-065728<INFO :0xf7399700>: Relay stopping!

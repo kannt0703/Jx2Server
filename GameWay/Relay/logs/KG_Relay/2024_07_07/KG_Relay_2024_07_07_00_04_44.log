@@ -1,0 +1,8 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=202/65536 LastTime=2024-7-6 21:49:44
+20240707-000444<INFO :0xf7424700>: set runtime statistic result path is [runtime_stat_result/2024_07_06/stat_result_ksg_2024_07_06_@SONGLONG_GW.txt]
+20240707-000444<WARN :0xf7424700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_06/stat_result_ksg_2024_07_06_@SONGLONG_GW.txt Count=365
+20240707-000444<WARN :0xf7424700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_06/stat_result_vng_2024-07-06_@SONGLONG_GW.txt Count=1
+20240707-000444<INFO :0xf7424700>: set runtime statistic result path is [runtime_stat_result/2024_07_07/stat_result_ksg_2024_07_07_@SONGLONG_GW.txt]
+20240707-000444<INFO :0xf7424700>: [RuntimeStat] ServerName=SONGLONG_GW FlushIntervalSec=300
+20240707-000444<WARN :0xf7424700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_07/stat_result_ksg_2024_07_07_@SONGLONG_GW.txt Count=363
+20240707-000444<WARN :0xf7424700>: [RuntimeDataStatRelay] FlushStat: File=runtime_stat_result/2024_07_07/stat_result_vng_2024-07-07_@SONGLONG_GW.txt Count=1

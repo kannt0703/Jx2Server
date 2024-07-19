@@ -1,0 +1,81 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/65536 LastTime=1900-1-0 0:0:0
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Loading KG_Goddess.ini
+20240706-214450<INFO :0xf73b1700>: [verify_up2date]...
+20240706-214450<INFO :0xf73b1700>: >Current lang is [gb18030]
+20240706-214450<INFO :0xf73b1700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240706-214450<INFO :0xf73b1700>: >Time duration: 10.797305ms 
+20240706-214450<INFO :0xf73b1700>: >
+20240706-214450<INFO :0xf73b1700>: >Finish, my exit code is: 0
+20240706-214450<INFO :0xf73b1700>: |shell cmd result is 0
+20240706-214450<INFO :0xf73b1700>: ExecShellCmd [./verify_up2date -op=vef -d="." ] ret=0
+20240706-214450<INFO :0xf73b1700>: [verify_up2date] ok
+20240706-214450<INFO :0xf73b1700>: [Goddess][Version:Aug 22 2014 15:43:09] Begin to start ... ...
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Set log level ... ... KGLOG_UPTO(KGLOG_DEBUG)
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Initializing role database ...
+20240706-214450<INFO :0xf73b1700>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240706-214450<DEBUG:0xf73b1700>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240706-214450<DEBUG:0xf73b1700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x997cfd0)->_LoadTable()
+20240706-214450<DEBUG:0xf73b1700>: [KGD] (0x0x997cfd0)->_LoadTable("fightteam")
+20240706-214450<DEBUG:0xf73b1700>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0x997cfd0)->_LoadTable()
+20240706-214450<DEBUG:0xf73b1700>: [KGD] (0x0x997cfd0)->_LoadTable("playerfightteam")
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Initializing role statistic ...
+20240706-214450<INFO :0xf73b1700>: load Top10_KG_RoleStatistic.dat when init: size=10792
+20240706-214450<INFO :0xf73b1700>: [RoleStatistic] listen 127.0.0.1 : 6001 result=1
+20240706-214450<INFO :0xf73b1700>: [RoleStatistic] Listening at 127.0.0.1:6001
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Initializing server manager ...
+20240706-214450<INFO :0xf73b1700>: [ServerManager] Listening at 127.0.0.1:5001
+20240706-214450<INFO :0xf73b1700>: [KG_Goddess] Started successful
+20240706-214500<INFO :0xf6855b40>: [ServerManager] RemoteServer from (127.0.0.1:43935) connect ok
+20240706-214500<INFO :0xf6855b40>: [ServerManager] Accept from (127.0.0.1:43935) SocketStream = 0xf5f00528
+20240706-214500<INFO :0xf6855b40>: [[Group 1 Server 00]] Server 0 created ok!
+20240706-214500<INFO :0xf5effb40>: [Group 1 Server 00] Started, service for 127.0.0.1:43935
+20240706-214500<INFO :0xf5effb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240706-214500<DEBUG:0xf5effb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5500470)->_LoadTable()
+20240706-214500<DEBUG:0xf5effb40>: [KGD] (0x0xf5500470)->_LoadTable("fightteam")
+20240706-214500<DEBUG:0xf5effb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf5500470)->_LoadTable()
+20240706-214500<DEBUG:0xf5effb40>: [KGD] (0x0xf5500470)->_LoadTable("playerfightteam")
+20240706-214500<DEBUG:0xf5effb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240706-214522<DEBUG:0xf5effb40>: [Group 1 Server 00] Enter _ping(time=4444361)
+20240706-214522<INFO :0xf6855b40>: [ServerManager] RemoteServer from (127.0.0.1:37048) connect ok
+20240706-214522<INFO :0xf6855b40>: [ServerManager] Accept from (127.0.0.1:37048) SocketStream = 0xf5f00a30
+20240706-214522<INFO :0xf6855b40>: [[Group 1 Server 01]] Server 1 created ok!
+20240706-214522<INFO :0xf54ffb40>: [Group 1 Server 01] Started, service for 127.0.0.1:37048
+20240706-214522<INFO :0xf54ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240706-214522<DEBUG:0xf54ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4b00470)->_LoadTable()
+20240706-214522<DEBUG:0xf54ffb40>: [KGD] (0x0xf4b00470)->_LoadTable("fightteam")
+20240706-214522<DEBUG:0xf54ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4b00470)->_LoadTable()
+20240706-214522<DEBUG:0xf54ffb40>: [KGD] (0x0xf4b00470)->_LoadTable("playerfightteam")
+20240706-214522<DEBUG:0xf54ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240706-214522<INFO :0xf54ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240706-214522<DEBUG:0xf54ffb40>: [Group 1 Server 01] Enter _query_statistic_info()
+20240706-214522<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _query_statistic_info() size =10792 ret=1
+20240706-214524<INFO :0xf5effb40>: [Group 1 Server 00] Query roles list of account "kan"
+20240706-214524<DEBUG:0xf5effb40>: [Group 1 Server 00] Leave _query_role_list(kan) uRoleCount=1 nResult=1
+20240706-214526<INFO :0xf5effb40>: [Group 1 Server 00] Get role "Jx2iiTieuKanNT" nResult=1
+20240706-214529<DEBUG:0xf54ffb40>: [ServerManager] Role "Jx2iiTieuKanNT" locked by Server 01
+20240706-214529<DEBUG:0xf54ffb40>: [Group 1 Server 01] Leave _lock_or_unlock_role(Role=Jx2iiTieuKanNT, Lock=1) nResult=1
+20240706-214531<INFO :0xf6855b40>: [ServerManager] RemoteServer from (127.0.0.2:41833) connect ok
+20240706-214531<INFO :0xf6855b40>: [ServerManager] Accept from (127.0.0.2:41833) SocketStream = 0xf5f00f38
+20240706-214531<INFO :0xf6855b40>: [[Group 1 Server 02]] Server 2 created ok!
+20240706-214531<INFO :0xf4affb40>: [Group 1 Server 02] Started, service for 127.0.0.2:41833
+20240706-214531<INFO :0xf4affb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240706-214531<DEBUG:0xf4affb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4100470)->_LoadTable()
+20240706-214531<DEBUG:0xf4affb40>: [KGD] (0x0xf4100470)->_LoadTable("fightteam")
+20240706-214531<DEBUG:0xf4affb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf4100470)->_LoadTable()
+20240706-214531<DEBUG:0xf4affb40>: [KGD] (0x0xf4100470)->_LoadTable("playerfightteam")
+20240706-214531<DEBUG:0xf4affb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240706-214531<INFO :0xf4affb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD
+20240706-214531<DEBUG:0xf4affb40>: [Group 1 Server 02] Enter _query_statistic_info()
+20240706-214531<DEBUG:0xf4affb40>: [Group 1 Server 02] Leave _query_statistic_info() size =10792 ret=1
+20240706-214540<INFO :0xf6855b40>: [ServerManager] RemoteServer from (127.0.0.3:33914) connect ok
+20240706-214540<INFO :0xf6855b40>: [ServerManager] Accept from (127.0.0.3:33914) SocketStream = 0xf5f01440
+20240706-214540<INFO :0xf6855b40>: [[Group 1 Server 03]] Server 3 created ok!
+20240706-214540<INFO :0xf40ffb40>: [Group 1 Server 03] Started, service for 127.0.0.3:33914
+20240706-214540<INFO :0xf40ffb40>: [KGD] Mysql info: client[5.1.69] host[Localhost via UNIX socket] server[5.5.65-MariaDB]
+20240706-214540<DEBUG:0xf40ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3700470)->_LoadTable()
+20240706-214540<DEBUG:0xf40ffb40>: [KGD] (0x0xf3700470)->_LoadTable("fightteam")
+20240706-214540<DEBUG:0xf40ffb40>: [KGD] KGD_PROCESS_ERROR(nRetCode, KGD_ERROR_NOT_SUPPORT), at line 1467 in (0x0xf3700470)->_LoadTable()
+20240706-214540<DEBUG:0xf40ffb40>: [KGD] (0x0xf3700470)->_LoadTable("playerfightteam")
+20240706-214540<DEBUG:0xf40ffb40>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20240706-214540<INFO :0xf40ffb40>: [verify_up2date] GetUp2dateVersion: code=8DA68FCD

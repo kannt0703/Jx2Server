@@ -1,0 +1,416 @@
+MainName	SubName	MainId	SubId	ExtId	Count
+DiXuanGong	MissionOpenCount	1	1	0	1
+DiXuanGong	MissionOpenCount	1	1	1	2
+DiXuanGong	JoinPlayerCount	1	2	0	15
+DiXuanGong	AllPassPlayerCount	1	3	0	0
+DiXuanGong	Level80-89PlayerCount	1	4	0	0
+DiXuanGong	Level90-99PlayerCount	1	5	0	15
+DiXuanGong	RebornPlayerCount	1	6	0	15
+DiXuanGong	BackDoorTotalCount	1	7	0	2
+DiXuanGong	Forward3TotalCount	1	8	0	0
+DiXuanGong	AllPassTotalCount	1	9	0	0
+DiXuanGong	EnergyBoxOpenCount	1	10	0	0
+DiXuanGong	TyHalidomOpenCount	1	11	0	0
+DiXuanGong	FindblackHandsCount	1	12	0	0
+DiXuanGong	TianJiaoLing-UseCount	1	13	0	8
+DiXuanGong	TMGL-OutputCount	1	14	0	0
+DiXuanGong	PlayerRouteCount	1	15	0	0
+DiXuanGong	PlayerRouteCount	1	15	3	3
+DiXuanGong	PlayerRouteCount	1	15	6	3
+DiXuanGong	PlayerRouteCount	1	15	8	3
+DiXuanGong	PlayerRouteCount	1	15	17	3
+DiXuanGong	PlayerRouteCount	1	15	20	3
+DiXuanGong	Item3L-OutputCount	1	16	0	0
+DiXuanGong	Item3X-OutputCount	1	17	0	0
+DiXuanGong	ItemMYZ-OutputCount	1	18	0	0
+DiXuanGong	ItemMYC-OutputCount	1	19	0	0
+DiXuanGong	TaskChuTanFinishCount	1	20	0	0
+DiXuanGong	TaskDaPoFinishCount	1	21	0	0
+DiXuanGong	TaskZhuiXiongFinishCount	1	22	0	0
+ItemBingJingShi	C2ItemXCount	2	1	0	0
+ItemBingJingShi	C3ItemXCount	2	2	0	0
+ItemBingJingShi	C2ItemLCount	2	3	0	0
+ItemBingJingShi	C3ItemLCount	2	4	0	0
+ItemBingJingShi	C4XiXinShiCount	2	5	0	0
+ItemBingJingShi	C3LianTieLuCount	2	6	0	0
+LingShan	OpenCount	3	1	0	0
+LingShan	OpenCount	3	1	1	2
+LingShan	OpenPlayerCount	3	2	0	9
+LingShan	AllPassPlayerCount	3	3	0	0
+LingShan	OpenLevel80-89PlayerCount	3	4	0	0
+LingShan	OpenLevel90-99PlayerCount	3	5	0	9
+LingShan	OpenRebornPlayerCount	3	6	0	9
+LingShan	BackDoorTotalCount	3	7	0	2
+LingShan	First4StagePassCount	3	8	0	2
+LingShan	AllPassTotalCount	3	9	0	0
+LingShan	TianJiaoLingConsumeNum	3	10	0	8
+LingShan	UseJuYiLingForBuffCount	3	11	0	0
+LingShan	TianGangLingProduceNum	3	12	0	0
+LingShan	OpenRoutePlayerCount	3	13	0	0
+LingShan	OpenRoutePlayerCount	3	13	3	2
+LingShan	OpenRoutePlayerCount	3	13	6	1
+LingShan	OpenRoutePlayerCount	3	13	8	2
+LingShan	OpenRoutePlayerCount	3	13	17	2
+LingShan	OpenRoutePlayerCount	3	13	20	2
+LingShan	PassRoutePlayerCount	3	14	0	0
+LingShan	TaskChuYanFinishCount	3	15	0	0
+LingShan	TaskZhongYongFinishCount	3	16	0	0
+LingShan	TaskDuoJunFinishCount	3	17	0	0
+WanJianZhong	OpenCount	4	1	0	0
+WanJianZhong	OpenCount	4	1	1	1
+WanJianZhong	AllPassTotalCount	4	2	0	0
+WanJianZhong	OpenPlayerCount	4	3	0	5
+WanJianZhong	AllPassPlayerCount	4	4	0	0
+WanJianZhong	OpenLevel80-89PlayerCount	4	5	0	0
+WanJianZhong	OpenLevel90-99PlayerCount	4	6	0	5
+WanJianZhong	OpenRebornPlayerCount	4	7	0	5
+WanJianZhong	FreeCardCount	4	8	0	0
+WanJianZhong	IBCardCount	4	9	0	0
+WanJianZhong	TianJiaoLingConsumeNum	4	10	0	3
+WanJianZhong	GuLingYuProduceNum	4	11	0	0
+WanJianZhong	SuperBookProduceNum	4	12	0	0
+WanJianZhong	OpenRoutePlayerCount	4	13	0	0
+WanJianZhong	OpenRoutePlayerCount	4	13	3	1
+WanJianZhong	OpenRoutePlayerCount	4	13	6	1
+WanJianZhong	OpenRoutePlayerCount	4	13	8	1
+WanJianZhong	OpenRoutePlayerCount	4	13	17	1
+WanJianZhong	OpenRoutePlayerCount	4	13	20	1
+WanJianZhong	PassRoutePlayerCount	4	14	0	0
+WanJianZhong	TaskTongGuan1FishCount	4	15	0	0
+WanJianZhong	TaskTongGuan7FishCount	4	16	0	0
+WanJianZhong	TaskFanPai1FishCount	4	17	0	0
+WanJianZhong	TaskFanPai15FishCount	4	18	0	0
+TongTianHuanJing	OpenCount	5	1	0	0
+TongTianHuanJing	StageXPassCount	5	2	0	0
+TongTianHuanJing	AllPassTotalCount	5	3	0	0
+TongTianHuanJing	OpenPlayerCount	5	4	0	0
+TongTianHuanJing	PassStageXPlayerCount	5	5	0	0
+TongTianHuanJing	AllPassPlayerCount	5	6	0	0
+TongTianHuanJing	OpenLevel80-89PlayerCount	5	7	0	0
+TongTianHuanJing	OpenLevel90-99PlayerCount	5	8	0	0
+TongTianHuanJing	OpenRebornPlayerCount	5	9	0	0
+TongTianHuanJing	FreeCardCount	5	10	0	0
+TongTianHuanJing	IBCardCount	5	11	0	0
+TongTianHuanJing	TongTianLingConsumeNum	5	12	0	0
+TongTianHuanJing	TianMenJinLingProduceNum	5	13	0	0
+TongTianHuanJing	TianMenSuiPianProduceNum	5	14	0	0
+TongTianHuanJing	OpenRoutePlayerCount	5	15	0	0
+TongTianHuanJing	PassRoutePlayerCount	5	16	0	0
+ItemUseCount	Level1KnifeStone	6	1	0	0
+ItemUseCount	Level2KnifeStone	6	2	0	0
+ItemUseCount	Level3KnifeStone	6	3	0	0
+TongFeast	RaidDropCjszPig	7	1	0	0
+TongFeast	RaidDropCjszWine	7	2	0	0
+TongFeast	RaidDropWjzPig	7	3	0	0
+TongFeast	RaidDropWjzWine	7	4	0	0
+TongFeast	RaidDropLsCow	7	5	0	0
+TongFeast	RaidDropLsWine	7	6	0	0
+TongFeast	RaidDropDxgCow	7	7	0	0
+TongFeast	RaidDropDxgWine	7	8	0	0
+TongFeast	RaidDropTxSheep	7	9	0	0
+TongFeast	RaidDropTxWine	7	10	0	0
+TongFeast	RaidDropTtdSheep	7	11	0	0
+TongFeast	RaidDropTtdWine	7	12	0	0
+TongFeast	BattleDropKfBacon	7	13	0	0
+TongFeast	BattleDropKfWine	7	14	0	0
+TongFeast	BattleDropSlBacon	7	15	0	0
+TongFeast	BattleDropSlWine	7	16	0	0
+TongFeast	BattleDropTmzBacon	7	17	0	0
+TongFeast	BattleDropTmzWine	7	18	0	0
+TongFeast	TongCountCjsz	7	19	0	0
+TongFeast	TongCountWjz	7	20	0	0
+TongFeast	TongCountLs	7	21	0	0
+TongFeast	TongCountDxg	7	22	0	0
+TongFeast	TongCountTx	7	23	0	0
+TongFeast	TongCountTtd	7	24	0	0
+TongFeast	TotalCountPig	7	25	0	0
+TongFeast	TotalCountCow	7	26	0	0
+TongFeast	TotalCountSheep	7	27	0	0
+TongFeast	TotalCountBacon	7	28	0	0
+TongFeast	TotalCountTableChair	7	29	0	0
+TongFeast	TotalCountCooker	7	30	0	0
+TongFeast	ChefUseTimes18	7	31	0	0
+TongFeast	ChefUseTimes19	7	32	0	0
+TongFeast	ChefUseTimes20	7	33	0	0
+TongFeast	IBShopBoxHZ	7	34	0	0
+TongFeast	IBShopBoxGY	7	35	0	0
+TongFeast	IBShopBoxXZ	7	36	0	0
+TongFeast	IBShopGjBoxHZ	7	37	0	0
+TongFeast	IBShopGjBoxGY	7	38	0	0
+TongFeast	IBShopGjBoxXZ	7	39	0	0
+TongFeast	IBShopBoxUpgrade	7	40	0	0
+TongFeast	IBShopGjBoxUpgrade	7	41	0	0
+TongFeast	IBShop3000YinJuan	7	42	0	0
+TongFeast	IBShopBugaoXie	7	43	0	0
+TongFeast	IBShopTongJiuZhou	7	44	0	0
+TongFeast	IBShopTongYaoYang	7	45	0	0
+TongFeast	IBShopTongMa	7	46	0	0
+3V3	3V3TotalOpenTimes	8	1	0	0
+3V3	3V3PairTeamCount	8	2	0	0
+3V3	3V3StagePlayerCount	8	3	0	0
+3V3	3V3UseDrugPlayerCount	8	4	0	0
+3V3	3V3JoinPlayerCount	8	5	0	0
+3V3	3V3WinPlayerCount	8	6	0	0
+IBConsume	XiaoBai QiangHua	9	1	0	0
+IBConsume	BaiXing QiangHua	9	2	0	0
+IBConsume	LanLing QiangHua	9	3	0	0
+IBConsume	BaiLing QiangHua	9	4	0	0
+IBConsume	LittleBoss QiangHua	9	5	0	0
+IBConsume	MiddleBoss QiangHua	9	6	0	0
+IBConsume	BigBoss QiangHua	9	7	0	0
+IBConsume	XiaoBai  XiuLi	9	8	0	0
+IBConsume	BaiXing XiuLi	9	9	0	0
+IBConsume	LanLing XiuLi	9	10	0	0
+IBConsume	BaiLing XiuLi	9	11	0	0
+IBConsume	LittleBoss XiuLi	9	12	0	0
+IBConsume	MiddleBoss XiuLi	9	13	0	0
+IBConsume	BigBoss XiuLi	9	14	0	0
+IBConsume	XiaoBai  AdvXiuLi	9	15	0	0
+IBConsume	BaiXing AdvXiuLi	9	16	0	0
+IBConsume	LanLing AdvXiuLi	9	17	0	0
+IBConsume	BaiLing AdvXiuLi	9	18	0	0
+IBConsume	LittleBoss AdvXiuLi	9	19	0	0
+IBConsume	MiddleBoss AdvXiuLi	9	20	0	0
+IBConsume	BigBoss AdvXiuLi	9	21	0	0
+IBConsume	XiaoBai  BuyStall	9	22	0	13
+IBConsume	XiaoBai  BuyStall	9	22	1	0
+IBConsume	BaiXing BuyStall	9	23	0	0
+IBConsume	LanLing BuyStall	9	24	0	0
+IBConsume	BaiLing BuyStall	9	25	0	0
+IBConsume	LittleBoss BuyStall	9	26	0	0
+IBConsume	MiddleBoss BuyStall	9	27	0	0
+IBConsume	BigBoss BuyStall	9	28	0	0
+IBConsume	XiaoBai  SellStall	9	29	0	13
+IBConsume	XiaoBai  SellStall	9	29	1	0
+IBConsume	BaiXing SellStall	9	30	0	0
+IBConsume	LanLing SellStall	9	31	0	0
+IBConsume	BaiLing SellStall	9	32	0	0
+IBConsume	LittleBoss SellStall	9	33	0	0
+IBConsume	MiddleBoss SellStall	9	34	0	0
+IBConsume	BigBoss SellStall	9	35	0	0
+IBConsume	Core Item Stall Total Price	9	36	0	0
+IBConsume	Core Item Stall Num	9	37	0	0
+KFBattle	OpenCount	10	1	0	0
+KFBattle	StartCount	10	2	0	0
+KFBattle	NoStartCount	10	3	0	0
+KFBattle	PlayerCountWhenStart	10	4	0	0
+KFBattle	80-89PlayerCountWhenStart	10	5	0	0
+KFBattle	90-99PlayerCountWhenStart	10	6	0	0
+KFBattle	TransPlayerCountWhenStart	10	7	0	0
+KFBattle	PlayerCountWhenEnd	10	8	0	0
+KFBattle	SingleSignCount	10	9	0	0
+KFBattle	TeamSighCount	10	10	0	0
+KFBattle	PKDieCount	10	11	0	0
+KFBattle	SongWinCount	10	12	0	0
+KFBattle	LiaoWinCount	10	13	0	0
+KFBattle	PingJuCount	10	14	0	0
+KFBattle	RoutePlayerJoinCount	10	15	0	0
+KFBattle	RouteKillCount	10	16	0	0
+KFBattle	RouteDieCount	10	17	0	0
+KFBattle	RouteCapFlagCount	10	18	0	0
+KFBattle	AwardActive0Count	10	19	0	0
+KFBattle	AwardActive1-9Count	10	20	0	0
+KFBattle	AwardActive10-39Count	10	21	0	0
+KFBattle	AwardActive10-199Count	10	22	0	0
+KFBattle	AwardActive200+Count	10	23	0	0
+KFBattle	AwardByJunGongZhangCount	10	24	0	0
+KFBattle	AwardByDaJunGongZhangCount	10	25	0	0
+KFBattle	AwardByHuiHuangJunGongZhangCount	10	26	0	0
+TiamMenZhen	OpenCount	11	1	0	0
+TiamMenZhen	StartCount	11	2	0	0
+TiamMenZhen	NoStartCount	11	3	0	0
+TiamMenZhen	PlayerCountWhenStart	11	4	0	0
+TiamMenZhen	80-89PlayerCountWhenStart	11	5	0	0
+TiamMenZhen	90-99PlayerCountWhenStart	11	6	0	0
+TiamMenZhen	TransPlayerCountWhenStart	11	7	0	0
+TiamMenZhen	PlayerCountWhenEnd	11	8	0	0
+TiamMenZhen	SingleSignCount	11	9	0	0
+TiamMenZhen	TeamSighCount	11	10	0	0
+TiamMenZhen	PKDieCount	11	11	0	0
+TiamMenZhen	SongWinCount	11	12	0	0
+TiamMenZhen	LiaoWinCount	11	13	0	0
+TiamMenZhen	PingJuCount	11	14	0	0
+TiamMenZhen	RoutePlayerJoinCount	11	15	0	0
+TiamMenZhen	RouteKillCount	11	16	0	0
+TiamMenZhen	RouteDieCount	11	17	0	0
+TiamMenZhen	RouteCapFlagCount	11	18	0	0
+TiamMenZhen	AwardActiveXiaDengCount	11	19	0	0
+TiamMenZhen	AwardActiveZhongXiaDengCount	11	20	0	0
+TiamMenZhen	AwardActiveZhongDengCount	11	21	0	0
+TiamMenZhen	AwardActiveZhongShangDengCount	11	22	0	0
+TiamMenZhen	AwardActiveShangDengCount	11	23	0	0
+TiamMenZhen	AwardActiveShangShangDengCount	11	24	0	0
+TiamMenZhen	AwardByJunGongZhangCount	11	25	0	0
+TiamMenZhen	AwardByDaJunGongZhangCount	11	26	0	0
+TiamMenZhen	AwardByHuiHuangJunGongZhangCount	11	27	0	0
+TongMelee	TongMeleeTongCount	12	1	0	0
+TongMelee	TongMeleePlayerCount	12	2	0	0
+TongMelee	TongMeleeLHJP	12	3	0	0
+Trade	Core Item Trade Num	13	1	0	0
+Item Combine	TianGangLing_from_TianGangSuiPian	14	1	0	0
+Item Combine	TianMenJinLing_from_TianMenSuiPian	14	2	0	0
+Item Combine	HuangJinDaHongBao	14	3	0	0
+PKStat	1V1RouteWinCnt	15	1	0	0
+PKStat	1V1RouteVsCnt	15	2	0	0
+PKStat	PKRouteWinCnt	15	3	0	0
+PKStat	PKRouteVsCnt	15	4	0	0
+GoldEarn	GoldAdd	16	1	0	20823
+GoldEarn	GoldAdd	16	1	1	36301
+GoldPay	GoldPay	16	2	0	5888
+GoldPay	GoldPay	16	2	1	144200
+Item	AddCount	16	3	0	0
+Item	AddCount	16	3	10700206	5
+Item	AddCount	16	3	10700207	5
+Item	AddCount	16	3	10700211	10
+Item	AddCount	16	3	10700222	5
+Item	AddCount	16	3	11200158	5
+Item	AddCount	16	3	200101009	200
+Item	AddCount	16	3	200101067	4
+Item	AddCount	16	3	200101068	4
+Item	AddCount	16	3	200101113	2
+Item	AddCount	16	3	200130230	12000
+Item	AddCount	16	3	200130490	12
+Item	DelCount	16	4	0	0
+Item	DelCount	16	4	10700211	14
+Item	DelCount	16	4	11200158	2
+Item	DelCount	16	4	200101009	7
+Item	DelCount	16	4	200101067	1
+Item	DelCount	16	4	200101068	1
+Item	DelCount	16	4	200101113	1
+Item	DelCount	16	4	200130230	6700
+Item	DelCount	16	4	200130490	12
+LuckyBox	UseFreePlayerCount	17	1	0	0
+LuckyBox	UseFree8PlayerCount	17	2	0	0
+LuckyBox	UseIBPlayerCount	17	3	0	0
+LuckyBox	CostFreeCount	17	4	0	0
+LuckyBox	CostIBOne	17	5	0	0
+LuckyBox	CostIBTwo	17	6	0	0
+LuckyBox	GetFreeTGL	17	7	0	0
+LuckyBox	GetFreeTMJL	17	8	0	0
+LuckyBox	GetFreeLHJP	17	9	0	0
+LuckyBox	GetIBTGL	17	10	0	0
+LuckyBox	GetIBTMJL	17	11	0	0
+LuckyBox	GetIBLHJP	17	12	0	0
+GemBox	GemBoxFreeCount	17	13	0	0
+GemBox	GemBoxFreePlayerCount	17	14	0	0
+GemBox	GemBoxIBCount	17	15	0	0
+GemBox	GemBoxIBPlayerCount	17	16	0	0
+TYT	TotalOpenCount	18	1	0	3
+TYT	UseEneryJoinTYT	18	2	0	3
+TYT	UseIBJoinTYT	18	3	0	0
+TYT	Route8JoinTYT	18	4	0	0
+TYT	StaticCostIB_Nor|YX	18	5	0	0
+TYT	OpenPTState1	18	6	0	2
+TYT	CrossPTState1	18	7	0	0
+TYT	OpenPTState2	18	8	0	0
+TYT	CrossPTState2	18	9	0	0
+TYT	OpenPTState3	18	10	0	0
+TYT	CrossPTState3	18	11	0	0
+TYT	OpenPTState4	18	12	0	0
+TYT	CrossPTState4	18	13	0	0
+TYT	OpenPTState5	18	14	0	0
+TYT	CrossPTState5	18	15	0	0
+TYT	OpenPTState6	18	16	0	0
+TYT	CrossPTState6	18	17	0	0
+TYT	OpenYXState1	18	18	0	1
+TYT	CrossYXState1	18	19	0	0
+TYT	OpenYXState2	18	20	0	0
+TYT	CrossYXState2	18	21	0	0
+TYT	OpenYXState3	18	22	0	0
+TYT	CrossYXState3	18	23	0	0
+TYT	OpenYXState4	18	24	0	0
+TYT	CrossYXState4	18	25	0	0
+TYT	OpenYXState5	18	26	0	0
+TYT	CrossYXState5	18	27	0	0
+TYT	OpenYXState6	18	28	0	0
+TYT	CrossYXState6	18	29	0	0
+TYT	OpenCheatModel1	18	30	0	0
+TYT	OpenCheatModel2	18	31	0	0
+TYT	OpenCheatModel3	18	32	0	0
+TYT	OpenCheatModel4	18	33	0	0
+TYT	OpenCheatModel5	18	34	0	0
+TYT	OpenCheatModel6	18	35	0	0
+TYT	FreeOpenCardState3	18	36	0	0
+TYT	IBOpenCardState3	18	37	0	0
+TYT	FreeOpenCardState6	18	38	0	0
+TYT	IBOpenCardState6	18	39	0	0
+TYT	RouteJoinPTCount	18	40	0	0
+TYT	RouteJoinPTCount	18	40	3	1
+TYT	RouteJoinPTCount	18	40	6	1
+TYT	RouteJoinPTCount	18	40	8	1
+TYT	RouteJoinPTCount	18	40	17	1
+TYT	RouteJoinPTCount	18	40	20	1
+TYT	RouteJoinPTCount	18	40	29	1
+TYT	RouteCrossPTCount	18	41	0	0
+TYT	RouteJoinYXCount	18	42	0	0
+TYT	RouteJoinYXCount	18	42	3	1
+TYT	RouteJoinYXCount	18	42	6	1
+TYT	RouteJoinYXCount	18	42	8	1
+TYT	RouteJoinYXCount	18	42	17	1
+TYT	RouteJoinYXCount	18	42	20	1
+TYT	RouteCrossYXCount	18	43	0	0
+TYT	ItemYLSCount	18	44	0	0
+TYT	ItemMLPCount	18	45	0	0
+TYT	ItemDLPCount	18	46	0	0
+TYT	ItemTILCount	18	47	0	0
+TYT	FreeOpenCardState3-YX	18	48	0	0
+TYT	IBOpenCardState3-YX	18	49	0	0
+TYT	FreeOpenCardState6-YX	18	50	0	0
+TYT	IBOpenCardState6-YX	18	51	0	0
+EquipRecycle	EquipRecycleGroupID	19	1	0	0
+EquipRecycle	EquipRecycleEnhance	19	2	0	0
+1V1	Week10Award	20	1	0	0
+1V1	WeekRankAward	20	2	0	0
+1V1	SeasonAward	20	3	0	0
+1V1	1V1BoxCnt	20	4	0	0
+1V1	1V1BoxOpenCntFree|IB	20	5	0	0
+1V1	SeasonBoxCnt	20	6	0	0
+1V1	SeasonBoxOpenCntFree|IB	20	7	0	0
+Gem	GemBoxOpenItem|NpcCnt	21	1	0	0
+Gem	GemComposeCntExt=	21	2	0	0
+Gem	Hole|InsertCnt	21	3	0	0
+QHT	Qht_JWHF_ItemCount	22	1	0	0
+QHT	Qht_Box1_OpenCount	22	2	0	0
+QHT	Qht_Box2_OpenCount	22	3	0	0
+QHT	Qht_Box3_OpenCount	22	4	0	0
+QHT	Qht_CreatePt_NpcCount	22	5	0	0
+QHT	Qht_KillPt_NpcCount	22	6	0	0
+QHT	Qht_CreateSb_NpcCount	22	7	0	0
+QHT	Qht_KillSb_NpcCount	22	8	0	0
+QHT	Qht_CreateMb_NpcCount	22	9	0	0
+QHT	Qht_KillMb_NpcCount	22	10	0	0
+QHT	Qht_CreateBb_NpcCount	22	11	0	0
+QHT	Qht_KillBb_NpcCount	22	12	0	0
+QHT	Qht_CreateGb_NpcCount	22	13	0	0
+QHT	Qht_KillGb_NpcCount	22	14	0	0
+WorldBoss	KillBossCount	23	1	0	0
+WorldBoss	OpenSmallBoxCount	23	2	0	0
+WorldBoss	OpenBigBoxCount	23	3	0	0
+MiJiCanYe	ComposeXiaoYaoCount	24	1	0	0
+MiJiCanYe	ComposeLingBoCount	24	2	0	0
+MiJiCanYe	ComposeShiMenCount	24	3	0	0
+StateChess	StateChessJoinCount	25	1	0	1
+StateChess	StateChessAllRound	25	2	0	0
+StateChess	StateChessFirstRound	25	3	0	0
+StateChess	StateChessWeeklyRound	25	4	0	0
+StateChess	StateChessAllReset	25	5	0	0
+StateChess	StateChessTodayReset	25	6	0	0
+StateChess	StateChessYiGuan	25	7	0	0
+StateChess	StateChessJoinYiGuan	25	8	0	0
+StateChess	StateChessQianZhuang	25	9	0	1
+StateChess	StateChessJoinQianZhuang	25	10	0	0
+StateChess	StateChessShengMiao	25	11	0	0
+StateChess	StateChessJoinShengMiao	25	12	0	0
+StateChess	StateChessEvent	25	13	0	0
+StateChess	StateChessJoinEvent	25	14	0	0
+silling_battle	OpenCnt_JingLi|IB	26	1	0	0
+silling_battle	JoinPlayerCount	26	2	0	0
+silling_battle	PassCnt	26	3	0	0
+silling_battle	IBConsume	26	4	0	0
+eyt_battle	EytRouteJoinCount	27	1	0	0
+eyt_battle	EytRouteGetFlag	27	2	0	0
+eyt_battle	OpenSucessCnt	27	3	0	0
+eyt_battle	EndPlayerCnt	27	4	0	0
+pet	BetJiangLingSuLvX	28	1	0	0
+pet	ConsumeJiangLingMiDianCnt	28	2	0	0
+pet	ComposeCnt_Ext=Level	28	3	0	0

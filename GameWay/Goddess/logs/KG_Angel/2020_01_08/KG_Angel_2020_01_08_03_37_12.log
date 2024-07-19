@@ -1,0 +1,5 @@
+ChangeLogFile: FirstWrite=0, CurrentLine=95/65536 LastTime=2020-1-7 18:59:55
+20200108-033712<INFO :0xf5dffb40>: [PlayerCreator] Created role zTrung, ServerID=2325372
+20200108-033726<INFO :0xf49ffb40>: [CheckCRC] CheckRoleData trungpv.zTrung dwCRC=AD36F671/AD36F671 nResult=1
+20200108-033806<INFO :0xf49ffb40>: [CheckCRC] CheckRoleData trungpv.zTrung dwCRC=4B734141/4B734141 nResult=1
+20200108-034237<INFO :0xf49ffb40>: [CheckCRC] CheckRoleData trungpv.zTrung dwCRC=89186DDE/89186DDE nResult=1

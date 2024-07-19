@@ -1,0 +1,92 @@
+ChangeLogFile: FirstWrite=1, CurrentLine=0/160000 LastTime=1900-1-0 0:0:0
+20240706-214734<INFO :0xf7440700>: [verify_up2date]...
+20240706-214734<INFO :0xf7440700>: >Current lang is [gb18030]
+20240706-214734<INFO :0xf7440700>: >Welcome to use [verify_up2date](version: 2.3.4 [2018-02-25]) tool. 
+20240706-214734<INFO :0xf7440700>: >Time duration: 6.647799ms 
+20240706-214734<INFO :0xf7440700>: >
+20240706-214734<INFO :0xf7440700>: >Finish, my exit code is: 0
+20240706-214734<INFO :0xf7440700>: |shell cmd result is 0
+20240706-214734<INFO :0xf7440700>: ExecShellCmd [./verify_up2date -op=vef -d="/home/server/gw/Bishop" ] ret=0
+20240706-214734<INFO :0xf7440700>: [verify_up2date] ok
+20240706-214734<INFO :0xf7440700>: [Bishop][Version:Aug 22 2014 15:43:10] begin start up...
+20240706-214734<INFO :0xf7440700>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20240706-214734<INFO :0xf7440700>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 0x8771098
+20240706-214734<INFO :0xf7440700>: [Local machine info] InternalMacAddress: 90-2e-1c-bd-f3-44, InternalIPAddress: 192.168.1.244
+20240706-214734<INFO :0xf7440700>: [Local machine info] ExternalMacAddress: 90-2e-1c-bd-f3-44, ExternalIPAddress: 192.168.1.244
+20240706-214734<DEBUG:0xf7440700>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20240706-214734<DEBUG:0xf7440700>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20240706-214734<INFO :0xf7440700>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20240706-214734<INFO :0xf7440700>: [Paysys] Login() nResult = 1
+20240706-214734<INFO :0xf7440700>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 0x87713a8
+20240706-214734<INFO :0xf7440700>: [Goddess] Login() nResult = 1
+20240706-214734<INFO :0xf7440700>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20240706-214734<INFO :0xf7440700>: [PlayerManager] Init() Acceptor Open(kannt.ddns.net: 5622), nRetCode = 1
+20240706-214734<DEBUG:0xf50e1b40>: [Player 0] ThreadFunction() Accept from (192.168.1.1 : 59754) SocketStream = 0xdb7004c8
+20240706-214734<DEBUG:0xf50e1b40>: [Player 0] Login denied: game server protocol version is unknown now, account kan
+20240706-214734<DEBUG:0xf50e1b40>: [Player 0] Account kan login bishop ... ... [Failed]
+20240706-214743<INFO :0xf60e3b40>: [Relay] ThreadFunction() Accept from (127.0.0.1: 56604) SocketStream = 0xdb5004c8
+20240706-214743<INFO :0xf60e3b40>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20240706-214744<DEBUG:0xf48e0b40>: [Player 1] ThreadFunction() Accept from (192.168.1.1 : 59755) SocketStream = 0xdb6004c8
+20240706-214744<DEBUG:0xf48e0b40>: [Player 1] Login denied: game server protocol version is unknown now, account kan
+20240706-214744<DEBUG:0xf48e0b40>: [Player 1] Account kan login bishop ... ... [Failed]
+20240706-214745<DEBUG:0xf70e5b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20240706-214745<DEBUG:0xf70e5b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20240706-214754<DEBUG:0xef8d6b40>: [Player 11] ThreadFunction() Accept from (192.168.1.1 : 59756) SocketStream = 0xdb4004c8
+20240706-214754<DEBUG:0xef8d6b40>: [Player 11] Login denied: game server protocol version is unknown now, account kan
+20240706-214754<DEBUG:0xef8d6b40>: [Player 11] Account kan login bishop ... ... [Failed]
+20240706-214756<DEBUG:0xf70e5b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20240706-214756<DEBUG:0xf70e5b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20240706-214756<INFO :0xf68e4b40>: receive goddess ping reply, goddess time = 4555736
+20240706-214756<INFO :0xf58e2b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 35340) SocketStream = 0xdb2004c8
+20240706-214756<INFO :0xdb0ffb40>: [GameServer 0] Connected from 127.0.0.1, internet address = 113.180.204.14, open port = 6660, protocol version (341-->345)
+20240706-214756<DEBUG:0xdb0ffb40>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20240706-214756<INFO :0xdb0ffb40>: [GameServer 0] from [127.0.0.1 : 3210] === Start ===
+20240706-214756<DEBUG:0xf60e3b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 405; Key = 1
+20240706-214756<INFO :0xdb0ffb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20240706-214803<DEBUG:0xe90c9b40>: [Player 24] ThreadFunction() Accept from (192.168.1.1 : 59757) SocketStream = 0xdb203c60
+20240706-214803<DEBUG:0xe90c9b40>: [Player 24] Account kan login bishop ... ... [OK]
+20240706-214803<DEBUG:0xe90c9b40>: [InterlockedAccountStateTable] kan, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20240706-214803<DEBUG:0xe90c9b40>: [Player 24] Push request package into paysys module OK, package id = 1, cost time 0 ms
+20240706-214804<DEBUG:0xf70e5b40>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 1
+20240706-214804<DEBUG:0xf70e5b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 1
+20240706-214805<DEBUG:0xe90c9b40>: [Player 24] Pop respond package from paysys module OK, package id = 1, cost time 1370 ms
+20240706-214805<DEBUG:0xe90c9b40>: [InterlockedAccountStateTable] kan, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20240706-214805<INFO :0xe90c9b40>: [Player 24] Player verify to paysys, result = 1, Account kan
+20240706-214805<INFO :0xe90c9b40>: [Player 24] Account kan EndOfDayTime = 2344176587, LeftTimeOfPoint = 4294967295, TotalLeftTime = 623899301
+20240706-214805<DEBUG:0xdb0ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 41; Size = 37; Key = 1
+20240706-214806<DEBUG:0xf68e4b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 15; Key = 1
+20240706-214806<DEBUG:0xf68e4b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 99; Key = 1
+20240706-214806<INFO :0xf58e2b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.2: 44674) SocketStream = 0xdb203da8
+20240706-214806<INFO :0xda8feb40>: [GameServer 1] Connected from 127.0.0.2, internet address = 113.180.204.14, open port = 6661, protocol version (341-->345)
+20240706-214806<DEBUG:0xda8feb40>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20240706-214806<INFO :0xda8feb40>: [GameServer 1] from [127.0.0.2 : 33454] === Start ===
+20240706-214806<DEBUG:0xf60e3b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 441; Key = 2
+20240706-214806<INFO :0xda8feb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20240706-214806<DEBUG:0xe90c9b40>: [Player 24] ProcessRoleList() RoleCount = 1!
+20240706-214806<DEBUG:0xe90c9b40>: [Player 24] ReadPlayerRequest() Protocol = 35, Size = 37!
+20240706-214806<DEBUG:0xe90c9b40>: [Player 24] EnterGame_QueryRoleData() RoleName = Jx2iiTieuKanNT
+20240706-214806<DEBUG:0xf68e4b40>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 25; Key = 2
+20240706-214806<DEBUG:0xf68e4b40>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 6615; Key = 2
+20240706-214807<DEBUG:0xe90c9b40>: [InterlockedAccountStateTable] kan, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20240706-214807<DEBUG:0xe90c9b40>: [Player 24] Request enter game: ask for permission, account = kan, role name = Jx2iiTieuKanNT ... ... [OK]
+20240706-214807<DEBUG:0xdb0ffb40>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 6713; Key = 2
+20240706-214807<DEBUG:0xdb0ffb40>: [GameServer 0] g2b_player_login_permission() , Account = kan, Role = Jx2iiTieuKanNT, Permit = true
+20240706-214807<DEBUG:0xe90c9b40>: [Player 24] Notify player login game: ip = 113.180.204.14, port = 6660, account = kan, role = Jx2iiTieuKanNT
+20240706-214807<DEBUG:0xdb0ffb40>: [GameServer 0] g2b_player_enter_game() AccountName = kan
+20240706-214815<DEBUG:0xf70e5b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20240706-214815<DEBUG:0xf70e5b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20240706-214816<INFO :0xf58e2b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.3: 57955) SocketStream = 0xdb203c60
+20240706-214816<INFO :0xda0fdb40>: [GameServer 2] Connected from 127.0.0.3, internet address = 113.180.204.14, open port = 6662, protocol version (341-->345)
+20240706-214816<DEBUG:0xda0fdb40>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20240706-214816<INFO :0xda0fdb40>: [GameServer 2] from [127.0.0.3 : 25570] === Start ===
+20240706-214816<DEBUG:0xf60e3b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 405; Key = 3
+20240706-214816<INFO :0xda0fdb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20240706-214826<INFO :0xf58e2b40>: [GameServerManager] ThreadFunction() Accept from (127.0.0.4: 53775) SocketStream = 0xdb20c910
+20240706-214826<INFO :0xd98fcb40>: [GameServer 3] Connected from 127.0.0.4, internet address = 113.180.204.14, open port = 6663, protocol version (341-->345)
+20240706-214826<DEBUG:0xd98fcb40>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20240706-214826<INFO :0xd98fcb40>: [GameServer 3] from [127.0.0.4 : 4050] === Start ===
+20240706-214826<DEBUG:0xf60e3b40>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 445; Key = 4
+20240706-214826<INFO :0xd98fcb40>: [verify_up2date] GetUp2dateVersion: code=DCA253A9
+20240706-214826<DEBUG:0xf70e5b40>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 127; Size = 5; Key = 0
+20240706-214826<DEBUG:0xf70e5b40>: KGLOG_PROCESS_ERROR(m_uHeadPos != m_uTailPos) at line 63 in pop
+20240706-214828<INFO :0xf68e4b40>: receive goddess ping reply, goddess time = 4585583
