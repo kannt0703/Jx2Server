@@ -31,3 +31,5 @@ lan luot chay cac file sau
 3/ KG_BishopD
 4/ SO2RelayD
 5/ GS
+
+git config --global i18n.commitEncoding GB18030
