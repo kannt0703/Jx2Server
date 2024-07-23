@@ -1,113 +1,101 @@
-import os, shutil
-import math
-import itertools
-import time
-import subprocess
-from os import listdir
-from os.path import isfile, join
-from pathlib import Path
-from threading import *
-import tkinter.filedialog as filedialog
+import os
 import tkinter as tk
-from tkinter import *
-from tkinter import ttk
-from tkinter import messagebox
-from path import Path
+from tkinter import filedialog, messagebox
+from pathlib import Path
 
-#Function to export path
+# Hàm xuất đường dẫn các tệp vào filelist.txt
 def exportpath():
-	#get dataa from textbox
-	pathfolder = txt_folder_path.get()
-	#Create list to store dat
-	getlist = []
-	#Call function get_all_files with pathfolder is params
-	getlist = get_all_files(pathfolder)
-	#Write data to text file
-	writetext(getlist)
-	#Enable the button replace and open file
-	btn_replace_path.config(state="normal")
+    # Lấy đường dẫn thư mục từ textbox và chuyển thành kiểu Path
+    path_folder = Path(txt_folder_path.get()) 
+    # Lấy danh sách tất cả các tệp trong thư mục (bao gồm cả thư mục con)
+    file_list = get_all_files(path_folder) 
+    # Ghi danh sách tệp vào filelist.txt
+    writetext(file_list) 
+    # Kích hoạt nút "Replace and Open" sau khi xuất
+    btn_replace_path.config(state="normal")  
 
-#Function to load folder into textbox
+# Hàm mở hộp thoại chọn thư mục và hiển thị đường dẫn vào textbox
 def loadfolder():
-	#Function to show the choose folder window
-	browse_folder = filedialog.askdirectory()
-	#Replace the slash sign "/" by two backslash "\\"
-	browse_folder_get = browse_folder.replace("/","\\")
-	#Enable textbox
-	txt_folder_path.config(state="normal")
-	#Delete all data in textbox
-	txt_folder_path.delete(0, tk.END)
-	#Insert new data (the path of folder you choose)
-	txt_folder_path.insert(0, browse_folder_get)
+    # Mở hộp thoại chọn thư mục
+    browse_folder = filedialog.askdirectory()  
+    # Kích hoạt textbox
+    txt_folder_path.config(state="normal")  
+    # Xóa nội dung hiện tại của textbox
+    txt_folder_path.delete(0, tk.END)  
+    # Chèn đường dẫn thư mục vừa chọn vào textbox
+    txt_folder_path.insert(0, browse_folder) 
 
-#function get all files paths including folder and subfolder
+# Hàm lấy danh sách tất cả các tệp trong thư mục và thư mục con
 def get_all_files(folder):
-	#Create a list to store data
-	file_list = []
-	#Check path exist or not
-	if os.path.exists(folder):
-		#Make a loop for including root, dirs, subdirs, files in path
-		for root, dirs, files in os.walk(folder):
-			#with each file in list
-			for file in files:
-				#Combine the folder path and file name
-				file_list.append(os.path.join(root,file))
-	#return a list
-	return file_list
+    file_list = []  
+    # Kiểm tra thư mục có tồn tại hay không
+    if folder.exists():
+        # Duyệt qua tất cả các tệp trong thư mục và thư mục con
+        for root, dirs, files in os.walk(folder):
+            for file in files:
+                # Thêm đường dẫn đầy đủ của tệp vào danh sách
+                file_list.append(Path(root) / file)  
+    return file_list
 
-#function write to file with param is list
+# Hàm ghi danh sách tệp vào filelist.txt với mã hóa UTF-8
 def writetext(listpathget):
-	#Open file 
-	with open(os.getcwd() + '\\filelist.txt','w') as writefile:
-		#Make a loop with each item in list
-		for item in listpathget:
-			#Write to file with full path and the enter sign '\'
-			writefile.write(item + '\n')
+    try:
+        # Mở filelist.txt ở chế độ ghi, sử dụng mã hóa UTF-8
+        with open(Path(os.getcwd()) / 'filelist.txt', 'w', encoding='utf-8') as writefile: 
+            for item in listpathget:
+                # Ghi từng đường dẫn tệp vào filelist.txt, chuyển đổi Path thành chuỗi (str)
+                writefile.write(str(item) + '\n') 
+    # Bắt lỗi UnicodeEncodeError nếu có ký tự không thể mã hóa UTF-8
+    except UnicodeEncodeError:  
+        messagebox.showerror("Lỗi", "Không thể ghi file filelist.txt. Vui lòng kiểm tra lại ký tự đặc biệt trong đường dẫn.")
 
-#Function replace root path by relative path	
+# Hàm thay thế đường dẫn gốc bằng đường dẫn tương đối và mở filelist.txt
 def replacepath():
-	#get path string
-	fprep = txt_folder_path.get()
-	#get the last folder name of path
-	getlast = os.path.basename(os.path.normpath(fprep))
-	#Open and read file filelist.txt
-	with open(os.getcwd() + '\\filelist.txt','r') as rfile:
-		#Create a variable to read file
-		filedata = rfile.read()
-	#while reading in file, replace the root folder name by "\\" and getlast = here is the last folder name
-	#For example: if you want to get all files in setting folder
-	filedata = filedata.replace(fprep, '\\' + getlast)
-	#open again to write
-	with open(os.getcwd() + '\\filelist.txt','w') as wfile:
-		#write the new data
-		wfile.write(filedata)
-	#open text file
-	os.startfile(os.getcwd() + '\\filelist.txt')
+    # Lấy đường dẫn gốc từ textbox và chuyển thành kiểu Path
+    root_path = Path(txt_folder_path.get())  
+    # Lấy tên thư mục cuối cùng của đường dẫn gốc
+    last_folder = root_path.name  
+    try:
+        # Mở filelist.txt ở chế độ đọc, sử dụng mã hóa UTF-8
+        with open(Path(os.getcwd()) / 'filelist.txt', 'r', encoding='utf-8') as rfile:  
+            filedata = rfile.read()
 
-#Make main window with title, size and icon
-mainprogram = tk.Tk()
+        # Thay thế đường dẫn gốc bằng đường dẫn tương đối (tên thư mục cuối)
+        filedata = filedata.replace(str(root_path), '\\' + last_folder)
+        # Mở filelist.txt ở chế độ ghi, sử dụng mã hóa UTF-8
+        with open(Path(os.getcwd()) / 'filelist.txt', 'w', encoding='utf-8') as wfile:  
+            wfile.write(filedata)
+
+        # Mở filelist.txt bằng trình xem mặc định của hệ thống
+        os.startfile(Path(os.getcwd()) / 'filelist.txt')
+    # Bắt lỗi UnicodeDecodeError hoặc UnicodeEncodeError nếu có vấn đề về mã hóa
+    except (UnicodeDecodeError, UnicodeEncodeError): 
+        messagebox.showerror("Lỗi", "Lỗi đọc hoặc ghi file filelist.txt. Vui lòng kiểm tra lại mã hóa và ký tự đặc biệt.")
+
+# Tạo cửa sổ giao diện chính
+mainprogram = tk.Tk() 
+# Đặt tiêu đề cho cửa sổ
 mainprogram.title('Get files path - @Copyright by Jackie Gaming')
-mainprogram.geometry('324x70')
-mainprogram.iconbitmap(os.getcwd() + "\\vltk.ico")
+# Đặt kích thước cửa sổ
+mainprogram.geometry('324x70') 
+# Đặt icon cho cửa sổ 
+mainprogram.iconbitmap(Path(os.getcwd()) / "vltk.ico")
 
-#Create button in window, with name, size and function to call
+# Tạo và vị trí các nút và textbox trên giao diện
 btn_folder_path = tk.Button(mainprogram, text="Chọn đường dẫn Folder", width=25, command=loadfolder)
-btn_folder_path.place(x = 7, y = 7)
+btn_folder_path.place(x=7, y=7)
 
-#Create entry textbox to show the string, first it is disabled
 txt_folder_path = tk.Entry(mainprogram, text="", width=30, state="disabled")
-#Place the position of the textbox
-txt_folder_path.place(x = 7, y = 36, height = 27)
+txt_folder_path.place(x=7, y=36, height=27)
 
-#Create another button
 btn_export_txt = tk.Button(mainprogram, text="Export TXT", width=15, command=exportpath)
-btn_export_txt.place(x=200, y = 7)
+btn_export_txt.place(x=200, y=7)
 
-#Create last button
-btn_replace_path = tk.Button(mainprogram, text="Replace and Open", width=15, command=replacepath, state = "disabled")
-btn_replace_path.place(x=200, y = 36)
+btn_replace_path = tk.Button(mainprogram, text="Replace and Open", width=15, command=replacepath, state="disabled")
+btn_replace_path.place(x=200, y=36)
 
-#The other params for creating window of the program without sizeable
-mainprogram.minsize(width=324, height=70)
-mainprogram.maxsize(width=324, height=70)
-mainprogram.mainloop()
+# Cấu hình cửa sổ: không cho phép thay đổi kích thước
+mainprogram.minsize(width=324, height=70) 
+mainprogram.maxsize(width=324, height=70) 
+# Bắt đầu vòng lặp chính của giao diện
+mainprogram.mainloop() 
