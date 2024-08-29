@@ -19,66 +19,66 @@ function OnUse(nItem)
     local nRoute = GetPlayerRoute();
     if nRoute <= 0 then
         tSay = { --
-        "Gia NhÀp m´n ph∏i (Chuy”n sinh 0 c p 90)/#JoinRoute_UpdateLevel(1)",
-        "Gia NhÀp m´n ph∏i (Gi˜ nguy™n level)/#JoinRoute_UpdateLevel(0)",
-        format("%s/UpdateLevel_55", "\nT®ng Chuy”n sinh 0 c p 55"),
-        format("%s/ThuKho_Meow", "\nMÎ r≠¨ng Meow ¨i")}
+        "Gia Nh·∫≠p m√¥n ph√°i (Chuy·ªÉn sinh 0 c·∫•p 90)/#JoinRoute_UpdateLevel(1)",
+        "Gia Nh·∫≠p m√¥n ph√°i (Gi·ªØ nguy√™n level)/#JoinRoute_UpdateLevel(0)",
+        format("%s/UpdateLevel_55", "\nTƒÉng Chuy·ªÉn sinh 0 c·∫•p 55"),
+        format("%s/ThuKho_Meow", "\nM·ªü r∆∞∆°ng Meow ∆°i")}
     else
         tSay = { ----------------------------------------
-        format("%s/weapon_effect_setting", "Hi÷u ¯ng vÚ kh›\n"), ----
-        "++ NhÀp Giftcode\n/Enter_Giftcode", ----------------------------------------
-        "Chuy”n sinh/player_chuyen_sinh", ----------------------------------------
-        "\nNhÀn MÀt tﬁch vµ y’u quy’t/Get_Book", ----------------------------------------
-        format("%s/Get_TB", "NhÀn trang bﬁ"), -- trang bi
-        format("%s/Get_QuanHam", "NhÀn Qu©n hµm"), -- Qu©n hµm
-        format("%s/Get_HoTroDauGame", "NhÀn hÁ trÓ Æ«u game"), -- ho tro nhan vat
-        format("%s/Get_VP", "NhÀn vÀt ph»m"), -- vat pham
-        format("%s/Get_NL", "NhÀn nguy™n li÷u"), -- nguyen lieu 
-        format("%s/Get_Danh_Hieu", "NhÀn danh hi÷u"), -- danh hieu
-        format("%s/GetJingMai", "Thao t∏c kinh mπch"), -- kinh mach
-        format("%s/TongOperation", "Bang hÈi"), -- bang hoi
-        format("%s/Pet_OP", "PhÙc sinh ThÛ C≠ng"), -- thu nuoi
-        format("%s/Get_VPNV", "NhÀn vÀt ph»m nhi÷m vÙ"), -- vat pham nhiem vu   
-        format("%s/ThuKho_Meow", "Meow ¨i mÎ r≠¨ng"), -- Ruong chua do
-        format("%s/Mo_Shop_TapHoa", "Meow ¨i, tui muËn B∏n vÀt ph»m"), -- ban do
-        format("%s/Mo_Shop_ByID", "MÎ shop theo ID") -- mo shop
+        format("%s/weapon_effect_setting", "Hi·ªáu ·ª©ng v≈© kh√≠\n"), ----
+        "++ Nh·∫≠p Giftcode\n/Enter_Giftcode", ----------------------------------------
+        "Chuy·ªÉn sinh/player_chuyen_sinh", ----------------------------------------
+        "\nNh·∫≠n M·∫≠t t·ªãch v√† y·∫øu quy·∫øt/Get_Book", ----------------------------------------
+        format("%s/Get_TB", "Nh·∫≠n trang b·ªã"), -- trang bi
+        format("%s/Get_QuanHam", "Nh·∫≠n Qu√¢n h√†m"), -- Qu√¢n h√†m
+        format("%s/Get_HoTroDauGame", "Nh·∫≠n h·ªó tr·ª£ ƒë·∫ßu game"), -- ho tro nhan vat
+        format("%s/Get_VP", "Nh·∫≠n v·∫≠t ph·∫©m"), -- vat pham
+        format("%s/Get_NL", "Nh·∫≠n nguy√™n li·ªáu"), -- nguyen lieu
+        format("%s/Get_Danh_Hieu", "Nh·∫≠n danh hi·ªáu"), -- danh hieu
+        format("%s/GetJingMai", "Thao t√°c kinh m·∫°ch"), -- kinh mach
+        format("%s/TongOperation", "Bang h·ªôi"), -- bang hoi
+        format("%s/Pet_OP", "Ph·ª•c sinh Th√∫ C∆∞ng"), -- thu nuoi
+        format("%s/Get_VPNV", "Nh·∫≠n v·∫≠t ph·∫©m nhi·ªám v·ª•"), -- vat pham nhiem vu
+        format("%s/ThuKho_Meow", "Meow ∆°i m·ªü r∆∞∆°ng"), -- Ruong chua do
+        format("%s/Mo_Shop_TapHoa", "Meow ∆°i, tui mu·ªën B√°n v·∫≠t ph·∫©m"), -- ban do
+        format("%s/Mo_Shop_ByID", "M·ªü shop theo ID") -- mo shop
         }
         if 3 == nRoute then
-            tinsert(tSay, "NhÀn Thi™n PhÀt Ch©u vµ PhÙc Ma ChÛ/Give_ZhuzhuZhouzhou")
+            tinsert(tSay, "Nh·∫≠n Thi√™n Ph·∫≠t Ch√¢u v√† Ph·ª•c Ma Ch√∫/Give_ZhuzhuZhouzhou")
         end
         if 6 == nRoute then
-            tinsert(tSay, "NhÀn ∏m kh› vµ c¨ quan/Give_JiguanAnqi")
+            tinsert(tSay, "Nh·∫≠n √°m kh√≠ v√† c∆° quan/Give_JiguanAnqi")
         end
         if 8 == nRoute then
-            tinsert(tSay, "NhÀn X∏ lÓi kim Æ¨n/Give_Dandan")
+            tinsert(tSay, "Nh·∫≠n X√° l·ª£i kim ƒë∆°n/Give_Dandan")
         end
         if 17 == nRoute then
-            tinsert(tSay, "NhÀn chi’n m∑/Give_ZhanMa")
+            tinsert(tSay, "Nh·∫≠n chi·∫øn m√£/Give_ZhanMa")
         end
         if 18 == nRoute then
-            tinsert(tSay, "NhÀn chi’n m∑ vµ t™n/Give_Jiancu")
+            tinsert(tSay, "Nh·∫≠n chi·∫øn m√£ v√† t√™n/Give_Jiancu")
         end
         if 20 == nRoute then
-            tinsert(tSay, "NhÀn Phong Thi PhÔ/Give_Fengshifu")
+            tinsert(tSay, "Nh·∫≠n Phong Thi Ph√π/Give_Fengshifu")
         end
         if 21 == nRoute then
-            tinsert(tSay, "NhÀn hÁ trÓ ph∏i/Give_GuGu")
+            tinsert(tSay, "Nh·∫≠n h·ªó tr·ª£ ph√°i/Give_GuGu")
         end
         if 30 == nRoute then
-            tinsert(tSay, "NhÀn ßi™u/ling_nv_xiaodiao")
+            tinsert(tSay, "Nh·∫≠n ƒêi√™u/ling_nv_xiaodiao")
         end
     end
-    tinsert(tSay, "\nThanh l› tÛi/ClearBagAllItem");
+    tinsert(tSay, "\nThanh l√≠ t√∫i/ClearBagAllItem");
     tinsert(tSay, "\nExit/nothing");
     Say(g_szTitle .. "What do you want?", getn(tSay), tSay);
 end
 function weapon_effect_setting()
-    AskClientForString("choose_weapon_effect", "", 1, 9999, "NhÀp sË (1 - 42)")
+    AskClientForString("choose_weapon_effect", "", 1, 9999, "Nh·∫≠p s·ªë (1 - 42)")
 end
 function choose_weapon_effect(nVar)
-    local local_Key_Effect_1 = {"Thi’t CËt", "B∏ch Chi’n", "Ch≠Ìc NhÀt", "Tu n DÀt", "ßµo L˝", "Danh TÛc",
-                                "Lπc Hµ", "L®ng Ti™u", "Ph«n V©n", "ßoπn Giao", "C∏i Th’", "Ph∏ Qu©n",
-                                "Hµo m´n", "H∏m Thi™n", "Tinh Di"}
+    local local_Key_Effect_1 = {"Thi·∫øt C·ªët", "B√°ch Chi·∫øn", "Ch∆∞·ªõc Nh·∫≠t", "Tu·∫•n D·∫≠t", "ƒê√†o L√Ω", "Danh T√∫c",
+                                "L·∫°c H√†", "LƒÉng Ti√™u", "Ph·∫ßn V√¢n", "ƒêo·∫°n Giao", "C√°i Th·∫ø", "Ph√° Qu√¢n",
+                                "H√†o m√¥n", "H√°m Thi√™n", "Tinh Di"}
     local local_Key_Effect_2 = "eff"
     local num = tonumber(nVar)
     if num < 16 then
@@ -103,13 +103,13 @@ function choose_weapon_effect(nVar)
 
 end
 function Enter_Giftcode()
-    AskClientForString("CODECHECK1", "", 1, 9999, "NhÀp GiftCode")
+    AskClientForString("CODECHECK1", "", 1, 9999, "Nh·∫≠p GiftCode")
 end
 function CODECHECK1(nVar)
     -- local danhan = GetTask(3005)
     -- local danhan = 0
     if nVar == 'linhdeptrai' then
-        Msg2Player("999 Tr∏i Cam")
+        Msg2Player("999 Tr√°i Cam")
         if gf_Judge_Room_Weight(28, 100, " ") ~= 1 then
             return 0;
         end
@@ -126,7 +126,7 @@ function CODECHECK1(nVar)
 end
 function Mo_Ruong_TK()
     SetTask(805, 2)
-    Msg2Player("MÎ r≠¨ng thµnh c´ng!")
+    Msg2Player("M·ªü r∆∞∆°ng th√†nh c√¥ng!")
 end
 function ThuKho_Meow()
     if GetTask(805) == 2 then
@@ -141,86 +141,86 @@ function Mo_Shop_TapHoa()
 end
 function UpdateLevel_55()
     SetLevel(55, 0)
-    Say("T®ng c p thµnh c´ng, Æ®ng nhÀp lπi!", 1, "Exit!/go_exit")
+    Say("TƒÉng c·∫•p th√†nh c√¥ng, ƒëƒÉng nh·∫≠p l·∫°i!", 1, "Exit!/go_exit")
 end
 function Get_Giftcode_1()
-    AddItem(2, 1, 30669, 1000) -- manh mat tich 
-    AddItem(2, 1, 30728, 100) -- trung linh thu cao      
+    AddItem(2, 1, 30669, 1000) -- manh mat tich
+    AddItem(2, 1, 30728, 100) -- trung linh thu cao
 
     Say("Successful", 1, "Exit!/nothing")
 end
 function Mo_Shop_ByID()
-    AskClientForString("SHOPCODE1", "", 1, 9999, "NhÀp Shop code")
+    AskClientForString("SHOPCODE1", "", 1, 9999, "Nh·∫≠p Shop code")
 end
 function SHOPCODE1(nVar)
     local strID = nVar
     local numID = tonumber(strID)
     show_equip_shop(numID)
 end
--- Chuy”n sinh ----------------------------------------------------------------------------------------------------
+-- Chuy·ªÉn sinh ----------------------------------------------------------------------------------------------------
 function player_chuyen_sinh()
-    local tSay = {"\nChuy”n sinh 7 c p 90/player_reborn", -- chuyen sinh 7 cap 90
-    "\nThay ÆÊi h≠Ìng PhÙc Sinh (Level 90)/change_PhucSinh", -- thay doi huong phuc sinh
-    "\nNhÀn lπi  n/confirm_get_translife_item" -- NhÀn lÔøΩiÔøΩÔøΩn 
+    local tSay = {"\nChuy·ªÉn sinh 7 c·∫•p 90/player_reborn", -- chuyen sinh 7 cap 90
+    "\nThay ƒë·ªïi h∆∞·ªõng Ph·ª•c Sinh (Level 90)/change_PhucSinh", -- thay doi huong phuc sinh
+    "\nNh·∫≠n l·∫°i ·∫•n/confirm_get_translife_item" -- Nh√ãn l√Ø¬ø¬Ωi√Ø¬ø¬Ω√Ø¬ø¬Ωn
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Chuy”n sinh", getn(tSay), tSay)
+    Say(g_szTitle .. "Chuy·ªÉn sinh", getn(tSay), tSay)
 end
--- Trang bﬁ ----------------------------------------------------------------------------------------------------
+-- Trang b·ªã ----------------------------------------------------------------------------------------------------
 function Get_TB()
-    local tSay = {format("%s/Get_YaoYang_10", "Trang bﬁ Di÷u d≠¨ng +15"), --
-    format("%s/GetCT", "NhÀn Trang bﬁ chi’n tr≠Íng +15"), format("%s/Process_Equip_LingTu", "NhÀn Linh ÆÂ +15"),
-                  format("%s/Get_JinShe", "Trang bﬁ  m ch’ +15"), --
-    format("%s/Process_SanJianTao", "NhÀn trang Kim xµ ng…u nhi™n 4 sao"), --
-    format("%s/Get_UL10", "NhÀn u»n linh 10") --
+    local tSay = {format("%s/Get_YaoYang_10", "Trang b·ªã Di·ªáu d∆∞∆°ng +15"), --
+    format("%s/GetCT", "Nh·∫≠n Trang b·ªã chi·∫øn tr∆∞·ªùng +15"), format("%s/Process_Equip_LingTu", "Nh·∫≠n Linh ƒë·ªì +15"),
+                  format("%s/Get_JinShe", "Trang b·ªã ·∫•m ch·∫ø +15"), --
+    format("%s/Process_SanJianTao", "Nh·∫≠n trang Kim x√† ng·∫´u nhi√™n 4 sao"), --
+    format("%s/Get_UL10", "Nh·∫≠n u·∫©n linh 10") --
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n trang bﬁ", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn trang b·ªã", getn(tSay), tSay)
 end
--- H√ß trÔøΩ ----------------------------------------------------------------------------------------------------
+-- H√É¬ß tr√Ø¬ø¬Ω ----------------------------------------------------------------------------------------------------
 function Get_HoTroDauGame()
-    local tSay = {"NhÀn 4000 vµng/Get_Money", --- Vang
-    "NhÀn 100.000 kim phi’u/Get_Kimphieu", -- kim phieu
-    "NhÀn 10.000 vÀt ph»m xu/Get_VPXu", -- VP Xu
-    "NhÀn 1.000.000.000 kinh nghi÷m/Get_exp", -- kim nghiem
-    "NhÀn DV + SM/Get_SMDV", -- su mon, danh vong
-    "NhÀn CT + TLCT/Get_DiemCT", -- CT, TL
-    "NhÀn tinh lÙc/Get_Energy", ------ tinh luc
-    format("%s/getTiLi", "NhÀn th” l˘c") -- the luc        
+    local tSay = {"Nh·∫≠n 4000 v√†ng/Get_Money", --- Vang
+    "Nh·∫≠n 100.000 kim phi·∫øu/Get_Kimphieu", -- kim phieu
+    "Nh·∫≠n 10.000 v·∫≠t ph·∫©m xu/Get_VPXu", -- VP Xu
+    "Nh·∫≠n 1.000.000.000 kinh nghi·ªám/Get_exp", -- kim nghiem
+    "Nh·∫≠n DV + SM/Get_SMDV", -- su mon, danh vong
+    "Nh·∫≠n CT + TLCT/Get_DiemCT", -- CT, TL
+    "Nh·∫≠n tinh l·ª•c/Get_Energy", ------ tinh luc
+    format("%s/getTiLi", "Nh·∫≠n th·ªÉ l·ª±c") -- the luc
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "NhÀn hÁ trÓ Æ«u game", getn(tSay), tSay)
+    Say(g_szTitle .. "Nh·∫≠n h·ªó tr·ª£ ƒë·∫ßu game", getn(tSay), tSay)
 end
---- V√ãt ph»m ----------------------------------------------------------------------------------------------------
+--- V√É‚Äπt ph√àm ----------------------------------------------------------------------------------------------------
 function Get_VP()
-    local tSay = {"NhÀn Th«n hµnh b∂o Æi”n/Get_Thanhanh", -- than hanh 
-    "NhÀn D≠Óc ph»m th≠Íng/Get_DuocPham", -- duoc pham  
-    "NhÀn D≠Óc ph»m xﬁn/Get_DuocPham2", -- duoc pham x√ûn 
-    "NhÀn QCVD/Get_QCVD", -- QCVD
-    "NhÀn ß u hÂn/Get_DauHon", -- dau hon 
-    "NhÀn ThÛ c≠Ïi/Get_ThuCuoi" -- thu cuoi
+    local tSay = {"Nh·∫≠n Th·∫ßn h√†nh b·∫£o ƒëi·ªÉn/Get_Thanhanh", -- than hanh
+    "Nh·∫≠n D∆∞·ª£c ph·∫©m th∆∞·ªùng/Get_DuocPham", -- duoc pham
+    "Nh·∫≠n D∆∞·ª£c ph·∫©m x·ªãn/Get_DuocPham2", -- duoc pham x√É≈æn
+    "Nh·∫≠n QCVD/Get_QCVD", -- QCVD
+    "Nh·∫≠n ƒê·∫•u h·ªìn/Get_DauHon", -- dau hon
+    "Nh·∫≠n Th√∫ c∆∞·ª°i/Get_ThuCuoi" -- thu cuoi
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n vÀt ph»m", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn v·∫≠t ph·∫©m", getn(tSay), tSay)
 end
--- danh hi÷u ----------------------------------------------------------------------------------------------------
+-- danh hi·ªáu ----------------------------------------------------------------------------------------------------
 function Get_Danh_Hieu()
-    local tSay = {"NhÀn danh hi÷u Du Hiep/Get_DuHiep", -- du hiep  
-    "NhÀn danh hi÷u Ung Duong/Get_UngDuong", -- ung duong
-    "NhÀn danh hi÷u Chien Cuong/Get_ChienCuong", -- chien cuong
-    "NhÀn danh hi÷u VLBHS/Get_VLBHS", -- vo lam bach hieu sinh
-    "NhÀn danh hi÷u Ngao the vo song/Get_NgaoTheVoSong", -- ngao the vo song
-    "NhÀn danh hi÷u Ba Vuong/Get_BaVuong", -- ba vuong
-    "NhÀn danh hi÷u Dai Hiep/Get_DaiHiep", -- dai hiep 
-    "NhÀn danh hi÷u Tinh Anh DoGet_TinhAnhDo", -- tinh anh do
-    "NhÀn danh hi÷u Tinh Anh Tim/Get_TinhAnhTim", -- tinh anh tim
-    "NhÀn danh hi÷u bang/Get_DHB", -- danh hieu bang    
-    "NhÀn danh hi÷u NEW/Get_DHNew", -- danh hieu moi   
-    "------------------------------/nothing", -- danh hieu moi   
-    "\nNhÀn tat ca danh hieu/Get_AllDH" -- nhan het danh hieu
+    local tSay = {"Nh·∫≠n danh hi·ªáu Du Hiep/Get_DuHiep", -- du hiep
+    "Nh·∫≠n danh hi·ªáu Ung Duong/Get_UngDuong", -- ung duong
+    "Nh·∫≠n danh hi·ªáu Chien Cuong/Get_ChienCuong", -- chien cuong
+    "Nh·∫≠n danh hi·ªáu VLBHS/Get_VLBHS", -- vo lam bach hieu sinh
+    "Nh·∫≠n danh hi·ªáu Ngao the vo song/Get_NgaoTheVoSong", -- ngao the vo song
+    "Nh·∫≠n danh hi·ªáu Ba Vuong/Get_BaVuong", -- ba vuong
+    "Nh·∫≠n danh hi·ªáu Dai Hiep/Get_DaiHiep", -- dai hiep
+    "Nh·∫≠n danh hi·ªáu Tinh Anh DoGet_TinhAnhDo", -- tinh anh do
+    "Nh·∫≠n danh hi·ªáu Tinh Anh Tim/Get_TinhAnhTim", -- tinh anh tim
+    "Nh·∫≠n danh hi·ªáu bang/Get_DHB", -- danh hieu bang
+    "Nh·∫≠n danh hi·ªáu NEW/Get_DHNew", -- danh hieu moi
+    "------------------------------/nothing", -- danh hieu moi
+    "\nNh·∫≠n tat ca danh hieu/Get_AllDH" -- nhan het danh hieu
     };
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n danh hi÷u", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn danh hi·ªáu", getn(tSay), tSay)
 end
 function Get_AllDH()
     Get_DHNew()
@@ -240,7 +240,7 @@ function Get_DHB()
     AddTitle(69, 2)
     AddTitle(72, 10)
     SetCurTitle(69, 2)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u bang hÈi");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu bang h·ªôi");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
@@ -252,83 +252,83 @@ function Get_DHNew()
     AddTitle(75, 1)
     AddTitle(75, 2)
     SetCurTitle(75, 2)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u NEW");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu NEW");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_DuHiep()
     AddTitle(65, 1)
     SetCurTitle(65, 1)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u Du Hiep");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu Du Hiep");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_UngDuong()
     AddTitle(65, 2)
     SetCurTitle(65, 2)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u Ung Duong");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu Ung Duong");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_ChienCuong()
     AddTitle(65, 3)
     SetCurTitle(65, 3)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u Chien Cuong");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu Chien Cuong");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_VLBHS()
     AddTitle(63, 1)
     SetCurTitle(63, 1)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u VLBHS");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu VLBHS");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_BaVuong()
     AddTitle(66, 1)
     SetCurTitle(66, 1)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u Ba Vuong");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu Ba Vuong");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_DaiHiep()
     AddTitle(66, 2)
     SetCurTitle(66, 2)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u Dai Hiep");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu Dai Hiep");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_TinhAnhDo()
     AddTitle(66, 3)
     SetCurTitle(66, 3)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u TAD");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu TAD");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_TinhAnhTim()
     AddTitle(66, 4)
     SetCurTitle(66, 4)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u TAT");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu TAT");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_NgaoTheVoSong()
     AddTitle(61, 7)
     SetCurTitle(61, 7)
-    Msg2Player("ChÛc mıng bπn nhÀn Æ≠Óc danh hi÷u NTVS");
+    Msg2Player("Ch√∫c m·ª´ng b·∫°n nh·∫≠n ƒë∆∞·ª£c danh hi·ªáu NTVS");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_NL()
-    local tSay = {"NhÀn nguy™n li÷u c≠Íng ho∏/Get_Enhance", -- nguyen lieu cuong hoa
-    "NhÀn Æ∏ qu˝/Get_Gem", -- nhan da quy
-    "NhÀn TCL + TMKL/Get_TCL_TMKL", --- TCL TMKL
-    "NhÀn TKL/getTianJiaoLing", --- TKL
-    "TrÂng c©y t¯ linh/Plant_TuLinh", -- cay tu linh
-    "Ky nang sËng/Life_Skill" -- lifeskill
+    local tSay = {"Nh·∫≠n nguy√™n li·ªáu c∆∞·ªùng ho√°/Get_Enhance", -- nguyen lieu cuong hoa
+    "Nh·∫≠n ƒë√° qu√Ω/Get_Gem", -- nhan da quy
+    "Nh·∫≠n TCL + TMKL/Get_TCL_TMKL", --- TCL TMKL
+    "Nh·∫≠n TKL/getTianJiaoLing", --- TKL
+    "Tr·ªìng c√¢y t·ª© linh/Plant_TuLinh", -- cay tu linh
+    "Ky nang s·ªëng/Life_Skill" -- lifeskill
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n nguy™n li÷u", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn nguy√™n li·ªáu", getn(tSay), tSay)
 end
 function Plant_TuLinh()
     AddItem(2, 1, 30269, 10) -- cay tu linh
@@ -341,50 +341,50 @@ function Get_TCL_TMKL()
     AddItem(2, 1, 30370, 99) -- TMKL
 end
 function Get_VPNV()
-    local tSay = {"10 ßu´i Th·/Get_DuoiTho" -- Duoi tho
+    local tSay = {"10 ƒêu√¥i Th·ªè/Get_DuoiTho" -- Duoi tho
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n vÀt ph»m nhi÷m vÙ", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn v·∫≠t ph·∫©m nhi·ªám v·ª•", getn(tSay), tSay)
 end
 function Get_DuoiTho()
     AddItem(2, 1, 2, 10)
 end
 function Get_QuanHam()
-    local tSay = {"\nTËng Nguy™n So∏i/Get_QuanHamTongNS", -- tong nguyen soai
-    "\nTËng ßπi T≠Ìng/Get_QuanHamTongTQ", -- tong tuong quan
-    "\nLi™u Nguy™n So∏i/Get_QuanHamLieuNS", -- lieu nguyen soai
-    "\nLi™u ßπi T≠Ìng/Get_QuanHamLieuTQ" -- lieu tuong quan
+    local tSay = {"\nT·ªëng Nguy√™n So√°i/Get_QuanHamTongNS", -- tong nguyen soai
+    "\nT·ªëng ƒê·∫°i T∆∞·ªõng/Get_QuanHamTongTQ", -- tong tuong quan
+    "\nLi√™u Nguy√™n So√°i/Get_QuanHamLieuNS", -- lieu nguyen soai
+    "\nLi√™u ƒê·∫°i T∆∞·ªõng/Get_QuanHamLieuTQ" -- lieu tuong quan
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "NhÀn Qu©n hµm", getn(tSay), tSay)
+    Say(g_szTitle .. "Nh·∫≠n Qu√¢n h√†m", getn(tSay), tSay)
 end
 function Get_QuanHamTongNS()
     SetTask(701, 250000)
     SetTask(702, 250000)
     SetTask(704, 6)
     SetTask(745, 6)
-    Msg2Player("Qu©n hµm TËng Nguy™n So∏i")
+    Msg2Player("Qu√¢n h√†m T·ªëng Nguy√™n So√°i")
 end
 function Get_QuanHamLieuNS()
     SetTask(701, -250000)
     SetTask(703, 250000)
     SetTask(704, -6)
     SetTask(746, -6)
-    Msg2Player("Qu©n hµm Li™u Nguy™n So∏i")
+    Msg2Player("Qu√¢n h√†m Li√™u Nguy√™n So√°i")
 end
 function Get_QuanHamTongTQ()
     SetTask(701, 200000)
     SetTask(702, 200000)
     SetTask(704, 5)
     SetTask(745, 5)
-    Msg2Player("Qu©n hµm TËng ßπi T≠Ìng")
+    Msg2Player("Qu√¢n h√†m T·ªëng ƒê·∫°i T∆∞·ªõng")
 end
 function Get_QuanHamLieuTQ()
     SetTask(701, -200000)
     SetTask(703, 200000)
     SetTask(704, -5)
     SetTask(746, -5)
-    Msg2Player("Qu©n hµm Li™u ßπi T≠Ìng")
+    Msg2Player("Qu√¢n h√†m Li√™u ƒê·∫°i T∆∞·ªõng")
 end
 function getTianJiaoLing()
     AddItem(2, 97, 236, 100)
@@ -399,10 +399,10 @@ end
 function Pet_OP()
     local tSay = {}
     if GetSkillLevel(30149) == 0 then
-        tinsert(tSay, format("%s/activePet", "PhÙc sinh ThÛ C≠ng"))
+        tinsert(tSay, format("%s/activePet", "Ph·ª•c sinh Th√∫ C∆∞ng"))
     end
-    tinsert(tSay, format("%s/getPetEgg", "NhÀn Tr¯ng ThÛ C≠ng"))
-    tinsert(tSay, format("%s/getLingLi", "NhÀn Æi”m linh l˘c"))
+    tinsert(tSay, format("%s/getPetEgg", "Nh·∫≠n Tr·ª©ng Th√∫ C∆∞ng"))
+    tinsert(tSay, format("%s/getLingLi", "Nh·∫≠n ƒëi·ªÉm linh l·ª±c"))
     tinsert(tSay, "Exit/nothing");
     Say(g_szTitle .. "What do you want?", getn(tSay), tSay);
 end
@@ -415,7 +415,7 @@ function activePet()
             LevelUpSkill(nId)
         end
 
-        Msg2Player("ThÛ c≠ng c p 5");
+        Msg2Player("Th√∫ c∆∞ng c·∫•p 5");
         PlaySound("\\sound\\sound_i016.wav");
         SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
     end
@@ -448,7 +448,7 @@ function getLingLi()
     if nCur < 1000000 then
         nCur = nCur + nAdd
         SetTask(nTask, nCur * 100)
-        Msg2Player(format("NhÀn %d linh l˘c", nAdd))
+        Msg2Player(format("Nh·∫≠n %d linh l·ª±c", nAdd))
     end
 end
 
@@ -541,208 +541,208 @@ function Process_Equip_LingTu()
         AddItem(0, 103, 30238, 1, 1, -1, -1, -1, -1, -1, -1, -1, 15)
     end
 end
---------------------------------------------------√ë¬°√î√±√É√Ö√Ö√â¬ø¬™√ä¬º--------------------------------------
--- Gia nhÀp Ph∏i
+--------------------------------------------------√É‚Äò√Ç¬°√É‚Äù√É¬±√É∆í√É‚Ä¶√É‚Ä¶√É‚Ä∞√Ç¬ø√Ç¬™√É≈†√Ç¬º--------------------------------------
+-- Gia nh·∫≠p Ph√°i
 function JoinRoute_UpdateLevel(nVar)
     g_enterRoute_learnSkill = tonumber(nVar)
-    local tMenu = {"Thi’u L©m/join_sl", --
-    "V‚ ßang/join_wd", --
+    local tMenu = {"Thi·∫øu L√¢m/join_sl", --
+    "V√µ ƒêang/join_wd", --
     "Nga My/join_em", --
-    "C∏i Bang/join_gb", --
-    "ß≠Íng M´n/join_tm", --
-    "D≠¨ng M´n/join_ym", --
-    "NgÚ ßÈc/join_wdu", --
-    "C´n L´n/join_kl", --
-    "ThÛy Y™n/join_cy", --
-    "Minh Gi∏o/join_mgb", --
-    "\nRa kh·i/nothing"};
-    Say("Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", getn(tMenu), tMenu);
+    "C√°i Bang/join_gb", --
+    "ƒê∆∞·ªùng M√¥n/join_tm", --
+    "D∆∞∆°ng M√¥n/join_ym", --
+    "Ng≈© ƒê·ªôc/join_wdu", --
+    "C√¥n L√¥n/join_kl", --
+    "Th√∫y Y√™n/join_cy", --
+    "Minh Gi√°o/join_mgb", --
+    "\nRa kh·ªèi/nothing"};
+    Say("Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", getn(tMenu), tMenu);
 end
 
 function join_mgb()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "Minh Gi∏o Th∏nh Chi’n/#enter_mp(25)",
-                   "Minh Gi∏o TrÀn Binh/#enter_mp(26)", "Minh Gi∏o Huy’t Nh©n/#enter_mp(27)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "Minh Gi√°o Th√°nh Chi·∫øn/#enter_mp(25)",
+                   "Minh Gi√°o Tr·∫≠n Binh/#enter_mp(26)", "Minh Gi√°o Huy·∫øt Nh√¢n/#enter_mp(27)", "\nRa kh·ªèi/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_sl()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "Thi’u L©m v‚ t´ng/#enter_mp(4)",
-                   "Thi’u L©m thi“n t´ng/#enter_mp(3)", "Thi’u L©m tÙc gia/#enter_mp(2)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "Thi·∫øu L√¢m v√µ t√¥ng/#enter_mp(4)",
+                   "Thi·∫øu L√¢m thi·ªÅn t√¥ng/#enter_mp(3)", "Thi·∫øu L√¢m t·ª•c gia/#enter_mp(2)", "\nRa kh·ªèi/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_wd()
 
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "V‚ ßang Æπo gia/#enter_mp(14)",
-                   "V‚ ßang tÙc gia/#enter_mp(15)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "V√µ ƒêang ƒë·∫°o gia/#enter_mp(14)",
+                   "V√µ ƒêang t·ª•c gia/#enter_mp(15)", "\nRa kh·ªèi/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_em()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "Nga My phÀt gia/#enter_mp(8)",
-                   "Nga My tÙc gia/#enter_mp(9)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "Nga My ph·∫≠t gia/#enter_mp(8)",
+                   "Nga My t·ª•c gia/#enter_mp(9)", "\nRa kh·ªèi/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_gb()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "C∏i Bang T‹nh y/#enter_mp(11)",
-                   "C∏i Bang § Y/#enter_mp(12)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "C√°i Bang Tƒ©nh y/#enter_mp(11)",
+                   "C√°i Bang √î Y/#enter_mp(12)", "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function join_tm()
 
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "ß≠Íng M´n Ch©m/#enter_mp(6)",
-    -- "ß≠Íng M´n NhÀm Hi÷p/#enter_mp(31)",
-                   "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "ƒê∆∞·ªùng M√¥n Ch√¢m/#enter_mp(6)",
+    -- "ƒê∆∞·ªùng M√¥n Nh·∫≠m Hi·ªáp/#enter_mp(31)",
+                   "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function join_ym()
 
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "D≠¨ng M´n th≠¨ng K˛/#enter_mp(17)",
-                   "D≠¨ng M´n Cung K˛/#enter_mp(18)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "D∆∞∆°ng M√¥n th∆∞∆°ng K·ªµ/#enter_mp(17)",
+                   "D∆∞∆°ng M√¥n Cung K·ªµ/#enter_mp(18)", "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function join_wdu()
 
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "Hi÷p ßÈc/#enter_mp(20)",
-                   "Tµ ßÈc/#enter_mp(21)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "Hi·ªáp ƒê·ªôc/#enter_mp(20)",
+                   "T√† ƒê·ªôc/#enter_mp(21)", "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function join_kl()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "C´n L´n Thi™n S≠/#enter_mp(23)",
-    -- "C´n L´n Ki’m T´n/#enter_mp(32)", 
-                   "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "C√¥n L√¥n Thi√™n S∆∞/#enter_mp(23)",
+    -- "C√¥n L√¥n Ki·∫øm T√¥n/#enter_mp(32)",
+                   "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function join_cy()
-    local szSay = {g_szTitle .. "Ng≠¨i muËn gia nhÀp l≠u ph∏i g◊?", "ThÛy Y™n VÚ Ti™n/#enter_mp(29)",
-                   "ThÛy Y™n Linh N˜/#enter_mp(30)", "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Ng∆∞∆°i mu·ªën gia nh·∫≠p l∆∞u ph√°i g√¨?", "Th√∫y Y√™n V≈© Ti√™n/#enter_mp(29)",
+                   "Th√∫y Y√™n Linh N·ªØ/#enter_mp(30)", "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function enter_mp_khongskill(nRoute)
     local nBegin = 0;
     local nEnd = 0;
-    local nBody = GetBody(); -- 1=’˝≥£ƒ–£¨2=ø˝Œ‡ƒ–£¨3=–‘∏–≈Æ£¨4=Ωø–°≈Æ
+    local nBody = GetBody(); -- 1=√ï√Ω¬≥¬£√Ñ√ê¬£¬¨2=¬ø√Ω√é√†√Ñ√ê¬£¬¨3=√ê√î¬∏√ê√Ö¬Æ¬£¬¨4=¬Ω¬ø√ê¬°√Ö¬Æ
 
-    SetPlayerRoute(nRoute); -- …Ë÷√¡˜≈…
+    SetPlayerRoute(nRoute); -- √â√®√ñ√É√Å√∑√Ö√â
 
-    if nRoute == 2 then -- …Ÿ¡÷À◊º“
+    if nRoute == 2 then -- √â√ô√Å√ñ√ã√ó¬º√í
         LearnSkill(3);
         LearnSkill(5);
         -- LearnSkill(32);
         nBegin = 21;
         nEnd = 22;
-    elseif nRoute == 3 then -- …Ÿ¡÷Ï¯…Æ
+    elseif nRoute == 3 then -- √â√ô√Å√ñ√¨√∏√â¬Æ
         LearnSkill(6);
         -- LearnSkill(57);
         nBegin = 45;
         nEnd = 46;
-    elseif nRoute == 4 then -- …Ÿ¡÷Œ‰…Æ
+    elseif nRoute == 4 then -- √â√ô√Å√ñ√é√§√â¬Æ
         LearnSkill(2);
         -- LearnSkill(44);
         nBegin = 33;
         nEnd = 34;
-    elseif nRoute == 14 then -- Œ‰µ±µ¿º“
+    elseif nRoute == 14 then -- √é√§¬µ¬±¬µ√Ä¬º√í
         LearnSkill(4);
         -- LearnSkill(146);
         nBegin = 125;
         nEnd = 126;
-    elseif nRoute == 15 then -- Œ‰µ±À◊º“
+    elseif nRoute == 15 then -- √é√§¬µ¬±√ã√ó¬º√í
         LearnSkill(5);
         -- LearnSkill(159);
         nBegin = 147;
         nEnd = 148;
-    elseif nRoute == 8 then -- ∂Î·“∑º“
+    elseif nRoute == 8 then -- ¬∂√´√°√í¬∑√∞¬º√í
         LearnSkill(4);
         -- LearnSkill(89);
         nBegin = 75
         nEnd = 76;
-    elseif nRoute == 9 then -- ∂Î·“À◊º“
+    elseif nRoute == 9 then -- ¬∂√´√°√í√ã√ó¬º√í
         LearnSkill(10);
         -- LearnSkill(102);
         nBegin = 90
         nEnd = 91;
-    elseif nRoute == 11 then -- ÿ§∞Ôæª“¬
+    elseif nRoute == 11 then -- √ò¬§¬∞√Ø¬æ¬ª√í√Ç
         LearnSkill(2);
         -- LearnSkill(113);
         nBegin = 103
         nEnd = 104;
-    elseif nRoute == 12 then -- ÿ§∞ÔŒ€“¬
+    elseif nRoute == 12 then -- √ò¬§¬∞√Ø√é√õ√í√Ç
         LearnSkill(5);
         -- LearnSkill(124);
         nBegin = 114
         nEnd = 115;
-    elseif nRoute == 6 then -- Ã∆√≈
+    elseif nRoute == 6 then -- √å√Ü√É√Ö
         LearnSkill(7);
         -- LearnSkill(74);
         nBegin = 58
         nEnd = 59;
-    elseif nRoute == 17 then -- —Ó√≈«π∆Ô
+    elseif nRoute == 17 then -- √ë√Æ√É√Ö√á¬π√Ü√Ø
         LearnSkill(11);
         -- LearnSkill(732);
         nBegin = 720;
         nEnd = 721;
-    elseif nRoute == 18 then -- —Ó√≈π≠∆Ô
+    elseif nRoute == 18 then -- √ë√Æ√É√Ö¬π¬≠√Ü√Ø
         LearnSkill(12);
         -- LearnSkill(745);
         nBegin = 733;
         nEnd = 734;
-    elseif nRoute == 20 then -- ŒÂ∂æ–∞œ¿
+    elseif nRoute == 20 then -- √é√•¬∂¬æ√ê¬∞√è√Ä
         LearnSkill(13);
         -- LearnSkill(775);
         nBegin = 364;
         nEnd = 365;
-    elseif nRoute == 21 then -- ŒÂ∂æπ∆ ¶
+    elseif nRoute == 21 then -- √é√•¬∂¬æ¬π√Ü√ä¬¶
         LearnSkill(14);
         -- LearnSkill(774);
         nBegin = 347;
         nEnd = 348;
-    elseif nRoute == 23 then -- ¿•¬ÿÃÏ ¶
+    elseif nRoute == 23 then -- √Ä¬•√Ç√ò√å√¨√ä¬¶
         LearnSkill(4);
         -- LearnSkill(1032);
         nBegin = 1017;
         nEnd = 1018;
-    elseif nRoute == 25 then -- √˜ΩÃ •’Ω
+    elseif nRoute == 25 then -- √É√∑¬Ω√å√ä¬•√ï¬Ω
         LearnSkill(3);
         -- LearnSkill(1066);
         nBegin = 1053;
         nEnd = 1054;
-    elseif nRoute == 26 then -- √˜ΩÃ’Û±¯
+    elseif nRoute == 26 then -- √É√∑¬Ω√å√ï√≥¬±√∏
         LearnSkill(8);
         -- LearnSkill(1096);
         nBegin = 1083;
         nEnd = 1084;
-    elseif nRoute == 27 then -- √˜ΩÃ—™»À
+    elseif nRoute == 27 then -- √É√∑¬Ω√å√ë¬™√à√ã
         LearnSkill(14);
         -- LearnSkill(1213);
         nBegin = 1131;
         nEnd = 1132;
-    elseif nRoute == 29 then -- ¥‰—ÃŒËœ…
+    elseif nRoute == 29 then -- ¬¥√§√ë√å√é√®√è√â
         LearnSkill(15);
         -- LearnSkill(1196);
         nBegin = 1165;
         nEnd = 1166;
-    elseif nRoute == 30 then -- ¥‰—Ã¡È≈Æ
+    elseif nRoute == 30 then -- ¬¥√§√ë√å√Å√©√Ö¬Æ
         LearnSkill(16);
         -- LearnSkill(1230);
         nBegin = 1217;
         nEnd = 1218;
-    elseif nRoute == 31 then -- ¥‰—ÃŒËœ…
+    elseif nRoute == 31 then -- ¬¥√§√ë√å√é√®√è√â
         LearnSkill(17);
         -- LearnSkill(1883);
         nBegin = 1872;
         nEnd = 1873;
-    elseif nRoute == 32 then -- ¥‰—Ã¡È≈Æ
+    elseif nRoute == 32 then -- ¬¥√§√ë√å√Å√©√Ö¬Æ
         LearnSkill(4);
         -- LearnSkill(1897);
         nBegin = 1885;
@@ -776,117 +776,117 @@ function enter_mp(nRoute)
 
     local nBegin = 0;
     local nEnd = 0;
-    local nBody = GetBody(); -- 1=’˝≥£ƒ–£¨2=ø˝Œ‡ƒ–£¨3=–‘∏–≈Æ£¨4=Ωø–°≈Æ
+    local nBody = GetBody(); -- 1=√ï√Ω¬≥¬£√Ñ√ê¬£¬¨2=¬ø√Ω√é√†√Ñ√ê¬£¬¨3=√ê√î¬∏√ê√Ö¬Æ¬£¬¨4=¬Ω¬ø√ê¬°√Ö¬Æ
 
-    SetPlayerRoute(nRoute); -- …Ë÷√¡˜≈…
+    SetPlayerRoute(nRoute); -- √â√®√ñ√É√Å√∑√Ö√â
 
-    if nRoute == 2 then -- …Ÿ¡÷À◊º“
+    if nRoute == 2 then -- √â√ô√Å√ñ√ã√ó¬º√í
         LearnSkill(3);
         LearnSkill(5);
         LearnSkill(32);
         nBegin = 21;
         nEnd = 31;
-    elseif nRoute == 3 then -- …Ÿ¡÷Ï¯…Æ
+    elseif nRoute == 3 then -- √â√ô√Å√ñ√¨√∏√â¬Æ
         LearnSkill(6);
         LearnSkill(57);
         nBegin = 45;
         nEnd = 56;
-    elseif nRoute == 4 then -- …Ÿ¡÷Œ‰…Æ
+    elseif nRoute == 4 then -- √â√ô√Å√ñ√é√§√â¬Æ
         LearnSkill(2);
         LearnSkill(44);
         nBegin = 33;
         nEnd = 43;
-    elseif nRoute == 14 then -- Œ‰µ±µ¿º“
+    elseif nRoute == 14 then -- √é√§¬µ¬±¬µ√Ä¬º√í
         LearnSkill(4);
         LearnSkill(146);
         nBegin = 125;
         nEnd = 145;
-    elseif nRoute == 15 then -- Œ‰µ±À◊º“
+    elseif nRoute == 15 then -- √é√§¬µ¬±√ã√ó¬º√í
         LearnSkill(5);
         LearnSkill(159);
         nBegin = 147;
         nEnd = 158;
-    elseif nRoute == 8 then -- ∂Î·“∑º“
+    elseif nRoute == 8 then -- ¬∂√´√°√í¬∑√∞¬º√í
         LearnSkill(4);
         LearnSkill(89);
         nBegin = 75
         nEnd = 88;
-    elseif nRoute == 9 then -- ∂Î·“À◊º“
+    elseif nRoute == 9 then -- ¬∂√´√°√í√ã√ó¬º√í
         LearnSkill(10);
         LearnSkill(102);
         nBegin = 90
         nEnd = 101;
-    elseif nRoute == 11 then -- ÿ§∞Ôæª“¬
+    elseif nRoute == 11 then -- √ò¬§¬∞√Ø¬æ¬ª√í√Ç
         LearnSkill(2);
         LearnSkill(113);
         nBegin = 103
         nEnd = 112;
-    elseif nRoute == 12 then -- ÿ§∞ÔŒ€“¬
+    elseif nRoute == 12 then -- √ò¬§¬∞√Ø√é√õ√í√Ç
         LearnSkill(5);
         LearnSkill(124);
         nBegin = 114
         nEnd = 123;
-    elseif nRoute == 6 then -- Ã∆√≈
+    elseif nRoute == 6 then -- √å√Ü√É√Ö
         LearnSkill(7);
         LearnSkill(74);
         nBegin = 58
         nEnd = 73;
-    elseif nRoute == 17 then -- —Ó√≈«π∆Ô
+    elseif nRoute == 17 then -- √ë√Æ√É√Ö√á¬π√Ü√Ø
         LearnSkill(11);
         LearnSkill(732);
         nBegin = 720;
         nEnd = 731;
-    elseif nRoute == 18 then -- —Ó√≈π≠∆Ô
+    elseif nRoute == 18 then -- √ë√Æ√É√Ö¬π¬≠√Ü√Ø
         LearnSkill(12);
         LearnSkill(745);
         nBegin = 733;
         nEnd = 744;
-    elseif nRoute == 20 then -- ŒÂ∂æ–∞œ¿
+    elseif nRoute == 20 then -- √é√•¬∂¬æ√ê¬∞√è√Ä
         LearnSkill(13);
         LearnSkill(775);
         nBegin = 364;
         nEnd = 377;
-    elseif nRoute == 21 then -- ŒÂ∂æπ∆ ¶
+    elseif nRoute == 21 then -- √é√•¬∂¬æ¬π√Ü√ä¬¶
         LearnSkill(14);
         LearnSkill(774);
         nBegin = 347;
         nEnd = 363;
-    elseif nRoute == 23 then -- ¿•¬ÿÃÏ ¶
+    elseif nRoute == 23 then -- √Ä¬•√Ç√ò√å√¨√ä¬¶
         LearnSkill(4);
         LearnSkill(1032);
         nBegin = 1017;
         nEnd = 1031;
-    elseif nRoute == 25 then -- √˜ΩÃ •’Ω
+    elseif nRoute == 25 then -- √É√∑¬Ω√å√ä¬•√ï¬Ω
         LearnSkill(3);
         LearnSkill(1066);
         nBegin = 1053;
         nEnd = 1065;
-    elseif nRoute == 26 then -- √˜ΩÃ’Û±¯
+    elseif nRoute == 26 then -- √É√∑¬Ω√å√ï√≥¬±√∏
         LearnSkill(8);
         LearnSkill(1096);
         nBegin = 1083;
         nEnd = 1095;
-    elseif nRoute == 27 then -- √˜ΩÃ—™»À
+    elseif nRoute == 27 then -- √É√∑¬Ω√å√ë¬™√à√ã
         LearnSkill(14);
         LearnSkill(1213);
         nBegin = 1131;
         nEnd = 1143;
-    elseif nRoute == 29 then -- ¥‰—ÃŒËœ…
+    elseif nRoute == 29 then -- ¬¥√§√ë√å√é√®√è√â
         LearnSkill(15);
         LearnSkill(1196);
         nBegin = 1165;
         nEnd = 1176;
-    elseif nRoute == 30 then -- ¥‰—Ã¡È≈Æ
+    elseif nRoute == 30 then -- ¬¥√§√ë√å√Å√©√Ö¬Æ
         LearnSkill(16);
         LearnSkill(1230);
         nBegin = 1217;
         nEnd = 1229;
-    elseif nRoute == 31 then -- ¥‰—ÃŒËœ…
+    elseif nRoute == 31 then -- ¬¥√§√ë√å√é√®√è√â
         LearnSkill(17);
         LearnSkill(1883);
         nBegin = 1872;
         nEnd = 1882;
-    elseif nRoute == 32 then -- ¥‰—Ã¡È≈Æ
+    elseif nRoute == 32 then -- ¬¥√§√ë√å√Å√©√Ö¬Æ
         LearnSkill(4);
         LearnSkill(1897);
         nBegin = 1885;
@@ -980,33 +980,33 @@ function Get_UL10()
     local tSay = { -- Long  ---
     format("%s/#UL10_Option(1)", "Long"), --
     -- Ho ---
-    format("%s/#UL10_Option(2)", "HÊ"), --
+    format("%s/#UL10_Option(2)", "H·ªï"), --
     -- Ung ---
-    format("%s/#UL10_Option(3)", "¶ng"), --
+    format("%s/#UL10_Option(3)", "∆Øng"), --
     -- Phung ---
-    format("%s/#UL10_Option(4)", "PhÙng") --
+    format("%s/#UL10_Option(4)", "Ph·ª•ng") --
     }
     tinsert(tSay, "\nExit/nothing")
-    Say(g_szTitle .. "Ch‰n trang bﬁ", getn(tSay), tSay)
+    Say(g_szTitle .. "Ch·ªçn trang b·ªã", getn(tSay), tSay)
 end
 function UL10_Option(nVar)
     local num = tonumber(nVar)
     Msg2Player(format("Number: %d", num))
     if num == 1 then
-        AddItem(0, 148, 137, 1, 3) -- long 
-        AddItem(0, 149, 141, 1, 3) -- long 
+        AddItem(0, 148, 137, 1, 3) -- long
+        AddItem(0, 149, 141, 1, 3) -- long
         AddItem(0, 150, 133, 1, 3) -- long
     elseif num == 2 then
         AddItem(0, 148, 139, 1, 3) -- ho
-        AddItem(0, 149, 143, 1, 3) -- ho 
+        AddItem(0, 149, 143, 1, 3) -- ho
         AddItem(0, 150, 135, 1, 3) -- ho
     elseif num == 3 then
-        AddItem(0, 148, 140, 1, 3) -- ung 
-        AddItem(0, 149, 144, 1, 3) -- ung 
+        AddItem(0, 148, 140, 1, 3) -- ung
+        AddItem(0, 149, 144, 1, 3) -- ung
         AddItem(0, 150, 136, 1, 3) -- ung
     else
         AddItem(0, 148, 138, 1, 3) -- phung
-        AddItem(0, 149, 142, 1, 3) -- phung 
+        AddItem(0, 149, 142, 1, 3) -- phung
         AddItem(0, 150, 134, 1, 3) -- phung
     end
 end
@@ -1578,25 +1578,25 @@ function Get_JinShe()
 
 end
 function Get_Book()
-    local tSay = { -- "NhÀn MÀt tﬁch/Get_Book_ZhenJuan",
-    "NhÀn m∂nh Mπt tﬁch/Get_Fragment_Book", --
+    local tSay = { -- "Nh·∫≠n M·∫≠t t·ªãch/Get_Book_ZhenJuan",
+    "Nh·∫≠n m·∫£nh M·∫°t t·ªãch/Get_Fragment_Book", --
     "----------------------------------/nothing", --
-    "NhÀn Y’u Quy’t/Get_Book_JueYao", --
+    "Nh·∫≠n Y·∫øu Quy·∫øt/Get_Book_JueYao", --
     "----------------------------------/nothing", --
-    "\nLuy÷n mÀt tﬁch nhanh/Get_Book_Update"};
+    "\nLuy·ªán m·∫≠t t·ªãch nhanh/Get_Book_Update"};
     tinsert(tSay, "\nExit/nothing");
-    Say(g_szTitle .. "MÀt tﬁch vµ y’u quy’t", getn(tSay), tSay);
+    Say(g_szTitle .. "M·∫≠t t·ªãch v√† y·∫øu quy·∫øt", getn(tSay), tSay);
     -- local szSay = {
-    --     g_szTitle .. "NhÀn MÔøΩt t∏ch vÔøΩ Y’u Quy’t!",
-    --     "ThÔøΩng c p MÔøΩt t∏ch ÔøΩÔøΩ trang bﬁ/Get_Book_Update",
-    --     "NhÀn MÀt tﬁchGet_Book_ZhenJuan",
-    --     "NhÀn Y’u Quy’t/Get_Book_JueYao", "Exit/nothing"
+    --     g_szTitle .. "Nh√ãn M√Ø¬ø¬Ωt t¬∏ch v√Ø¬ø¬Ω Y√ïu Quy√ït!",
+    --     "Th√Ø¬ø¬Ωng c√äp M√Ø¬ø¬Ωt t¬∏ch √Ø¬ø¬Ω√Ø¬ø¬Ω trang b√û/Get_Book_Update",
+    --     "Nh·∫≠n M·∫≠t t·ªãchGet_Book_ZhenJuan",
+    --     "Nh·∫≠n Y·∫øu Quy·∫øt/Get_Book_JueYao", "Exit/nothing"
     -- };
     -- SelectSay(szSay);
 end
 function Get_Fragment_Book()
     AddItem(2, 1, 30669, 1000)
-    Msg2Player("NhÀn 1000 m∂nh mÀt tﬁch")
+    Msg2Player("Nh·∫≠n 1000 m·∫£nh m·∫≠t t·ªãch")
 end
 function Get_Book_ZhenJuan()
     if gf_Judge_Room_Weight(7, 1, g_szTitle) ~= 1 then
@@ -1675,23 +1675,23 @@ function Get_Book_ZhenJuan()
         AddItem(0, 107, 217 - 38, 1)
     end
 
-    if nRoute == 23 then -- √Ä¬•√Ç√ò√å√¨√ä¬¶
+    if nRoute == 23 then -- √É‚Ç¨√Ç¬•√É‚Äö√ÉÀú√É≈í√É¬¨√É≈†√Ç¬¶
         AddItem(0, 107, 218, 1)
         AddItem(0, 107, 218 - 20, 1)
     end
 
-    if nRoute == 29 then -- √é√®√ù√â
+    if nRoute == 29 then -- √É≈Ω√É¬®√É¬ù√É‚Ä∞
         AddItem(0, 107, 222, 1)
         AddItem(0, 107, 222 - 20, 1)
     end
 
-    if nRoute == 30 then -- √ù√©√Ö¬Æ
+    if nRoute == 30 then -- √É¬ù√É¬©√É‚Ä¶√Ç¬Æ
         AddItem(0, 107, 223, 1)
         AddItem(0, 107, 223 - 20, 1)
     end
 
-    gf_AddItemEx({0, 112, 158, 1, 3}, "L®ng ba vi bÈ toµn tÀp");
-    gf_AddItemEx({0, 112, 224, 1, 3}, "Ti™u dao mÀt tﬁch");
+    gf_AddItemEx({0, 112, 158, 1, 3}, "LƒÉng ba vi b·ªô to√†n t·∫≠p");
+    gf_AddItemEx({0, 112, 224, 1, 3}, "Ti√™u dao m·∫≠t t·ªãch");
 end
 
 function Get_Book_JueYao()
@@ -1749,20 +1749,20 @@ function Get_Money()
         Earn(local_gold - GetCash());
     end
     AddItem(2, 1, 30229, 10)
-    Msg2Player("NhÀn 10 Bao 4k Gold")
+    Msg2Player("Nh·∫≠n 10 Bao 4k Gold")
 end
 function Get_Kimphieu()
     -- AddItem(2, 1, 30882, 100)
     ModifyJinJuan(100000, 1);
-    Msg2Player("NhÀn 100.000 kim phieu")
+    Msg2Player("Nh·∫≠n 100.000 kim phieu")
 end
 function Get_VPXu()
     AddItem(2, 1, 30230, 10000)
-    Msg2Player("NhÀn 10.000 vÀt ph»m xu")
+    Msg2Player("Nh·∫≠n 10.000 v·∫≠t ph·∫©m xu")
 end
 function Get_exp()
     ModifyExp(1000000000)
-    Msg2Player("NhÀn 1.000.000.000 (exp)")
+    Msg2Player("Nh·∫≠n 1.000.000.000 (exp)")
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
 end
@@ -1774,21 +1774,21 @@ function Get_SMDV()
 end
 function Get_DiemCT()
     SetTask(707, GetTask(707) + 500000) -- tich luy ct
-    SetTask(701, GetTask(701) + 500000) -- cong trang 
-    Msg2Player("NhÀn 500k CT + 500k TLCT")
+    SetTask(701, GetTask(701) + 500000) -- cong trang
+    Msg2Player("Nh·∫≠n 500k CT + 500k TLCT")
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
 end
 function Get_Thanhanh()
     AddItem(0, 200, 40, 1)
-    Msg2Player("NhÀn 1 than hanh bao dien")
+    Msg2Player("Nh·∫≠n 1 than hanh bao dien")
 end
 function Get_DuocPham()
-    AddItem(1, 0, 32, 200) -- cuu chuyen 
-    AddItem(1, 0, 30009, 100) -- red 
-    AddItem(1, 0, 30010, 100) -- blue 
+    AddItem(1, 0, 32, 200) -- cuu chuyen
+    AddItem(1, 0, 30009, 100) -- red
+    AddItem(1, 0, 30010, 100) -- blue
     AddItem(1, 0, 30011, 100) -- yellow
-    Msg2Player("NhÀn duoc pham")
+    Msg2Player("Nh·∫≠n duoc pham")
 end
 function Get_DuocPham2()
     AddItem(1, 0, 32, 100)
@@ -1800,20 +1800,20 @@ function Get_DuocPham2()
     for i = 261, 265 do
         AddItem(1, 0, i, 100);
     end
-    Msg2Player("NhÀn duoc pham xin")
+    Msg2Player("Nh·∫≠n duoc pham xin")
 end
 function Get_QCVD()
     AddItem(2, 1, 30642, 100)
-    Msg2Player("NhÀn QCVD")
+    Msg2Player("Nh·∫≠n QCVD")
 end
 function Get_DauHon()
     AddItem(2, 1, 1157, 100) -- yellow
-    Msg2Player("NhÀn Dau hon")
+    Msg2Player("Nh·∫≠n Dau hon")
 end
 function Get_ThuCuoi()
     AddItem(0, 105, 10110, 1, 3, -1, -1, -1, -1, -1, -1, -1)
     AddItem(0, 105, 10111, 1, 3, -1, -1, -1, -1, -1, -1, -1)
-    Msg2Player("NhÀn Thu cuoi")
+    Msg2Player("Nh·∫≠n Thu cuoi")
 end
 function Give_ZhuzhuZhouzhou()
     if gf_Judge_Room_Weight(2, 1) ~= 1 then
@@ -1887,11 +1887,11 @@ end
 
 function ling_nv_xiaodiao()
     local szSay = {};
-    szSay[getn(szSay) + 1] = "NhÀn Ti”u ßi™u/Give_XiaoDiao";
-    szSay[getn(szSay) + 1] = "Nu´i Ti”u ßi™u/Give_XiaoDiaoFood";
-    szSay[getn(szSay) + 1] = "Hu n luy÷n Ti”u ßi™u/Feed_XiaoDiao";
-    szSay[getn(szSay) + 1] = "\nRa kh·i/nothing";
-    Say(g_szTitle .. "Ti”u ßi™u thao t∏c.", getn(szSay), szSay)
+    szSay[getn(szSay) + 1] = "Nh·∫≠n Ti·ªÉu ƒêi√™u/Give_XiaoDiao";
+    szSay[getn(szSay) + 1] = "Nu√¥i Ti·ªÉu ƒêi√™u/Give_XiaoDiaoFood";
+    szSay[getn(szSay) + 1] = "Hu·∫•n luy·ªán Ti·ªÉu ƒêi√™u/Feed_XiaoDiao";
+    szSay[getn(szSay) + 1] = "\nRa kh·ªèi/nothing";
+    Say(g_szTitle .. "Ti·ªÉu ƒêi√™u thao t√°c.", getn(szSay), szSay)
 end
 
 function Give_XiaoDiao()
@@ -1918,12 +1918,12 @@ end
 function Feed_XiaoDiao()
     local nPetItemIndex = GetPlayerEquipIndex(12);
     if (nPetItemIndex == nil or nPetItemIndex <= 0) then
-        Msg2Player("C∏c hπ ch≠a c„ thÛ c≠ng, kh´ng th” ti’n hµnh hu n luy÷n!");
+        Msg2Player("C√°c h·∫° ch∆∞a c√≥ th√∫ c∆∞ng, kh√¥ng th·ªÉ ti·∫øn h√†nh hu·∫•n luy·ªán!");
         return
     end
     local ItemGen, ItemDetail, ItemParticular = GetItemInfoByIndex(nPetItemIndex);
     if (ItemGen == nil or ItemDetail == nil or ItemParticular == nil) or (ItemGen ~= 2 or ItemDetail ~= 20) then
-        Msg2Player("C∏c hπ ch≠a c„ thÛ c≠ng, kh´ng th” ti’n hµnh hu n luy÷n!");
+        Msg2Player("C√°c h·∫° ch∆∞a c√≥ th√∫ c∆∞ng, kh√¥ng th·ªÉ ti·∫øn h√†nh hu·∫•n luy·ªán!");
         return
     end
 
@@ -1934,7 +1934,7 @@ end
 
 function ClearBagAllItem(bTag)
     if not bTag or tonumber(bTag) ~= 1 then
-        Say(g_szTitle .. "Ng≠¨i muËn thanh l˝ tÛi?", 2, "ßÂng ˝/#ClearBagAllItem(1)", "Ra kh·i/nothing")
+        Say(g_szTitle .. "Ng∆∞∆°i mu·ªën thanh l√Ω t√∫i?", 2, "ƒê·ªìng √Ω/#ClearBagAllItem(1)", "Ra kh·ªèi/nothing")
         return
     end
     ClearItemInPos();
@@ -1951,15 +1951,15 @@ function ClearBagAllItem(bTag)
 end
 
 function TongOperation()
-    local szSay = {g_szTitle .. "Thao t∏c bang hÈi", "Ta muËn nhÀn vÀt ph»m bang hÈi/TongOperation_Create",
-                   "Ta muËn tπo bang hÈi/CreateTongDialog", "Ta muËn th®ng c p bang hÈi/TongOperation_update",
-                   "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Thao t√°c bang h·ªôi", "Ta mu·ªën nh·∫≠n v·∫≠t ph·∫©m bang h·ªôi/TongOperation_Create",
+                   "Ta mu·ªën t·∫°o bang h·ªôi/CreateTongDialog", "Ta mu·ªën thƒÉng c·∫•p bang h·ªôi/TongOperation_update",
+                   "\nRa kh·ªèi/nothing"};
     SelectSay(szSay);
 end
 
 function TongOperation_Create()
     if IsTongMember() ~= 0 then
-        Talk(1, "", "Ng≠¨i Æ∑ c„ bang hÈi");
+        Talk(1, "", "Ng∆∞∆°i ƒë√£ c√≥ bang h·ªôi");
         return
     end
     if gf_Judge_Room_Weight(2, 100, " ") ~= 1 then
@@ -1989,11 +1989,11 @@ function TongOperation_update()
 end
 
 function GetJingMai()
-    local szSay = {g_szTitle .. "Thao th∏c kinh mπch", "T»y Æi”m kinh mπch/GetJingMai_Reset",
-                   format("%s/getZhenqi", "NhÀn ch©n kh›"),
-                   format("%s/getJingMaiTongRen", "NhÀn Kinh Mπch ßÂng Nh©n"), "\nRa kh·i/nothing"};
+    local szSay = {g_szTitle .. "Thao th√°c kinh m·∫°ch", "T·∫©y ƒëi·ªÉm kinh m·∫°ch/GetJingMai_Reset",
+                   format("%s/getZhenqi", "Nh·∫≠n ch√¢n kh√≠"),
+                   format("%s/getJingMaiTongRen", "Nh·∫≠n Kinh M·∫°ch ƒê·ªìng Nh√¢n"), "\nRa kh·ªèi/nothing"};
     if MeridianGetLevel() < 6 then
-        tinsert(szSay, 2, "Th®ng c p c∂nh giÌi V‚ Th∏nh/GetJingMai_Update")
+        tinsert(szSay, 2, "ThƒÉng c·∫•p c·∫£nh gi·ªõi V√µ Th√°nh/GetJingMai_Update")
     end
     SelectSay(szSay);
 end
@@ -2034,7 +2034,7 @@ end
 
 function GetJingMai_Reset(bTag)
     if not bTag or tonumber(bTag) ~= 1 then
-        Say(g_szTitle .. "Thao th∏c kinh mπch", 2, "ßÂng ˝/#GetJingMai_Reset(1)", "HÒy b·/nothing")
+        Say(g_szTitle .. "Thao th√°c kinh m·∫°ch", 2, "ƒê·ªìng √Ω/#GetJingMai_Reset(1)", "H·ªßy b·ªè/nothing")
         return 0;
     end
     MeridianRestore(-1);
@@ -2042,12 +2042,12 @@ function GetJingMai_Reset(bTag)
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
 end
 function player_reborn()
-    tSay = {"Chuy”n sinh/active_player_reborn", "\nExit/nothing"}
-    Say(g_szTitle .. "Chuy”n sinh 7 c p 90", getn(tSay), tSay);
+    tSay = {"Chuy·ªÉn sinh/active_player_reborn", "\nExit/nothing"}
+    Say(g_szTitle .. "Chuy·ªÉn sinh 7 c·∫•p 90", getn(tSay), tSay);
 end
 function active_player_reborn()
     PlayerReborn(2, random(4)); -- chuyen sinh 7, random --> huong chuyen sinh
-    gf_SetTaskByte(1538, 1, 5) -- 
+    gf_SetTaskByte(1538, 1, 5) --
     SetLevel(90, 1); -- level 90
     SetTask(336, 10000)
     -- Danh hieu
@@ -2058,11 +2058,11 @@ function active_player_reborn()
 
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0);
-    Say("Tho∏t", 1, "Exit!/go_exit")
+    Say("Tho√°t", 1, "Exit!/go_exit")
 end
 function change_PhucSinh()
     local tSay = {}
-    local tHeader = "Ch‰n"
+    local tHeader = "Ch·ªçn"
     tinsert(tSay, "Long\n/#confirm_change_chuyensinh(1)")
     tinsert(tSay, "Ho\n/#confirm_change_chuyensinh( 2)")
     tinsert(tSay, "Ung\n/#confirm_change_chuyensinh(3)")
@@ -2073,7 +2073,7 @@ end
 function confirm_change_chuyensinh(nWay)
     local nNum_cs6 = GetPlayerRebornParam(0)
     -- local nNum_level = GetPlayerLevelParam(0)
-    PlayerReborn(nNum_cs6, nWay) -- Thay ¬ÆÔøΩi hÔøΩÔøΩng chuy√ìn Sinh 6 thÔøΩnh cÔøΩng		
+    PlayerReborn(nNum_cs6, nWay) -- Thay √Ç¬Æ√Ø¬ø¬Ωi h√Ø¬ø¬Ω√Ø¬ø¬Ωng chuy√É‚Äún Sinh 6 th√Ø¬ø¬Ωnh c√Ø¬ø¬Ωng
     SetLevel(90, 1)
     NewWorld(200, 1353, 2876)
     Say("Exut", 1, "Exit!/go_exit")
@@ -2083,13 +2083,13 @@ end
 --     return 0;
 -- end
 -- AddItem(2, 1, 30160, 1);
--- WriteLogEx("Get_An", "NhÀn ÔøΩÔøΩn:", 100, "Long  n");
+-- WriteLogEx("Get_An", "Nh√ãn √Ø¬ø¬Ω√Ø¬ø¬Ωn:", 100, "Long ·∫•n");
 -- AddItem(2, 1, 30161, 1);
--- WriteLogEx("Get_An", "NhÀn ÔøΩÔøΩn:", 100, "PhÙng  n");
+-- WriteLogEx("Get_An", "Nh√ãn √Ø¬ø¬Ω√Ø¬ø¬Ωn:", 100, "Ph·ª•ng ·∫•n");
 -- AddItem(2, 1, 30162, 1);
--- WriteLogEx("Get_An", "NhÀn ÔøΩÔøΩn:", 100, "HÊ  n");
+-- WriteLogEx("Get_An", "Nh√ãn √Ø¬ø¬Ω√Ø¬ø¬Ωn:", 100, "H·ªï ·∫•n");
 -- AddItem(2, 1, 30163, 1);
--- WriteLogEx("Get_An", "NhÀn ÔøΩÔøΩn:", 100, "¶ng  n");
+-- WriteLogEx("Get_An", "Nh√ãn √Ø¬ø¬Ω√Ø¬ø¬Ωn:", 100, "∆Øng ·∫•n");
 -- end
 
 function Get_Energy()
@@ -2099,19 +2099,19 @@ end
 
 function Life_Skill()
     local tSay = { --
-    "MuËn t®ng c p k¸ n®ng thu thÀp/upgrade_gather_skill",
-    "MuËn t®ng c p k¸ n®ng s∂n xu t/upgrade_compose_skill",
-    "NhÀn nguy™n li÷u ch’ trang bﬁ Linh ßÂ/get_lingtu_equip_material",
-    "NhÀn nguy™n li÷u ch’ ÆÂ/get_nguyenlieu_chedo", --
-    "Tπi hπ chÿ xem qua th´i/nothing"}
-    Say(g_szTitle .. "T®ng c p k¸ n®ng sËng", getn(tSay), tSay);
+    "Mu·ªën tƒÉng c·∫•p k·ªπ nƒÉng thu th·∫≠p/upgrade_gather_skill",
+    "Mu·ªën tƒÉng c·∫•p k·ªπ nƒÉng s·∫£n xu·∫•t/upgrade_compose_skill",
+    "Nh·∫≠n nguy√™n li·ªáu ch·∫ø trang b·ªã Linh ƒê·ªì/get_lingtu_equip_material",
+    "Nh·∫≠n nguy√™n li·ªáu ch·∫ø ƒë·ªì/get_nguyenlieu_chedo", --
+    "T·∫°i h·∫° ch·ªâ xem qua th√¥i/nothing"}
+    Say(g_szTitle .. "TƒÉng c·∫•p k·ªπ nƒÉng s·ªëng", getn(tSay), tSay);
 end
 function get_nguyenlieu_chedo()
     local tSay = { --
-    "K¸ n®ng ch’ d≠Óc/kynang_cheduoc", --
-    "K¸ n®ng n u n≠Ìng/kynang_naunuong", --
-    "TrÎ lπi/Life_Skill"}
-    Say(g_szTitle .. "T®ng c p k¸ n®ng sËng", getn(tSay), tSay);
+    "K·ªπ nƒÉng ch·∫ø d∆∞·ª£c/kynang_cheduoc", --
+    "K·ªπ nƒÉng n·∫•u n∆∞·ªõng/kynang_naunuong", --
+    "Tr·ªü l·∫°i/Life_Skill"}
+    Say(g_szTitle .. "TƒÉng c·∫•p k·ªπ nƒÉng s·ªëng", getn(tSay), tSay);
 end
 function kynang_cheduoc()
     for i = 1, 12, 1 do
@@ -2120,7 +2120,7 @@ function kynang_cheduoc()
 end
 function upgrade_gather_skill()
     local tGather = {1, 2, 5, 6};
-    local tName = {"ßËn c©y", "Lµm da", "ßµo kho∏ng", "K–o t¨"};
+    local tName = {"ƒê·ªën c√¢y", "L√†m da", "ƒê√†o kho√°ng", "K√©o t∆°"};
     local str = ""
     for k, v in tName do
         str = str .. "<color=gold>" .. v .. "<color>,"
@@ -2130,14 +2130,14 @@ function upgrade_gather_skill()
         local nMax = GetLifeSkillMaxLevel(0, v);
         if nMax > nCur then
             local msg = g_szTitle .. format(
-                "Hi÷n tπi chÿ c„ th” th®ng c p k¸ n®ng %s, <color=gold>%s<color> Æang Æπt c p <color=green>%d<color>, muËn th®ng c p <color=gold>%s<color> Æ’n c p <color=green>%d<color> kh´ng?",
+                "Hi·ªán t·∫°i ch·ªâ c√≥ th·ªÉ thƒÉng c·∫•p k·ªπ nƒÉng %s, <color=gold>%s<color> ƒëang ƒë·∫°t c·∫•p <color=green>%d<color>, mu·ªën thƒÉng c·∫•p <color=gold>%s<color> ƒë·∫øn c·∫•p <color=green>%d<color> kh√¥ng?",
                 str, tName[k], nCur, tName[k], nMax);
-            Say(msg, 2, format("ßÂng ˝/#upgrade_gather_skill_do(%d, %d)", v, nMax), "HÒy b·/nothing")
+            Say(msg, 2, format("ƒê·ªìng √Ω/#upgrade_gather_skill_do(%d, %d)", v, nMax), "H·ªßy b·ªè/nothing")
             return 0;
         end
     end
     Talk(1, "",
-        "Kh´ng c„ k¸ n®ng sËng c„ th” th®ng c p, h∑y Æi t◊m NPC Æ” h‰c vµ th®ng c p giÌi hπn k¸ n®ng Æ’n c p 99")
+        "Kh√¥ng c√≥ k·ªπ nƒÉng s·ªëng c√≥ th·ªÉ thƒÉng c·∫•p, h√£y ƒëi t√¨m NPC ƒë·ªÉ h·ªçc v√† thƒÉng c·∫•p gi·ªõi h·∫°n k·ªπ nƒÉng ƒë·∫øn c·∫•p 99")
 end
 
 function upgrade_gather_skill_do(nSkill, nMax)
@@ -2146,17 +2146,17 @@ function upgrade_gather_skill_do(nSkill, nMax)
     end
     if 79 == nMax then
         Talk(1, "",
-            "Hi÷n Æ∑ hoµn thµnh th®ng c p k¸ n®ng, h∑y Æi t◊m NPC Æ” t®ng c p giÌi hπn Æ’n 99 nµo!")
+            "Hi·ªán ƒë√£ ho√†n th√†nh thƒÉng c·∫•p k·ªπ nƒÉng, h√£y ƒëi t√¨m NPC ƒë·ªÉ tƒÉng c·∫•p gi·ªõi h·∫°n ƒë·∫øn 99 n√†o!")
     end
-    Msg2Player(format("Thµnh c´ng t®ng c p k¸ n®ng Æ’n c p %d", nMax));
+    Msg2Player(format("Th√†nh c√¥ng tƒÉng c·∫•p k·ªπ nƒÉng ƒë·∫øn c·∫•p %d", nMax));
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0);
 end
 
 function upgrade_compose_skill()
     local tGather = {2, 3, 4, 5, 9, 10};
-    local tName = {"Ch’ tπo binh kh› dµi", "Ch’ tπo binh kh› ngæn", "Ch’ tπo k˙ m´n binh kh›",
-                   "Lµm hÈ gi∏p", "Hπ trang", "ß«u qu∏n"};
+    local tName = {"Ch·∫ø t·∫°o binh kh√≠ d√†i", "Ch·∫ø t·∫°o binh kh√≠ ng·∫Øn", "Ch·∫ø t·∫°o k·ª≥ m√¥n binh kh√≠",
+                   "L√†m h·ªô gi√°p", "H·∫° trang", "ƒê·∫ßu qu√°n"};
     local str = ""
     for k, v in tName do
         str = str .. "<color=gold>" .. v .. "<color>,"
@@ -2166,14 +2166,14 @@ function upgrade_compose_skill()
         local nMax = GetLifeSkillMaxLevel(1, v);
         if nMax > nCur then
             local msg = g_szTitle .. format(
-                "Hi÷n tπi chÿ c„ th” th®ng c p k¸ n®ng %s, <color=gold>%s<color> Æang Æπt c p <color=green>%d<color>, muËn th®ng c p <color=gold>%s<color> Æ’n c p <color=green>%d<color> kh´ng?",
+                "Hi·ªán t·∫°i ch·ªâ c√≥ th·ªÉ thƒÉng c·∫•p k·ªπ nƒÉng %s, <color=gold>%s<color> ƒëang ƒë·∫°t c·∫•p <color=green>%d<color>, mu·ªën thƒÉng c·∫•p <color=gold>%s<color> ƒë·∫øn c·∫•p <color=green>%d<color> kh√¥ng?",
                 str, tName[k], nCur, tName[k], nMax);
-            Say(msg, 2, format("ßÂng ˝/#upgrade_compose_skill_do(%d, %d)", v, nMax), "HÒy b·/nothing")
+            Say(msg, 2, format("ƒê·ªìng √Ω/#upgrade_compose_skill_do(%d, %d)", v, nMax), "H·ªßy b·ªè/nothing")
             return 0;
         end
     end
     Talk(1, "",
-        "Kh´ng c„ k¸ n®ng sËng c„ th” th®ng c p, h∑y Æi t◊m NPC Æ” h‰c vµ th®ng c p giÌi hπn k¸ n®ng Æ’n c p 99")
+        "Kh√¥ng c√≥ k·ªπ nƒÉng s·ªëng c√≥ th·ªÉ thƒÉng c·∫•p, h√£y ƒëi t√¨m NPC ƒë·ªÉ h·ªçc v√† thƒÉng c·∫•p gi·ªõi h·∫°n k·ªπ nƒÉng ƒë·∫øn c·∫•p 99")
 end
 
 function upgrade_compose_skill_do(nSkill, nMax)
@@ -2182,16 +2182,16 @@ function upgrade_compose_skill_do(nSkill, nMax)
     end
     if 79 == nMax then
         Talk(1, "",
-            "Hi÷n Æ∑ hoµn thµnh th®ng c p k¸ n®ng, h∑y Æi t◊m NPC Æ” t®ng c p giÌi hπn Æ’n 99 nµo!")
+            "Hi·ªán ƒë√£ ho√†n th√†nh thƒÉng c·∫•p k·ªπ nƒÉng, h√£y ƒëi t√¨m NPC ƒë·ªÉ tƒÉng c·∫•p gi·ªõi h·∫°n ƒë·∫øn 99 n√†o!")
     end
-    Msg2Player(format("Thµnh c´ng t®ng c p k¸ n®ng Æ’n c p %d", nMax));
+    Msg2Player(format("Th√†nh c√¥ng tƒÉng c·∫•p k·ªπ nƒÉng ƒë·∫øn c·∫•p %d", nMax));
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0);
 end
 
 function get_lingtu_equip_material()
     if gf_Judge_Room_Weight(18, 100) ~= 1 then
-        Talk(1, "", format("T√≥i kh¬´ng ¬Æ√± %d ¬´ tr√®ng", 18));
+        Talk(1, "", format("T√É¬≥i kh√Ç¬´ng √Ç¬Æ√É¬± %d √Ç¬´ tr√É¬®ng", 18));
         return 0;
     end
     AddItem(2, 1, 30670, 999);
@@ -2215,17 +2215,17 @@ function get_lingtu_equip_material()
 end
 
 function Get_Enhance()
-    local tSay = {"NhÀn Th«n Thπch ßﬁnh HÂn/Get_Enhance_1", "NhÀn Tinh thπch Thi™n Thπch/Get_Enhance_2",
-                  "Tπi hπ chÿ xem qua th´i/nothing"}
-    Say(g_szTitle .. "T®ng c p k¸ n®ng sËng", getn(tSay), tSay);
+    local tSay = {"Nh·∫≠n Th·∫ßn Th·∫°ch ƒê·ªãnh H·ªìn/Get_Enhance_1", "Nh·∫≠n Tinh th·∫°ch Thi√™n Th·∫°ch/Get_Enhance_2",
+                  "T·∫°i h·∫° ch·ªâ xem qua th√¥i/nothing"}
+    Say(g_szTitle .. "TƒÉng c·∫•p k·ªπ nƒÉng s·ªëng", getn(tSay), tSay);
 end
 
 function Get_Enhance_1()
     if gf_Judge_Room_Weight(2, 10, " ") ~= 1 then
         return 0;
     end
-    gf_AddItemEx2({2, 1, 1068, 1}, "Thi™n Thπch linh thπch", "Get_Enhance_1", "NhÀn Th«n Thπch ßﬁnh HÂn", 0, 1);
-    gf_AddItemEx2({2, 1, 1067, 1}, "Thi™n Thπch linh thπch", "Get_Enhance_1", "NhÀn Th«n Thπch ßﬁnh HÂn", 0, 1);
+    gf_AddItemEx2({2, 1, 1068, 1}, "Thi√™n Th·∫°ch linh th·∫°ch", "Get_Enhance_1", "Nh·∫≠n Th·∫ßn Th·∫°ch ƒê·ªãnh H·ªìn", 0, 1);
+    gf_AddItemEx2({2, 1, 1067, 1}, "Thi√™n Th·∫°ch linh th·∫°ch", "Get_Enhance_1", "Nh·∫≠n Th·∫ßn Th·∫°ch ƒê·ªãnh H·ªìn", 0, 1);
 end
 
 function Get_Enhance_2()
@@ -2233,121 +2233,121 @@ function Get_Enhance_2()
         return 0;
     end
     AddItem(2, 1, 1009, 999);
-    WriteLogEx("Get_Enhance_2", "NhÀn Tinh thπch Thi™n Thπch", 100, "Thi™n Thπch Tinh Thπch");
+    WriteLogEx("Get_Enhance_2", "Nh·∫≠n Tinh th·∫°ch Thi√™n Th·∫°ch", 100, "Thi√™n Th·∫°ch Tinh Th·∫°ch");
 end
 function Get_Gem()
     if gf_Judge_Room_Weight(24, 100, " ") ~= 1 then
         return 0;
     end
     AddItem(2, 22, 101, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 1");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 1");
     AddItem(2, 22, 201, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 1");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 1");
     AddItem(2, 22, 301, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 1");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 1");
     AddItem(2, 22, 401, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 1");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 1");
 
     AddItem(2, 22, 102, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 2");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 2");
     AddItem(2, 22, 202, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 2");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 2");
     AddItem(2, 22, 302, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 2");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 2");
     AddItem(2, 22, 402, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 2");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 2");
 
     AddItem(2, 22, 103, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 3");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 3");
     AddItem(2, 22, 203, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 3");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 3");
     AddItem(2, 22, 303, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 3");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 3");
     AddItem(2, 22, 403, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 3");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 3");
 
     AddItem(2, 22, 104, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 4");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 4");
     AddItem(2, 22, 204, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 4");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 4");
     AddItem(2, 22, 304, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 4");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 4");
     AddItem(2, 22, 404, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 4");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 4");
 
     AddItem(2, 22, 105, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 5");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 5");
     AddItem(2, 22, 205, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 5");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 5");
     AddItem(2, 22, 305, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 5");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 5");
     AddItem(2, 22, 405, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 5");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 5");
 
     AddItem(2, 22, 106, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 6");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 6");
     AddItem(2, 22, 206, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 6");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 6");
     AddItem(2, 22, 306, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 6");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 6");
     AddItem(2, 22, 406, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 6");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 6");
 
     AddItem(2, 22, 107, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 7");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 7");
     AddItem(2, 22, 207, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 7");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 7");
     AddItem(2, 22, 307, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 7");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 7");
     AddItem(2, 22, 407, 100);
-    WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 7");
+    WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 7");
 
     AddItem(2, 22, 501, 18);
-    WriteLogEx("Get_Gem", "Nhan da quy", 18, "ß∏ qu˝ si™u c p 1");
+    WriteLogEx("Get_Gem", "Nhan da quy", 18, "ƒê√° qu√Ω si√™u c·∫•p 1");
 
     -- AddItem(2, 22, 108, 100);
-    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy’tTr›chThπch 8");
+    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "Huy√ïtTr√ùchTh¬πch 8");
     -- AddItem(2, 22, 208, 100);
-    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy÷tBπchThπch 8");
+    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "Nguy√ñtB¬πchTh¬πch 8");
     -- AddItem(2, 22, 308, 100);
-    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "HÊ Ph∏ch Thπch 8");
+    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·ªï Ph√°ch Th·∫°ch 8");
     -- AddItem(2, 22, 408, 100);
-    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "Hæc Di÷u Thπch 8");
+    -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "H·∫Øc Di·ªáu Th·∫°ch 8");
 end
 -- function Get_TB_NguyenSoai()
 --     GetCT()
 -- end
 -- TRANG BI CHIEN TRUONG
 function GetCT()
-    local szSay = {g_szTitle .. "Ch‰n", "NhÀn trang bﬁ Ho∂ PhÙng/Get_CT_HP",
-                   "NhÀn trang bﬁ Thanh Long/Get_CT_TL", "NhÀn trang bﬁ Uy HÊ/Get_CT_UH", "\nExit/nothing"};
+    local szSay = {g_szTitle .. "Ch·ªçn", "Nh·∫≠n trang b·ªã Ho·∫£ Ph·ª•ng/Get_CT_HP",
+                   "Nh·∫≠n trang b·ªã Thanh Long/Get_CT_TL", "Nh·∫≠n trang b·ªã Uy H·ªï/Get_CT_UH", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi UY HO
 function Get_CT_UH()
-    local szSay = {g_szTitle .. "Ch‰n trang bﬁ", "Trang PhÙc Uy HÊ T≠Ìng Phe TËng/#Get_TP_CT_UH(1,1)",
-                   "Trang PhÙc Uy HÊ So∏i Phe TËng/#Get_TP_CT_UH(1,2)",
-                   "Trang PhÙc Uy HÊ T≠Ìng Phe Li™u/#Get_TP_CT_UH(2,1)",
-                   "Trang PhÙc Uy HÊ So∏i Phe Li™u/#Get_TP_CT_UH(2,2)", "\nExit/nothing"};
+    local szSay = {g_szTitle .. "Ch·ªçn trang b·ªã", "Trang Ph·ª•c Uy H·ªï T∆∞·ªõng Phe T·ªëng/#Get_TP_CT_UH(1,1)",
+                   "Trang Ph·ª•c Uy H·ªï So√°i Phe T·ªëng/#Get_TP_CT_UH(1,2)",
+                   "Trang Ph·ª•c Uy H·ªï T∆∞·ªõng Phe Li√™u/#Get_TP_CT_UH(2,1)",
+                   "Trang Ph·ª•c Uy H·ªï So√°i Phe Li√™u/#Get_TP_CT_UH(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi THANH LONG
 function Get_CT_TL()
-    local szSay = {g_szTitle .. "Ch‰n trang bﬁ", "Trang PhÙc Thanh Long T≠Ìng Phe TËng/#Get_TP_CT_TL(1,1)",
-                   "Trang PhÙc Thanh Long So∏i Phe TËng/#Get_TP_CT_TL(1,2)",
-                   "Trang PhÙc Thanh Long T≠Ìng Phe Li™u/#Get_TP_CT_TL(2,1)",
-                   "Trang PhÙc Thanh Long So∏i Phe Li™u/#Get_TP_CT_TL(2,2)", "\nExit/nothing"};
+    local szSay = {g_szTitle .. "Ch·ªçn trang b·ªã", "Trang Ph·ª•c Thanh Long T∆∞·ªõng Phe T·ªëng/#Get_TP_CT_TL(1,1)",
+                   "Trang Ph·ª•c Thanh Long So√°i Phe T·ªëng/#Get_TP_CT_TL(1,2)",
+                   "Trang Ph·ª•c Thanh Long T∆∞·ªõng Phe Li√™u/#Get_TP_CT_TL(2,1)",
+                   "Trang Ph·ª•c Thanh Long So√°i Phe Li√™u/#Get_TP_CT_TL(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi Hoa Phung
 function Get_CT_HP()
-    local szSay = {g_szTitle .. "Ch‰n trang bﬁ", "Trang PhÙc Ho∂ PhÙng T≠Ìng Phe TËng/#Get_TP_CT_HP(1,1)",
-                   "Trang PhÙc Ho∂ PhÙng So∏i Phe TËng/#Get_TP_CT_HP(1,2)",
-                   "Trang PhÙc Ho∂ PhÙng T≠Ìng Phe Li™u/#Get_TP_CT_HP(2,1)",
-                   "Trang PhÙc Ho∂ PhÙng So∏i Phe Li™u/#Get_TP_CT_HP(2,2)", "\nExit/nothing"};
+    local szSay = {g_szTitle .. "Ch·ªçn trang b·ªã", "Trang Ph·ª•c Ho·∫£ Ph·ª•ng T∆∞·ªõng Phe T·ªëng/#Get_TP_CT_HP(1,1)",
+                   "Trang Ph·ª•c Ho·∫£ Ph·ª•ng So√°i Phe T·ªëng/#Get_TP_CT_HP(1,2)",
+                   "Trang Ph·ª•c Ho·∫£ Ph·ª•ng T∆∞·ªõng Phe Li√™u/#Get_TP_CT_HP(2,1)",
+                   "Trang Ph·ª•c Ho·∫£ Ph·ª•ng So√°i Phe Li√™u/#Get_TP_CT_HP(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
@@ -2495,11 +2495,11 @@ function CheckSeal()
     end
     return 1
 end
--- Th√πc hi√ñn xong nhi÷m vÙ g√§i hÔøΩm ¬Æ√ì set task l¬™n 1
+-- Th√É¬πc hi√É‚Äìn xong nhi√ñm v√¥ g√É¬§i h√Ø¬ø¬Ωm √Ç¬Æ√É‚Äú set task l√Ç¬™n 1
 function SetTaskTrans()
     SetTask(TRANSLIFE_MISSION_ID, GetTask(TRANSLIFE_MISSION_ID) + 1)
 end
--- G√§i hÔøΩm ¬Æ√ì l√äy tr¬πng th¬∏i nhi÷m vÙ 
+-- G√É¬§i h√Ø¬ø¬Ωm √Ç¬Æ√É‚Äú l√É≈†y tr√Ç¬πng th√Ç¬∏i nhi√ñm v√¥
 function GetTaskTrans()
     return GetTask(TRANSLIFE_MISSION_ID)
 end
@@ -2514,126 +2514,126 @@ function confirm_get_translife_item()
     local TRANSLIFE_EXP = 2000000000
     local TRANSLIFE_BOX_COUNT = 4
 
-    tb_translife_seal = {{"Long Tˆ  n", {2, 0, 30002, 1, 1}, "Long Tˆ"},
-                         {"HÊ Tˆ  n", {2, 0, 30003, 1, 1}, "HÊ Tˆ"},
-                         {"¶ng Tˆ  n", {2, 0, 30006, 1, 1}, "¶ng Tˆ"},
-                         {"PhÙng Tˆ  n", {2, 0, 30005, 1, 1}, "PhÙng Tˆ"}}
-    tb_translife_seal_cs6 = {{"Long Tˆ  n", {2, 0, 30002, 1, 1}, "Long Tˆ"},
-                             {"HÊ Tˆ  n", {2, 0, 30003, 1, 1}, "HÊ Tˆ"},
-                             {"¶ng Tˆ  n", {2, 0, 30006, 1, 1}, "¶ng Tˆ"},
-                             {"PhÙng Tˆ  n", {2, 0, 30005, 1, 1}, "PhÙng Tˆ"}}
+    tb_translife_seal = {{"Long T·ª≠ ·∫•n", {2, 0, 30002, 1, 1}, "Long T·ª≠"},
+                         {"H·ªï T·ª≠ ·∫•n", {2, 0, 30003, 1, 1}, "H·ªï T·ª≠"},
+                         {"∆Øng T·ª≠ ·∫•n", {2, 0, 30006, 1, 1}, "∆Øng T·ª≠"},
+                         {"Ph·ª•ng T·ª≠ ·∫•n", {2, 0, 30005, 1, 1}, "Ph·ª•ng T·ª≠"}}
+    tb_translife_seal_cs6 = {{"Long T·ª≠ ·∫•n", {2, 0, 30002, 1, 1}, "Long T·ª≠"},
+                             {"H·ªï T·ª≠ ·∫•n", {2, 0, 30003, 1, 1}, "H·ªï T·ª≠"},
+                             {"∆Øng T·ª≠ ·∫•n", {2, 0, 30006, 1, 1}, "∆Øng T·ª≠"},
+                             {"Ph·ª•ng T·ª≠ ·∫•n", {2, 0, 30005, 1, 1}, "Ph·ª•ng T·ª≠"}}
     tb_translife_tittle = {
         [1] = {
-            [2] = {"HÁn Nguy™n T®ng", 24, 1},
-            [4] = {"ß u T®ng", 24, 2},
-            [3] = {"Thi“n Tu T®ng", 24, 3},
-            [6] = {"HÈ V÷", 24, 4},
-            [8] = {"VÚ Y S¯", 24, 5},
-            [9] = {"Phπn ¢m S¯", 24, 6},
-            [11] = {"Trı Gian ß÷ Tˆ", 24, 7},
-            [12] = {"Trıng ∏c ß÷ Tˆ", 24, 8},
-            [14] = {"NhÀp Quan Æπo nh©n", 24, 9},
-            [15] = {"S¨n D≠¨ng Æπo nh©n", 24, 10},
-            [17] = {"Hi÷u Ûy", 24, 11},
-            [18] = {"ß´ Ûy", 24, 12},
-            [20] = {"Th´i M÷nh T∂n Nh©n", 24, 13},
-            [21] = {"Th˘c T©m T∂n Nh©n", 24, 14},
-            [23] = {"NhÀp Quan Æπo nh©n", 24, 9},
-            [29] = {"VÚ Y S¯", 24, 5},
-            [30] = {"Phπn ¢m S¯", 24, 6}
+            [2] = {"H·ªón Nguy√™n TƒÉng", 24, 1},
+            [4] = {"ƒê·∫•u TƒÉng", 24, 2},
+            [3] = {"Thi·ªÅn Tu TƒÉng", 24, 3},
+            [6] = {"H·ªô V·ªá", 24, 4},
+            [8] = {"V≈© Y S·ª©", 24, 5},
+            [9] = {"Ph·∫°n √Çm S·ª©", 24, 6},
+            [11] = {"Tr·ª´ Gian ƒê·ªá T·ª≠", 24, 7},
+            [12] = {"Tr·ª´ng √°c ƒê·ªá T·ª≠", 24, 8},
+            [14] = {"Nh·∫≠p Quan ƒë·∫°o nh√¢n", 24, 9},
+            [15] = {"S∆°n D∆∞∆°ng ƒë·∫°o nh√¢n", 24, 10},
+            [17] = {"Hi·ªáu √∫y", 24, 11},
+            [18] = {"ƒê√¥ √∫y", 24, 12},
+            [20] = {"Th√¥i M·ªánh T·∫£n Nh√¢n", 24, 13},
+            [21] = {"Th·ª±c T√¢m T·∫£n Nh√¢n", 24, 14},
+            [23] = {"Nh·∫≠p Quan ƒë·∫°o nh√¢n", 24, 9},
+            [29] = {"V≈© Y S·ª©", 24, 5},
+            [30] = {"Ph·∫°n √Çm S·ª©", 24, 6}
         },
 
         [2] = {
-            [2] = {"ßπt Ma Kim Cang", 25, 1},
-            [4] = {"La H∏n HÈ Ph∏p", 25, 2},
-            [3] = {"Truy“n kinh ph∏p s≠", 25, 3},
-            [6] = {"B› ÆÈc th›ch kh∏ch", 25, 4},
-            [8] = {"Tˆ TrÛc s¯", 25, 5},
-            [9] = {"H∂i Nguy÷t s¯", 25, 6},
-            [11] = {"T¯ H∂i hi÷p", 25, 7},
-            [12] = {"ß÷ tˆ t∏m tÛi", 25, 8},
-            [14] = {"V´ ng∑ Æπo nh©n", 25, 9},
-            [15] = {"Nhµn V©n Hi÷p ßπo", 25, 10},
-            [17] = {"Ph n vÚ t≠Ìng qu©n", 25, 11},
-            [18] = {"Ph n uy t≠Ìng qu©n", 25, 12},
-            [20] = {"Hæc V´ Th≠Íng", 25, 13},
-            [21] = {"Bπch V´ Th≠Íng", 25, 14},
-            [23] = {"V´ ng∑ Æπo nh©n", 25, 9},
-            [29] = {"Tˆ TrÛc s¯", 25, 5},
-            [30] = {"H∂i Nguy÷t s¯", 25, 6}
+            [2] = {"ƒê·∫°t Ma Kim Cang", 25, 1},
+            [4] = {"La H√°n H·ªô Ph√°p", 25, 2},
+            [3] = {"Truy·ªÅn kinh ph√°p s∆∞", 25, 3},
+            [6] = {"B√≠ ƒë·ªôc th√≠ch kh√°ch", 25, 4},
+            [8] = {"T·ª≠ Tr√∫c s·ª©", 25, 5},
+            [9] = {"H·∫£i Nguy·ªát s·ª©", 25, 6},
+            [11] = {"T·ª© H·∫£i hi·ªáp", 25, 7},
+            [12] = {"ƒê·ªá t·ª≠ t√°m t√∫i", 25, 8},
+            [14] = {"V√¥ ng√£ ƒë·∫°o nh√¢n", 25, 9},
+            [15] = {"Nh√†n V√¢n Hi·ªáp ƒê·∫°o", 25, 10},
+            [17] = {"Ph·∫•n v≈© t∆∞·ªõng qu√¢n", 25, 11},
+            [18] = {"Ph·∫•n uy t∆∞·ªõng qu√¢n", 25, 12},
+            [20] = {"H·∫Øc V√¥ Th∆∞·ªùng", 25, 13},
+            [21] = {"B·∫°ch V√¥ Th∆∞·ªùng", 25, 14},
+            [23] = {"V√¥ ng√£ ƒë·∫°o nh√¢n", 25, 9},
+            [29] = {"T·ª≠ Tr√∫c s·ª©", 25, 5},
+            [30] = {"H·∫£i Nguy·ªát s·ª©", 25, 6}
         },
 
         [3] = {
-            [2] = {"B∏t BÈ Thi™n Long", 26, 1},
-            [4] = {"B∏t B∂o La H∏n", 26, 2},
-            [3] = {"V´ L≠Óng Ph∏p T´n", 26, 3},
-            [6] = {"Thi™n C¨ S¯ Gi∂", 26, 4},
-            [8] = {"Bπch Li™n Ti™n Tˆ", 26, 5},
-            [9] = {"Ng‰c VÀn Ti™n Tˆ", 26, 6},
-            [11] = {"Long ß«u Th«n C∏i", 26, 7},
-            [12] = {"Kh t Thi™n Th«n C∏i", 26, 8},
-            [14] = {"Ch≠Îng Kinh Æπo nh©n", 26, 9},
-            [15] = {"Th∏i  t T∂n Nh©n", 26, 10},
-            [17] = {"Long T≠¨ng t≠Ìng qu©n", 26, 11},
-            [18] = {"HÊ D˘c t≠Ìng qu©n", 26, 12},
-            [20] = {"U Minh Qu˚ S∏t", 26, 13},
-            [21] = {"V´ ßÊng La S∏t", 26, 14},
-            [23] = {"Ch≠Îng Kinh Æπo nh©n", 26, 9},
-            [29] = {"Bπch Li™n Ti™n Tˆ", 26, 5},
-            [30] = {"Ng‰c VÀn Ti™n Tˆ", 26, 6}
+            [2] = {"B√°t B·ªô Thi√™n Long", 26, 1},
+            [4] = {"B√°t B·∫£o La H√°n", 26, 2},
+            [3] = {"V√¥ L∆∞·ª£ng Ph√°p T√¥n", 26, 3},
+            [6] = {"Thi√™n C∆° S·ª© Gi·∫£", 26, 4},
+            [8] = {"B·∫°ch Li√™n Ti√™n T·ª≠", 26, 5},
+            [9] = {"Ng·ªçc V·∫≠n Ti√™n T·ª≠", 26, 6},
+            [11] = {"Long ƒê·∫ßu Th·∫ßn C√°i", 26, 7},
+            [12] = {"Kh·∫•t Thi√™n Th·∫ßn C√°i", 26, 8},
+            [14] = {"Ch∆∞·ªüng Kinh ƒë·∫°o nh√¢n", 26, 9},
+            [15] = {"Th√°i ·∫•t T·∫£n Nh√¢n", 26, 10},
+            [17] = {"Long T∆∞∆°ng t∆∞·ªõng qu√¢n", 26, 11},
+            [18] = {"H·ªï D·ª±c t∆∞·ªõng qu√¢n", 26, 12},
+            [20] = {"U Minh Qu·ª∑ S√°t", 26, 13},
+            [21] = {"V√¥ ƒê·ªïng La S√°t", 26, 14},
+            [23] = {"Ch∆∞·ªüng Kinh ƒë·∫°o nh√¢n", 26, 9},
+            [29] = {"B·∫°ch Li√™n Ti√™n T·ª≠", 26, 5},
+            [30] = {"Ng·ªçc V·∫≠n Ti√™n T·ª≠", 26, 6}
         },
 
         [4] = {
-            [2] = {"Tr≠Îng l∑o ßπt Ma ß≠Íng", 27, 1},
-            [4] = {"Tr≠Îng l∑o La H∏n ß≠Íng", 27, 2},
-            [3] = {"Tr≠Îng l∑o Tµng Kinh C∏c", 27, 3},
-            [6] = {"Thi™n ThÒ S¯ Gi∂", 27, 4},
-            [8] = {"Kim Quang Ti™n Tˆ", 27, 5},
-            [9] = {"Thi™n ¢m Ti™n Tˆ", 27, 6},
-            [11] = {"Ch p Ph∏p Th«n C∏i", 27, 7},
-            [12] = {"Ch≠Îng BÊng Th«n C∏i", 27, 8},
-            [14] = {"Th≠Óng Thanh ßπo Nh©n", 27, 9},
-            [15] = {"Tˆ Hµ T∂n Nh©n", 27, 10},
-            [17] = {"Tr n Qu©n T≠Ìng Qu©n", 27, 11},
-            [18] = {"Chinh LÁ T≠Ìng Qu©n", 27, 12},
-            [20] = {"Di™m La Qu˚ S∏t", 27, 13},
-            [21] = {"CÊ ßÈc La S∏t", 27, 14},
-            [23] = {"Th≠Óng Thanh ßπo Nh©n", 27, 9},
-            [29] = {"Kim Quang Ti™n Tˆ", 27, 5},
-            [30] = {"Thi™n ¢m Ti™n Tˆ", 27, 6}
+            [2] = {"Tr∆∞·ªüng l√£o ƒê·∫°t Ma ƒê∆∞·ªùng", 27, 1},
+            [4] = {"Tr∆∞·ªüng l√£o La H√°n ƒê∆∞·ªùng", 27, 2},
+            [3] = {"Tr∆∞·ªüng l√£o T√†ng Kinh C√°c", 27, 3},
+            [6] = {"Thi√™n Th·ªß S·ª© Gi·∫£", 27, 4},
+            [8] = {"Kim Quang Ti√™n T·ª≠", 27, 5},
+            [9] = {"Thi√™n √Çm Ti√™n T·ª≠", 27, 6},
+            [11] = {"Ch·∫•p Ph√°p Th·∫ßn C√°i", 27, 7},
+            [12] = {"Ch∆∞·ªüng B·ªïng Th·∫ßn C√°i", 27, 8},
+            [14] = {"Th∆∞·ª£ng Thanh ƒê·∫°o Nh√¢n", 27, 9},
+            [15] = {"T·ª≠ H√† T·∫£n Nh√¢n", 27, 10},
+            [17] = {"Tr·∫•n Qu√¢n T∆∞·ªõng Qu√¢n", 27, 11},
+            [18] = {"Chinh L·ªó T∆∞·ªõng Qu√¢n", 27, 12},
+            [20] = {"Di√™m La Qu·ª∑ S√°t", 27, 13},
+            [21] = {"C·ªï ƒê·ªôc La S√°t", 27, 14},
+            [23] = {"Th∆∞·ª£ng Thanh ƒê·∫°o Nh√¢n", 27, 9},
+            [29] = {"Kim Quang Ti√™n T·ª≠", 27, 5},
+            [30] = {"Thi√™n √Çm Ti√™n T·ª≠", 27, 6}
         },
 
         [5] = {
-            [2] = {"ThÒ t‰a ßπt Ma ß≠Íng", 28, 1},
-            [4] = {"ThÒ t‰a La H∏n ß≠Íng", 28, 2},
-            [3] = {"ThÒ t‰a Tµng Kinh C∏c", 28, 3},
-            [6] = {"Thi™n ThÒ Th«n V÷", 28, 4},
-            [8] = {"Kim Quang th∏nh n˜", 28, 5},
-            [9] = {"Thi™n ¢m th∏nh n˜", 28, 6},
-            [11] = {"Ch p Ph∏p tr≠Îng l∑o", 28, 7},
-            [12] = {"Ch≠Îng BÊng tr≠Îng l∑o", 28, 8},
-            [14] = {"Th≠Óng Thanh ch©n nh©n", 28, 9},
-            [15] = {"Tˆ Ti™u th≠Óng nh©n", 28, 10},
-            [17] = {"Tr n Qu©n nguy™n so∏i", 28, 11},
-            [18] = {"Chinh LÁ nguy™n so∏i", 28, 12},
-            [20] = {"Di™m La t´n gi∂", 28, 13},
-            [21] = {"CÊ ßÈc t´n gi∂", 28, 14},
-            [23] = {"Th≠Óng Thanh ch©n nh©n", 28, 9},
-            [29] = {"Kim Quang th∏nh n˜", 28, 5},
-            [30] = {"Thi™n ¢m th∏nh n˜", 28, 6}
+            [2] = {"Th·ªß t·ªça ƒê·∫°t Ma ƒê∆∞·ªùng", 28, 1},
+            [4] = {"Th·ªß t·ªça La H√°n ƒê∆∞·ªùng", 28, 2},
+            [3] = {"Th·ªß t·ªça T√†ng Kinh C√°c", 28, 3},
+            [6] = {"Thi√™n Th·ªß Th·∫ßn V·ªá", 28, 4},
+            [8] = {"Kim Quang th√°nh n·ªØ", 28, 5},
+            [9] = {"Thi√™n √Çm th√°nh n·ªØ", 28, 6},
+            [11] = {"Ch·∫•p Ph√°p tr∆∞·ªüng l√£o", 28, 7},
+            [12] = {"Ch∆∞·ªüng B·ªïng tr∆∞·ªüng l√£o", 28, 8},
+            [14] = {"Th∆∞·ª£ng Thanh ch√¢n nh√¢n", 28, 9},
+            [15] = {"T·ª≠ Ti√™u th∆∞·ª£ng nh√¢n", 28, 10},
+            [17] = {"Tr·∫•n Qu√¢n nguy√™n so√°i", 28, 11},
+            [18] = {"Chinh L·ªó nguy√™n so√°i", 28, 12},
+            [20] = {"Di√™m La t√¥n gi·∫£", 28, 13},
+            [21] = {"C·ªï ƒê·ªôc t√¥n gi·∫£", 28, 14},
+            [23] = {"Th∆∞·ª£ng Thanh ch√¢n nh√¢n", 28, 9},
+            [29] = {"Kim Quang th√°nh n·ªØ", 28, 5},
+            [30] = {"Thi√™n √Çm th√°nh n·ªØ", 28, 6}
         }
     }
     tbMobsList_cs6 = {
-        [1] = {"Ti”u Lam ßao Qu˚", TSK_CS6_DaoQuy_XoaQuy, 1},
-        [2] = {"Ti”u Lam Xoa Qu˚", TSK_CS6_DaoQuy_XoaQuy, 2},
-        [3] = {"Sa Mπc Hµnh Nh©n", TSK_CS6_SaMac_TamBao, 1},
-        [4] = {"T«m B∂o Nh©n", TSK_CS6_SaMac_TamBao, 2},
-        [5] = {"Ki’m ti™n Tˆ", TSK_CS6_KiemTien_DichTien, 1},
-        [6] = {"ßﬁch ti™n Tˆ", TSK_CS6_KiemTien_DichTien, 2},
-        [7] = {"Li÷t Nhan Li Long", TSK_CS6_LiLong_HoaHo, 1},
-        [8] = {"X›ch Luy÷n H·a HÂ", TSK_CS6_LiLong_HoaHo, 2}
+        [1] = {"Ti·ªÉu Lam ƒêao Qu·ª∑", TSK_CS6_DaoQuy_XoaQuy, 1},
+        [2] = {"Ti·ªÉu Lam Xoa Qu·ª∑", TSK_CS6_DaoQuy_XoaQuy, 2},
+        [3] = {"Sa M·∫°c H√†nh Nh√¢n", TSK_CS6_SaMac_TamBao, 1},
+        [4] = {"T·∫ßm B·∫£o Nh√¢n", TSK_CS6_SaMac_TamBao, 2},
+        [5] = {"Ki·∫øm ti√™n T·ª≠", TSK_CS6_KiemTien_DichTien, 1},
+        [6] = {"ƒê·ªãch ti√™n T·ª≠", TSK_CS6_KiemTien_DichTien, 2},
+        [7] = {"Li·ªát Nhan Li Long", TSK_CS6_LiLong_HoaHo, 1},
+        [8] = {"X√≠ch Luy·ªán H·ªèa H·ªì", TSK_CS6_LiLong_HoaHo, 2}
     }
-    tb_translife_weapon_effect = {"Hµo m´n", "Ph«n V©n", "ßoπn Giao", "Ph∏ Qu©n"}
+    tb_translife_weapon_effect = {"H√†o m√¥n", "Ph·∫ßn V√¢n", "ƒêo·∫°n Giao", "Ph√° Qu√¢n"}
     tb_translife_cloth_cs6_nhanlai = {
         [1] = {
             [1] = {{0, 108, 30005, 1, 4, 5, 639, 6, 102}, {0, 109, 30005, 1, 4, 5, 342, 6, 102},
@@ -2720,87 +2720,87 @@ function confirm_get_translife_item()
     }
     tb_translife_cloth = {
         [1] = {
-            [1] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 3, 389, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
+            [1] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 3, 389, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
 
-            [2] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 4, 389, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
+            [2] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 4, 389, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
 
-            [3] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 5, 389, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
+            [3] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 5, 389, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
 
-            [4] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
-            [5] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
+            [4] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
+            [5] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
         },
 
         [2] = {
-            [1] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 1, 107, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 1, 409, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 1, 79, 1, 80, 1, 102}}},
+            [1] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 1, 107, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 1, 409, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 1, 79, 1, 80, 1, 102}}},
 
-            [2] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 2, 107, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 2, 409, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 2, 79, 2, 80, 2, 102}}},
+            [2] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 2, 107, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 2, 409, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 2, 79, 2, 80, 2, 102}}},
 
-            [3] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 3, 107, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 3, 409, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 3, 79, 3, 80, 3, 102}}},
+            [3] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 3, 107, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 3, 409, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 3, 79, 3, 80, 3, 102}}},
 
-            [4] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 4, 409, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 4, 79, 4, 80, 4, 102}}},
-            [5] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 409, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 5, 79, 5, 80, 3, 329}}}
+            [4] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 4, 409, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 4, 79, 4, 80, 4, 102}}},
+            [5] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 409, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 5, 79, 5, 80, 3, 329}}}
         },
 
         [4] = {
-            [1] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 1, 27, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 3, 41, 3, 42, 1, 102}}},
+            [1] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 1, 27, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 3, 41, 3, 42, 1, 102}}},
 
-            [2] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 2, 27, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 4, 41, 4, 42, 2, 102}}},
+            [2] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 2, 27, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 4, 41, 4, 42, 2, 102}}},
 
-            [3] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 3, 27, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 5, 41, 5, 42, 3, 102}}},
+            [3] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 3, 27, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 5, 41, 5, 42, 3, 102}}},
 
-            [4] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 6, 41, 6, 42, 4, 102}}},
-            [5] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 4, 292, 4, 293, 3, 329}}}
+            [4] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 6, 41, 6, 42, 4, 102}}},
+            [5] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 4, 292, 4, 293, 3, 329}}}
         },
 
         [3] = {
-            [1] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 5, 50, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
+            [1] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 5, 50, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
 
-            [2] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 1, 252, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
+            [2] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 1, 252, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
 
-            [3] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 6, 50, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
+            [3] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 6, 50, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
 
-            [4] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
-            [5] = {{"Chuy”n Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                   {"Chuy”n Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
+            [4] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
+            [5] = {{"Chuy·ªÉn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"Chuy·ªÉn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
         }
     }
 
@@ -2880,7 +2880,7 @@ function confirm_get_translife_item()
     end
     -- if GetTask(336) < 100 then
     --     Talk(1, "", szNpcName ..
-    --         "C√án 100 ¬Æi√ìm S¬≠ M¬´n ¬Æ√ì nh√ãn lÔøΩivÀt ph»m.")
+    --         "C√É‚Ä°n 100 √Ç¬Æi√É‚Äúm S√Ç¬≠ M√Ç¬´n √Ç¬Æ√É‚Äú nh√É‚Äπn l√Ø¬ø¬Ωiv√ãt ph√àm.")
     --     return
     -- end
     -- if gf_JudgeRoomWeight(5, 300, szNpcName) == 0 then
@@ -2893,19 +2893,19 @@ function confirm_get_translife_item()
     BigDelItem(2, 0, 30006, BigGetItemCount(2, 0, 30006))
     local nTransCount = GetTranslifeCount()
     local nType = GetTranslifeFaction()
-    ---------chuy√ìn sinh 6
+    ---------chuy√É‚Äún sinh 6
     if GetPlayerRebornParam(0) == 1 then
         local nType_cs6 = GetPlayerRebornParam(1)
         local nBody = GetBody()
         gf_AddItemEx(tb_translife_seal_cs6[nType_cs6][2], tb_translife_seal_cs6[nType_cs6][1])
         -- if GetLevel() < 79 then
         --   Talk(1, "",
-        --      "ÔøΩÔøΩi hi√ñp ch¬≠a ¬Æ√± y¬™u c√áu ¬Æ√ì nh√ãn lÔøΩitrang bﬁ")
+        --      "√Ø¬ø¬Ω√Ø¬ø¬Ωi hi√É‚Äìp ch√Ç¬≠a √Ç¬Æ√É¬± y√Ç¬™u c√É‚Ä°u √Ç¬Æ√É‚Äú nh√É‚Äπn l√Ø¬ø¬Ωitrang b√û")
         -- return
         -- end
         -- SetTask(336, GetTask(336) - 100)
-        -- Msg2Player("B¬πn bﬁ tr√µ 100 ¬Æi√ìm s¬≠ m¬´n.")
-        --	local nType_cs6 = GetPlayerRebornParam(1) -- x√£a trang bi CS6
+        -- Msg2Player("B√Ç¬πn b√û tr√É¬µ 100 √Ç¬Æi√É‚Äúm s√Ç¬≠ m√Ç¬´n.")
+        --	local nType_cs6 = GetPlayerRebornParam(1) -- x√É¬£a trang bi CS6
         --	local nBody_cs6 = GetBody()
         for i = 1, getn(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody]) do
             local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
@@ -2916,7 +2916,7 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
         end
         for i = 1, 3 do
-            gf_AddItemEx(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i], "NhÀn lπi trang bﬁ")
+            gf_AddItemEx(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i], "Nh·∫≠n l·∫°i trang b·ªã")
         end
         for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
             local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
@@ -2927,23 +2927,23 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1, "", "ß©y lµ nh˜ng vÀy qu˝ gi∏, l«n sau c»n thÀn ko Æ” m t n˜a Æ y!")
+        Talk(1, "", "ƒê√¢y l√† nh·ªØng v·∫≠y qu√Ω gi√°, l·∫ßn sau c·∫©n th·∫≠n ko ƒë·ªÉ m·∫•t n·ªØa ƒë·∫•y!")
         WriteLogEx("Chuyen Sinh",
-            "nhÀn lπi  n vµ ngoπi trang chuy”n sinh theo h≠Ìng " .. tb_translife_seal[nType_cs6][3])
+            "nh·∫≠n l·∫°i ·∫•n v√† ngo·∫°i trang chuy·ªÉn sinh theo h∆∞·ªõng " .. tb_translife_seal[nType_cs6][3])
         return
     end
-    ---------chuy√ìn sinh 7
+    ---------chuy√É‚Äún sinh 7
     if GetPlayerRebornParam(0) == 2 then
         local nType_cs7 = GetPlayerRebornParam(1)
         local nBody = GetBody()
         gf_AddItemEx(tb_translife_seal_cs6[nType_cs7][2], tb_translife_seal_cs6[nType_cs7][1])
         if GetLevel() < 79 then
-            Talk(1, "", "ßπi hi÷p ch≠a ÆÒ y™u c«u Æ” nhÀn lπi trang bﬁ")
+            Talk(1, "", "ƒê·∫°i hi·ªáp ch∆∞a ƒë·ªß y√™u c·∫ßu ƒë·ªÉ nh·∫≠n l·∫°i trang b·ªã")
             return
         end
         -- SetTask(336, GetTask(336) - 100)
-        -- Msg2Player("B¬πn bﬁ tr√µ 100 ¬Æi√ìm s¬≠ m¬´n.")
-        --	local nType_cs6 = GetPlayerRebornParam(1) -- x√£a trang bi CS6
+        -- Msg2Player("B√Ç¬πn b√û tr√É¬µ 100 √Ç¬Æi√É‚Äúm s√Ç¬≠ m√Ç¬´n.")
+        --	local nType_cs6 = GetPlayerRebornParam(1) -- x√É¬£a trang bi CS6
         --	local nBody_cs6 = GetBody()
         for i = 1, getn(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody]) do
             local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
@@ -2954,7 +2954,7 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
         end
         for i = 1, 3 do
-            gf_AddItemEx(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i], "NhÀn lπi trang bﬁ")
+            gf_AddItemEx(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i], "Nh·∫≠n l·∫°i trang b·ªã")
         end
         for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
             local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
@@ -2965,9 +2965,9 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1, "", "ß©y lµ nh˜ng vÀy qu˝ gi∏, l«n sau c»n thÀn ko Æ” m t n˜a Æ y!")
+        Talk(1, "", "ƒê√¢y l√† nh·ªØng v·∫≠y qu√Ω gi√°, l·∫ßn sau c·∫©n th·∫≠n ko ƒë·ªÉ m·∫•t n·ªØa ƒë·∫•y!")
         WriteLogEx("Chuyen Sinh",
-            "nhÀn lπi  n vµ ngoπi trang chuy”n sinh 7 theo h≠Ìng " .. tb_translife_seal[nType_cs6][3])
+            "nh·∫≠n l·∫°i ·∫•n v√† ngo·∫°i trang chuy·ªÉn sinh 7 theo h∆∞·ªõng " .. tb_translife_seal[nType_cs6][3])
         return
     end
     ---------------
@@ -2983,9 +2983,9 @@ function confirm_get_translife_item()
             tb_translife_cloth[nType][nTransCount][i][1])
     end
     -- SetTask(336, GetTask(336) - 100)
-    -- Msg2Player("B¬πn bﬁ tr√µ 100 ¬Æi√ìm s¬≠ m¬´n.")
-    Talk(1, "", szNpcName .. "ß©y lµ nh˜ng vÀy qu˝ gi∏, l«n sau c»n thÀn ko Æ” m t n˜a Æ y!")
-    WriteLogEx("Chuyen Sinh", "nhÀn lπi  n vµ ngoπi trang chuy”n sinh l«n " .. nTransCount .. " theo h≠Ìng " ..
+    -- Msg2Player("B√Ç¬πn b√û tr√É¬µ 100 √Ç¬Æi√É‚Äúm s√Ç¬≠ m√Ç¬´n.")
+    Talk(1, "", szNpcName .. "ƒê√¢y l√† nh·ªØng v·∫≠y qu√Ω gi√°, l·∫ßn sau c·∫©n th·∫≠n ko ƒë·ªÉ m·∫•t n·ªØa ƒë·∫•y!")
+    WriteLogEx("Chuyen Sinh", "nh·∫≠n l·∫°i ·∫•n v√† ngo·∫°i trang chuy·ªÉn sinh l·∫ßn " .. nTransCount .. " theo h∆∞·ªõng " ..
         tb_translife_seal[nType][3])
 end
 function go_exit()
