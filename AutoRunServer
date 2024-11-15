@@ -30,3 +30,7 @@ sleep 10
 run_server "/home/server/gs5" "SO2GameSvrD5"
 sleep 10
 run_server "/home/server/gs6" "SO2GameSvrD6"
+# Keep the script running indefinitely
+while true; do
+  sleep 60  # Check every 60 seconds
+done
