@@ -338,3 +338,6 @@ Msg2Team("Chuỗi") Gửi thông tin đến toàn đội
 --//////////////////////////////////////////////////////////////////////////////////////////--
 -----------------Các hàm obj vật thể---------------------------------------------------
 AddObj(Id,Map,x,y,Luascript,Hướng quay=0,state=0) Add vật thể, 3 param cuối có thể không
+Chỉnh tỷ lệ sách
+?gm ds SetBookInfo(nItemID, lvl, #page, %, %, %, %)
+?gm ds SetBookInfo(GetPlayerEquipIndex(11), 10, 4, 100,100,100,100)
