@@ -16,6 +16,7 @@ yum -y install libstdc++.i686
 yum -y install https://harbottle.gitlab.io/wine32/7/i386/wine32-release.rpm
 yum -y install wine.i686
 winecfg (để config)
+wget https://dl.winehq.org/wine/source/9.0/wine-9.0.tar.xz
 Chọn windowsXP
 
 ---Lệnh giải nén---
