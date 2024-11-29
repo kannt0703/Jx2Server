@@ -11,12 +11,12 @@ yum update
 yum -y install glibc.i686
 yum -y install zlib.i686
 yum -y install libstdc++.i686
-
+"sudo dnf install libX11-devel libXext-devel libXrender-devel libXcursor-devel libXi-devel libXtst-devel freetype-devel mesa-libGLU-devel SDL2-devel capi20-devel cups-devel krb5-devel gnutls-devel"/centos9
 ---Cài wine---
 yum -y install https://harbottle.gitlab.io/wine32/7/i386/wine32-release.rpm
 yum -y install wine.i686
 winecfg (để config)
-wget https://dl.winehq.org/wine/source/9.0/wine-9.0.tar.xz
+"wget https://dl.winehq.org/wine/source/9.0/wine-9.0.tar.xz"/centos9
 Chọn windowsXP
 
 ---Lệnh giải nén---
