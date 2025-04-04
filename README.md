@@ -1,6 +1,6 @@
 # Jx2Server
 Server Võ Lâm 2
-
+https://book.loliteam.net/tong-hop-vo-lam-2
 
 Trò chuyện với Gemini
 expand_more
